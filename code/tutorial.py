@@ -4,7 +4,7 @@ from linear_regression import lasso
 
 
 def passages(search_term, historian_last_name=None, side_question=None, side_answer=None, year_start=1990,
-             year_end=2017, scope=0):
+             year_end=2017, scope=0, type=type):
     '''
     Passages lets you find text passages with a lot of different configuration options.
     The parameters you can pass are:
@@ -29,9 +29,9 @@ def passages(search_term, historian_last_name=None, side_question=None, side_ans
 
     # Find all passages by Kyriakoudes that mention addiction
     passages('addiction', historian_last_name="Kyriakoudes")
-    
+
     # Find all passages by Kyriakoudes that mention addiction, include the surrounding questions
-    passages('addiction', historian_last_name="Kyriakoudes", scope=1)
+    passages('addiction', historian_last_name="Kyriakoudes", scope=1, type='A')
 
     # Find all questions that mention addiction between 2000 and 2015
     passages('addiction, type='Q', year_start=2000, year_end=2015)
