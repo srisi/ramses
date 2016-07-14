@@ -107,7 +107,7 @@ def document_iterator(year_start=1940, year_end=2020,
     query += ' AND legal_document.date_doc >= {} AND legal_document.date_doc <= {} '.format(start_timestamp, end_timestamp)
 
     if search_term:
-        query += ' AND qas.text LIKE "%{}%" '.format(search_term)
+        query += ' AND UPPER(qas.text) LIKE "%{}%" '.format(search_term.upper())
 
     if historian_name_last:
         query += ' AND historian.name_last = "{}" '.format(historian_name_last)

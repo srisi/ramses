@@ -92,8 +92,13 @@ def visualize_ngrams(ngram_results, year_start, year_end, term, viz_type='relati
     plt.rcParams['font.size'] = 10
     ax= plt.axes()
     for result in ngram_results:
-        plt.plot(years, result['word_frequencies'], label=result['label'])
-#        plt.plot(years, result['word_frequencies'],  't')
+        if viz_type == 'relative':
+            plt.plot(years, result['word_frequencies'], label=result['label'])
+        elif viz_type == 'absolute':
+            plt.plot(years, result['word_counts'], label=result['label'])
+
+        #
+        #      plt.plot(years, result['word_frequencies'],  't')
 #    plt.plot(years, data, '1', years, word_counts, label='{}'.format(term))
     plt.title(label)
 
@@ -112,14 +117,14 @@ if __name__ == "__main__":
 
     year_start = 1990
     year_end = 2016
-    term = 'cancer'
+    term = 'awareness'
 
     ad = ngrams(side_answer='Defendant', type = 'A', term=term, year_start = year_start, year_end=year_end)
     ap = ngrams(side_answer='Plaintiff', type = 'A', term=term, year_start = year_start, year_end=year_end)
     qd = ngrams(side_question='Defendant', type = 'Q', term=term, year_start = year_start, year_end=year_end)
     qp = ngrams(side_question='Plaintiff', type = 'Q', term=term, year_start = year_start, year_end=year_end)
 
-    visualize_ngrams([ad, ap, qd, qp], year_start, year_end, term, viz_type='relative')
+    visualize_ngrams([ad, ap, qd, qp], year_start, year_end, term, viz_type='absolute')
 
     # visualize_ngrams(res1, 'relative')
     #

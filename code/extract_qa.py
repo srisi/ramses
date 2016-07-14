@@ -352,7 +352,7 @@ def add_all_documents_to_db():
         text = preprocess(path, file)
 
         qas = extract_questions_answers(text)
-        add_to_database(file, qas)
+       # add_to_database(file, qas)
 
 
 
