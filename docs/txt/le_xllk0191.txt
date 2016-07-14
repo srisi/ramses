@@ -1,0 +1,2777 @@
+﻿1	IN THE CIRCUIT COURT OF THE THIRTEENTH JUDICIAL ( OF THE STATE OF FLORIDA, IN AND FOR HILLSBOROUG
+2	CIVIL DIVISION
+IN RE: ENGLE PROGENY CASES
+5	TOBACCO LITIGATION
+CASE NO. 08-CA-80000
+Pertains to: ALL CASES DIVISION: "D"
+8___________/
+9
+10
+VIDEOTAPED
+11	DEPOSITION OF: LOUIS KYRIAKOUDES, Ph.D.
+12	DATE:	January 26, 2009
+13	TIME:	9:52 a.m. to 12:35 p.m.
+14	PLACE:	Stetson University
+Tampa Law Center
+15	1700 North Tampa Street Tampa, Florida
+16
+PURSUANT TO: Notice by counsel for
+17	Plaintiffs for purposes of discovery, use at trial
+18	or such other purposes as are permitted under
+19	the Florida Rules of Civil Procedure
+20
+BEFORE:	Nathan F. Perkins, RMR
+21	Notary Public, State of Florida at Large
+22
+23	Volume 1
+24	Pages 1 to 108
+25
+0002
+1	APPEARANCES:
+2	HOWARD M. ACOSTA, ESQUIRE Law Offices of Howard M. Acosta
+3	300 First Avenue North
+St. Petersburg, Florida 33701
+4	Attorney for Plaintiff
+5	MATTHEW D. SCHULTZ, ESQUIRE Levin, Papantonio, Thomas, Mitchell, Echsner
+6	& Proctor, P.A.
+316 South Baylen Street, Suite 600
+7	Pensacola, Florida 32591
+Attorney for Plaintiff
+8
+WILLIAM P. GERAGHTY, ESQUIRE
+10	Shook, Hardy & Bacon, LLP Miami Center, Suite 2400
+11	201 South Biscayne Boulevard Miami, Florida 33131-4332
+12	Attorneys for Defendants Philip Morris USA, Inc., and Lorillard Tobacco Company
+13
+PAUL D. KOETHE, ESQUIRE
+14	Jones Day North Point
+15	901 Lakeside Avenue Cleveland, Ohio 44114-1190
+16	Attorney for Defendants R. J. Reynolds Tobacco Company, Brown & Williamson Tobacco Corporation,
+17	The American Tobacco Company
+18	MICHAEL P. ROSENSTEIN, ESQUIRE Kasowitz, Benson, Torres & Friedman, LLP
+19	1633 Broadway
+New York, New York 10019-6799
+20	Attorney for Defendant Liggett Group
+21
+VIDEOGRAPHER: BLUEWATER MEDIA
+0003
+1	INDEX
+2	DIRECT EXAMINATION BY MR. ACOSTA	Page 10
+3	CERTIFICATE OF OATH	Page 106
+4	REPORTER'S CERTIFICATE	Page 107
+5	WITNESS'SIGNATURE PAGE	Page 108
+6
+7	EXHIBITS
+8	Plaintiffs	Description	Page
+9	1 Graph taken from 1989 Surgeon General 24
+report
+10	2 Memorandum dated 2/2/1953 by Claude Teague 34
+4	Document titled A Frank Statement to 45
+11	Cigarette Smokers
+38 Letter from Jo F. Spach to the Principal of 58
+12	the Willow Ridge Elementary School
+42	Video Clip of a Dr. Robert N. DuPuis 84
+13	interview
+43	Video Clip of a Timothy Hartnett interview 90
+14	44 Video Clip of a Clarence Cook Little 90
+interview
+15	1583 Document titled Research Reports on Tobacco 98
+and Health
+16	5000 Compilation of print advertisements 72
+17	(All Plaintiffs Exhibits were retained by Mr. Acosta)
+1	MR. GERAGHTY: This is Bill Geraghty, counsel
+2	for Philip Morris USA and Lorillard Tobacco
+3	Company. I have had several -- we have had several
+4	hearings over the course of the last couple of
+5	days. There is an order entered by Judge Terrell
+6	in Escambia County that addresses certain issues.
+7	And I have had some discussions with some of the
+8	plaintiffs' counsel this morning.
+9	Just to clarify one or two things, we have an
+10	agreement among the parties -- and this is set
+11	forth in Judge Terrell's order -- that all
+12	objections except those to the form of the question
+13	will be preserved. In addition, counsel may, if
+14	they want to know the basis of the form objection,
+15	will ask counsel.
+16	My understanding is we've now changed the
+17	camera views so that we have two cameras, both of
+18	which are trained on the witness, which was
+19	something we had requested in earlier
+20	correspondence to plaintiffs counsel in earlier
+21	depositions.
+22	All right. Just a couple of other things. We
+23	have an agreement that an objection by one
+24	defendant is an objection for all.
+25	MR. ACOSTA: Yes.
+0005
+1	MR. GERAGHTY: And by the same token, if one
+2	of Plaintiffs' counsel objects, that's an objection
+3	on behalf of all plaintiffs in whose case this
+4	deposition may be played.
+5	MR. ACOSTA: Okay.
+6	MR. GERAGHTY: We also agreed that in terms of
+7	any objections to the use of a particular document,
+8	we'll state that objection plainly and succinctly
+9	at the very beginning, and then we won't make any
+10	further objections to questions posed about the
+11	document other than to the form of the question.
+12	Do we have an agreement on that?
+13	MR. ACOSTA: I'm not sure -- why don't we go
+14	off the record for a second.
+15	MR. GERAGHTY: All right.
+16	(A discussion off the record.)
+17	MR. GERAGHTY: Okay. I think we have an
+18	agreement that we had -- there is an order that
+19	addresses the issue of the disclosure of documents
+20	we had two hearings on, I believe it was Thursday
+21	and Friday, that addressed that issue. And I think
+22	all of the dates when documents were exchanged, I
+23	think were all memorialized primarily by e-mail.
+24	So we'll agree that to the extent there are any
+25	objections to the timeliness of disclosure, we can
+0006
+1	agree that those are preserved.
+2	MR. ACOSTA: Yes.
+3	MR. GERAGHTY: And objections as to
+4	authenticity, hearsay, all that kind of stuff to a
+5	particular document are preserved, correct?
+6	MR. ACOSTA: Yes, unless it's something that
+7	can be cured in the deposition. For example, if I
+8	ask Dr. Kyriakoudes about a document and
+9	authenticate it through him, which I intend to
+10	probably do that with all the documents, to
+11	authenticate them through him, and if you have an
+12	objection, I guess, to the authenticity after that,
+13	maybe you should make the objection.
+14	MR. GERAGHTY: Okay.
+15	MR. ACOSTA: Unless you are going to make it
+16	to every single one of them. And if you are, then
+17	let's just reserve that one.
+18	MR. GERAGHTY: Why don't we see how that goes.
+19	And let's object on a document-by-document basis.
+20	If it becomes clear that it's happening all the
+21	time or 9 times out of 10 or whatever, we can
+22	revisit it. So I mean the intent is not to slow
+23	the process down. I mean, I think we all want to
+24	get -- hopefully have you get done today and then
+25	finish everything up tomorrow. So why don't we
+0007
+1	play that by ear for the time being, and we can
+2	agree to revisit it at some point if it's a -- if a
+3	pattern emerges from the question, questions and
+4	answers.
+5	MR. ACOSTA: Okay.
+6	MR. ROSENSTEIN: Can I make a objection
+7	initially for record? It's Mike Rosenstein, here
+8	on behalf of Liggett Group LLC.
+9	It's my understanding there was an agreement
+10	the other day -- I'm not sure which day it
+11	was reached -- between the defendants and the
+12	plaintiffs other than Liggett. And my
+13	understanding of the agreement is that the parties
+14	agreed to limit their use of exhibits to
+15	the exhibits introduced at trial during the Amitz
+16	and Hall trials. Liggett was not a defendant in
+17	those trials, and we just want to state a general
+18	objection for the record preserving our rights to
+19	object to anything that's introduced.
+20	MR. GERAGHTY: Right. Just to be clear, Matt
+21	Schultz and myself exchanged e-mails on Wednesday.
+22	I think those e-mails will speak for themselves.
+23	But essentially the defendants Lorillard, Philip
+24	Morris, Reynolds agreed -- we agreed to the
+25	plaintiffs narrowing of their list of exhibits to
+0008
+1	the documents used during the Hall trial, documents
+2	used during the Amitz trial, and all of your New
+3	York Times articles. We, of course, reserved our
+4	objection to the admissibility of those things.
+5	But I think that, unless Matt wants to correct me,
+6	I think that fairly sets forth what we agreed to on
+7	Wednesday afternoon.
+8	MR. ACOSTA: Since that agreement, though, I
+9	realized that there were a couple of Liggett
+10	documents that I needed to use, and therefore sent
+11	an e-mail and attached those documents to you. And
+12	so your objection is noted, and we'll just take it
+13	from there.
+14	MR. ROSENSTEIN: That sounds fine.
+15	MR. KOETHE: Can I make one brief statement?
+16	I'm Paul Koethe, representing R. J. Reynolds and
+17	Brown & Williamson.
+18	Howard, I assume that as you go through the
+19	testimony, it would be helpful if you could just
+20	pass along a copy of what you are going to be using
+21	so we can take a quick look at it. That will, I
+22	think, help us with respect to this issue of
+23	objections, so we have a chance to see what you are
+24	using before you go ahead and ask questions on it.
+25	(A discussion off the record.)
+0009
+1	MR. GERAGHTY: You know what? Before we do
+2	that, real quick, one last item.
+3	We agreed off record that -- Mr. Acosta has
+4	told us that he intends to show or use some
+5	videotape, videotapes during the course of the
+6	deposition. For record purposes, we ask that he
+7	play those so that we have the entire snippet or
+8	piece of the videotape that's played.
+9	And I guess I'm making a request to the court
+10	reporter, to the extent you are able to do so, if
+11	you could note when the video is being played and
+12	try to --1 think we did this in one of the
+13	trials -- as best you can actually, if you can
+14	record what's being said on the video, to the
+15	extent you are able to do so, we would appreciate
+16	that.
+17	(A discussion off the record.)
+18	THE VIDEOGRAPHER: Plaintiff s notice of
+19	taking videotaped deposition for trial to all
+20	counsel of record. Please take notice that the
+21	undersigned will take the deposition upon oral
+22	examination in anticipation of trial of the
+23	following individuals: Louis Kyriakoudes, Ph.D.,
+24	January 26 and 27, 2009, 9:00 a.m., Stetson
+25	University, Tampa Law Center, 1700 North Tampa
+0010
+1	Street, Tampa, Florida 33602, (813)228-6625,
+2	videographer, Blue Water Media, LLC.
+3	MR. ACOSTA: Would you swear the witness,
+4	please.
+5	LOUIS KYRIAKOUDES, Ph.D.,
+6	the witness herein, being first duly sworn on oath, was
+7	examined and deposed as follows:
+8	DIRECT EXAMINATION
+9	BY MR. ACOSTA:
+10	Q. Dr. Kyriakoudes, would you please state your
+11	full name and where you live to the jury?
+12	A. My name is Louis Michael Kyriakoudes. That's
+13	spelled K-Y-R-I-A-K-O-U-D-E-S. And my home is 333
+14	Demontluzin Street -- D-E-M-O-N-T-L-U-Z-I-N -- Bay St.
+15	Louis, Mississippi, 39520.
+16	Q. Do you have family that lives there with you?
+17	A. I live with my family.
+18	Q. Okay. And can you tell us what your
+19	occupation is?
+20	A. I am associate professor of history at the
+21	University of Southern Mississippi, and director of the
+22	Center for Oral History and Cultural Heritage at that
+23	university.
+24	Q. And tell us why you are here today.
+25	A. I'm here today to testify on the -- in a
+0011
+1	lawsuit pertaining to the history of tobacco and
+2	industry knowledge and industry public statements on
+3	smoking and health.
+4	Q. Are you here because you have been asked to be
+5	here by the plaintiff?
+6	A. Yes. I have been asked to attend by the
+7	plaintiff.
+8	Q. Can you tell the jury what your educational
+9	background is?
+10	A. Yes. In terms of higher education, I have a
+11	BA in history with highest honors from the University of
+12	North Carolina, and then an MA and a Ph.D. in history
+13	from Vanderbilt University, and also a National
+14	Institute of Child Health and Human Development
+15	post-doc.
+16	Q. And would you give us some idea of your
+17	occupational background?
+18	A. Well, I'm a professor of history. I teach
+19	courses in history. I direct the center. I engage in
+20	research, publication, scholarship, teaching.
+21	Q. Have you testified in a lawsuit involving the
+22	cigarette company defendants before?
+23	A. Yes, I have.
+24	Q. How many times have you done that?
+25	A. Approximately eight or nine times. I actually
+1	don't have a current count, but numerous times.
+2	Q. Have you always testified for the plaintiff,
+3	as you are in this case?
+4	A. In -- in litigation generally?
+5	Q. Yes.
+6	A. No. I have testified for defendants in civil
+7	litigation as well.
+8	Q. Have you been invited to lecture on the
+9	subject of cigarette smoking history?
+10	A. Yes, I have.
+11	Q. And can you tell us a little bit about what
+12	you have done in that regard?
+13	A. Yes. I have been invited to speak before the
+14	School of Public Health of the Medical School of the
+15	University of North Carolina. I have given talks at
+16	that same university before in their Center for the
+17	Study of the American South. I have appeared on radio
+18	interviews on Public Radio.
+19	Q. Now, can you tell us, going back to your
+20	testifying in other cases, over the last 10 years what
+21	percentage of your income has been made by consulting
+22	with lawyers versus what you make as a college
+23	professor?
+24	A. It's -- it's about 30 percent.
+25	Q. You mentioned that you testified for
+0013
+1	defendants in cigarette litigation, or on cigarette
+2	issues. Were those cigarette companies that you
+3	testified for?
+4	A. No, they were not.
+5	Q. But they were defendants, nonetheless?
+6	A. Yes, they were defendants.
+7	Q. Does your testimony about the history of the
+8	cigarette change between plaintiff and defendant?
+9	A. No. Same testimony.
+10	Q. Have you ever -- have you ever testified for a
+11	cigarette company?
+12	A. No, I have not.
+13	Q. Have you ever been asked to testify by a
+14	cigarette company?
+15	MR. GERAGHTY: Objection to the form.
+16	THE WITNESS: I've never been asked.
+17	MR. ACOSTA: What's the basis of that one?
+18	MR. GERAGHTY: What's the basis for the - it
+19	would be a conflict of interest. It leaves a false
+20	impression.
+21	MR. ACOSTA: Okay. Interesting.
+22	BY MR. ACOSTA:
+23	Q. If the cigarette company asked you to testify
+24	on its behalf, say in another country, would you be
+25	happy to do that?
+0014
+1	MR. GERAGHTY: Objection to the form.
+2	THE WITNESS: As long as it was clear that,
+3	you know, the testimony that I have given will be
+4	consistent with what I intend to give.
+5	MR. GERAGHTY: Move to strike the response.
+6	BY MR. ACOSTA:
+7	Q. Have you published anything?
+8	A. I've published scholarly works, yes.
+9	Q. Can you give us some examples of things that
+10	you have published?
+11	A. I have published a book called Social Origins
+12	of the Urban South. I've published peer reviewed
+13	articles on the history of -- or aspects on the history
+14	of America in the 19th and 20th Centuries, including
+15	aspects of the history of tobacco and of the cigarette
+16	industry.
+17	Q. As a historian, have you reviewed the
+18	cigarette defendants' internal documents?
+19	A. Yes. I have consulted the archives that are
+20	available through the industry websites and other sites
+21	that contain the industry documents, yes.
+22	Q. Is there a body of cigarette defendant
+23	documents that has been used in the other cases you have
+24	been involved in?
+25	A. Yes. Cigarette industry documents are readily
+0015
+1	available in electronic form.
+2	Q. Has the public health community written about
+3	those documents?
+4	A. Yes, they have, extensively.
+5	Q. And have historians written about those
+6	documents?
+7	A. Yes.
+8	Q. And have journalists written about those
+9	documents?
+10	A. Journalists, yes.
+11	Q. And are there libraries set up in various
+12	places to contain those documents?
+13	A. Yes, there are.
+14	Q. Are they available on the internet?
+15	A. Yes, they are, through various portals.
+16	Q. Can you tell the jury about how many hours you
+17	have spent reviewing cigarette industry documents that
+18	relate to the litigation?
+19	A. I've spent in my research really thousands of
+20	hours reviewing cigarette industry documents. It
+21	constitutes one of the most complete archives on -- on
+22	not just the history of this industry but really the
+23	history of 19th and 20th Century America. So it's a
+24	very extensive source in which I have spent, you know, a
+25	terrific amount of my professional time.
+0016
+1	Q. Now, have you looked at other sources that
+2	contain information that the cigarette company
+3	defendants have provided to the public?
+4	MR. GERAGHTY: Objection to the form. It's
+5	vague.
+6	THE WITNESS: Yes, I have. Many different
+7	types of sources.
+8	BY MR. ACOSTA:
+9	Q. And how did you go about looking at
+10	information involving messages from the cigarette
+11	industry to the public?
+12	A. Well, I have researched newspapers, magazines,
+13	television, radio transcripts. You know, so various
+14	public media outlets in terms of looking for industry
+15	statements.
+16	Q. Now, when a historian does an investigation
+17	into an area like the history of cigarette smoking, do
+18	you have obstacles to overcome when you present that
+19	information that you've discovered to a jury or to
+20	anyone in the present sense?
+21	MR. GERAGHTY: Objection to the form.
+22	THE WITNESS: Yes. I mean, historians work
+23	very hard to recreate the past. And when we
+24	communicate that recreation to the public through
+25	our writings, through this venue to juries, to
+0017
+1	general citizens in any context, we always work
+2	hard to avoid presentism, which is a tendency to
+3	look at the past through our contemporary biases.
+4	It's best to recreate the past as it was as
+5	completely as we can based on the evidence that we
+6	have.
+7	BY MR. ACOSTA:
+8	Q. Is there a concept known as
+9	present-mindedness?
+10	A. Yes. Presentism, present-mindedness would be
+11	synonyms, yes.
+12	Q. Okay. What does that mean?
+13	A. Well, as I mentioned earlier, it's a tendency
+14	to look at the past strictly in terms of the present
+15	with our present assumptions and biases and projecting
+16	those back into the past rather than looking at past
+17	events as past actors, historical, you know, people in
+18	past times would have understood things given their own
+19	assumptions and their own culture and their -- the
+20	conditions of their own time.
+21	Q. Would you want the jury in this case to look
+22	at the past from their present perspective, or would you
+23	want them to perceive what you say as if they were in
+24	the shoes of a person back in the time frame that you
+25	speak?
+0018
+1	MR. GERAGHTY: Objection to the form.
+2	THE WITNESS: It would be the latter of the
+3	options you present. In other words, I would want
+4	very much for the jury to look at the evidence and
+5	put themselves back in time to the earlier period
+6	that I would be talking about so that they can
+7	understand how things were to people at that time,
+8	rather than taking the biases and assumptions that
+9	we live with today and projecting those backwards,
+10	because people in the past times didn't know what
+11	we know today.
+12	BY MR. ACOSTA:
+13	Q. When you investigate, or investigated in this
+14	case, did you have to overcome present -- presentism or
+15	present-mindedness yourself?
+16	A. Well, I think this is part of an historian's
+17	professional training. You know, we -- we -- you know,
+18	we overcome that as part of our training as historians.
+19	And that's how we approach problems, is going back and
+20	looking, immersing ourselves in the evidence in the past
+21	so that we don't do what you just described, which is to
+22	put our contemporary biases and conditions and project
+23	those onto the past.
+24	Q. Is there any particular method or is there a
+25	tag name for a method that historians use to look at the
+0019
+1	past and come up with historical facts and opinions?
+2	A. Yes. We call it the historical method.
+3	Q. And can you tell us briefly what that is?
+4	A. Yes. It's the process of going back,
+5	formulating a research question and immersing yourselves
+6	in what we call the primary sources. That is, those
+7	sources or that evidence that was generated at the time
+8	of the thing that you are looking at or the problem you
+9	are trying to understand.
+10	Q. And did you use the historical method in
+11	this--in this case?
+12	A. Yes, I did.
+13	Q. And is the historical method something that is
+14	accepted by historians and the typical university in
+15	this country?
+16	A. It is. It's the standard method practiced
+17	this -- by our profession.
+18	Q. Now, are you knowledgeable in sub-facets of
+19	history?
+20	A. Yes. My training in business history and
+21	economic history, the history of advertising, these are
+22	all areas in which I teach and do research.
+23	Q. Do you teach -- are you teaching, you know,
+24	this semester as we sit here?
+25	A. Yes, I am teaching a course this semester.
+0020
+1	Q. And what is the name of that course?
+2	A. It's a graduate seminar, and it has a long
+3	name. It's called U.S. Historiography Since 1865.
+4	Q. Now, have you testified about cigarette
+5	company advertising in the past?
+6	A. Yes, I have.
+7	Q. As an expert witness?
+8	A. Yes, I have.
+9	Q. And have you testified about the cigarette --
+10	the history of smoking and health as an expert in the
+11	past?
+12	A. Yes, I have.
+13	Q. Now, do you have knowledge based upon your
+14	investigation of historical facts that pertain to the
+15	defendants in this case?
+16	A. I do.
+17	Q. And do you have opinions about the history
+18	that you've discovered as a historian based upon those
+19	historical facts?
+20	A. I do.
+21	Q. If I asked you to summarize all of your
+22	opinions into one or two sentences, could you do that?
+23	A. I could, yes.
+24	Q. Would you give us the bottom line of what your
+25	investigation revealed about the cigarette company
+0021
+1	defendants in this case?
+2	A. Yes. The bottom line is that the cigarette --
+3	that the defendants in this case had knowledge about the
+4	health risks in their product as early as at least the
+5	1940s, perhaps even earlier, but did not share that, did
+6	not tell the truth about that to the public.
+7	Q. When was tobacco first commercialized in
+8	America?
+9	A. Well, tobacco goes back to the time of really
+10	the founders -- of the European discovery of the Western
+11	Hemisphere with Christopher Columbus onward.
+12	Q. How was tobacco used back in the 16th, 17th,
+13	18th Centuries in America?
+14	A. Well, in the Americas there was Indian uses of
+15	tobacco, but among Europeans it was principally viewed
+16	as a medicine, a medicinal herb.
+17	Q. In what forms was it used?
+18	A. Generally smoked in pipes, sometimes chewed,
+19	and then later wrapped in tobacco leaves, which we would
+20	call a cigar.
+21	Q. When were cigarettes, as opposed to those
+22	other forms, first sold in significant numbers in the
+23	United States?
+24	A. Well, a cigarette is a very modem product.
+25	It's really a product of industrialization. And so the
+0022
+1	major impetus in the cigarette is really after 1900, the
+2	20th Century.
+3	Q. If we went back a hundred years or so to 1900,
+4	what share or what percentage of the total tobacco
+5	market was -- was the cigarette back then?
+6	A. In 1900, an infinitesimally small share. The
+7	predominant form of tobacco use at that time was chewing
+8	tobacco, with pipes and cigars following.
+9	Q. And today, what percentage of the market is
+10	the cigarette versus other forms of tobacco?
+11	A. Over 4/5. So by far the predominant and
+12	normative method of tobacco consumption.
+13	Q. Now, before the cigarette was invented, you
+14	mentioned that tobacco was medicinal?
+15	A. There is -- yes. Tobacco was initially
+16	introduced into Europe as a medicinal herb. Jean Nicot,
+17	from whom we get the term nicotine, was a champion of
+18	tobacco as a healing herb.
+19	Q. Before the cigarette became popular, which --
+20	Well, let me ask you this. When in
+21	conjunction to 1900 do you believe that the cigarette
+22	really took off and started becoming popular?
+23	A. The big boost in cigarette consumption,
+24	compared to other forms of tobacco and in absolute
+25	numbers, really comes in 19 teens, cigarette use begins
+0023
+1	to explode. And it's in the 1920s, the mid 1920s that
+2	cigarettes actually surpass other forms of tobacco in
+3	terms of total sales.
+4	Q. Now, before the cigarette became popular, did
+5	significant numbers of people that smoked cigars and
+6	smoked the pipe and chewed tobacco become diseased from
+7	their use of tobacco before the cigarette?
+8	MR. GERAGHTY: Objection to the form.
+9	BY MR. ACOSTA:
+10	Q. Let me strike that and I'll say it again.
+11	Before the popularity of the cigarette in the
+12	teens of about 100 years or so ago, did people get sick
+13	from their use of tobacco?
+14	A. No, nowhere near to the extent that is the
+15	case today.
+16	Q. In your investigation of people that smoked
+17	tobacco from the time Columbus discovered tobacco to
+18	1900, were there reports of people getting lung cancer?
+19	A. Lung cancer in particular is very rare before
+20	the 20th Century.
+21	Q. How about emphysema?
+22	A. Yeah. I've seen no reference to that in the
+23	earlier period.
+24	Q. Was any form of cancer attributable to tobacco
+25	before the cigarette?
+0024
+1	A. Occasionally you would see the accusation that
+2	tobacco could cause lip cancer, although there was a
+3	great debate as to whether that was caused by the
+4	tobacco or by the heat of the pipe on the lip.
+5	Q. Now, after the cigarette became popular, was
+6	there a change in the lung cancer rate in this country?
+7	A. Oh, yes, a very significant change.
+8	Q. And do you have a graph that describes that?
+9	A. Yes. I brought with me a graph which is taken
+10	from the 1989 Surgeon General's report.
+11	(Plaintiffs Exhibit 1, Graph taken from 1989
+12	Surgeon General report, was identified.)
+13	MR. ACOSTA: We've got that marked as -- as
+14	Plaintiffs Exhibit Number 1 for identification. I
+15	would like to use it demonstratively.
+16	MR. GERAGHTY: Let me just object to the
+17	record on the ground that it was untimely
+18	disclosed. And I guess in terms of objections to
+19	whether he is qualified to address the document,
+20	we're preserving those, right?
+21	MR. ACOSTA: Sure.
+22	MR. GERAGHTY: Okay. Go ahead.
+23	MR. ACOSTA: Okay.
+24	BY MR. ACOSTA:
+25	Q. I'm not sure if we really need to do it this
+0025
+1	way, but I guess I'll do it.
+2	All right. Dr. Kyriakoudes, let me show you
+3	what's been marked as Plaintiffs Exhibit 1 and ask you
+4	if that is the graph that shows the age-adjusted cancer
+5	death rates for males in the United States between 1930
+6	and 1986.
+7	A. That's what it says. Yes, that's right.
+8	Q. And would that be this line that starts down
+9	at about 5 that goes all the way up to about 83 or 84?
+10	A. Yes.
+11	Q. And so from 1930 to 1986, that line takes a
+12	very steep climb?
+13	A. Yes. And keep in mind that that rate is age
+14	adjusted for males and expressed as per 100,000
+15	population.
+16	Q. Did you find that after the 1920s, that the
+17	public health community thought that lung cancer was an
+18	epidemic in this country?
+19	MR. GERAGHTY: Objection.
+20	THE WITNESS: Yes. In fact-
+21	MR. GERAGHTY: Objection to the form. I'm
+22	sorry. Go ahead.
+23	BY MR. ACOSTA:
+24	Q. Was lung cancer determined to be an epidemic
+25	in this country after the 1920s?
+0026
+1	MR. GERAGHTY: Same objection. Go ahead.
+2	THE WITNESS: Yes. The public health
+3	community, surgeons in particular, began to notice
+4	the very sharp increase in lung cancer in the 1930s
+5	and 1940s.
+6	BY MR. ACOSTA:
+7	Q. I'm going to ask you the same question in just
+8	a little bit different way without the graph. Would you
+9	tell the jury how the lung cancer rate in this country
+10	changed, if at all, after about 1925?
+11	A. Yes. It increased dramatically from
+12	approximately about 8 or 9 cases per 100,000 to about
+13	the mid 70s, 70 or so cases per 100,000. So a sharp,
+14	sharp increase.
+15	Q. How many people were getting lung cancer in
+16	the '50s and '60s or '70s?
+17	A. I'll just start with the later period. Even
+18	today the current lung cancer mortality rate -- that's
+19	what -- that's the figure I have in my head -- is about
+20	125,000 a year. Today it's the leading cancer in terms
+21	of causing death. So more people die from lung cancer
+22	than other -- any other cancer.
+23	MR. GERAGHTY: I'm going to object and move to
+24	strike as not responsive.
+25	BY MR. ACOSTA:
+0027
+1	Q. So in 1900, how many were there?
+2	A. I don't have the exact number of cases
+3	diagnosed, but it would have been a very small, small
+4	number.
+5	Q. And then in comparison with today?
+6	A. Today it is the leading cause of cancer death.
+7	MR. GERAGHTY: Same objection.
+8	BY MR. ACOSTA:
+9	Q. During -- well, let me ask you this. How do
+10	you know that it's the leading cause of death in this
+11	country?
+12	THE WITNESS: I know this from my research
+13	in -- you want to know the sources from which I get
+14	that?
+15	BY MR. ACOSTA:
+16	Q. Sure.
+17	A. You can go to the National Institutes of
+18	Health. They keep records on this. National Center for
+19	Health Statistics. An easy way to access this is
+20	through the Centers for Disease Control. They publish
+21	something called the Weekly Mortality and Morbidity
+22	Review. And this is the standard way to disseminate
+23	mortality and morbidity statistics -- data -- excuse
+24	me --to the public health community.
+25	Q. All right. Now, during this same time frame
+0028
+1	that lung cancer rates went from a very few around 1900
+2	to over 100,000 today, what happened to cigarette sales
+3	during that same period?
+4	A. Oh, they increased very dramatically, both in
+5	terms of numbers of cigarettes smoked in the nation,
+6	that is sold, and in the portion of the population that
+7	was smoking cigarettes.
+8	Q. If we were to take that same graph that we
+9	looked at a few minutes ago and were to draw a line that
+10	showed the growth of cigarette sales in this country,
+11	how would that line compare with the lung cancer --
+12	growth of the lung cancer rates in this country?
+13	A. Well, the lines would have a similar slope.
+14	That is, a similar upward angle. In other words, they
+15	would be roughly parallel, except that the consumption
+16	would be shifted to the left. That is, it would precede
+17	that of the cancer death rate.
+18	Q. Okay. So if I was to take Plaintiffs Exhibit
+19	Number 1 and draw a line on it like this, would that
+20	more or less represent the rise in cigarette sales at
+21	the same time cancer rates were rising?
+22	A. Generally, with one -- one exception. And
+23	what you should have done is, is instead of drawing the
+24	line to the line of the lung cancer line, which means
+25	that consumption would happen after the lung cancer
+0029
+1	rate, you would want to draw the line before. Because
+2	people begin smoking, and there is a lag time, and then
+3	they, you know, are diagnosed and suffer from the
+4	disease.
+5	Q. Okay. So you would want the cigarette line
+6	over here?
+7	A. Yes. That would be more accurate.
+8	Q. Okay. And that's because of what again?
+9	A. Well, you have to smoke first. And so that
+10	has to happen sooner in time, because the X, just a
+11	little graph, the X axis, which is the horizontal axis,
+12	indicates decades on that graph. So you would want to
+13	have it left-shifted.
+14	Q. Now, did you review any information in your
+15	investigation that came from within any of the cigarette
+16	company defendants about lung cancer?
+17	A. Yes, I did.
+18	Q. Did that review have anything to do with the
+19	rising rate of lung cancer in this country?
+20	A. Yes.
+21	MR. GERAGHTY: Objection.
+22	MR. KOETHE: Object to the form.
+23	THE WITNESS: Can I answer now? You spoke at
+24	the same time.
+25	Yes, it did. And I can explain that.
+0030
+1	BY MR. ACOSTA:
+2	Q. Well, hang on. Have we established that there
+3	was a rising lung cancer rate in this country?
+4	A. Yes. We've just looked at the data.
+5	Q. And did you look at any of the cigarette
+6	company defendants' documents with the idea that there
+7	was a rising lung cancer rate in this country?
+8	A. I looked at industry documents pertinent to
+9	the rising incidence of lung cancer.
+10	Q. I'm going to show you --
+11	MR. GERAGHTY: Can you give us just a second
+12	to -- I'm sorry -- see what it is?
+13	MR. ACOSTA: Okay. Sure. I think you know.
+14	MR. GERAGHTY: We're going to object because
+15	this document was not one of the documents produced
+16	to us in advance of the deposition.
+17	MR. ACOSTA: Yeah. It was on a disk. It was
+18	produced. So we have a dispute about that.
+19	MR. KOETHE: Well, it was not disclosed as
+20	part of the materials that would be used in
+21	connection with the direct testimony of Dr.
+22	Kyriakoudes.
+23	MR. GERAGHTY: Right. And it was not used in
+24	the Hall case, the Amitz case, nor is it one of
+25	the New York Times articles.
+0031
+1	MR. KOETHE: And we would object to
+2	qualifications of the witness to discuss this
+3	document.
+4	MR. ACOSTA: Okay. Well, before we introduce
+5	this document, then I think I will ask some more
+6	questions.
+7	BY MR. ACOSTA:
+8	Q. In your review of cigarette industry documents
+9	that pertain to lung cancer, can you tell us the
+10	approximate time frame that those -- of those documents'
+11	origination?
+12	A. You mean what documents do I look at and how
+13	old they are?
+14	Q. Just how old they are at this point.
+15	A. Yes. Dating from the 1940s and the 1950s.
+16	Q. And were those documents marked by the
+17	cigarette companies in any way to indicate their
+18	confidentiality ?
+19	MR. GERAGHTY: Objection to the form.
+20	THE WITNESS: Some were, yes. Yeah, marked
+21	confidential on the document itself, yes.
+22	BY MR. ACOSTA:
+23	Q. And what did you learn about what the
+24	cigarette company defendant who had a document like the
+25	ones you reviewed knew about lung cancer in this
+0032
+1	country?
+2	MR. GERAGHTY: Objection to the form.
+3	THE WITNESS: Well, in reviewing the documents
+4	I learned that the defendants became concerned
+5	about the relationship between smoking and lung
+6	cancer in particular. And the documents I reviewed
+7	were documents in which members of the scientific
+8	and research staff of the defendants' collated and
+9	summarized current research and then presented that
+10	in memorandum form, confidential memorandum form to
+11	upper management.
+12	BY MR. ACOSTA:
+13	Q. Do you remember any particular document?
+14	MR. KOETHE: Excuse me, Howard. I'm going to
+15	object to this whole line of questioning on the
+16	additional ground that it's well beyond the
+17	disclosure that was provided for Dr. Kyriakoudes in
+18	terms of the opinions he was going to be offering
+19	in these cases. I just want to make that clear for
+20	the record. And by that, I mean the expert witness
+21	reports that the plaintiffs provide to the
+22	defendants in this case.
+23	BY MR. ACOSTA:
+24	Q. Okay. Let me ask you again. When you did
+25	your investigation about the internal company documents,
+0033
+1	did you find that any of them had knowledge of lung
+2	cancer rates or the problem with lung cancer, let's say,
+3	before 1953?
+4	A. Yes.
+5	MR. GERAGHTY: Objection. Objection to form.
+6	Excuse me.
+7	THE WITNESS: Yes.
+8	BY MR. ACOSTA:
+9	Q. When did you find that the cigarette company
+10	defendants first learned that there was a lung cancer
+11	problem in this country?
+12	MR. GERAGHTY: Same objection.
+13	THE WITNESS: The documents I've looked at
+14	indicate the 1940s, the late 1940s.
+15	BY MR. ACOSTA:
+16	Q. Did the cigarette companies internally through
+17	their own investigations determine whether or not there
+18	was a problem with lung cancer in this country --
+19	MR. GERAGHTY: Objection.
+20	BY MR. ACOSTA:
+21	Q. — back in the early 1950s?
+22	MR. GERAGHTY: Objection to the form.
+23	THE WITNESS: Yes. Their--their internal
+24	staffs researched the issue.
+25	BY MR. ACOSTA:
+0034
+1	Q. And did they write papers about that?
+2	MR. GERAGHTY: Objection to the form.
+3	THE WITNESS: Yes, they -- their scientific
+4	staffs wrote, yes, wrote papers.
+5	BY MR. ACOSTA:
+6	Q. And did they -- through your investigation,
+7	were you able to determine whether they told the public
+8	about what they learned?
+9	MR. GERAGHTY: Objection to the form.
+10	THE WITNESS: Yes. I was able to investigate
+11	that question, and I discovered that while the
+12	issue was discussed internally extensively, it was
+13	not -- that information was not shared with the
+14	public.
+15	(Plaintiffs Exhibit 2, Memorandum dated
+16	2/2/1953 by Claude Teague, was identified.)
+17	BY MR. ACOSTA:
+18	Q. Okay. Now, I'm going to show you Plaintiffs
+19	Exhibit Number 2 and ask you if you can identify it.
+20	A. Yes. This is an R. J. Reynolds internal
+21	memorandum authored by Claude Teague, one of their
+22	scientists.
+23	Q. And what's the date?
+24	A. Oh, sure. The date is February 2nd, 1953.
+25	And the title is Survey of Cancer Research with Emphasis
+0035
+1	Upon Possible Carcinogenesis From Tobacco.
+2	Q. And where did you first learn of that
+3	document?
+4	A. This -- this is a widely discussed document.
+5	It's available on the R. J. Reynolds document website
+6	that they are required to maintain. It's also discussed
+7	extensively in the historical literature on the history
+8	of tobacco.
+9	Q. And who was Dr. Teague that signed the
+10	document?
+11	A. Claude Teague was a scientist with R. J.
+12	Reynolds. Spent a significant amount of time, worked
+13	there at least, as far as I'm aware of, through the
+14	1970s, perhaps longer.
+15	Q. Would you look through that document and tell
+16	us if it appears to be authentic?
+17	MR. KOETHE: I would like a continuing
+18	objection the use of this document with this
+19	witness.
+20	MR. GERAGHTY: And you want him to object to
+21	authenticity as well, specifically?
+22	MR. ACOSTA: If there is a specific reason for
+23	it. Just a general authenticity objection I don't
+24	think is --
+25	MR. GERAGHTY: Well, let me go back. I would
+0036
+1	just object because I don't believe that the doctor
+2	or any expert is in a position to opine on the
+3	authenticity of a particular document.
+4	MR. KOETHE: And I would object on the ground
+5	of foundation as well.
+6	BY MR. ACOSTA:
+7	Q. Okay.
+8	A. And your question, just please run that by me
+9	again.
+10	Q. And my question to you, Dr. Kyriakoudes, does
+11	that Exhibit Number 2 appear to be authentic to you?
+12	A. Oh, yes.
+13	Q. Okay. And does it contain information about
+14	lung cancer?
+15	A. It does.
+16	Q. Do you know when Exhibit Number 2, which is
+17	titled Survey of Cancer Research with Emphasis Upon
+18	Possible Carcinogens From Tobacco, first became
+19	available to the public?
+20	MR. GERAGHTY: Objection to the form.
+21	THE WITNESS: Well, I don't know. For me, as
+22	a researcher, it first became available to me or I
+23	became aware of it around 2000 when it -- when I
+24	started using the industry websites to research
+25	their primary documents. It may have been released
+0037
+1	earlier in litigation in the 1990s perhaps, you
+2	know, in earlier trials. But I'm not aware of the
+3	history of that aspect of it.
+4	MR. GERAGHTY: I'm going to move to strike the
+5	response.
+6	BY MR. ACOSTA:
+7	Q. Do you know if it was ever released before
+8	there was litigation against the company regarding
+9	smoking and health?
+10	MR. GERAGHTY: Objection to the form.
+11	THE WITNESS: I don't know --1 do not know
+12	that it was ever released voluntarily by the
+13	company. No, I'm not aware of that.
+14	BY MR. ACOSTA:
+15	Q. Through the year 2000, did R. J. Reynolds deny
+16	that cigarette smoking caused lung cancer?
+17	MR. KOETHE: Object to the form.
+18	THE WITNESS: Yes. That was the position of
+19	the R. J. Reynolds Tobacco Company on smoking and
+20	cancer.
+21	BY MR. ACOSTA:
+22	Q. What do you consider to be the historical
+23	significance of Dr. Teague's paper on a survey of cancer
+24	back in 1953?
+25	MR. KOETHE: And object to the -- I'm sorry.
+0038
+1	Object to the form. Lack of foundation.
+2	THE WITNESS: The document is significant
+3	because it shows that within the upper management
+4	of the R. J. Reynolds Tobacco Company there was
+5	great concern about the relationship between
+6	smoking and lung cancer, and that it was a priority
+7	within upper management to have their scientists
+8	ascertain as to, you know, the truthfulness of the
+9	matter of the relationship between smoking and
+10	health.
+11	BY MR. ACOSTA:
+12	Q. Okay. I'm going to ask you the same question
+13	but without respect to the document. Okay? Can you
+14	tell us what the historical significance is of the
+15	information that the cigarette company defendants
+16	learned about lung cancer before 1953?
+17	MR. GERAGHTY: Objection to the form.
+18	THE WITNESS: Yes. It's - it's significant
+19	because the defendants were concerned about the
+20	relationship between smoking and lung cancer and
+21	feared that it would undermine their business.
+22	BY MR. ACOSTA:
+23	Q. Okay. Did you find any information indicating
+24	that the defendants were aware of carcinogenic
+25	substances at that time?
+0039
+1	A. Yes, I found information that --
+2	MR. GERAGHTY: I'm sorry. Let me - I
+3	apologize. Objection to the form. Go ahead.
+4	THE WITNESS: Run the question again, please.
+5	I got a little --
+6	BY MR. ACOSTA:
+7	Q. In your research and investigation, did you
+8	find that the cigarette company defendants had
+9	information that their cigarettes made smoke which
+10	contained carcinogenic substances --
+11	(An interruption by a telephone sounding.)
+12	A. I can answer the question. You don't have to
+13	restate it.
+14	Q. Good.
+15	A. Third time's the charm.
+16	MR. GERAGHTY: Let me just object to the form
+17	of the question though.
+18	THE WITNESS: In my research, I discovered a
+19	high level of concern among the industry about the
+20	relationship between smoking and lung cancer, and
+21	part of that discussion was -- did include reports
+22	by scientists employed by the -- by the industry
+23	identifying compounds that were possible
+24	carcinogens in smoking.
+25	BY MR. ACOSTA:
+0040
+1	Q. And who were the major cigarette companies
+2	back in the early 1950s in this country?
+3	A. Well, the major companies were the American
+4	Tobacco Company, the R. J. Reynolds Tobacco Company,
+5	Liggett & Myers, Lorillard, and Philip Morris.
+6	Q. A minute ago you said that -- well, let me
+7	strike that.
+8	Do you know how many of those companies knew
+9	about carcinogenic substances back before 1953?
+10	MR. KOETHE: Object to the form, lack of
+11	foundation.
+12	THE WITNESS: Yes. I've seen evidence
+13	relating to -- yeah. How many in terms of numbers?
+14	At least in terms of being concerned, at least four
+15	of the five.
+16	BY MR. ACOSTA:
+17	Q. And which would those be?
+18	A. Well, I've seen, at least in the 1950s,
+19	documents pertaining to R. J. Reynolds Tobacco Company,
+20	Lorillard Tobacco Company, Liggett & Meyers Tobacco
+21	Company, and the American Tobacco Company. Well, and at
+22	least some concern on the part of the Philip Morris
+23	Tobacco Company. So that would be five.
+24	Q. Now, a minute ago you -- you said that your
+25	research revealed that at least some of the cigarette
+0041
+1	company defendants knew of the possibility of
+2	carcinogens in cigarette smoke.
+3	Did you find that some of the companies, in
+4	fact, knew that carcinogens were in their cigarette
+5	smoke?
+6	A. Yes.
+7	Q. Now, did -- with respect to the concern that
+8	you have mentioned regarding cigarette company
+9	defendants and lung cancer, did they prepare any
+10	response to that issue for the public?
+11	MR. GERAGHTY: Objection to the form.
+12	THE WITNESS: Yes, they did. They prepared a
+13	response for the public.
+14	BY MR. ACOSTA:
+15	Q. And how did they go about doing that?
+16	A. Well, they --1 mean, they spoke through the
+17	media, newspapers, television. They organized
+18	themselves to present a common united front on the issue
+19	of smoking and health.
+20	MR. GERAGHTY: I'm going to object and move to
+21	strike the part of the response that's
+22	nonresponsive.
+23	MR. ACOSTA: What part?
+24	MR. GERAGHTY: Organize themselves.
+25	BY MR. ACOSTA:
+0042
+1	Q. Okay. Mr. Kyriakoudes, who led the -- was
+2	there a leader of this group involving this organization
+3	of the cigarette company defendants?
+4	A. Yes, there was. Paul Hahn, who was head of
+5	the American Tobacco Company, took the initiative on
+6	this issue.
+7	Q. Do you remember what year he did that?
+8	A. 1953.
+9	Q. And was that reported in the press?
+10	A. Yes. At least some of it was.
+11	Q. What was the purpose of the meeting from a
+12	historical perspective?
+13	MR. GERAGHTY: Objection to form.
+14	THE WITNESS: What happened is in 1953 in
+15	particular there had been a number of press and
+16	media reports reporting on the science linking
+17	cigarette smoking to lung cancer. And in the fall
+18	of 1953 there were a number of influential press
+19	reports, Life Magazine, for example. And in
+20	response to this, Paul Hahn sent a telegram to the
+21	heads of the major tobacco companies, of the
+22	defendants. They convened a meeting. Most
+23	attended. This is in December of 1953. And they
+24	hired a public relations firm, Hill and Knowlton,
+25	the largest public relations firm at the time, and
+0043
+1	they forged a strategy to deal with the publicity
+2	problem that the emerging science, as it was being
+3	reported to the public, was providing to their
+4	business.
+5	BY MR. ACOSTA:
+6	Q. Where was the meeting of the cigarette company
+7	defendants held?
+8	A. There was a meeting in the Plaza Hotel in
+9	Manhattan, New York City.
+10	Q. And was one of the defendants missing from
+11	that meeting?
+12	A. Yes. The Liggett & Meyers Tobacco Company did
+13	not attend this initial meeting.
+14	Q. Who specifically was in attendance at the
+15	meeting?
+16	A. Well, the remaining four defendants, their
+17	presidents, representatives were the principal attendees
+18	at the meeting.
+19	Q. When you say the presidents, what do you mean
+20	by that?
+21	A. Well, heads of the companies, CEOs.
+22	Q. And do you know from your investigation what
+23	it was that they discussed at the meeting?
+24	A. Yes, there is extensive documentation on that.
+25	They discussed -- basically they discussed the publicity
+0044
+1	problem that -- that the link, you know, the science
+2	linking smoking and lung cancer was providing to their
+3	business. They discussed how this was a significant
+4	threat to their industry, and they made a number of
+5	decisions about how to go forward from that.
+6	Q. Now was -- you mentioned that there was some
+7	publicity about the meeting. Was Mr. Hahn quoted in any
+8	newspaper reports regarding the meeting?
+9	A. Well, what I was referring to earlier was
+10	actually Paul Hahn was quoted in national press about
+11	the relationship between smoking and cigarette
+12	smoking -- I'm sorry. Smoking and lung cancer. Pardon
+13	me. I misspoke there. He branded it loose talk. This
+14	is in November of 1953. The meeting itself was not
+15	widely covered in the press.
+16	Q. Did -- did he deny that smoke was a cause of
+17	lung cancer?
+18	A. Yes. He, in his public statements, denied
+19	that cigarette smoking was a cause of lung cancer.
+20	Q. And as a result of the meeting, did the
+21	cigarette companies -- let me start over in a second
+22	here.
+23	Oh. Let's go ahead and change videotape right
+24	now. We'll go off the record.
+25	(A pause was had in the proceedings.)
+0045
+1	MR. ACOSTA: Okay. Let's go back on the
+2	record.
+3	(Plaintiffs Exhibit 4, Document titled A
+4	Frank Statement to Cigarette Smokers, was
+5	identified.)
+6	BY MR. ACOSTA:
+7	Q. Dr. Kyriakoudes, let me show you what's been
+8	marked as Plaintiffs Exhibit Number 4. And would you
+9	identify that for us?
+10	A. Yes. This is a copy of something called a
+11	Frank Statement to Cigarette Smokers, which was widely
+12	published across the nation in January of 1954.
+13	Q. And who signed it?
+14	A. Well, it's signed by the defendants and then
+15	other grower and marketing organizations, with the
+16	exception of Liggett & Myers. Would you like me to
+17	specifically identify it?
+18	Q. Would you identify the cigarette company
+19	defendants that signed onto the Frank Statement to
+20	Cigarette Smokers?
+21	A. The American Tobacco Company, Philip Morris
+22	Company, R. J. Reynolds Tobacco Company, the
+23	P. Lorillard Company, Brown & Williamson Tobacco
+24	Company, and then additionally, Benson & Hedges, the
+25	Burley Auction Warehouse Association and other such
+0046
+1	organizations.
+2	Q. In a nutshell, what is the Frank Statement
+3	about?
+4	A. Well, the Frank Statement is the first product
+5	of the meeting that we just discussed a moment ago. It
+6	is the statement of the position of the -- of the
+7	industry as a whole, including the defendants here in
+8	this case, as to the truth of the matter on smoking and
+9	lung cancer.
+10	Q. Now, why did that document come about?
+11	MR. KOETHE: Object to the form. Lack of
+12	foundation. Speculation.
+13	THE WITNESS: This document came about from
+14	the suggestion of the public relations counsel that
+15	was hired by the collected heads of the tobacco
+16	companies at their meetings in December of 1953,
+17	and it came about as a way to provide a public
+18	statement as to their position on smoking and
+19	health -- and that is, smoking was not dangerous --
+20	and to announce that, because the health of the
+21	public was of paramount importance, to use their
+22	language, that they were going to initiate a
+23	scientific research program that would get to the
+24	truth of the matter, and that this research program
+25	was called the Tobacco Industry Research Council,
+0047
+1	and that this -- this organization founded by the
+2	industry would engage in objective scientific
+3	research to discover the truth.
+4	MR. GERAGHTY: Let me move to strike the
+5	response.
+6	BY MR. ACOSTA:
+7	Q. Did this Frank Statement come about as a
+8	result of the meeting that Mr. Hahn conducted in 1953?
+9	A. Yeah. That's what I was referring to when I
+10	gave my answer. Yes, the meeting convened by Paul Hahn
+11	and attended by most of the tobacco industry.
+12	Q. And was the Frank Statement a response to
+13	publicity about lung cancer at the time?
+14	A. Yes. It was a response, yes, to the public
+15	information linking -- accusations linking lung cancer
+16	and smoking.
+17	Q. And specifically, was it the cigarette company
+18	defendants' response?
+19	A. Yes. It was the defendants in this -- in this
+20	case.
+21	MR. GERAGHTY: Objection to the form of that
+22	last question.
+23	BY MR. ACOSTA:
+24	Q. Now, this Frank Statement, was it published?
+25	A. It was published widely in newspapers and then
+0048
+1	also distributed as a free-standing flyer.
+2	Q. And how many publications carried the Frank
+3	Statement?
+4	A. It was published in 448 newspapers across the
+5	country.
+6	Q. Was it published on the same day?
+7	A. Yes, all on the same day, January 4th, 1953.
+8	Q. Was there any market in the United States that
+9	wasn't covered by those newspapers?
+10	A. By design, they reached every market in the
+11	country with a population of 50,000 and above. So it
+12	covered the entire country.
+13	Q. Did they also send any copies to anyone?
+14	A. Yeah. They mailed out a huge number of the
+15	copies --1 forget the exact number -- hundreds of
+16	thousands of copies to doctors and political leaders and
+17	really anybody that they could get.
+18	Q. All right.
+19	A. Widely distributed.
+20	Q. Let's put this up. Do you have a copy there
+21	that you can read from?
+22	A. Yes. It's a little difficult to --
+23	Q. Would you read the first paragraph there?
+24	A. The first paragraph states, Recent reports on
+25	experiments with mice have given wide publicity to a
+0049
+1	theory that cigarette smoking is in some way linked with
+2	lung cancer in human beings.
+3	Q. Now, down below that, do they indicate whether
+4	or not they feel cigarette smoking caused lung cancer?
+5	A. Well, their position is summarized a couple of
+6	paragraphs below, yes.
+7	Q. And what do they say?
+8	A. Well, Item Number 1, that medical research of
+9	recent years indicates many possible causes of lung
+10	cancer. There is no agreement among the authorities
+11	regarding what the cause is. And then they state that
+12	there is no proof that cigarette smoking is one of the
+13	causes.
+14	Q. And below that, do they tell people that they
+15	accept an interest in their health?
+16	A. Yes. They say we accept an interest in
+17	people's health as a basic responsibility paramount to
+18	every other consideration in our business, and that we
+19	believe the products we make are not injurious to
+20	health.
+21	Q. And then what do they go on to promise in this
+22	Frank Statement?
+23	A. Well, to summarize it, they basically promised
+24	to support a research program and to work with
+25	scientists and public health community to arrive at the
+0050
+1	true cause of cancer.
+2	Q. Okay. Now, would you compare for us the Frank
+3	Statement information with the internal information that
+4	your investigation revealed that the cigarette companies
+5	had about smoking and cancer?
+6	MR. GERAGHTY: Objection to the form.
+7	THE WITNESS: Yes. Basically, the Frank
+8	Statement does not tell the truth as to what was
+9	circulating in terms of information within the
+10	industry.
+11	BY MR. ACOSTA:
+12	Q. In what way?
+13	MR. GERAGHTY: Let me move to strike the
+14	response. Thank you.
+15	BY MR. ACOSTA:
+16	Q. In what way did the Frank Statement not tell
+17	the truth?
+18	MR. GERAGHTY: Objection to the form.
+19	THE WITNESS: Well, in reading the Frank
+20	Statement, one can be left with the impression
+21	that -- that the industry has no evidence that
+22	cigarettes are harmful; that they believe that they
+23	are not harmful; that they are, in fact, safe. But
+24	there is a significant amount of internal
+25	discussion, as we referred to earlier, that shows
+0051
+1	that, in fact, they were deeply concerned about the
+2	role that cigarettes played in causing lung cancer.
+3	BY MR. ACOSTA:
+4	Q. Back in 1954 -- by the way, is that the date
+5	of the Frank Statement?
+6	A. January 4th, 1954. Yes, it is.
+7	Q. In 1954 and 1955, did the cigarette companies
+8	ever agree that smoke was a cause of lung cancer?
+9	MR. GERAGHTY: Objection to the form.
+10	THE WITNESS: Do you mean in terms of public
+11	statements?
+12	BY MR. ACOSTA:
+13	Q. Yes.
+14	A. I've seen no public statements to that effect.
+15	No, they did not. And, in fact, they vociferously
+16	disagreed with the position that cigarettes caused
+17	disease.
+18	MR. GERAGHTY: Objection and move to strike
+19	the last response.
+20	BY MR. ACOSTA:
+21	Q. Was the companies -- the company defendants'
+22	statements in the Frank Statement consistent with what
+23	they knew internally?
+24	MR. GERAGHTY: Same objection.
+25	MR. KOETHE: Lack of foundation, speculation.
+0052
+1	THE WITNESS: No.
+2	MR. KOETHE: I'm sorry.
+3	BY MR. ACOSTA:
+4	Q. Well, let's do that again, because we had some
+5	objections and sort of talked over one another.
+6	Subject to your objections.
+7	Dr. Kyriakoudes, were the statements made by
+8	the cigarette company defendants in the Frank Statement
+9	consistent with what the defendants actually knew at the
+10	time?
+11	A. No.
+12	Q. Now, was this Frank Statement created as an
+13	agreement?
+14	MR. GERAGHTY: Objection to the form.
+15	THE WITNESS: Well, it is among many parties.
+16	BY MR. ACOSTA:
+17	Q. Okay. Who is it an agreement among?
+18	MR. GERAGHTY: Same objection.
+19	THE WITNESS: Well, I see the Frank Statement
+20	as fundamentally an agreement between the tobacco
+21	industry and the American public.
+22	BY MR. ACOSTA:
+23	Q. Did the --
+24	MR. GERAGHTY: I move to strike the response.
+25	BY MR. ACOSTA:
+0053
+1	Q. Did the cigarette company defendants agree
+2	among themselves to create the Frank Statement?
+3	A. Yeah. They agreed among themselves, yes.
+4	MR. GERAGHTY: Same objection. Sorry.
+5	BY MR. ACOSTA:
+6	Q. And did the cigarette company defendants agree
+7	to provide the information that is contained in the
+8	Frank Statement?
+9	MR. GERAGHTY: Same objection.
+10	THE WITNESS: They did, yes.
+11	BY MR. ACOSTA:
+12	Q. And how do you know that they agreed to
+13	provide the information that's contained in the Frank
+14	Statement?
+15	A. Well, I've reviewed the primary sources, the
+16	manuscript sources related to this meeting and the
+17	formation of the Tobacco Industry Research Committee --
+18	or I'm sorry, Research Council.
+19	Q. Does history tell us that people died as a
+20	result of what was stated in the Frank Statement?
+21	MR. GERAGHTY: Objection to the form.
+22	THE WITNESS: Yes.
+23	BY MR. ACOSTA:
+24	Q. Can you give us some idea of how many smokers
+25	have died since 1953 as a result of smoking defendants'
+0054
+1	cigarettes?
+2	A. I can. A rough estimate would be in
+3	approximately the 15 to 18 million figure. Certainly 12
+4	million deaths since 1964. The 10 preceding years would
+5	add to that.
+6	Q. Now, did part of that Frank Statement indicate
+7	to the public that the cigarette industry would set up a
+8	research board or research facility?
+9	MR. GERAGHTY: Objection to the form.
+10	THE WITNESS: Yes. They set up a mechanism
+11	for funding research into the question of smoking
+12	and health.
+13	BY MR. ACOSTA:
+14	Q. Did the cigarette company defendants ever --
+15	I'm going ask you the question a different way. Did the
+16	cigarette company defendants ever promise that they
+17	would do research on the issue of smoking and health and
+18	tell the public that that's what they were going to do?
+19	MR. GERAGHTY: Same objection.
+20	MR. KOETHE: Objection.
+21	THE WITNESS: Yes, they did.
+22	BY MR. ACOSTA:
+23	Q. And did they do that in the Frank Statement?
+24	A. They -- yes. They expressed that intention to
+25	support research in the Frank Statement, and then they
+0055
+1	did that.
+2	Q. Did they -- they hired distinguished
+3	scientists to do research?
+4	A. Yes. They set up something called a
+5	Scientific Advisory Board chaired by a scientist of
+6	national renown, Clarence Cook Little. And this board
+7	acted as a kind of a grant -- granting agency for
+8	disbursing Tobacco Industry Research Council research
+9	funds.
+10	Q. Can you tell us just briefly how this grant
+11	process works?
+12	A. Yes. People would apply to the TIRC. The
+13	TIRC also would identify people they were interested in
+14	conducting research. And they would then fund some or
+15	all of that research.
+16	Q. And tell us what TIRC stands for.
+17	A. Oh. Tobacco Industry Research Council.
+18	Q. And is that the committee that was set up to
+19	do research at the behest of the cigarette company
+20	defendants in this case?
+21	A. Yes.
+22	MR. KOETHE: Objection.
+23	THE WITNESS: That was the organization that
+24	essentially sponsored the Frank Statement, grew out
+25	of the meetings that we talked about earlier. And
+0056
+1	they -- they largely funded research. That was
+2	their principal role.
+3	BY MR. ACOSTA:
+4	Q. Now, again, was Liggett & Myers involved in
+5	this at that time?
+6	A. Not at this time, no.
+7	Q. Did they become involved in it later?
+8	A. They did.
+9	MR. KOETHE: Objection.
+10	THE WITNESS: Yes, they did later become
+11	involved.
+12	BY MR. ACOSTA:
+13	Q. Did the cigarette company defendants, when
+14	Liggett & Myers was involved, pay for the research that
+15	these grantees did?
+16	MR. KOETHE: Objection.
+17	MR. GERAGHTY: Same objection.
+18	THE WITNESS: Yes, yes. The TIRC itself was
+19	funded by contributions from the cigarette
+20	manufacturers.
+21	BY MR. ACOSTA:
+22	Q. And when it started before Liggett & Myers got
+23	involved, did the companies pay for the research that
+24	was done?
+25	MR. GERAGHTY: Same objection.
+0057
+1	THE WITNESS: Yes, they - they all
+2	contributed funds that went into the TIRC and then
+3	were disbursed to researchers.
+4	BY MR. ACOSTA:
+5	Q. Did the Tobacco Industry Research Committee
+6	ever change its name?
+7	A. Yes. Later in the 1960s it changed its name
+8	to Council on Tobacco Research, or known more popularly
+9	as CTR.
+10	Q. Did the TIRC or CTR, this research group,
+11	funded by the cigarette company defendants, did they
+12	ever make public research that was funded by the
+13	cigarette companies that found that smoking caused
+14	cancer?
+15	MR. GERAGHTY: Objection to the form.
+16	THE WITNESS: I've not seen -- I've not seen
+17	any reports or statements by the TIRC that ever
+18	pointed to their own research that identified
+19	smoking as a cause of lung cancer. No, I've not
+20	seen that.
+21	BY MR. ACOSTA:
+22	Q. Did you ever see the cigarette company
+23	defendants point to TIRC -- excuse me. Did you ever see
+24	the TIRC or CTR companies referenced by the cigarette
+25	industry as doing research which found that smoking
+0058
+1	caused cancer?
+2	MR. GERAGHTY: Objection to the form.
+3	THE WITNESS: No, I've never seen statements
+4	to that effect.
+5	BY MR. ACOSTA:
+6	Q. Now, from 1954 up through let's say 1990, did
+7	the cigarette company defendants ever publish anything
+8	or make public any information that their research had
+9	found cigarette smoking caused cancer?
+10	MR. GERAGHTY: Objection to the form.
+11	THE WITNESS: In my extensive review of their
+12	public statements in the media, their own press
+13	releases and the like, I've never seen them during
+14	that time period make a statement that cigarettes
+15	were in any way the cause of any disease.
+16	(Plaintiffs Exhibit 38, Letter from Jo F.
+17	Spach to the Principal of the Willow Ridge
+18	Elementary School, was identified.)
+19	BY MR. ACOSTA:
+20	Q. Okay. Let me show you what's been marked as
+21	Plaintiffs Exhibit 38. Would you identify that for us?
+22	A. Yes.
+23	MR. KOETHE: I'm going to object to the use of
+24	this document as not previously disclosed or part
+25	of the Hall/Amitz disclosure that was agreed to in
+0059
+1	advance of this deposition.
+2	THE WITNESS: It was all the material I gave
+3	them in the depo.
+4	BY MR. ACOSTA:
+5	Q. Yeah, I know.
+6	A. Okay.
+7	Q. Let me ask you, can you identify Plaintiffs
+8	Exhibit Number 38?
+9	A. Yes, I can identify this. Yes.
+10	Q. And tell us what it is.
+11	A. This is a consumer response letter from a
+12	woman named Jo F. Spach, S-P-A-C-H, who is identified as
+13	manager of public information in the Public Relations
+14	Department at the R. J. Reynolds Tobacco Company in
+15	Winston-Salem, North Carolina, to the principal of
+16	Willow Ridge Elementary School in Amherst, New York.
+17	And it's written in response to an inquiry by the fifth
+18	grade class at that school.
+19	Q. What is the date?
+20	A. And the date is January 11th, 1990.
+21	Q. Have you seen that document in the past?
+22	A. Oh, yes, I have.
+23	Q. In doing your own research, did you find that
+24	document among R. J. Reynolds' documents?
+25	A. Yes. These are -- this document is contained
+0060
+1	within the R. J. Reynolds document archive.
+2	Q. And are there other similar letters written by
+3	Ms. Spach?
+4	A. Yes, there's letters -- this type of consumer
+5	response letter is a common -- they are commonly found
+6	in the R. J. Reynolds archive. Not all of them are
+7	written by this particular individual, but they are
+8	written by other public relations and public information
+9	officers in the company. There are many consumer
+10	information letters in the archive.
+11	Q. Was Ms. Spach in management?
+12	A. Well, she is identified as manager of public
+13	information, yes. So she's a manager.
+14	Q. And does the document that I handed you appear
+15	to be authentic?
+16	MR. KOETHE: Object to the form. Lack of
+17	foundation.
+18	THE WITNESS: Yes. I've seen this document in
+19	the R. J. Reynolds archive. It's authentic.
+20	BY MR. ACOSTA:
+21	Q. Now, before I ask you any questions about the
+22	document, I want to ask you some other questions first.
+23	Dr. Kyriakoudes, between 1954 and 1990, did you find in
+24	your research and investigation that the cigarette
+25	industry had ever revealed to the public that cigarette
+0061
+1	smoking was a cause of cancer?
+2	MR. GERAGHTY: Objection to the form.
+3	THE WITNESS: No. I've not found any -- any
+4	indication or any public statement.
+5	BY MR. ACOSTA:
+6	Q. And did the cigarette companies during that
+7	time period tell the public that they were responsible
+8	for extensive research that was being done on the
+9	subject of cigarette smoking and lung cancer?
+10	MR. GERAGHTY: Objection to the form.
+11	THE WITNESS: Yes. The industry often -- the
+12	defendants often made statement that they were
+13	essentially working on the problem, that they were
+14	sponsoring a massive research effort.
+15	BY MR. ACOSTA:
+16	Q. I'm going to ask you that question again, too.
+17	Between 1954 and 1990, did the cigarette companies
+18	reveal to the public that they had been responsible for
+19	any research on the subject of smoking and health?
+20	MR. GERAGHTY: Object to the form.
+21	THE WITNESS: Yes. They did indicate that
+22	they were conducting research on smoking and
+23	health.
+24	BY MR. ACOSTA:
+25	Q. And during that same time frame, did they ever
+0062
+1	reveal that they had learned through their research that
+2	smoking was a cause of lung cancer?
+3	MR. KOETHE: Object to the form. Lack of
+4	foundation.
+5	THE WITNESS: No.
+6	MR. GERAGHTY: I'm sorry. Overbroad.
+7	THE WITNESS: No, I've never seen a statement
+8	made by the industry indicating that their
+9	research, or any other research for that matter,
+10	indicated in their mind a link between cigarette
+11	smoking and any disease, including lung cancer.
+12	BY MR. ACOSTA:
+13	Q. Between 1954 and 1990, did the cigarette
+14	company defendants ever admit that cigarette smoking
+15	caused lung cancer?
+16	MR. GERAGHTY: Objection to the form.
+17	THE WITNESS: No, they never made an admission
+18	that cigarette smoking causes lung cancer.
+19	BY MR. ACOSTA:
+20	Q. Now, did the cigarette companies ever tell
+21	people about their research over the years, specifically
+22	around the 1990 time frame?
+23	MR. GERAGHTY: Objection to the form.
+24	THE WITNESS: Yes, they did talk about their
+25	research.
+0063
+1	BY MR. ACOSTA:
+2	Q. What did the cigarette companies reveal to the
+3	public about the research that they had been conducting
+4	on the issue of smoking and health?
+5	MR. GERAGHTY: Same objection.
+6	THE WITNESS: They told the public that they
+7	were working and investigating the healthfulness of
+8	cigarettes and had through their research not found
+9	anything indicating that cigarettes were dangerous
+10	or caused disease.
+11	BY MR. ACOSTA:
+12	Q. Did they tell the public how much money they
+13	spent doing that?
+14	A. Yes.
+15	MR. GERAGHTY: Same objection.
+16	THE WITNESS: Often. A hundred million
+17	dollars or more. Yes.
+18	BY MR. ACOSTA:
+19	Q. Can you compare how much money they spent on
+20	research with how much money they spent advertising?
+21	A. Well, by the early --
+22	MR. GERAGHTY: I'm just going to object to the
+23	form of the question. Excuse me.
+24	THE WITNESS: In the '50s, '60s, '70s and
+25	'80s, during that period the industry spent
+0064
+1	approximately $100 million through this research
+2	program we have been talking about. And by the
+3	early 1990s I believe they were spending a couple
+4	of billion a year on various advertising efforts.
+5	So the advertising expenditures dwarfed the
+6	expenditures on — on research.
+7	BY MR. ACOSTA:
+8	Q. In the 1990 time frame, did the cigarette
+9	companies direct any information to school children?
+10	A. They did, yes.
+11	MR. GERAGHTY: Objection.
+12	MR. KOETHE: Objection.
+13	MR. GERAGHTY: Objection to form.
+14	BY MR. ACOSTA:
+15	Q. Excuse me. During the early 1990s, did the
+16	cigarette company defendants, any of them, direct
+17	information to school children?
+18	MR. GERAGHTY: Objection to the form.
+19	THE WITNESS: Yes, they did. Yes, they did.
+20	MR. GERAGHTY: If you could just pause a
+21	second so we could object.
+22	THE WITNESS: Okay. Yeah. I don't mean to be
+23	fighting with you.
+24	MR. GERAGHTY: That's okay. But I think
+25	Howard obviously wants your answer and not me and
+0065
+I	you talking over one another. So --
+2	BY MR. ACOSTA:
+3	Q. Yeah. It sounds like they are going to object
+4	every question. So you might as well just --
+5	A. All right. So I'll just pause. Okay. I
+6	thought -- see, I thought when you got the first
+7	objection in, and then you were reasking the question, I
+8	could just answer it. But I see what the --
+9	Q. Okay.
+10	A. I see what the deal is now.
+II	Q. Okay. Subject to their objection, I'm going
+12	to ask you the question again.
+13	So you guys don't object subject to the last
+14	objection.
+15	During the early 1990s, did the cigarette
+16	company defendants or any of them in this case direct
+17	information about smoking and health to school children?
+18	A. Yes, they did.
+19	Q. And what kind of information did they direct
+20	to school children?
+21	MR. GERAGHTY: Objection to the form.
+22	THE WITNESS: The information they directed
+23	was that smoking was not implicated in any harmful
+24	disease, and that the tobacco industry was
+25	sponsoring a significant research program to
+0066
+1	discover the true cause of disease.
+2	BY MR. ACOSTA:
+3	Q. Now, tell us about Exhibit Number 38, the
+4	letter that was written by the RJR manager Joe Spach.
+5	Did it direct smoking and health information to school
+6	children?
+7	A. Yes, it did.
+8	Q. And what did the manager of public relations
+9	at RJR, R. J. Reynolds Tobacco Company, want the
+10	children to know?
+11	MR. KOETHE: Object to the form.
+12	THE WITNESS: Well, they wanted - R. J.
+13	Reynolds wanted the students at the Willow Ridge
+14	School to know that the tobacco industry was
+15	concerned about the charges being made that smoking
+16	was the cause of disease; that through the Counsel
+17	of Tobacco Research and through its grants to the
+18	American Medical Association, that they were
+19	sponsoring research in excess of $162,000,000 to
+20	independent research on the controversy surrounding
+21	smoking. Despite -- and it also wanted them to
+22	know that despite all this research, scientists do
+23	not know the causes of chronic disease associated
+24	with smoking; and that there are many unanswered
+25	controversies surrounding smoking; that it's only
+0067
+1	statistically associated; and that more research
+2	needs to be done before we can know if smoke is in
+3	any way connected with disease.
+4	BY MR. ACOSTA:
+5	Q. And what was the date of that letter?
+6	A. This letter was January 11th, 1990.
+7	Q. And what -- was there a particular grade at
+8	the Willow Grove School that was involved?
+9	A. Well, it's -- the letter was spurred by an
+10	inquiry by letters from the fifth grade students at this
+11	particular school.
+12	Q. Okay. Now, I want to ask you, after 1990, did
+13	any of the defendant cigarette companies ever agree that
+14	smoking their cigarettes caused lung cancer or diseases?
+15	MR. GERAGHTY: Objection to the form.
+16	THE WITNESS: After 1990?
+17	BY MR. ACOSTA:
+18	Q. Yes.
+19	A. Yes.
+20	Q. I want to ask you the question a little bit
+21	differently. After 1990, did any of the cigarette
+22	company defendants reveal to the public through the
+23	public media that they agreed that cigarette smoking
+24	caused lung cancer, cancer, or other diseases?
+25	MR. GERAGHTY: Same objection.
+0068
+1	THE WITNESS: After 1990?
+2	BY MR. ACOSTA:
+3	Q. Yes.
+4	A. Yes, they did.
+5	Q. When after 1990 did they do that?
+6	A. Well, after the Engle verdict, 2000.
+7	MR. GERAGHTY: I'm going to object and move to
+8	strike the answer.
+9	BY MR. ACOSTA:
+10	Q. I'm going to ask it again in another way.
+11	After 1990, did the cigarette company defendants ever
+12	tell the public in the media that they agreed that
+13	cigarette smoking caused lung cancer, cancer or other
+14	diseases?
+15	A. Yes, they did.
+16	Q. And what year did they do that?
+17	A. 2000.
+18	Q. Did the cigarette company defendants ever
+19	agree in public that their cigarettes were addictive?
+20	MR. GERAGHTY: Objection to the form.
+21	THE WITNESS: Prior to 2000? I'm not sure-
+22	BY MR. ACOSTA:
+23	Q. Well, did they ever agree that their
+24	cigarettes were addictive, to your knowledge?
+25	MR. GERAGHTY: Objection to the form.
+0069
+1	THE WITNESS: Now they do. Now they do agree
+2	that their cigarettes are addictive.
+3	BY MR. ACOSTA:
+4	Q. Do you know when the cigarette company
+5	defendants revealed to the public that they believed
+6	their cigarettes were addictive?
+7	MR. GERAGHTY: Objection to the form.
+8	THE WITNESS: I first became aware of those
+9	statements around 2000, 2001. I don't think they
+10	mentioned that any earlier, no.
+11	BY MR. ACOSTA:
+12	Q. When did Philip Morris first disclose to the
+13	public that it believed cigarettes were addictive?
+14	MR. GERAGHTY: Objection to form.
+15	THE WITNESS: Around 2001 or so on their
+16	website.
+17	BY MR. ACOSTA:
+18	Q. How about R. J. Reynolds? When did R. J.
+19	Reynolds Tobacco Company first disclose to the
+20	company -- to the country through public media that it
+21	thought smoking its cigarettes could be addictive?
+22	A. About the same time.
+23	MR. ACOSTA: Why don't we take a short break
+24	at this point.
+25	(A pause was had in the proceedings.)
+0070
+1	MR. ACOSTA: Let's go back on the record.
+2	BY MR. ACOSTA:
+3	Q. Dr. Kyriakoudes, would you tell -- you told us
+4	a little while ago that the defendant cigarette
+5	companies had not admitted that smoking was a cause of
+6	cancer or addictive until after 2000.
+7	A. Well, I -
+8	MR. GERAGHTY: Objection to form. I'm sorry.
+9	THE WITNESS: You had asked me actually about
+10	R. J. Reynolds and Philip Morris.
+11	BY MR. ACOSTA:
+12	Q. Okay. Is there a time when defendant Liggett
+13	& Myers publicly admitted that cigarette smoking caused
+14	cancer and was addictive?
+15	A. Liggett & Myers made those statements a bit
+16	earlier, yes, in the 1990s.
+17	Q. Was it in the late 1990s?
+18	A. Around 1998.
+19	Q. Okay. And for the other defendant companies,
+20	it was when?
+21	A. Around 2000.
+22	Q. I want to take you back to the 1953-54 time
+23	frame again at the time of the Frank Statement. Did the
+24	cigarette companies respond to the publicity about lung
+25	cancer and smoking in any way other than through the
+0071
+1	Frank Statement?
+2	A. Yes, they did.
+3	Q. Did they -- tell me about how many people were
+4	smoking back in 1953-54. How many Americans smoked
+5	cigarettes?
+6	A. In the mid '50s smoking was about, among men,
+7	about 60, in the low 60 percent range. About a third of
+8	women smoked. And that was the rate of smoking.
+9	Q. Did the cigarette companies advertise their
+10	cigarettes to the public?
+11	A. Extensively, yes.
+12	Q. Can you give us any changes in the amount of
+13	advertising that occurred around 1953 or 1954?
+14	MR. GERAGHTY: Objection to the form.
+15	BY MR. ACOSTA:
+16	Q. Let me ask it a different way. Dr.
+17	Kyriakoudes, in response to this publicity about cancer,
+18	did the cigarette companies -- did it affect their
+19	advertising in any way?
+20	MR. GERAGHTY: Same objection.
+21	THE WITNESS: Yes, it did.
+22	BY MR. ACOSTA:
+23	Q. In what way?
+24	A. Well, they -- they increased their
+25	advertising.
+0072
+1	Q. How much advertising, for example, did Philip
+2	Morris do in the 1953-54 time frame?
+3	MR. GERAGHTY: Objection to the form.
+4	THE WITNESS: Extensive advertising. I mean,
+5	they reported in, you know, in their documents
+6	something like three billion advertising messages.
+7	So very extensive advertising.
+8	BY MR. ACOSTA:
+9	Q. Was that three -- three million or three
+10	billion?
+11	A. No. I said B with -- a billion with a B.
+12	Q. And for how long a period of time did they
+13	have three billion advertising messages?
+14	MR. GERAGHTY: Objection to form.
+15	THE WITNESS: That was just for the year, the
+16	1953 year reported in their annual report.
+17	BY MR. ACOSTA:
+18	Q. Do you have any examples of cigarette company
+19	advertising?
+20	A. Yes, I have many examples.
+21	Q. Okay. Let me show you what we are going to
+22	mark as Plaintiffs Exhibit Number 5000.
+23	(Plaintiffs Exhibit 5000, Compilation of
+24	print advertisements, was identified.)
+25	BY MR. ACOSTA:
+0073
+1	Q. Let me show you Plaintiffs Exhibit 500 and
+2	ask you if you would tell us what it is.
+3	A. Yeah. This is a collection of print
+4	advertisements, of cigarette print advertisements from
+5	magazines, mostly Life Magazine.
+6	Q. And does it cover the time period before 1969
+7	and after the mid 1940s?
+8	A. Yes. These are in chronological order. And
+9	the first is 1945, and the last date is from the late
+10	'60s. I can't quite see the exact date without pulling
+11	the whole thing apart.
+12	Q. And what magazine did you say those pertain
+13	to?
+14	A. I believe a variety of magazines, mostly Life
+15	Magazine, but you've got Look, Field & Stream. You
+16	know, national magazines.
+17	Q. How often did Life Magazine come out?
+18	A. Life Magazine was a weekly magazine.
+19	Q. And was there any particular kind of
+20	advertisement that was usually on the back cover?
+21	A. Typically the back cover, which was the prime
+22	position for color or full -- we would call -- would say
+23	full-color, full-page glossy print, that was typically a
+24	cigarette advertisement.
+25	Q. And what kinds of themes for their advertising
+0074
+1	did the cigarette companies have back in the 1950s?
+2	MR. GERAGHTY: Objection to the form.
+3	THE WITNESS: Themes relating to things like
+4	more doctors smoke Camels. Not a cough in a
+5	carload. No throat scratch. Will not harm nose,
+6	throat or accessory organs, a famous advertisement
+7	for Chesterfield. Thematically the themes focused
+8	around healthfulness, you know, vitality, energy,
+9	youth. Often they were movie stars and sports
+10	figures who would endorse the products, so you had
+11	endorsements. You know, Camels don't get your
+12	wind. Another famous slogan that was used
+13	extensively. Winston tastes good like a cigarette
+14	should. Themes of the west, open, you know,
+15	associated with Marlboro, for example.
+16	So, you know, an extensive array of themes.
+17	BY MR. ACOSTA:
+18	Q. And in addition to print ads in magazines,
+19	what other forms of advertising did the cigarette
+20	companies use back in the '50s?
+21	A. Well, they relied heavily on broadcast media
+22	as well. In the 1950s that would mean radio, which was
+23	an extensive way to advertise, and television, which was
+24	established but in its infancy.
+25	Q. And how about in the 1960s? Did the
+0075
+1	advertising in the 1960s differ much from what was
+2	happening in the 1950s?
+3	A. Some differences. The industry was barred
+4	from using celebrities and sports endorsers. But
+5	generally in their basic goals, the same. Extensive
+6	coverage through print and broadcast media.
+7	Q. In the -- in the past, did the cigarette
+8	company advertisements include endorsement from various
+9	people?
+10	A. Yes. Movie stars, sports stars.
+11	Q. Can you remember some of the names of the
+12	movie stars and sports stars that endorsed cigarette
+13	company advertisements?
+14	A. Sure. Among sports stars, prominent baseball
+15	players. Babe Ruth, Lou Gehrig would be examples.
+16	Prominent football players. Frank Gifford, for example,
+17	who was a prominent football player in the 1950s. Among
+18	movie stars and other entertainers, Bob Hope, Ronald
+19	Reagan before he became a politician, Marlene Dietrich,
+20	Rosalyn Russell, many other stars. Dick Van Dike, Mary
+21	Tyler Moore. It goes on and on. Extensive reliance
+22	on -- on movie and TV stars and other celebrity figures.
+23	Q. And what kind of advertising occurred on
+24	television?
+25	A. Well, there were traditional television
+0076
+1	commercials and full-blown sponsorships of programs.
+2	Earlier TV worked a little bit differently than it does
+3	today, where you would have, for example, Your Lucky
+4	Strike Hit Parade. So the name of the product, in this
+5	case Lucky Strike, American Tobacco's principal
+6	cigarette, was incorporated into the name of the
+7	program.
+8	Q. And what other shows can you remember were
+9	advertised by cigarette companies, were sponsored by
+10	cigarette companies?
+11	A. Well, yeah. A huge number. By the early '60s
+12	they were sponsoring over 40 percent of all television
+13	programing. So it's a lot. Gunsmoke, The Flintstones,
+14	the Beverly Hillbillies. You know, it goes on and on
+15	and on.
+16	Q. What kind of advertising was done on The
+17	Flintstones?
+18	A. Commercials with -- starring the Flintstone
+19	characters, the cartoon characters.
+20	Q. And how about the Beverly Hillbillies?
+21	A. Again, commercials starring the characters on
+22	the program. You know, Jed Clampett and Grandma, for
+23	example. And --
+24	Q. Do you remember any of the slogans that went
+25	with the cigarettes back in the 1950s?
+0077
+1	A. Sure. Not a cough in the carload. Winston
+2	tastes good like a cigarette should. Tobacco is its own
+3	best filter. Guards against throat scratch. Those are
+4	examples. Oh, to give you some more, don't be afraid to
+5	inhale. Play it safe. Good, good, good. You know,
+6	those are -- those are examples.
+7	Q. Did any of the advertising reference
+8	physicians?
+9	A. Yes. As I said earlier, there was a very
+10	extensive campaign by the R. J. Reynolds Tobacco Company
+11	advertising their Camel cigarette brand long the lines
+12	of more doctors smoke Camels.
+13	Q. Did Philip Morris also reference physicians in
+14	some of its advertising?
+15	A. Yes, Philip Morris advertised extensively in
+16	medical journals for their Philip Morris brand
+17	cigarette, indicating that for patients who inhale,
+18	suggest Philip Morris, that it was a safer smoke.
+19	Q. How about L&M, Liggett & Myers cigarettes, L&M
+20	cigarettes?
+21	A. Yes. Similar health-related themes.
+22	Q. Do you remember what one of their slogans was
+23	that referenced doctors?
+24	A. I'm not recalling the L&M slogan at this
+25	moment.
+0078
+1	Q. Let me see if I can refresh your recollection.
+2	Just what the doctor ordered?
+3	A. Yes. That's right. That was the L&M slogan.
+4	Just what the doctor ordered. You know, another example
+5	would be Chesterfield, scientifically proven not to harm
+6	nose, throat or accessory organs. A prominent
+7	advertising campaign feature Marlene Dietrich and
+8	Rosalyn Russell.
+9	Q. Were there any children in cigarette ads back
+10	in the 1950s?
+11	A. In some, yes.
+12	Q. In what ways were children involved?
+13	A. Well. Many ads portrayed smoking in domestic
+14	situations, and so people would be smoking amongst their
+15	families. The Marlboro brand was originally a woman's
+16	brand before they remade, manufactured it or
+17	readvertised it into the macho western brand. So in the
+18	early '50s it had been a women's brand up to that point.
+19	And that featured babies, babies with carton captions
+20	saying Mom, smoke Marlboro because it's mild.
+21	MR. GERAGHTY: Objection. Move to strike the
+22	response.
+23	BY MR. ACOSTA:
+24	Q. In the 19 -- let's go to the 1980s, for
+25	example. Were there any particularly successful
+0079
+1	advertising campaigns in the 1980s?
+2	A. Yes, a number of very, very successful
+3	advertising campaigns. The Joe Camel campaign by the
+4	RJR Reynolds Tobacco Company was an extremely successful
+5	campaign.
+6	MR. GERAGHTY: I'm sorry. Object to the form
+7	and move to strike.
+8	BY MR. ACOSTA:
+9	Q. Who was Joe Camel?
+10	A. Joe Camel was a carton representation of the
+11	R. J. Reynolds trademark of Camel. A camel had adorned
+12	the pack of the Camel cigarette pack from its inception
+13	in the 19 teens, and Joe Camel was a hip and trendy
+14	carton manifestation of that.
+15	Q. Was there a particular age group that Joe
+16	Camel was directed at?
+17	MR. KOETHE: Object to the form, foundation.
+18	THE WITNESS: Yes. My opinion is Joe Camel
+19	was directed towards children.
+20	BY MR. ACOSTA:
+21	Q. What type of clothing did Joe Camel wear?
+22	A. Often he wore a leather jacket. Sometimes
+23	he'd be riding a motorcycle. You know, kind of hip,
+24	trendy clothing.
+25	Q. Did he wear the kind of clothing that your
+0080
+1	parents wore?
+2	MR. KOETHE: Object to the form.
+3	THE WITNESS: No. He wore, you know, kind of
+4	in style, action, you know, younger clothing.
+5	BY MR. ACOSTA:
+6	Q. Did the defendants ever give away cigarettes,
+7	the cigarette company defendants?
+8	MR. GERAGHTY: Objection to the form.
+9	THE WITNESS: Yes. It was common practice to
+10	market cigarettes by giving away samples.
+11	BY MR. ACOSTA:
+12	Q. Okay. How did they go about giving away
+13	cigarettes?
+14	MR. GERAGHTY: Objection to the form.
+15	THE WITNESS: Cigarettes were distributed in
+16	many, many ways. It used to be standard practice
+17	that when you flew on an airplane you got a little
+18	slim four-pack of cigarettes as, you know, part of
+19	your, you know, your snack, so to speak. There
+20	were extensive college marketing programs where
+21	college representatives would give away cigarettes
+22	on campus to students. And then there is even
+23	evidence that tobacco company officials would go
+24	into neighborhoods and simply give away cigarettes
+25	to anybody that would take them.
+0081
+1	BY MR. ACOSTA:
+2	Q. Did they give cigarettes to soldiers?
+3	A. Cigarettes were standard component of K and C
+4	rations, which were soldiers' rations until very recent
+5	times. So in essence they were included as a food item.
+6	Q. Now, before 1969, did any of the
+7	advertisements that the cigarette industry provided to
+8	the public, did any of the advertisements contain any
+9	warnings about any health hazards associated with
+10	smoking?
+11	MR. GERAGHTY: Just for -- you said before
+12	1969, right?
+13	MR. ACOSTA: Yeah.
+14	MR. GERAGHTY: Okay.
+15	BY MR. ACOSTA:
+16	Q. Let me -- let me restate the question, because
+17	it wasn't very good anyway.
+18	Dr. Kyriakoudes, before 1969 did any of the
+19	cigarette advertising carry with it any warnings that
+20	there was a hazard associated with smoking cigarettes?
+21	MR. KOETHE: Object to the form.
+22	THE WITNESS: Not on the advertising, no.
+23	BY MR. ACOSTA:
+24	Q. Was there any warning provided by the
+25	cigarette companies any place else other than
+0082
+1	advertising?
+2	A. Well -
+3	MR. GERAGHTY: Objection to form.
+4	THE WITNESS: Beginning in 1966, packs of
+5	cigarettes, by legislation, by federal legislation,
+6	were required to carry a caution label.
+7	BY MR. ACOSTA:
+8	Q. Okay.
+9	A. A caution message.
+10	Q. We'll talk about that in a second. Let's go
+11	back to the 1950 time frame. In the 1950s did the
+12	cigarette companies ever provide any warnings to people
+13	that smoking their cigarettes might be hazardous to
+14	their health?
+15	A. No, none whatsoever.
+16	Q. Did the cigarette -- any of the cigarette
+17	company defendants make representations about what they
+18	would do if they -- they found that their cigarettes
+19	were hazardous?
+20	MR. GERAGHTY: Objection to form.
+21	THE WITNESS: Yes, they did.
+22	BY MR. ACOSTA:
+23	Q. Do we have a movie clip about that?
+24	A. Yes, we have clips relating to that.
+25	Q. And do you have a clip that identifies any
+0083
+1	particular person with a cigarette company that makes
+2	representations about cigarette smoke?
+3	A. Well, yeah. I have a set of clips from the
+4	1950s, if that's what you are referring to.
+5	Q. Can we show your example that pertains to
+6	something that the cigarette companies were looking for?
+7	A. Yes.
+8	Q. All right. Let me put that on so you can look
+9	at it.
+10	MR. GERAGHTY: Are you going to try to play it
+11	on your computer?
+12	MR. ACOSTA: Do you just want to see it on my
+13	computer instead of on the screen? Or do you want
+14	to let everybody look at it?
+15	MR. GERAGHTY: Let's let everybody look at it.
+16	And then if the court reporter could try to take
+17	down the sound, that would be great.
+18	MR. ACOSTA: I'll make it as loud as my little
+19	speakers will go.
+20	MR. KOETHE: And do you have a number, Howard?
+21	Is there a number on it? Or just identify it for
+22	the record.
+23	MR. ACOSTA: We can identify it as Exhibit 42.
+24	MR. GERAGHTY: Which would be?
+25	MR. ACOSTA: Which would be the clip from See
+0084
+1	It Now involving Dr. DuPuis.
+2	(Plaintiffs Exhibit 42, Video Clip of a Dr.
+3	Robert N. DuPuis interview, was marked for
+4	identification.)
+5	(A discussion off the record.)
+6	MR. ACOSTA: All right. Are we back on
+7	camera?
+8	THE VIDEOGRAPHER: You are rolling.
+9	(A video clip was played.)
+10	MR. MURROW: Good evening. This is See It
+11	Now, produced by the partnership of Friendly and
+12	Murrow and presented by ALCOA, the Aluminum Company
+13	of America. Tonight, the second half of a report
+14	on cigarettes and cancer.
+15	(Inaudible word.)
+16	Nonetheless, each major cigarette producer has
+17	been conducting its own experiments on this
+18	problem.
+19	This is the Richmond laboratory of one of the
+20	major producers.
+21	Dr. DuPuis: I am Dr. Robert N. DuPuis,
+22	chairman of the Industry Technical Group of the
+23	Tobacco Industry Research Committee.
+24	Our primary objective is to analyze all of the
+25	components of smoke. Of course, we do a great deal
+0085
+1	of research on analysis and technology of tobacco
+2	itself. But even if we knew all of the components
+3	of tobacco, we still would not know the components
+4	of smoke. And since smoke is what we sell, we feel
+5	that we should emphasize this phase of research.
+6	After we have produced the smoke and separated
+7	it into fractions, the next step is to identify
+8	these fractions. These are then identified either
+9	photographically or on the oscilloscope. The
+10	oscilloscope is now demonstrating the means of
+11	identification of one of the smoke components.
+12	Using these instruments, we have isolated and
+13	identified some three dozen components of smoke.
+14	Many more will be identified. As we find these
+15	components, we publish the results of our work in
+16	technical journals which are available to any
+17	scientist in any part of the world. So far, we
+18	have found none that give us any cause for concern.
+19	If we do find any that we consider harmful -- and
+20	so far we have not -- we will remove these from
+21	smoke.
+22	(The playing of the video clip concluded.)
+23	BY MR. ACOSTA:
+24	Q. That's end of the clip. Dr. Kyriakoudes, can
+25	you tell us who that was that was speaking in the very
+0086
+1	beginning of that clip?
+2	A. Initially that was Edward R. Murrow, a
+3	journalist and pioneering television journalist from the
+4	1950s.
+5	Q. All right. And was that clip from a show that
+6	he did in 1955?
+7	A. Yes. That's from his news program See It Now.
+8	Q. And the person that next spoke, Dr. DuPuis, do
+9	you remember which company he worked for?
+10	A. Yes. He was a scientist with Philip Morris.
+11	Q. And is what he said about finding -- let me
+12	strike that.
+13	Is what he said about finding constituents in
+14	the smoke or agents in the smoke or cancer causes
+15	chemicals in the smoke consistent with what at least
+16	some of the defendants knew about cigarette smoke before
+17	1954?
+18	MR. GERAGHTY: Objection to form.
+19	MR. KOETHE: Objection.
+20	THE WITNESS: No, it's not consistent unless
+21	one -- you know, unless he has no concern
+22	whatsoever for human life.
+23	BY MR. ACOSTA:
+24	Q. I'm going to ask it again in a different way.
+25	Is what Dr. DuPuis said about not finding any harmful
+0087
+1	chemicals in smoke consistent with what was in some of
+2	the cigarette company defendants' own documents before
+3	1954?
+4	MR. GERAGHTY: Objection to form.
+5	THE WITNESS: No, it's not consistent.
+6	BY MR. ACOSTA:
+7	Q. And in what way isn't it consistent?
+8	MR. GERAGHTY: Same objection.
+9	THE WITNESS: Well, industry documents clearly
+10	identify the harmful carcinogens in the smoke.
+11	BY MR. ACOSTA:
+12	Q. And Dr. DuPuis said what about them?
+13	A. He said that he had identified none that are
+14	of concern.
+15	Q. And what did he say they would do if they
+16	found them?
+17	A. If they found any, they would remove them.
+18	Q. Now, about that time did the design of the
+19	cigarette go through changes?
+20	A. Yes, it did.
+21	MR. GERAGHTY: I'm going to object to the
+22	form.
+23	BY MR. ACOSTA:
+24	Q. Now, when I say that, I'm not asking you to
+25	talk about cigarette design from an expert's point of
+0088
+1	view. What I am asking you is did the typical cigarette
+2	change from one kind to another in the mid 1950s?
+3	A. Yes, it did change.
+4	Q. Okay. In what way?
+5	A. The cigarette market in the 1950s very quickly
+6	saw the explosion in filter cigarettes in terms of what
+7	was being offered for sale to the public.
+8	Q. And who chose to put filters on the
+9	cigarettes?
+10	MR. GERAGHTY: Objection to form.
+11	THE WITNESS: Well, the manufacturers put the
+12	filters on the cigarettes.
+13	BY MR. ACOSTA:
+14	Q. And did they come out with new brands that
+15	contained filters after this Frank Statement and about
+16	the time that Dr. DuPuis was talking about looking for
+17	things in smoke?
+18	A. Yes. New brands came out, older brands were
+19	put on with filter and sold as a filter variety, and
+20	then new brands came out with filters.
+21	Q. When did Winstons come out?
+22	A. Winstons came out in the 1950s as a filter
+23	cigarette.
+24	Q. How about Marlboro?
+25	A. Marlboro was reformulated and introduced as a
+0089
+1	filter cigarette with a new advertising image.
+2	Q. How about Benson & Hedges?
+3	A. Benson & Hedges also became a filter cigarette
+4	in the 1950s.
+5	Q. How about Salem?
+6	A. Salem, also a menthol cigarette with a filter.
+7	Q. And how about, oh --
+8	A. True.
+9	Q. — Kent.
+10	A. Yeah. Kent would be perhaps the most notable
+11	filter cigarette, yes.
+12	Q. Why was it notable?
+13	A. Well, Kent expressly advertised its filter as
+14	having positive health properties, being -- you know,
+15	that it would filter out whatever might be harmful.
+16	Q. How about Parliament?
+17	MR. GERAGHTY: I'm sorry. Excuse me. Object
+18	to the form and move to strike.
+19	BY MR. ACOSTA:
+20	Q. How about Parliament?
+21	A. Also a filter cigarette.
+22	Q. And did Parliament also make assertions about
+23	safety?
+24	MR. GERAGHTY: Objection to the form.
+25	THE WITNESS: Yes. In television commercials
+0090
+1	and print ads, yes, it did.
+2	BY MR. ACOSTA:
+3	Q. Do you remember any particular kinds of
+4	television ads involving filter cigarettes and nonfilter
+5	cigarettes where there were comparisons made on TV ?
+6	A. Yes. I mean, there were -- a typical
+7	television advertisement from this period would be, you
+8	know, to blow smoke through a handkerchief to indicate
+9	that, you know, tar had been filtered out or, you know,
+10	at least harmful elements had been filtered out, showing
+11	the products of filtered smoking and comparing that to
+12	unfiltered smoke as being cleaner and therefore more
+13	healthful.
+14	Q. Do you recall the discussion we had earlier
+15	about the tobacco industry research committee?
+16	A. Yes, I recall that.
+17	Q. Do you have a clip which indicates their
+18	announcement on television to the public about what some
+19	of the things that they did?
+20	A. Yes. There is actually a couple of clips.
+21	Q. Okay. Why don't we show those. We'll
+22	identify them as Exhibit 43 and 44.
+23	(Plaintiffs Exhibit 43, Video Clip of a
+24	Timothy Hartnett interview, and Plaintiffs Exhibit
+25	44, Video Clip of a Clarence Cook Little interview,
+0091
+1	were marked for identification.)
+2	MR. GERAGHTY: And these are also from the See
+3	It Now program, Howard?
+4	MR. ACOSTA: I think so. I think they are.
+5	MR. KOETHE: Subject to seeing this, I'm going
+6	to object on the grounds of foundation.
+7	(A video excerpt was played.)
+8	MR. MURROW: Former president of a major
+9	tobacco firm and chairman of the Industry Research
+10	Committee.
+11	MR. HARTNETT: I would like to quote from a
+12	statement released at the time the Tobacco Research
+13	Committee was formed. At that time we stated, We
+14	accept an interest in people's health as a basic
+15	responsibility paramount to every other
+16	consideration in our business. And that's where we
+17	stand.
+18	(The playing of the video excerpt concluded.)
+19	BY MR. ACOSTA:
+20	Q. Now, who was that that just spoke?
+21	A. That was Timothy V. Hartnett. He had been
+22	head of the Brown & Williamson Company, but was tapped
+23	to head up the TIRC soon after its creation.
+24	Q. And what did he do before he was tapped to
+25	head up the TIRC?
+0092
+1	A. He was head of Brown & Williamson.
+2	Q. Now, let me show you -- well, where did that
+3	clip come from?
+4	A. That clip is also from the See It Now
+5	television program.
+6	Q. Okay. Let me show you the next clip involving
+7	Clarence Cook Little, and I'll ask you some questions
+8	about it after I show it.
+9	(A video excerpt was played.)
+10	FIRST SPEAKER: Dr. Little, you are chairman
+11	of the Scientific Advisory Board of the Tobacco
+12	Industry Research Committee. What is the purpose
+13	of the committee?
+14	DR. LITTLE: Well, the purpose of the
+15	committee is to study in every possible way the
+16	relations between smoking and human health.
+17	FIRST SPEAKER: Have any cancer causing agents
+18	been identified in cigarettes?
+19	DR. LITTLE: No, none whatever, by either the
+20	cigarettes or in any product of smoking as such.
+21	(The video excerpt was concluded.)
+22	BY MR. ACOSTA:
+23	Q. Based upon your investigation and research,
+24	was that statement correct?
+25	MR. GERAGHTY: Objection to the form.
+0093
+1	THE WITNESS: No, that was an incorrect
+2	statement.
+3	BY MR. ACOSTA:
+4	Q. And I'm speaking specifically about the
+5	finding of any carcinogenic substance in cigarette
+6	smoke.
+7	A. Little says none whatsoever had been found,
+8	and that's incorrect.
+9	Q. Now, what show was that from, clip from?
+10	A. That's also from Edward R. Murrow's See It
+11	Now.
+12	Q. Did the cigarette companies at that time
+13	continue to deny that smoking caused any disease?
+14	MR. GERAGHTY: Objection to form.
+15	THE WITNESS: Yes, they continued to deny that
+16	cigarettes caused any disease.
+17	BY MR. ACOSTA:
+18	Q. Now, did anything happen to their -- their
+19	sales in terms of the amounts of cigarettes they were
+20	selling in the 1950s as a result of any publicity
+21	involving cancer?
+22	MR. GERAGHTY: Objection to form.
+23	THE WITNESS: Well, if you are talking about
+24	total sales of cigarettes sold, the general trend
+25	in the 1950s was an increase.
+0094
+1	BY MR. ACOSTA:
+2	Q. All right. Let me ask you the question a
+3	different way. What was the general trend of sales of
+4	cigarettes during the 1950s?
+5	A. Upward.
+6	Q. Now, have you reviewed any cigarette company
+7	defendant documents about filter cigarettes?
+8	A. I have.
+9	Q. And have you reviewed any, for example, from
+10	Philip Morris?
+11	A. Yes, I have.
+12	Q. Did you see anything in any of Philip Morris's
+13	documents indicating the efficacy or nonefficacy,
+14	whether the filter worked or didn't work on their
+15	cigarettes?
+16	MR. GERAGHTY: Objection to form.
+17	THE WITNESS: Yes, I did.
+18	BY MR. ACOSTA:
+19	Q. What did you see in the Philip Morris
+20	documents?
+21	A. References.
+22	MR. GERAGHTY: Same -- I'm sorry. Same
+23	objection.
+24	THE WITNESS: Philip Morris referred to the
+25	illusion of filtration as they marketed a health
+0095
+1	cigarette essentially as a marketing device, using
+2	the filter as a device that people would think was
+3	healthier but, in fact, offered merely the
+4	illusion.
+5	MR. GERAGHTY: Object and move to strike the
+6	response.
+7	BY MR. ACOSTA:
+8	Q. In your research and investigation, did you
+9	see any public statement by Philip Morris to the effect
+10	that its filtration was an illusion?
+11	MR. GERAGHTY: Objection to the form.
+12	THE WITNESS: No, I never saw them make a
+13	public statement to that effect.
+14	BY MR. ACOSTA:
+15	Q. Did Philip Morris advertising tend to suggest
+16	that filters on their cigarettes were effective?
+17	MR. GERAGHTY: Object to the form.
+18	THE WITNESS: Yes.
+19	BY MR. ACOSTA:
+20	Q. How about the other cigarette company
+21	defendants? Did they make similar suggestions in their
+22	advertising?
+23	MR. KOETHE: Objection.
+24	THE WITNESS: Yes, they did.
+25	BY MR. ACOSTA:
+0096
+1	Q. Now, in the later 1950s, did the cigarette
+2	company defendants, including Liggett & Myers, form
+3	another trade group in addition to the TIRC?
+4	MR. GERAGHTY: Objection to form.
+5	THE WITNESS: Yes, they did in 1958.
+6	BY MR. ACOSTA:
+7	Q. And what was the name of that group?
+8	A. The Tobacco Institute.
+9	Q. And what was the Tobacco Institute?
+10	MR. GERAGHTY: Objection to form.
+11	THE WITNESS: The Tobacco Institute was a
+12	lobbying and public relations organization designed
+13	to deflect, counter the charge that cigarettes were
+14	implicated in any form of disease and to further
+15	the business interests of the tobacco industry as a
+16	whole.
+17	Q. Who funded the --
+18	MR. GERAGHTY: Excuse me.
+19	BY MR. ACOSTA:
+20	Q. Who funded the tobacco institute?
+21	MR. GERAGHTY: I'm sorry. Move to strike the
+22	last response.
+23	BY MR. ACOSTA:
+24	Q. Who funded the Tobacco Institute?
+25	A. It was funded by the member tobacco
+0097
+1	manufacturers, member corporations that were tobacco
+2	manufacturers. They were assessed a fee.
+3	Q. And who were the manufacturers that began the
+4	Tobacco Institute?
+5	A. That would be the defendants in this case with
+6	some -- the names and mergers and the like have changed
+7	some of that, but American Tobacco, Philip Morris
+8	Tobacco, the Philip Morris Company, Lorillard, Liggett &
+9	Myers, Brown & Williamson.
+10	Q. Any others?
+11	A. And R. J. Reynolds.
+12	Q. Now, did the Tobacco Institute make public
+13	statements on behalf of the cigarette company
+14	defendants?
+15	A. Yes, it did.
+16	Q. And what was the nature of their public
+17	statements?
+18	A. Well, principally, their public statements
+19	denied -- characterizing them as a whole, denied that
+20	cigarettes were implicated in causing any disease. They
+21	also discussed ongoing research efforts by the tobacco
+22	industry to find the true cause -- true cause of these
+23	diseases.
+24	Q. Now, did the Tobacco Institute publish
+25	anything for public -- public use, public reading?
+0098
+1	A. Yes, it published newsletters and regular
+2	publications on tobacco and health.
+3	Q. Let me show you something after I give it to
+4	the defendants.
+5	(Plaintiffs Exhibit 1583, Document titled
+6	Research Reports on Tobacco and Health,
+7	identified.)
+8	BY MR. ACOSTA:
+9	Q. Let me show you Plaintiffs Exhibit 1583 and
+10	ask you to identify it.
+11	MR. GERAGHTY: We are going to object to the
+12	use of the document on the grounds that it was not
+13	part of the narrowed list of disclosure documents.
+14	THE WITNESS: What was your question? Go
+15	ahead.
+16	BY MR. ACOSTA:
+17	Q. Yeah. Would you tell us what the last exhibit
+18	was that I handed to you is?
+19	A. Yeah. This is a publication by the Tobacco
+20	Institute called Research Reports on Tobacco and Health.
+21	Q. Without reference to that particular exhibit,
+22	would you tell me how often the Tobacco Institute would
+23	make public statements about smoking and health back in
+24	the 1950s, early 1960s?
+25	A. Frequently. Typically, whenever there was a
+0099
+1	news item or news event in which the research on smoking
+2	and health or on investigations into advertising or any
+3	of their practices, the tobacco industry would try to
+4	make its voice heard in those media reports. So from
+5	1958 onward with the Tobacco Institute, they worked hard
+6	to make sure that their position was reflected in any
+7	news item discussing smoking and health.
+8	Q. Between 19 —
+9	MR. GERAGHTY: I'm sorry. Let me move to
+10	strike that.
+11	BY MR. ACOSTA:
+12	Q. Between 1954 when the Frank Statement was
+13	issued and the time the Tobacco Institute was started
+14	up, did the cigarette company defendants make public
+15	statements when there were reports of links between
+16	cancer and cigarette smoking?
+17	A. Yes, frequently.
+18	Q. And in what way did they do that?
+19	A. They did this by speaking to reporters. They
+20	did this by sponsoring the ghost writing of books on
+21	smoking and health. They did this by meeting with
+22	editors of national magazines, trying to persuade them
+23	to include their viewpoint in their publications. They
+24	did this through meeting with the producers of
+25	television programs to get their position across, to get
+0100
+1	their position included in their programing, news
+2	programing, for example.
+3	MR. GERAGHTY: I'm sorry. Object to the form
+4	of the last question.
+5	BY MR. ACOSTA:
+6	Q. What was the position or viewpoint of the
+7	cigarette company defendants at that time?
+8	MR. GERAGHTY: Objection to form.
+9	THE WITNESS: That cigarettes were not the
+10	cause of disease, particularly lung cancer.
+11	BY MR. ACOSTA:
+12	Q. And did their viewpoint and position get
+13	published in newspaper articles?
+14	MR. ACOSTA: Objection.
+15	MR. GERAGHTY: Objection to form.
+16	THE WITNESS: Yes, it did.
+17	BY MR. ACOSTA:
+18	Q. Can you give us some idea of how many
+19	newspaper articles the cigarette company viewpoint was
+20	stated in?
+21	MR. GERAGHTY: Objection to form.
+22	THE WITNESS: I -- you know, I've looked at
+23	hundreds and hundreds.
+24	BY MR. ACOSTA:
+25	Q. And were those newspapers that were published
+0101
+1	around the United States?
+2	A. Yes, all across the United States. I've look
+3	at papers from a wide variety of locations.
+4	Q. Can you give us some idea of, you know, a
+5	typical article, what it -- what it might -- might say?
+6	MR. GERAGHTY: I'm going to object to the form
+7	of the question.
+8	THE WITNESS: Yes, I can. Say in the 1950s,
+9	an article perhaps indicating from -- or let me
+10	rephrase that. An article discussing perhaps a new
+11	scientific study showing additional evidence that
+12	smoking is a cause of lung cancer. Typically then
+13	the tobacco industry, the TIRC and the Tobacco
+14	Institute would rebut those statements and indicate
+15	flaws in the research, or that, you know,
+16	statistical associations are not proof; men are not
+17	mice in terms of animal studies; dogs are not an
+18	appropriate vehicle for studying inhalation studies
+19	or we need more laboratory evidence or what have
+20	you.
+21	Another category would be stories that
+22	initiated from the Tobacco Institute itself, or I
+23	should say initiated their position that, you know,
+24	it was pollution, for example, that may be the
+25	cause of the lung cancer epidemic, or that genetic
+0102
+1	or constitutional factors might be the cause. And
+2	so there were a variety of ways in which they got
+3	their message out, both in rebutting the emerging
+4	science and also in advertising their own work that
+5	sought to discredit the relationship between
+6	smoking and disease.
+7	MR. GERAGHTY: I move to strike as
+8	nonresponsive.
+9	BY MR. ACOSTA:
+10	Q. Based upon your investigation, do you have an
+11	opinion as to why they did that?
+12	MR. GERAGHTY: Objection to form.
+13	THE WITNESS: I do.
+14	BY MR. ACOSTA:
+15	Q. What's that?
+16	A. Well, they feared --
+17	MR. GERAGHTY: Same objection. I'm sorry.
+18	Same objection.
+19	BY MR. ACOSTA:
+20	Q. Let me start over, subject to their objection.
+21	Do you have an opinion as to why the cigarette
+22	company defendant printed their point of view in so many
+23	ways to the public in the news media?
+24	A. I do.
+25	Q. And what's that?
+0103
+1	A. Well, they wanted to sow doubt as to the -- in
+2	the minds of the consuming public as to the nature of
+3	the relationship between smoking and disease. To put it
+4	another way, they didn't want people to believe it. And
+5	they did this because they feared the effect of
+6	widespread belief that smoking would cause disease on
+7	their business.
+8	Q. And what do you mean by on their business?
+9	A. By on their ability to sell cigarettes.
+10	MR. GERAGHTY: I object to the form of the
+11	last question.
+12	BY MR. ACOSTA:
+13	Q. What do you mean by on their business?
+14	MR. GERAGHTY: Same objection.
+15	MR. ACOSTA: Well, wait a minute. You've got
+16	the objection. You can keep that objection. Okay?
+17	MR. GERAGHTY: All right. You didn't say it
+18	that time.
+19	MR. ACOSTA: You are right. I apologize.
+20	THE WITNESS: By their business -
+21	BY MR. ACOSTA:
+22	Q. Wait, wait. What did you mean when you said
+23	"by their business"?
+24	A. "By their business", I mean on their ability
+25	to sell cigarettes.
+0104
+1	Q. And what happened to their ability to sell
+2	cigarettes during the 1950s in conjunction with their
+3	response to this cancer problem?
+4	MR. KOETHE: Objection.
+5	MR. GERAGHTY: Objection to form.
+6	THE WITNESS: Well, they sold more and more
+7	cigarettes year after year.
+8	BY MR. ACOSTA:
+9	Q. Okay. Let me ask it a different way. What
+10	happened in the 1950s after the Frank Statement with
+11	respect to the cigarette company defendants' sales of
+12	their products?
+13	MR. KOETHE: Objection.
+14	THE WITNESS: Sales increased over time.
+15	BY MR. ACOSTA:
+16	Q. And do you have an opinion as to whether or
+17	not their sales increased as a result of the position
+18	and point of view that cigarettes -- cigarette company
+19	defendants took with respect to cancer?
+20	MR. GERAGHTY: Objection to form.
+21	THE WITNESS: I do.
+22	BY MR. ACOSTA:
+23	Q. And what's that opinion?
+24	MR. ACOSTA: Same objection.
+25	THE WITNESS: My opinion is that the public
+0105
+1	relations effort to sow doubt in the minds of the
+2	public on the relationship between smoking and
+3	disease helped promote the sale of cigarettes.
+4	BY MR. ACOSTA:
+5	Q. How long did cigarette sales rise in this
+6	country after 1954?
+7	A. For 22 years. I'm sorry. I misspoke. Until
+8	1984, so --
+9	Q. Until 1984.
+10	A. Would you do that one again?
+11	Q. Okay.
+12	A. I'm giving you the wrong numbers.
+13	Q. After 1954, how long did cigarette sales in
+14	this country continue to rise?
+15	A. Cigarette sales peaked in 1982.
+16	MR. ACOSTA: Why don't we take our lunch break
+17	at this point and start up again after lunch. Take
+18	an hour?
+19	THE WITNESS: Yeah.
+20	MR. GERAGHTY: Yeah.
+21	(A luncheon recess was had at 12:35 p.m.)
+22	(End of Volume 1.)
+23
+0106
+I	CERTIFICATE OF OATH
+4	STATE OF FLORIDA
+5	COUNTY OF HILLSBOROUGH
+7
+8	I, the undersigned authority, certify that
+9	Louis Kyriakoudes, Ph.D., personally appeared before me
+10	and was duly sworn.
+II
+12	WITNESS my hand and official seal this 2nd day of
+13	February, 2009.
+14
+20
+21	Nathan F. Perkins, RMR Notary Public - State of Florida
+22	My Commission Expires: 7/18/09 Commission No. DD438873
+0107
+1	REPORTER'S CERTIFICATE
+3	STATE OF FLORIDA
+4	COUNTY OF HILLSBOROUGH
+5
+6	I, Nathan F. Perkins, Registered Merit Reporter,
+7	certify that I was authorized to and did
+8	stenographically report the deposition of Louis
+9	Kyriakoudes, Ph.D.; that a review of the transcript was
+10	requested; and that the transcript is a true and
+11	complete record of my stenographic notes.
+12
+13	I further certify that I am not a relative,
+14	employee, attorney, or counsel of any of the parties,
+15	nor am I a relative or employee of any of the parties'
+16	attorney or counsel connected with the action, nor am I
+17	financially interested in the action.
+18
+19	Dated this 2nd day of February, 2009.
+20
+23	_________
+24	Nathan F. Perkins, RMR
+0108
+1	WITNESS' SIGNATURE PAGE
+2	PLEASE ATTACH TO VOLUME 1 OF THE DEPOSITION OF KYRIAKOUDES, PH.D., TAKEN ON JANUARY 26, 2009, IN I
+3	ENGLE PROGENY CASES, TOBACCO LITIGATION, ALL C
+4	PAGE LINE CORRECTION AND REASON THEREFOR
+10
+20
+I HAVE READ THE FOREGOING PAGES AND, EXCEPT FOI
+21	CORRECTIONS OR AMENDMENTS INDICATED ABOVE, I SUBSCRIBE TO THE ACCURACY OF THIS TRANSCRIPT.
+23	LOUIS K YRI AKOUDES, Ph.D.	DATE
+25	WITNESS TO SIGNATURE	DATE

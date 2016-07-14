@@ -1,0 +1,1554 @@
+﻿SUPERIOR COURT OF THE STATE OF CALIFORNIA FOR THE COUNTY OF SAN DIEGO
+Coordination Proceedings	)
+Special Title (Rule 1550(b))	) JCCP 4042
+)
+In re TOBACCO CASES II	)
+)
+This document relates to:	)
+)
+Willard R. Brown, et al. v.	)
+The American Tobacco Co., Inc., ) et al.	)
+)
+(San Diego Superior Court	)
+Case No. 711400) ) _)
+AUGUST 23, 2012
+Videotaped Deposition of ELIZABETH COBBS HOFFMAN, Ph.D., held at 750 B Street, 22nd Floor, San Diego, California, beginning at 9:40 a.m., on the above date, before Kimberly S. Thrall, a Registered Professional Reporter and Certified Shorthand Reporter.
+Golkow Technologies, Inc.
+877.370.3377 ph|917.591.5672 fax deps@golkow.com
+APPEARANCES:
+ROBINSON, CALCAGNIE, ROBINSON, SHAPIRO, DAIVS, INC. BY: KEVIN F. CALCAGNIE, ESQUIRE 19 Corporate Plaza Newport Beach, California 92660 (949) 720-1288 kcalcagnie@rcrsk.com Counsel for Plaintiff Class MURRAY LAW FIRM
+BY: STEPHEN B. MURRAY, JR., ESQUIRE 650 Poydras Center Suite 2150
+New Orleans, Louisiana 70130 (504) 525-8100
+smurrayjr@murray-lawfirm.com Counsel for Plaintiff Class
+DLA PIPER LLP (US)
+BY: BRIAN A. FOSTER, ESQUIRE 401 B Street, Suite 1700 San Diego, California 92101 (619) 699-2630 brian.fosterQdlapiper.com Counsel for Lorillard Tobacco Company
+JONES DAY
+BY: STEVEN N. GEISE, ESQUIRE 12265 El Camino Real, Suite 200 San Diego, California 92130-4096 (858) 413-1200 sngeise0 j onesday.com
+Counsel for R.J. Reynolds Tobacco Company
+MUNGER, TOLLES & OLSON, LLP BY: MARTIN D. BERN, ESQUIRE 560 Mission Street, 27th Floor San Francisco, California 94105-2907 (415) 512-4012 martin.bern@mto.com
+Counsel for Philip Morris USA, Inc.
+ALSO PRESENT:
+Casey Howell, Videographer
+EXAMINATION INDEX ELIZABETH COBBS HOFFMAN, Ph.D PAGE BY MR. MURRAY..................................6
+EXHIBIT INDEX
+EXHIBIT	DESCRIPTION	PAGE
+Hoffman-1	Curriculum Vitae of Elizabeth
+Cobbs Hoffman	20
+DEPOSITION SUPPORT INDEX
+DIRECTION TO WITNESS NOT TO ANSWER
+Page 8 Line 13 Page 53 Line 25
+REQUEST FOR PRODUCTION OF DOCUMENTS
+(None)
+STIPULATIONS (None)
+QUESTIONS MARKED (None)
+SAN DIEGO, CALIFORNIA; THURSDAY, AUGUST 23, 2012
+9:40 A.M.
+THE VIDEOGRAPHER: Good morning. We're now on the record. My name is Casey Howell, videographer for Golkow Technologies. Today's date, August 23rd, 2012. The time is 9:40 a.m.
+This video deposition is being held in San Diego, California, in the matter of Tobacco Cases II, et al., for the Superior Court, State of California, County of San Diego. The deponent is Dr. Elizabeth Cobbs Hoffman.
+Would counsel please identify themselves for the record.
+MR. MURRAY: Stephen Murray, Jr., on behalf of the plaintiff class.
+MR. CALCAGNIE: Kevin Calcagnie on behalf of plaintiffs.
+MR. GEISE: Steven Geise on behalf of R.J. Reynolds Tobacco Company.
+MR. BERN: Martin Bern; Munger, Tolies & Olson on behalf of Philip Morris USA, Inc.
+MR. FOSTER: And Brian Foster on behalf of Lorillard Tobacco Company.
+Your court reporter is Kimberly Thrall. She will now administer the oath.
+ELIZABETH COBBS HOFFMAN, Ph.D., having been first duly sworn, testified as follows:
+EXAMINATION
+BY MR. MURRAY:
+Q. Good morning, Dr. Hoffman. I understand you've been deposed many times before; is that correct?
+A. Yes.
+Q. Okay. So I'll forego the introductory and instructions. The only thing that I would point out is that sometimes I am very slow in delivering my questions, so I would ask until -- that you wait until I've completed my question to provide your answer. And I'll let you know if my question is not complete once you start answering it. I apologize. That's just my -I guess it's my Southern nature.
+Dr. Cobbs Hoffman, let me begin by saying just on a personal note, I wish we were here talking about something other than tobacco because many of your papers appear to be on fascinating subjects.
+A. Thank you.
+Q. But since we are here to talk about tobacco,
+let me begin my looking at your report that -- or your declaration that you offered in the case here in Brown versus Philip Morris, et al., captioned "In Re: Tobacco Cases II."
+Let me begin by asking, do you have any opinions, other than those that are expressed in the declaration that you provided on March 12, 2012?
+MR. GEISE: Objection. Vague.
+THE WITNESS: Not at this time with regard to the research I undertook, but I could change that if I was asked to offer additional opinions or to do additional research.
+BY MR. MURRAY:
+Q. Have you reviewed any of the expert reports of any of the plaintiffs' experts or expert declarations of any of the plaintiffs' experts in this case?
+A. Yes.
+Q. Which plaintiffs' experts were those that you reviewed?
+A. I reviewed one, and it was —
+Q. And who was that?
+A. That was Janette Greenwood.
+Q. Did you have any criticisms of Janette Greenwood's report?
+A. No.
+Q. Okay. Do you intend to offer any opinions with respect to Janette Greenwood's report?
+A. No.
+Q. Now, I understand from your declaration that you first became involved in researching tobacco issues in 1999; is that correct?
+A. That's approximately correct.
+Q. Okay. And how did that involvement begin?
+A. It began with a phone call from a colleague of mine in the historical profession, who had been working as an expert witness. And he asked if I was interested perhaps in doing similar research.
+Q. Would that be research as an expert witness? That is, when he first approached you, did he ask you if you were interested in doing your research as an expert witness for the tobacco companies?
+MR. GEISE: And, Counsel, I'm going to object.
+I thought the first guestion was foundational in nature as to how long she's been researching this pursuant to the declaration, but I think now the questions are getting into areas that are prohibited according to the stipulation in the case.
+MR. MURRAY: Are you going to instruct her not to answer?
+MR. GEISE: Yes.
+MR. MURRAY: Okay.
+BY MR. MURRAY:
+Q. Prior to 1999, had you ever conducted any historical research into the area of smoking, cigarette smoking?
+A. Not into cigarette smoking per se, into the production and general use of tobacco in the United States, yes, in the sense that it's a part of the larger picture of American life.
+Q. Had you ever published any — and I'm talking prior to 1999. Had you ever published any writings on the subject of tobacco use in the United States?
+A. No, not prior to that time.
+Q. Have you, subsequent to 1999, had any publications drafted by or written by you with respect to smoking in the United States?
+A. Yes.
+Q. And what would those have been? I apologize. I've looked at your CV and I didn't see that, at least according to the title, indicated to me that they were directed to smoking.
+A. I have a textbook that's gone into three editions, and I believe in each of the three editions, there were matters that pertained to smoking in the United States.
+Q. Could you refer me to which -- to the name of that text, please?
+A. Certainly. The name of the textbook is "Major Problems in American History: 1865 to the Present."
+Q. And I did see that publication among your listed publications. If I may ask, what is meant by "Major Problems in American History" in that textbook?
+A. Major problems in American history would be a term that historians tend to use. When we use the word "problem," we don't mean it in the same way that is often used in common parlance, meaning I stubbed my toe and it's a problem for me. It's meaning major guestions, major periods in American history, and how historians have categorized and analyzed those periods. So that type of textbook would concern major periods in American history.
+Q. As you use the term "problems," does that refer to questions that arise during those periods?
+A. Yes. That would be one way of looking at it.
+Q. Do you discuss controversies as to interpretation of historical events that arise during those periods?
+A. Yes. In this particular book, it's probably not exactly correct to call it a textbook, although it's used as a textbook in the sense that it's not one story
+as written by one historian, not one account.
+Instead it contrasts primary documents from a period with two different or sometimes three different historical interpretations of what happened, for example, why the United States got involved in World War I, and two different historians might have differing interpretations as to what was the critical turning point that led to that event.
+Q. And is your experience that that is a common phenomena in history, that is to say that historians looking at the same body of facts may reach different conclusions with respect to that body of facts?
+MR. GEISE: Objection. Vague.
+THE WITNESS: It depends. There would be some facts that historians generally would not have any disagreement on. But sometimes historians would have a disagreement about the causation, for example, and that could be a -- a source of debate amongst historians.
+BY MR. MURRAY:
+Q. Can that debate be — rather, can disagreements with respect to interpretation of historical events -excuse me -- vary according to or -- let me start that one again.
+Can disagreements, with respect to interpretations of historical events, arise because
+historians are reviewing different primary or secondary materials?
+MR. GEISE: Objection. Vague and ambiguous.
+THE WITNESS: Well, in a general sense, that's possible, but that's not the common way in which those disagreements would occur. Often historians are looking at the same materials.
+BY MR. MURRAY:
+Q. Uh-huh. And they draw different interpretations from those materials, and that's wherein the disagreements arise?
+MR. GEISE: Objection. Vague and ambiguous.
+THE WITNESS: That changes over time.
+BY MR. MURRAY:
+Q. Explain that to me how when you say "that changes over time."
+A. Well, to give an example, in the late 19th century, historians might have looked at the similar facts of slavery and disagreed whether slavery was beneficial for slaves or not.
+Q. Uh-huh.
+A. And that aspect of the controversy over time gets decisively answered because historians -- the historical profession doesn't just stay in one place arguing about the same things. There tends — they tend
+to achieve consensus, and then it may move on to a new level or a different level of discussion.
+Q. Can the progression of the discussion about certain historical phenomena arise as a result of a broader view of the source documents that are being considered?
+MR. GEISE: Objection. Vague. Ambiguous.
+THE WITNESS: I don't —
+BY MR. MURRAY:
+Q. Well —
+A. I’m sorry. I don't understand that question.
+Q. Well, let me put it in the context of slavery, for instance, and the historical view of slavery.
+You would agree with me that there has been an evolution in the consensus as to whether or not slavery was beneficial for the slaves themselves?
+A. Yes. That's correct.
+Q. Has that change in consensus come about because historians have started to look at different source materials ?
+A. I wouldn't say that's the primary reason. But certainly, as new sources come to light, people consider those.
+Q. For instance, with respect to the beneficial aspects or alleged beneficial aspects of slavery, have
+the emergence of writings of slaves impacted the consensus view as to the alleged beneficial aspects of slavery?
+MR. GEISE: Objection. Vague. Ambiguous.
+Lack of foundation.
+THE WITNESS: In the 1930s under the New Deal, the Works Progress Administration gave grants to journalists to go out and take oral histories of slaves, and so that became a part of a new element of primary source material that was available to historians.
+That was not, I don't believe, the conclusive reason as to why our assessment of slavery changed, but certainly it enriched our understanding of it.
+BY MR. MURRAY:
+Q. So the Works Projects Administration interviews of slaves at least played a role in the evolution of the view of the alleged benefits of slavery?
+MR. GEISE: Objection. Vague. Ambiguous.
+Lack of foundation.
+THE WITNESS: I — I think that before we get too deeply into that subject, I must tell you that that's not my primary field of research. My sense is that it was larger events like World War II and the Nazi genocide of the Jews that played the largest role in our reassessment of the effects of slavery on African
+Americans.
+BY MR. MURRAY:
+Q. Well, and I apologize. I didn't want to go too far down that road, but I'm just trying to understand some of the general concepts of the evolution of historical consensus.
+And, again, just speaking as a general precept, does the broader availability of primary source materials or the generation of additional primary source materials play a role in the development of consensus with respect to historical study?
+MR. GEISE: Objection. Vague. Ambiguous.
+Lack of foundation.
+MR. BERN: Objection. Overbroad.
+THE WITNESS: It would depend on the issue.
+BY MR. MURRAY:
+Q. Does that indicate that, with respect to some issues at least, the availability of new source documents can impact the historical consensus?
+MR. GEISE: Objection. Vague. Ambiguous.
+Lack of foundation. Calls for speculation.
+MR. BERN: Objection. Overbroad.
+THE WITNESS: It is speculative, but it may.
+BY MR. MURRAY:
+Q. Have you ever had any experience where that
+has, in fact, occurred?
+A. Yes.
+Q. Could you give me an example of that, please?
+A. I wrote a book on the history of the American Peace Corps, and I started out looking at American sources and, therefore, I was unaware, although I became aware, that there were similar organizations that began in other countries on a couple of cases before the west Peace Corps.
+So I extended the scope of my book and brought in information that I think wasn’t very well known to Americans, although it would have been known to people in the other countries, of course, that had fielded volunteers similarly.
+Q. And did that additional information, with respect to other countries, have an effect on your conclusions with respect to the U.S. Peace Corps?
+A. It broadened the context. So, yes, it had -it shaped my understanding of that organization.
+Q. Thank you.
+Getting back to your textbook, "Major Problems in American History," and you indicated that it had some discussion of smoking in American history, correct?
+Could you refer me to the chapters in that textbook that would have touched on the subject of smoking in American
+history?
+A. If I had the book in front of me, I could be more precise, of course. So this is a general estimation. There -- there is a chapter on what's called the "progressive period."
+Q. LJh-huh.
+A. That's an example of a major problem. It's a — it's a period in American history. And so historians have looked at this period of time and said here's the signal phenomenon that we think is important to talk about, although there would be other phenomena during the same period.
+So in the progressive period, I wrote in my introduction to that period, as I recall it, and also had some documents and some primary — secondary sources which talked about the harms of tobacco as being one of the concerns of especially reformers, but also government officials during the progressive period as cigarettes became mass produced, so, therefore, more widely available. So there was some in that chapter.
+Q. Okay. Was that introduction present in all three editions?
+A. As I recall --
+Q. And I apologize to interrupt you, but I just wanted to specify, with respect to the discussion of
+smoking.
+A. As I recall, it was, but I'm — I'm not sure. You know, you write an introduction slightly differently every time, but I believe it was.
+Q. And I apologize. What was the first year that you published "Major Problems In" -- or the first year that "Major" -- let me back up.
+When was the first edition of "Major Problems in American History" written?
+A. You know, because you have my CV in front of you and I don't, I -- I don't recall. I think it was published in 2000, but it might have been 2001. If you look under "Books," I think --
+Q. I'm looking under "Books," Dr. Cobbs Hoffman. And I apologize. I -A. Go down here.
+Q. — don't see years of publication. And that's —
+A. In that first column, doesn't it in the first column? I'm kind of looking upside down across the table here. Sorry.
+Q. Let me refer you. This is —
+A. Oh, yes, here it is.
+Q. — from your declaration.
+have been working on that in probably 2000.
+Q. Okay. Are there any other publications of yours that deal with smoking in American history?
+A. I don't believe so. I don't recall having written on it anywhere else except in those three editions of the book.
+Q. How about any articles? Have you published any articles with respect to smoking in American history?
+A. No, I have not.
+Q. I have the copy, as we just discussed, of your CV from — that was provided with your declaration in two thousand -- March of 2012.
+Do you have an updated CV since then?
+A. I always put new things as I go, but it would be substantially the same.
+Q. Do you have a copy of your most recent CV available today?
+MR. GEISE: Counsel, just to interrupt, I believe a copy of her most recent CV was produced with her reliance list last week. So that was provided to you.
+MR. MURRAY: And I apologize. I don’t have a copy of that CV in the -- or I'm not sure that I have a copy of that CV in the materials that I have.
+///
+BY MR. MURRAY:
+Q. I'm going to show you a copy of a CV and ask you if it appears to you that that CV is current. And feel free to take a moment to review and let me know if you've done an updated CV.
+A. Okay. Thank you.
+MR. GEISE: Well, Counsel -- do you know if the copy you provided last week was your most updated one?
+THE WITNESS: I believe so. I believe so, yes. This looks to me like the most up-to-date one.
+MR. MURRAY: Thank you. I'd like to attach this CV as Hoffman 1, please, Cobbs Hoffman 1.
+(Cobbs Hoffman Exhibit 1 was marked.)
+MR. GEISE: Counsel, do you have copies for -MR. MURRAY: No, I don't. I don't have additional copies.
+BY MR. MURRAY:
+Q. Dr. Cobbs Hoffman, do you have — do you hold any degrees in the field of sociology?
+A. No, I do not.
+Q. Okay. Would you consider yourself an expert in the field of sociology?
+A. No, I do not.
+Q. Do you hold any degrees in the field of psychology?
+A. No.
+Q. And would you consider yourself an expert in the field of psychology?
+A. No, I do not.
+Q. Thank you.
+Do you hold any degrees in the field of epidemiology?
+A. No.
+Q. And, again, you wouldn't hold yourself as an expert in the field of epidemiology?
+A. No.
+Q. How about the field of marketing? Do you have any degrees in the field of marketing?
+A. No, I do not.
+Q. And would you hold yourself out as an expert in the field of marketing?
+A. No.
+Q. How about market research? Do you have any degrees in the field of market research?
+A. No .
+Q. And would you hold yourself out as an expert in the field of market research?
+A. No, I would not.
+Q. Have you studied the field of smoking cessation?
+MR. BERN: Objection. Assumes facts not in the
+record.
+THE WITNESS: I have collected a lot of information on the public health efforts to convince people to quit smoking and on the development of -- of some of the quit-smoking clinics that have been widely put out there, but I'm not a medical expert on how you -- one goes about doing that.
+BY MR. MURRAY:
+Q. Do you hold or — have you studied the efficacy of smoking-cessation programs?
+MR. GEISE: Objection. Vague.
+THE WITNESS: You asked -- that would depend on what you mean by "the efficacy," I suppose.
+BY MR. MURRAY:
+Q. By "efficacy," I'm referring to -- and specifically at this point, to smoking-cessation programs as opposed to public-awareness campaigns or that type of thing, that is, publicly available quit-smoking programs.
+Have you studied, for instance, the success rate of those publicly available quit-smoking programs? A. Not in any in-depth way, no.
+Q. And would you hold yourself as a -- out as an expert with respect to the success rates of publicly
+available quit-smoking programs?
+A. No, I would not.
+Q. Have you studied -- and I'm now speaking generally in the -- as an academician and not with respect to your involvement in this case. But do you have — have you studied or do you have expertise in the field of the effect of advertising on the public?
+MR. GEISE: Objection. Vague.
+THE WITNESS: I'm sorry. Because you had a lot of qualifiers at the beginning of your sentence, I got a little lost in that.
+MR. MURRAY: Perfectly understandable.
+Can we have the question read back, please?
+THE WITNESS: Thank you.
+MR. MURRAY: That was one of those instances where I was telling you about where I speak slowly, and as a result, the question can be . . .
+(The following record was read by the reporter: "Q. Have you studied — and I'm now speaking generally as an academician and not with respect to your involvement in this case, but do you have -- have you studied or do you have expertise in the field of the effect of advertising on the public?")
+THE WITNESS: I have studied as a general academician, as a general American historian, the context of -- in which advertising was received in the United States.
+For example, in the book we just spoke about, "Major Problems in American History," in one of the editions, there's quite a long discussion of the rise of Madison Avenue and the — and the kind of critique that that also elicits in American society about the influence of advertisers and the critique of advertisers. So in that sense it's a part of the general picture of American history in which I am expert.
+BY MR. MURRAY:
+Q. Are you or would you hold yourself out as an expert in reviewing the text of specific advertisements and determining their likely effect on the audience to whom those advertisements are directed?
+MR. GEISE: Objection. Compound. Vague.
+THE WITNESS: I would not consider myself an expert in advertising development and advertising psychology or marketing or -- to the extent that that subject becomes more specific and is a part of the degree programs that you have already asked me about in which I acknowledged that I have not participated in.
+BY MR. MURRAY:
+Q. Do you have any -- do you hold yourself out as an expert in the field of addiction?
+MR. GEISE: Objection. Vague.
+THE WITNESS: No. I'm not a — a medical expert in any sense.
+BY MR. MURRAY:
+Q. You indicated that, in 1999, you first became involved with the issue of smoking and how — or let me correct that -- smoking in history. And in your declaration, you talk about defining questions to be considered as part of your historical study.
+How did you define the question that you were going to research in the -- in 1999, when you began researching smoking in history?
+A. In 1999, I began with a very general question, which was: To what extent had Americans been exposed to information about the harms of smoking, including the possibility of — of contracting cancer from that or other mortal, possibly mortal, diseases, as well as the hazards of addiction, and at what point did that information first begin to be current in American society. So that was my starting point.
+Q. In developing the question at first, did you decide to attempt to pinpoint a point in time at which
+knowledge of the hazards of smoking became -- and I think your -- there1s a term used in your report -"common knowledge"?
+A. Did I try to pin that in time?
+MR. GEISE: I'm going to object to the extent this calls for testimony beyond the scope of her opinions in this case. Vague and ambiguous as well.
+BY MR. MURRAY:
+Q. You can answer.
+A. Well, it was a part of that question, which was: When did this information become current and widely available? So that would help me pinpoint some time in which information that's widely available is, you know, commonly aware -- people are commonly aware of it.
+Q. When you began your inquiry in 1999, did you define a body of source materials that you would review for purposes of answering the general question?
+A. Yes.
+Q. And how did you define that body of source materials?
+A. The question in the historical method enables you to define the source materials that you need to consult. So the question establishes the parameters of the — of the research, and that's a very important part
+of the historical method, as would be true in other professional disciplines.
+So, in my particular case, since I wanted to know what information the public would have been exposed to, I needed to know what the variety of public sources would have been in different periods of time, because it does change over time. So that's how I began.
+Q. And did you include — let me ask, were you aware that in 1999, there were tobacco company documents available on -- for instance, on websites that were published by those tobacco companies?
+A. I don't know if I knew that right at the moment because I had not researched that issue, but I certainly became aware that there were tobacco company documents.
+Q. And did you conduct any review of those tobacco company documents?
+A. No, I did not.
+Q. Okay. Have you at any time conducted a review of tobacco company documents?
+A. No, I have not.
+Q. And why is it that you determined that a review of tobacco company documents was not necessary to consideration of the general question that you were -you began reviewing in 1999?
+overbroad.
+THE WITNESS: The historical question, as I had mentioned, defines the sources that are important to answering the question. And so following the professional method that I use and that I teach, I did not look at sources which would not help me answer that question.
+BY MR. MURRAY:
+Q. So was it your determination that documents contained within tobacco company archives were not pertinent to the question that you were asked -- asking the general question that you were asking?
+MR. GEISE: Objection. Vague. Overbroad. And lack of foundation.
+THE WITNESS: What I determined was that I was interested in the question of the information to which the public had been exposed about the harms of cigarette smoking. And so I would need to look at public documents that had been available to the public over this period of time and — and there were — you know, those were the relevant documents to look at. And those would not have included proprietary or internal documents that were not available.
+BY MR. MURRAY:
+Q. Now, I saw that, in numerous places in your
+declaration, you refer to public opinion polls that were conducted at various times in the history and development of awareness of smoking.
+Did you consider public opinion polls as informative in determining your understanding of the awareness of the health hazards of smoking?
+MR. BERN: Objection. Overbroad.
+THE WITNESS: I'm sorry. Would you just repeat the question, because there was a word in there that I — or if she could -MR. MURRAY: Could I get it read back, please. THE WITNESS: -- read it -- read it back for us. Yes. Thank you.
+(The following record was read by the reporter: "Q. Now, I saw that in numerous places in your declaration you refer to public opinion polls that were conducted at various times in the history and development of awareness of smoking.
+Did you consider public opinion polls as informative in determining your understanding of the awareness of the health hazards of smoking?")
+THE WITNESS: They were important, but I think it was the word "determining" which threw me off a
+little bit, because a historian would never use one kind of evidence to determine a conclusion. It might contribute to a conclusion or be corroborative of other evidence that you -- that you bring together and that you weigh, but they were important, if not determinative -- though, not determinative.
+BY MR. MURRAY:
+Q. So the public opinion polls that you reviewed certainly played a poll — a part in your -- a significant part in your deliberations as to public awareness of smoking and health?
+MR. GEISE: Objection. Vague. Ambiguous. Overbroad. Misstates her testimony.
+THE WITNESS: I — again, I think the word you're using puts more emphasis on that particular piece of evidence than I would actually place. It was a part of the mosaic of information that I looked at, and so it — it played a role, but I don't — I think significant role probably overstates it.
+BY MR. MURRAY:
+Q. Did the public opinion polls that you look at assist you in determining the impact of publicly available information on public perceptions with respect to smoking and health?
+Calls for speculation.
+THE WITNESS: They were of interest to me, and they played a role. But keep in mind that historians look at many periods of time in which there were no public opinion polls. And so, in the modern period, it's very interesting, of course, and it adds to our -adds to our understanding, but it's not determinative of our understanding.
+BY MR. MURRAY:
+Q. When you refer to "the modern period," what period in time would you be referring to with respect to the availability of public opinion polls?
+A. Scientific public opinion polls were pioneered in the early 1930s by a couple of, you know, towering individuals, George Gallup being one of them. Before that, there were other kinds of polling organizations, Literary Digest being the predecessor.
+But in the period since the 1930s, what was at the time called and is still sometimes called scientific polling became the predominant form of polling. And so it's become one of the kinds of information that historians of the modern period like myself will often refer to to supplement the other kinds of data that we have to work with.
+public opinion polls.
+Are you referring to the use of scientific methodologies to evaluate the accuracy of public opinion polls ?
+A. Well, because I'm not a polling expert and I've not had classes on that, I can't attest to polling design in any really specific way. But I can tell you that in the history of polling, that in this period of time the — the persons who were innovating this type of polling, they called it scientific.
+And their -- the persuasiveness of their work was demonstrated. For example, I think it was 1936 when Literary Digest predicted that Alf Landon would win the election. And as everyone in this room I hope knows, it was Franklin Delano Roosevelt who did. And it was George Gallup who predicted based on the use of what he was calling scientific polling who was able to make that determination correctly.
+Q. Okay. And that actually led me into my next question. I think you've addressed it, but just to confirm.
+You don't consider yourself an expert in the administration of public opinion polls?
+A. No. I have never administered a poll.
+Q. Do you consider yourself an expert in the
+generation; that is, the creation of public opinion polls ?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: I know something, of course, as a historian about how those polls were and are conducted and why Gallup was able to make the assertion that they were more scientific based on the random sampling, for example, that he used. But I've never generated a poll, and I would not consider myself qualified to devise or administer one.
+BY MR. MURRAY:
+Q. You would not consider yourself an expert in the science behind polling?
+A. Right. And the psychological or sociological science that provides a foundation for it, no.
+Q. And I take it you have no expertise in statistics as they relate to polling?
+A. Well, I understand them. I understand how -you know, the statistics I look at. In fact, in historical methods, my classes, we will often present polling results and ask students to discuss them and evaluate them. And so it's in that sense that I feel qualified to use polls, but I would not attempt to create or devise or administer one. I hope that's
+clear. I hope that's responsive.
+Q. As a historian, how do you evaluate polls? And I'm bringing it back to the context. You said that you and your students would discuss polling in a historical context, and I suppose it's -- well, let me strike what I suppose.
+But how, as a historian, do you evaluate those polls and the type of discussions that you were just telling me about?
+MR. GEISE: Objection. Vague. Ambiguous. Overbroad.
+THE WITNESS: Well, I could give you an example from my own historical work.
+BY MR. MURRAY:
+Q. Uh-huh. Please do.
+A. Yeah. I'm writing a book, and one of the chapters of the book concerns the Cold War and the onset of the Cold War and the decision by the United States under Harry Truman to take a more active role in, if you will, policing the world, making sure that things didn't get out of hand, so to speak.
+And so I did a lot of research on — in Truman's papers and the things that President Truman said. And I did research on what Congress debated and the — the votes that they took. And I was also curious
+about how the public thought about these issues or if the public thought about them at all.
+And so, as one supplement to a wide variety of information that I looked at and analyzed closely, I knew that scientific polling by that point was online, that we had those kinds of things which we wouldn't have had for the Civil War, for example.
+And so I went to George Gallup, and I -knowing that he's considered a -- one of the eminent pollsters, and looked at polls that had been taken by Gallup in Europe, in France and Britain and the United States, and I compared the level of interest that Americans had in these issues compared with the level of interest that Britons and the French had.
+And so I used polls to supplement, and essentially they became corroborative of trends that were fairly apparent in other ways as well. But they were very interesting to me.
+Q. As a historian, do you evaluate questioning biases in polls?
+MR. GEISE: Objection. Vague. Ambiguous. And overbroad.
+THE WITNESS: I would look closely at polls always to try to see what they're asking and what the scope of their question is and how it might or might not
+illuminate the question that I'm interested in.
+But I am not a — again, I'm not a poll- — polling expert in the sense that I could closely parse out whether the use of one word as opposed to another word would tend to lead the respondent in a particular direction. So I'm not a polling expert or certainly not somebody qualified to devise a poll, but I do closely analyze them for what they reveal.
+BY MR. MURRAY:
+Q. So you would analyze the questions posed by giving a poll in order to determine their -- its relevance to the question that you're -- the historical question you're trying to answer?
+A. Yes. You'd look closely at whether it was a pertinent poll or not.
+Q. And would you consider yourself an expert in determining whether or not a poll is pertinent to answering the historical question that you're attempting to resolve?
+A. Yes. It would be how it — and that's how I would use them, because otherwise I couldn't use them, but I've used them in my research since I was an undergraduate.
+Q. And in your study of polling as results to the answer — or trying to the find the answer to historical
+questions, have you consulted with pollsters to determine whether or not the polls that you choose to consider are reasonably reliable?
+MR. GEISE: Objection. Vague. Ambiguous.
+Lack of foundation.
+THE WITNESS: I have not met with a pollster, so to speak. So I have not consulted a polling expert of the sort you're describing.
+BY MR. MURRAY:
+Q. You indicated that you met with George Gallup with respect to your research in, I think it was called war attitudes in Europe.
+Did you actually meet with Mr. Gallup?
+A. No.
+Q. You reviewed his historical papers?
+A. I’ve reviewed some of the underlying documentation on maybe one poll that is now available to researchers. But for the most part that data is not available, and one just finds the -- not the raw results, but the finished results often in newspapers.
+Q. Uh-huh. Have you ever reviewed documents to determine the reliability of polls?
+MR. GEISE: Objection. Vague and ambiguous.
+MR. BERN: Objection. Overbroad.
+THE WITNESS: Yeah. That — that does seem to
+me very, very broad. I -- I -- I don't quite know what you mean, I guess.
+BY MR. MURRAY:
+Q. Well, for instance, with respect to Mr. Gallup's polls -A. Uh-huh.
+Q. — conducted with -- conducted on attitudes of the Cold War in Europe, did you consult any sources from the polling area of expertise to evaluate the reliability of those polls?
+A. No. I simply relied upon the published volumes by the Gallup organization that were available in my library.
+Q. Now, you also relied on some Gallup polls in formulating your opinions in this case, correct?
+MR. GEISE: Object to the form. Vague. Ambiguous — ambiguous.
+THE WITNESS: In my early work on this case, I was -- I consulted polls on the general awareness of the hazards of smoking, including addiction.
+BY MR. MURRAY:
+Q. And some of those were by the Gallup polling company, correct?
+A. Yes, that's correct.
+in your declaration in this case, correct?
+A. Yes.
+Q. Did you consult any polling authorities to evaluate the reliability of the polls, the Gallup polls, that you referred to in your opinions in this case?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: I never attempted to — to determine by speaking with polling experts whether or not George Gallup is reliable.
+BY MR. MURRAY:
+Q. That's not quite the answer to my question.
+And my question is whether you referred to any sources that evaluate the reliability of the specific poll -Gallup polls that you referred to in your declaration?
+MR. GEISE: Objection. Vague. Ambiguous. And overbroad.
+THE WITNESS: I did not seek out information that analyzed the reliability of the specific polls that I was using in the cases of Gallup, for example.
+BY MR. MURRAY:
+Q. Have you seen any comments on the Gallup polls that you relied upon from the Gallup company itself with respect to the utility of those polls in evaluating public awareness of smoking and health?
+A. No.
+Q. And not having seen them, I guess it's -- it would be fair to say that you haven't considered them in determining whether to use the Gallup company's statements with respect to the reliability of Gallup polls in deciding whether you would utilize them in forming your opinions in this case?
+MR. GEISE: Objection. Assumes facts not in evidence. Lack of foundation.
+THE WITNESS: This is a -- an area of vague recollection to me because I did not seek out -- I believe -- I can't remember if it was Gallup or Roper.
+I know there was a letter at some point that someone wrote. It just — it really is outside certainly what I intend to testify in this case. It's very far outside it.
+BY MR. MURRAY:
+Q. Getting back to the tobacco industry websites and tobacco industry documents, did you attempt to determine whether any of those documents contained any polling or public surveys conducted by the tobacco companies themselves with respect to awareness of smoking and health?
+A. Since I did not seek out those internal documents, the answer would be no.
+Q. Is that a question you asked? That is to say, did you pose the question as to whether or not -- to anyone, did you pose the question as to whether or not those industry documents may have contained any polling or surveys with respect to attitudes on smoking and health?
+A. No, I didn't, since that would have been inconsistent with the historical method.
+Q. How would reference to corporate or -- let me back up.
+How would reference to the tobacco documents, surveys or polls, with respect to attitudes on smoking and health, be inconsistent with the historical method?
+MR. GEISE: Objection. Assumes facts not in
+evidence.
+THE WITNESS: In the historical method, the -one of the critical elements of the method, and there are several, but one of the first is to determine what sources are relevant to answering the question to eliminate the wide variety of information out there that may have a tangential relationship to whatever question you're posing.
+So, in my definition of the question, it was quite clear to me that I did not need to know what was going on inside the tobacco companies to know what the
+general public was being exposed to in the way of information about the harms of smoking.
+BY MR. MURRAY:
+Q. Have you researched or studied, at any point in your career, political — let's say a presidential campaign?
+A. That's not the emphasis of my research, but certainly, yes, I have, as I just described in talking about Alf Landon versus Franklin Roosevelt.
+Q. Have you reviewed polls in connection with your study of presidential campaigns?
+A. No.
+MR. GEISE: Objection. Misstates her testimony.
+THE WITNESS: Because that's not the focus of my research, I generally don't seek out polling information on that particular topic.
+BY MR. MURRAY:
+Q. Let me pose a hypothetical to you. If you wanted to study public perceptions about a candidate during a given campaign, would polls be a useful source of information in evaluating that question?
+MR. GEISE: Objection. Incomplete hypothetical. Lack of foundation.
+THE WITNESS: If I were to study the
+development of an election, they might be useful. They would be additional, for example, and — or they might be completely irrelevant if we were looking at the elect- — nomination election of Abraham Lincoln when there were no polls whatsoever.
+So polls are a kind of additional piece of information that had become -- that has become available in the mid-20th century. So it is interesting and it has relevance, but there are lots of other kinds of evidence which are also extremely important.
+BY MR. MURRAY:
+Q. Have you in your historical studies ever had occasion to study, for instance, Richard Nixon's 1972 campaign?
+A. Yes.
+Q. Have you studied public perceptions with respect to Mr. Nixon's 197- -- or President Nixon's 1972 campaign?
+MR. GEISE: Objection. Vague and ambiguous.
+THE WITNESS: What I've looked at is, you know, the margin by which he won and how Watergate played or did not play a role in that. I've not studied it in depth. It's one of those subjects that's a more general one.
+///
+BY MR. MURRAY:
+Q. If you wanted to ask a -- if you wanted to develop an understanding with respect to public perceptions of President Nixon's 1972 campaign, would polls be a material that you would consider as a historian in reaching or answering that question?
+MR. GEISE: Objection. Ambiguous.
+MR. BERN: Objection. Overbroad.
+THE WITNESS: If I were studying public perceptions of President Nixon, I would look at a wide variety of materials, and I -- if I were to do that kind of research project, I -- I think that polls would probably make sense.
+BY MR. MURRAY:
+Q. Would polls conducted by the Nixon campaign be among the materials that you would review in answering that question?
+MR. GEISE: Objection. Assumes facts not in evidence. Lack of foundation.
+THE WITNESS: I don't know.
+BY MR. MURRAY:
+Q. Would you consider them a valuable piece, that is, polls conducted by the Nixon campaign, a valuable piece of information in evaluating public perceptions with respect to Mr. Nixon's campaign?
+MR. GEISE: Objection. Vague. Ambiguous.
+THE WITNESS: Well, if I were to do this research project, I would sit down and look at it all more carefully. I think that that would be of less interest to me than public opinion polls which were taken by disinterested parties, honestly. I'd be look- — I -- I don't think I would probably go to that, but I don't know. I would really have to sit down and come up with a — a clear question in my own mind and what my emphasis was in the particular historical case.
+MR. MURRAY: We've been going, it looks like about an hour. Would this be a good time for you to take a break?
+THE WITNESS: That would be lovely. Thank you.
+THE VIDEOGRAPHER: We're off the record. The time is 10:36.
+(Recess.)
+THE VIDEOGRAPHER: We're on the record. The time is 10:52.
+BY MR. MURRAY:
+Q. Dr. Hoffman, I asked you earlier about the declaration that you gave in this case on March 12 -March 21, 2012, rather.
+Do you have any opinions that you intend to offer at trial of this case that are not contained in
+your March 21, 2012, declaration?
+MR. GEISE: And, Counsel, just for the record, that's the declaration of Elizabeth Cobbs Hoffman in support of defendants' motion to decertify the class.
+Is that what you're referring to?
+MR. MURRAY: Yes, it is.
+THE WITNESS: Well, it's my understanding that the — that the case has narrowed, and that the — many of the issues that I focused on in that declaration are now outside the case, is how — how I understand that. BY MR. MURRAY:
+Q. Just to clarify, so there may be some opinions that are contained in this declaration that do not have relevance to — or you would not consider to have relevance to the trial of this matter; is that correct?
+MR. GEISE: Calls for a legal conclusion.
+THE WITNESS: What I understand — and, again, I am — I am not a lawyer and I — I don't know all the ins and outs of the case, I mean, from your point of view. But as I understood it, that the declaration was to — was about my opinion on a variety of subjects, some of which have now been eliminated, I guess, from the case.
+And so I would have given a fuller treatment than I did, for example, in this declaration of the
+items which I now understand are the focus of the case. So I have -- could -- could have gone on at greater length —
+BY MR. MURRAY:
+Q. Okay.
+A. — there, and I did not because I was given to understand that what was -- would be helpful would have been the general picture.
+Q. Uh-huh. I understand that there may be some issues that you would no longer anticipate to testify on at trial.
+My question is: Are there any opinions that you intend to offer at trial that are not contained in this report, this declaration of March 21, 2012?
+MR. GEISE: Objection. Vague and overbroad.
+MR. BERN: Objection. Compound.
+THE WITNESS: I'm -- I'm not quite sure what you mean, and I want to answer your question as fully as possible. So could you rephrase it for me?
+BY MR. MURRAY:
+Q. Yes. My question is simply: Are there any opinions that you have with respect to this case that are not set forth in your declaration of March 21, 2012?
+MR. BERN: Objection. Compound. The document speaks for itself. Do you want to present her with the
+document, Counsel? Are you asking her to remember the entirety of what1s in there and whether it compares to the opinions she's offering in this case?
+THE WITNESS: Thank you.
+MR. MURRAY: Well, Counsel, I understand the purpose of this deposition is to determine what her opinions are in this case. If you want me to ask her -MR. GEISE: Why don't you just ask her that.
+MR. MURRAY: — every single opinion she's got, I can do that. If I can -MR. GEISE: Well —
+MR. MURRAY: If I can abbreviate the -- please let me finish. If I can abbreviate the process by asking her what opinions are in this report and which ones she intends to supplement, I think that would be helpful to all of us.
+MR. GEISE: Or you could just ask her what are the opinions she intends to offer at trial in this case.
+MR. MURRAY: And I'll tell you how to take your deposition when you take yours. Now, that could be a much more lengthy process. And if you want me to do that, I can do that if you insist that that be done.
+The witness may be able to answer that question by reference to her declaration.
+///
+BY MR. MURRAY:
+Q. In any event, I've asked the question. It's pending, and I'd ask the witness to answer it.
+A. There's nothing in here that is inconsistent with the opinions I plan to offer at trial.
+Q. Well, I'm just trying to ascertain, for brevity sake, are there opinions that are not contained here that you're going to give at trial?
+MR. BERN: Same objections. Compound. It's vague and ambiguous.
+THE WITNESS: This contains, in a glancing way, some of the materials that I will be producing at trial to illuminate what are now the most, as I understand it, salient questions.
+So this document is 60 pages or something that concerns many dimensions of the topic. And so were I to write a — a new declaration solely on issues that remain in the case, then it would be a fuller document on those issues. But there's nothing inconsistent in here.
+BY MR. MURRAY:
+Q. So would it be fair to say you may offer more materials in support of the opinions that are offered here, but you would not have any additional opinions than the ones that are offered here?
+MR. GEISE: Objection. Misstates her testimony. It's vague. It's ambiguous. And it's overbroad.
+THE WITNESS: I -- I would produce additional materials in any case, because this is simply a declaration, and so there are a lot of materials that go behind the opinions that I would hope to produce at trial, regardless of what issues were still in the case. MR. MURRAY: I don't think that answers my
+question.
+Could I have my question read back, please.
+(The following record was read by the reporter: "Q. So would it be fair to say you may offer more materials -- more information in support of the materials offered here -THE COURT REPORTER: I'm sorry. Let me read it. It's a disconnect, but . . .
+(The following record was read by the reporter: "Q. So would it be fair to say you may offer more materials in support of the materials offered here. Would you not have any additional opinions that are offered here?")
+THE COURT REPORTER: Sorry.
+MR. MURRAY: Okay. Let me rephrase the
+question.
+BY MR. MURRAY:
+Q. Would it be fair to say that you may offer more materials in support of the opinions that are offered in your declaration, but that you do not intend to offer any opinions that are not contained herein?
+MR. GEISE: Objection. Misstates her testimony. Vague. Ambiguous.
+THE WITNESS: I would offer more materials in relation to my opinions. I think that, because there's a greater focus now on some issues than there was previously on other issues, that I would probably state them more fully. But that's -- I'm sorry. That's as good as I can do based on how I understand your question.
+BY MR. MURRAY:
+Q. I guess we can go about it another way. What opinions do you intend to offer at trial of this case?
+A. The opinions that I intend to offer at trial are derived -- derived from my research on the question of what information the public was exposed to by a wide variety of credible sources on the hazards associated with low-tar, low-nicotine, light cigarettes called by various names at different times.
+And so that was my question as it pertained to the class period up until April 2001 and also the years
+and decades before that.
+So the opinions that I intend to offer in the case are that the public was repeatedly and voluminously exposed to information about the hazards of all cigarettes, including low-tar, low-nicotine, light, even what the government was calling less-hazardous cigarettes throughout this period.
+And that, secondly, the public was repeatedly urged and -- by the public health community in particular, but others as well, to switch to low-tar, low-nicotine, light, less-hazardous cigarettes as being less damaging, but always with the caveat that there's no such thing as a safe cigarette, and that, in fact, the public should be forewarned that any benefit whatsoever, if there was one, could be eliminated or negated if a person compensated in some way by changing up how they smoked.
+Q. Do you have an opinion as to whether or not the phenomena of compensation was, to use your term, common knowledge as of 2001?
+A. That was not a part of my research question, so I'm not prepared to offer an opinion on that.
+Q. Do you intend to offer an opinion as to public perception of the relative risk between light cigarettes and regular cigarettes?
+MR. GEISE: Objection. Vague. Ambiguous.
+THE WITNESS: My intent and the research I've done is on the information to which people were exposed very widely during this period of time preceding and during the class period. So I have not done research on the public perception of the information that they were presented with. So I cannot and do not intend to offer any opinion on that.
+BY MR. MURRAY:
+Q. Had you researched the issue of light cigarettes and awareness of health risks posed by light cigarettes prior to your involvement in this case?
+A. I had done research on the ways in which people were exposed to information about the hazards associated with that type of cigarette before this case, yes.
+MR. CALCAGNIE: Can we go off the record for a
+minute?
+MR. MURRAY: Sure.
+THE VIDEOGRAPHER: We're off the record. The time is 11:03.
+(Recess.)
+THE VIDEOGRAPHER: We're on the record. The time is 11:07.
+BY MR. MURRAY:
+Q. Okay. When you became involved in — let me
+first ask you, at what point did you become involved specifically in the In Re: Tobacco Cases II? That is the case that we are sitting here about.
+MR. GEISE: I object. This violates the stipulation. And I would instruct her not to answer.
+MR. MURRAY: I'm only asking about a point in time. If you're instructing her not to answer, that's fine, but I just want to clarify that.
+MR. GEISE: I —
+MR. BERN: Can I have the question back?
+MR. GEISE: I think — I'll still instruct her not to answer.
+MR. BERN: I just want to hear the question
+again.
+THE COURT REPORTER: Let me find it.
+(The following record was read by the reporter: "Q. Let me first ask you, at what point did you become involved specifically in the In Re: Tobacco Cases II? That is the case that we are sitting here about.")
+MR. GEISE: I still instruct you not to
+answer —
+MR. MURRAY: Okay.
+MR. GEISE: -- pursuant to the stipulation.
+MR. MURRAY: That's fine.
+Q. Have you changed the question that you're addressing -- the general question that we just discussed about public awareness, had you changed the scope of that question in any way for this case?
+MR. GEISE: Objection. Vague. Ambiguous. And overbroad.
+MR. BERN: Objection. Unintelligible.
+THE WITNESS: The information that I'm looking at in this case and the question was contained -- was a part of the broader question that I looked at earlier.
+So I guess that's the best I can do to answer that question of yours.
+BY MR. MURRAY:
+Q. Okay. So are you telling me that in addition to offering opinions about the broader question that we discussed earlier, you have conducted a more narrow focus on the geographic areas involved in this case?
+MR. BERN: Objection. Mis- — go ahead.
+MR. GEISE: Misstates her testimony.
+THE WITNESS: The geographical scope has not
+changed.
+BY MR. MURRAY:
+Q. Well, when you — and I may — I don't want to misstate what you just said a moment ago, but I think
+you indicated that you are going to offer opinions that are a sub-area or a subsection or encompassed within your larger opinions.
+Could you clarify that for me?
+MR. BERN: Objection. Vague and ambiguous. Mischaracterizes the testimony.
+THE WITNESS: There were more components of the question that I began with a decade or so ago.
+BY MR. MURRAY:
+Q. When you say more "components of the question" that you began with a decade or so ago, you — are you referring specifically to this case, that there were more components that you would be looking at?
+A. Yes.
+Q. Okay. What are those additional components that you would be looking at in this case that you had not looked at prior to your involvement in this case?
+A. There are no additional components in this case. There are fewer components than there were to begin with.
+Q. Was there any additional research that you conducted for this case that you had not conducted prior to your involvement in this case?
+time.
+THE WITNESS: It's the last part of your sentence that's confusing me, prior to my involvement in this case. Could -BY MR. MURRAY:
+Q. Is there -A. Can you restate it or --Q. Oh, yeah. That's -A. Thanks.
+Q. — that's fair.
+Is there any additional research that you did specific to this case that you had not done prior to your involvement in this case?
+MR. GEISE: Same objection.
+THE WITNESS: Yeah. I'm sorry. I don't — I don't understand the way you're qualifying the last part of the sentence. The case has changed.
+BY MR. MURRAY:
+Q. I'm going to ask you -- and I'm now referring -- your counsel has not allowed me to ask at what point in time you became involved in this case.
+MR. GEISE: Well —
+BY MR. MURRAY:
+Q. So the -MR. GEISE: -- it's not the counsel, it's the stipulation that class counsel also entered into.
+MR. MURRAY: I don't think that's encompassed within the stipulation, but we can agree to disagree on that.
+BY MR. MURRAY:
+Q. The question I have is: After you became involved in this case, was there additional research that you did? At any time after you became involved in this case, was there additional research that you did that pertains to this case?
+A. Yes. My research is ongoing and has been continuous, and I have added to it, added additional information during the course of time that I've been doing research.
+Q. What additional research have you done with respect to this case that you had not done prior to your involvement in this case?
+MR. GEISE: Object to the form.
+THE WITNESS: Yeah. The problem is it's
+just —
+MR. GEISE: Vague and ambiguous.
+THE WITNESS: — it's just "this case" I guess is what is confusing me. And I'm -- I apologize. Not being an attorney, I don't quite -- it seems to me it's always this same case. I know it used to be called Brown, and now apparently it's called something else.
+So I have done additional research during the period of time that I've been designated as a witness in this case, whatever it's called.
+BY MR. MURRAY:
+Q. Was that additional research specific to this case, or was it applicable to all the cases in which you were testifying in that involved tobacco?
+A. Both.
+Q. Okay. And what I'd like to hone in on, if we can, is the research that you have done that was specific to this case as opposed to the research that you did that may involve all of the cases that you are currently involved in that deal with tobacco.
+A. Okay.
+MR. BERN: Objection. Overbroad. Compound.
+MR. GEISE: There was no question.
+THE WITNESS: I could give you an example of some research which might help you. I — I hope it will. There was a point in time at which the named plaintiffs have changed. They've changed several times.
+So as an example of my additional research, there was a woman named Janelle Alvarez for a period of time who was the named plaintiff. And so knowing something, therefore, about her and having read her deposition and her interrogatories, I determined that
+she had been living in Riverside County.
+And I had never done research in Riverside County. And so even though I had voluminous information on other counties throughout California, I thought that since she was a named plaintiff, it would be good to know something more about that particular locale.
+And so I did research there looking at the -- I think it's called the Riverside News Press, although I probably have the name of that newspaper wrong, but that's an example of kind of additional research I've done.
+BY MR. MURRAY:
+Q. Well, were there any other examples similar to that one?
+A. Well, there -MR. BERN: Objection. Overbroad. Vague and ambiguous.
+THE WITNESS: Well, the named plaintiffs have changed several times. So, yes, each time that's changed, I've done additional research.
+BY MR. MURRAY:
+Q. Uh-huh. Additional research with respect to the particular areas where the named plaintiffs lived?
+A. Yes. That would be a type of research.
+instance, with respect to Ms. Alvarez that that was an area that you hadn't researched -- a geographic area, specific geographic area, that you had not researched before.
+You didn't have data directly with respect to Riverside County, correct?
+A. Well, a lot of the data I would use would certainly pertain to Riverside County. A -- a national newscast by Walter Cronkite --
+Q. Right.
+A. — would have been heard or would have been available to people in Riverside County. So it was merely a matter of developing more information and seeing if there was anything there that was inconsistent with patterns elsewhere. It wasn't necessary, but it seemed like a good thing to do as a part of being thorough in my research.
+Q. Did you do that with respect to every area where every class representative of which you're aware is from?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: I -- I would always look very carefully at a particular named plaintiff and -- and investigate the circumstances surrounding that immediate
+person. It -- it might vary a little depending on the person and how often they had moved, for example, things like that.
+BY MR. MURRAY:
+Q. And did you review the depositions of all the named plaintiffs?
+A. Yes, I did.
+Q. Are you familiar with something called "absent class member depositions"?
+A. Yes, I've heard of those.
+Q. Have you reviewed any of those?
+A. No, I have not.
+Q. And I understand your opinions may bear on those absent class member depositions, but I'm asking whether you have any opinions specific to the absent class member depositions?
+MR. GEISE: Objection to form. Vague. Ambiguous. And overbroad.
+THE WITNESS: I have not read those depositions. And so, therefore, I can't comment on those depositions.
+BY MR. MURRAY:
+Q. Do you have any intention to read those depositions between now and trial?
+A. Not at this time. But that — that could
+change, but I -- I don't foresee that.
+Q. I'd like to refer you back to your declaration in this case, and I'll put a copy in front of you. And specifically I'd like to start with paragraph 6 where you discuss reviewing case materials to learn the life histories of certain class representatives.
+And my question is: Are you offering any opinion as to the veracity of those class representatives' testimony?
+MR. GEISE: Objection to form. Vague and ambiguous. And overbroad.
+MR. BERN: And compound.
+THE WITNESS: I don't intend to comment on the veracity of their statements.
+BY MR. MURRAY:
+Q. Uh-huh. Did you review their testimony for any purpose other than identifying the geographic area in which they are from?
+MR. GEISE: Object to the form. Vague and ambiguous. And overbroad.
+BY MR. MURRAY:
+Q. You can answer.
+A. I wasn't using it just to determine where they lived, because I think the interrogatories alone probably would have told me that.
+Q. What information, in addition to where they lived, were you reviewing their testimony to obtain?
+A. Well, for the purposes of this declaration, which, as we just discussed, is a somewhat different topic, a broader topic than the case as it's now defined, I was looking at things like what they knew, for example, about slang, had they heard terms like "cancer stick" and "coffin nails," and what did -- what clubs did they recall being a part of in -- in school and broader information like that.
+Q. Okay. Now, you began your answer to that question referring to before the scope of the case got narrowed.
+Do those same bits of information that you just described still apply to your opinions now that the case has been narrowed -- I mean, opinions you intend to offer at trial?
+A. That's — that's a little hard to say. I -I'm -- I'm not sure. Of course, they say lots of different kinds of things in the depositions. Again, all I can say is that the depositions have a broader array of information and relevance than the specific question I now intend to offer opinions on. So some of it might come in and some of it might turn out to not be, you know, highly important, important enough to draw
+it out.
+Q. Can you state me the specific question -- or state for me the specific question which you now intend to answer at trial in this matter?
+A. Yes.
+Q. Please do.
+A. My research question was: What information was the public exposed to from a wide variety of credible sources about the hazards of low -- low-tar, low-nicotine cigarettes before and during the class period in California?
+Q. Did you consider information to which the class members would have been exposed that came from the cigarette companies themselves?
+A. Yes.
+Q. But you did not review any cigarette company documents as part of your consideration of what information -- or what information may have been available to the class members?
+MR. GEISE: Objection. Asked — asked and
+answered.
+THE WITNESS: I considered only information that was available to class members, not internal documents that would not have been available.
+///
+Q. Did you attempt to ascertain whether any of the internal documents described information that was made widely available by the cigarette companies?
+A. No, I did not consider any of their internal deliberations.
+Q. And I'm not asking about their internal deliberations. I'm just asking whether you considered whether their documents may have contained descriptions or records of public statements that they made?
+MR. GEISE: Objection. Assumes facts not in evidence. Vague and ambiguous.
+THE WITNESS: I did not consider their internal documents.
+BY MR. MURRAY:
+Q. In paragraph 6, you refer to the term "information climate."
+Could you tell me what that term means? And I'm referring to the last sentence of your — of paragraph 6, page 3, line 11.
+A. And I'm sorry, sir. What’s your question about
+it?
+Q. My question is: Do you have a definition for the term "information climate?"
+A. Yes. I — if I were to explain it, I — I
+don't know that there is a precise dictionary definition for "information climate," but in this case, what I mean by that is the information that surrounds people in a society. And so "information climate" meaning -- and the word "climate" here is obviously slightly metaphorical. It means all those things that are around you to which you are exposed.
+Q. Is that an historical term of art?
+A. Historians use that, but it's not the kind of term that will necessarily pop up in a textbook, but there would be other terms that would have a similar import.
+Q. What would be some of the terms that would pop in — up in the textbook that would have similar import to the term "information climate" as you use it here?
+A. Well, it's slightly different, but public awareness, slightly different people might talk about common information, things we're supposed to know from kindergarten forward, lots of terms that would be used to convey that idea.
+Q. You said there's a slight difference between the concept information climate, as you use it here, and the concept of public awareness.
+would be?
+MR. BERN: Objection. Mischaracterizes the testimony.
+THE WITNESS: I would use the term "information climate" to mean the information that surrounded people. And that's different from trying to then understand how the information might have been perceived. So I'm talking about what was presented to people from which they could then make choices.
+BY MR. MURRAY:
+Q. In paragraph 8, you refer to two general sources that historians may consult, one being secondary sources and one being primary sources.
+Can you state for the record what "primary sources" refers to?
+A. Yes, I can.
+Q. Please do.
+A. Primary sources are sources that are proximate in time to the events that you're looking at, and they would have been created, generally speaking, at the time. Sometimes there's a little wiggle in there, depending on what the exact question is. But you want to look at documents that were created spontaneously. Sometimes -- sometimes they are planned; sometimes they're not planned. But they're you might say the raw materials of history.
+Q. Uh-huh. For purposes of your inquiries in this case, were the Surgeon General reports considered primary sources or secondary sources?
+A. For my purposes, they would have been primary sources.
+Q. And I think I got ahead of myself. Could you define "secondary sources" -A. Sure.
+Q. — for me, please?
+A. A secondary source is generally a historian's account of events based on the primary sources. So you could read a history book where they would talk about George Washington's letters to his brother during the American Revolution, and the letters to his brother would be the primary source, and the historian's description of the letters and what the letters tell us about Washington's state of mind, for example, that would be the secondary source.
+Q. Uh-huh. So -A. Pardon me.
+Q. — did the Surgeon General's report contain secondary source information with respect to the information available to smokers at various points in time?
+Ambiguous. Lack of foundation.
+MR. BERN: Overbroad.
+THE WITNESS: Which Surgeon General's report are you referring to?
+BY MR. MURRAY:
+Q. Well, let's start with the '64 report.
+A. I have not done research on every source that was used by the Surgeon General. So it would be hard for me to comment on all his sources — or their sources, I should say. I'm aware that it was based on many primary sources and primary research documents, but there may have also been secondary sources worked in there. I just don't -- I can't answer that question in a very specific way.
+Q. The question I'm getting to is: Are the Surgeon General's reports -- when they refer to primary sources, does the Surgeon General's report in that respect more resemble a secondary source or a primary source?
+MR. GEISE: Objection. Vague. Ambiguous. Overbroad. Lack of foundation.
+THE WITNESS: Whether a -- a document is a primary or secondary source can change depending on the question that you're asking about it. So in the case of the Surgeon General's report, it would have primary
+source documents in it, and then they would be writing about those. So, yes, in that sense it becomes secondary.
+BY MR. MURRAY:
+Q. To your knowledge, did the 1964 Surgeon General's report look retrospectively at the information that was available throughout the period preceding the production of that report?
+MR. GEISE: Objection. Vague. Overbroad. Ambiguous.
+THE WITNESS: I'm trying to answer that as best I can. It -- it wasn't a -- it wasn't a historical compilation, so it -- I wouldn't have considered it like a history book of the subject. But it — it -- it spoke of the results of the research that had been done to that point around the world.
+BY MR. MURRAY:
+Q. What secondary sources did you review in reaching the opinions that you intend to offer in this case?
+A. You know, I -- I can't think of secondary sources that just pertained specifically to this slice of the case as it's been narrowed down, just not thinking of any off the top.
+in answering the general question with respect to awareness of the smoking -- well, the information — let me rephrase that.
+What secondary sources have you reviewed with respect to evaluating the information climate in which the class members lived their lives?
+A. Quite a wide variety of secondary sources and over the period of 10 or 12 years, so it's hard to -hard to remember them all. There's a good book called the "Cigarette Wars" by Cassandra Tate and that has to do with the turn of the century. Another very good book by James Patterson called "The Dread Disease," which is about the history of cancer and the attempt to fight cancer and understand its causes. So, you know, there are a quite of long list of books.
+Q. Were there any secondary sources that you reviewed other than those?
+A. Oh, yes.
+Q. Can you think of any of them as you sit here?
+A. Yes. "The Cigarette Century," I think it's called — maybe that's the one by Allan Brandt. A lot of these books tend to use the same words because they're about the same topic, so I tend to get the titles confused, you know. I certainly — if I reviewed it, I'd know — know which book is which.
+Let's see. There was a book by Phillip Kluger, Kruger. Again, I'm sure I'm just not remembering it. I haven't reviewed that lately. And then — let's see. What else? Michael Schudson's "The Uneasy Persuasion," which is kind of about advertising and how it pertains to tobacco as well as other products.
+Q. And what period does the Schudson book, if any particular period, does the Schudson book focus on?
+A. As I recall -- and he has a couple of writings, so I read him in a couple of places. It seems to me that's all post-World War II. This is how I'm recalling it at the moment.
+Q. To what period does his -- I guess what would be the end of the period that he looks at in his writings, Professor Schudson?
+A. I'm sorry. I can't answer that without reviewing the book again.
+Q. Do you know whether it looks past 1990?
+A. My hunch is, is that it does, but I can't answer the question with accuracy.
+Q. Were there any secondary sources that you studied as you — that you can recall as you sit here today that focused on the period 1990 to -- 1993 to 2001?
+A. Oh, you know, I think there's a book on the
+Master Settlement Agreement, but I'm just not recalling the name of the author. There are -- there are -- you know, there just are a couple. I'm sorry. I just --
+Q. Did you read —
+A. — don't have that in my head at the moment.
+Q. Did you read the book on the Master Settlement Agreement?
+A. Yeah, I read one on that. There might have been more than one.
+Q. Did that book inform your opinions as to the information climate in which the class members lived their lives?
+A. No, I don't think so. I don't think it was terribly relevant.
+Q. Were there any secondary sources that addressed the period 1993 to 2001 that you relied on in determining the information climate in which the class members lived their lives?
+MR. GEISE: Objection. Asked and answered.
+MR. MURRAY: Primary sources are the main kind of evidence that historians use. And so there isn't a secondary source that I would point to and said -- and say this is what informed or gave me my opinion. It's really based on the primary documents.
+///
+Q. And I'm just asking, as you sit here today, can you think of any secondary sources that you considered in forming your opinion that specifically addressed the period 1993 to 2001, although they may not have been limited to that period, but that would have covered that period?
+MR. GEISE: Objection. Asked and answered.
+THE WITNESS: As I said, for some reason the Michael Schudson's book strikes me as one that is talking about this very contemporary period, but I just don't really recall at the moment. I'm sorry.
+BY MR. MURRAY:
+Q. And I'm going to ask you about general categories of primary documents that you reviewed relating to the period 1993 to 2001.
+Would those documents have included advertisements?
+A. Yes.
+Q. Surgeon General's reports?
+A. Yes, although — may I back up for a minute there?
+Q. Certainly.
+A. Because I'm not quite sure how you mean that. There's a Surgeon General's report in "The Changing
+Cigarette," for example, but it -- it wasn't written in this period. It preceded this period. But it would be very important for my — for me to look at that to understand the information climate.
+And as I indicated before, my question concerns the information that was available and presented to class members from before, but through the class period.
+Q. How about the NIH monographs? Are you familiar with monographs that were put out by the National Institute of Health?
+A. Some of them.
+Q. Okay. Did you review any of those in determining the information climate that was available -- I'm sorry — the information climate in which the class members lived their lives?
+A. I would tend to read about those through the mass — means of mass distribution of information, so I did not typically go to the original document. On occasion I did. I'm just not recalling a particular NIH document at this moment. I may have.
+Q. LJh-huh. And mass media that you reviewed with respect to your opinion, what mass media were you attempting to -- let me back it up.
+What mass media did you review in order to determine the information climate in which the class
+members lived their lives?
+A. I reviewed, for example, television news coverage, and I thought that was a very important way of knowing what kinds of information the class members had been presented with. I also reviewed newspapers, as I mentioned previously, that -- both newspapers that would be particular to a locale like the Riverside newspaper, which would not have wide distribution beyond Riverside, well — as well as considered papers which are often considered papers of record that might be read thousands of miles away. Those could include things like the "Los Angeles Time" or the "New York Times."
+Other means of mass distribution of information would include national magazines, and those would be things like -- there could be others, too, but they would include such magazines as "Time" and "Newsweek" or "Reader's Digest," which is the largest mass circulation magazine in the world.
+Let's see. Other forms of — well, public school books, certainly a means of mass distribution of information, especially school books that are required to be used in the schools.
+What else? Well, that's it off the top.
+I'm -- I'm sure there are others. I'm just forgetting at the — at this particular moment.
+Q. Did you review a NIH monograph, Monograph 13, relating to light cigarettes?
+A. I -- I reviewed a part of one, the NCI. Did you say NIH?
+Q. And I may have misspoken. I think it actually is the NCI monograph, National Cancer Institute monograph.
+A. Yes, I saw that. Well, that's past the class period. So it would -- would not pertain to my question as to what class members have been exposed to up through the end of the class period.
+Q. Did the NCI monograph, to your recollection, provide any historical information as to the information climate in which the class members lived their lives?
+MR. GEISE: Objection to form. Vague and ambiguous.
+THE WITNESS: I would have to have that document in front of me to remember precisely what it said about the historical background. Since it was outside the class period in my research, I did not focus heavily on that.
+BY MR. MURRAY:
+Q. Would you consider the NCI monographs authoritative with respect to historical research on public awareness of smoking and health?
+MR. GEISE: Objection. Vague. Ambiguous. Overbroad. And calls for a legal determination.
+MR. BERN: Compound.
+THE WITNESS: Since there are so many different ones of them, I — I don't think I could give you an opinion on that.
+BY MR. MURRAY:
+Q. Do you have any opinion as to the accuracy of the statements contained in the NCI Monograph 13 with respect to smoking and health?
+MR. GEISE: Objection. Vague. Ambiguous. And overbroad.
+MR. BERN: Compound.
+THE WITNESS: No, I don't, not at this time.
+As I said, I just don't even have focused in my mind all of what it says.
+BY MR. MURRAY:
+Q. Okay. As you sit here today, do you have any intention of offering any opinions with respect to the accuracy of statements contained in NCI Monograph 13 as to the information publicly available to class members?
+MR. GEISE: Objection. Lack of foundation. Vague. Ambiguous.
+THE WITNESS: I don't intend at this moment as I'm sitting here to offer an opinion on that document
+since it's outside the scope of the research I did.
+I — I should add, outside the scope of the research in this case.
+BY MR. MURRAY:
+Q. Just for clarity's sake, have you considered NIH Monograph 13 with respect to the opinions that you've given in other cases?
+A. No. It's -- it's really -- in terms of time, it's outside the scope of, I believe, as I'm recalling it right now, any other case in which I've testified.
+Q. You indicate in paragraph 15 that the percentage of Americans who smoked declined significantly. And I'm referring you to page 6, lines 3-4.
+A. Yes, I see that.
+Q. Did you analyze smoking rates in forming your opinions in this case?
+MR. GEISE: Objection to the form. Vague and ambiguous.
+THE WITNESS: Smoking rates were not relevant, as I'm sitting here thinking it through, to the question in this case, which is: What information was peop- -were people exposed to on the hazards of low-tar, low-nicotine cigarettes? So overall prevalence of smoking is not — that's not something that comes in in
+this particular case.
+BY MR. MURRAY:
+Q. Okay. You don't intend to offer any opinions as to overall prevalence of smoking in connection with this case -- trial of this case?
+A. I -- I don't know the question I might be asked, but, no that's — that's not my intent. My intent is to really just look at the information that was presented to class members about the hazards of these particular types of cigarettes.
+Q. And then in paragraph 16, you discuss the history of the Federal Trade Commission's positions with respect to content of tar and nicotine cigarettes. You indicate that in the late 1960s, Congress, the Public Health Service and the American Cancer Society advocated the use of low-tar and low-nicotine cigarettes; is that correct ?
+MR. GEISE: Objection to the form. Misstates the declaration.
+MR. BERN: The document speaks for itself.
+THE WITNESS: Yeah. I thought I — I talk about that issue in this document. It says — it says essentially, yes, that they encourage people to make the switch if they must smoke. Sorry. But that's the term they always used, "if you must smoke."
+Q. Is that an opinion that you intend to offer at trial in this case?
+A. Yes. As I indicated in my second opinion that I stated earlier, I intend to show the evidence that -that smokers were urged to switch to a low-tar, low-nicotine, light, less-hazardous cigarette -- those are all the terms they used almost interchangeably -- if they were determined to continue smoking, but that they should be careful, as it indicates in the second part of that paragraph, to be aware that -- that in doing so, they could negate the benefits if they compensated.
+Q. How widely disseminated was that recommendation that smokers who choose to smoke should use low-delivery products?
+A. That was -- that recommendation was very, very widely distributed.
+Q. Was it as widely distributed as, say, the 1950s' information with respect to the causative link between smoking and lung cancer?
+MR. GEISE: Object to the form. Vague. Ambiguous. Lack of foundation.
+THE WITNESS: It -- it's hard to make a -- give you numbers or figures or that -- any of that kind of comparison. What I can tell you is that it was very,
+very widely distributed in lots of different forums aimed at people of all ages.
+BY MR. MURRAY:
+Q. Was it distributed in called newspapers of record?
+A. Yes, it was.
+Q. Was that information distributed in television programs ?
+A. Yes, it was.
+Q. Was that information distributed in local newspapers such as those the class members may have read?
+A. Yes, it was.
+Q. Okay. Have you conducted any study into what information was provided to the public health authorities that you reference in paragraph 16 by the cigarette companies that may have informed this recommendation?
+MR. BERN: Objection. Assumes facts not in the
+record.
+THE WITNESS: I have not looked at the documentation by the tobacco companies or documents that they generated for, you know, government agencies because the scope of my question is quite different. It has to do with the information that was presented to the
+class representatives in a very public way.
+BY MR. MURRAY:
+Q. So you have no opinion on the effect of any information provided by the cigarette companies to the public health authorities with respect to their recommendations regarding lower-delivery products?
+MR. BERN: Objection. Assumes facts not in the
+record.
+THE WITNESS: I have no and don't intend to offer any opinion about what the tobacco companies told the government officials beyond what they said they told the government officials as it was reported in public newspapers.
+BY MR. MURRAY:
+Q. Do you have an opinion as to the period during which the premise that people who smoke should smoke lower-delivery products was disseminated?
+MR. GEISE: Object to the form.
+THE WITNESS: I'm sorry. Could you just focus it just a little bit more for me?
+BY MR. MURRAY:
+Q. Well, we have here an opinion that beginning in the late 1960s, the public health community began to recommend to smokers that they smoke low-delivery products if they choose to smoke.
+My question is: Do you have an opinion as to the period during which that general message would have been disseminated to smokers throughout the country?
+A. Yes, I do.
+Q. And what is that opinion?
+A. As I indicated in this declaration, that recommendation emerged in a very strong and focused in a very public way beginning around 1967, '66/'67. It overlapped that year. And -- and that message was a sustained message, although it weakened somewhat by the late 1980s, but that was a message that was very consistent for quite a few decades.
+Q. Was there a point at which that message ceased to be a sustained message?
+A. It —
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: That message was still given in — by some authorities, but it was increasingly criticized. It was criticized quite widely that that perhaps should not be the message. So that — that element of it, that critique picks up a lot of steam in the 1980s.
+BY MR. MURRAY:
+A. Well, I think that to me a -- an important figure, although others would have opined on it, but if you wanted to pick out one figure who was particularly important, it would have been C. Everett Koop, the Surgeon General during the Reagan period, who had, with regard to this topic, a — not a prohibitionist stance, but almost. He initiated what was called the smoke-free class of 2000. So it was his intent that nobody switch to a low — lower-tar and nicotine cigarette because he wanted everyone to quit or never begin.
+Q. You indicated that some people continued to espouse the notion that low-tar, low-delivery cigarette products were preferable in spite of criticism of that opinion, which I think you've indicated gained steam in the 1980s.
+Was there a point in time at which you can identify groups ceasing to make that recommendation with respect to low-delivery products?
+MR. GEISE: Objection. Compound. Vague and ambiguous. Overbroad.
+MR. BERN: Overbroad.
+THE WITNESS: I could tell you something about the American Cancer Society and when they stopped making that recommendation.
+///
+Q. I'm more interested in how — were there entities making that recommendation subsequent to 1993? MR. BERN: Objection. Overbroad.
+THE WITNESS: I don't recall anyone after 1993 making the recommendation that people switch.
+Certainly, groups like the American Cancer Society had definitively reversed themselves by that point. But the low-tar/nicotine figures continued to be gathered and publicized by the FTC. And so, therefore, that information continued to be there, but the recommendation shifted.
+MR. MURRAY: Okay. I understand we only have a few minutes left on this videotape. So we'll take a break, please.
+THE WITNESS: Thank you.
+MR. GEISE: Do you want to take our lunch break
+now or —
+THE VIDEOGRAPHER: This is the end of Disk
+No. 1 —
+MR. MURRAY: We might as well.
+THE VIDEOGRAPHER: -- and we're off the record
+at 11:56.
+(The luncheon recess was taken at 11:56 a.m.)
+///
+SAN DIEGO, CALIFORNIA; THURSDAY, AUGUST 23, 2012
+1:04 P.M.
+THE VIDEOGRAPHER: We're back on the record. The time is 1:04. This is the beginning of Disk 2 in the deposition of Dr. Hoffman. Please proceed.
+EXAMINATION (RESUMED)
+BY MR. MURRAY:
+Q. Okay. Dr. Hoffman, I think when we left off, you were telling us about the year the ACS reversed its recommendation on light cigarettes or low-delivery cigarettes.
+What year was that?
+A. As I recall, it was 1988.
+Q. And in 1988, were there still public health sources advocating the use of light cigarettes, the low-product cigarettes?
+MR. GEISE: Object to the form. Vague. Ambiguous.
+MR. BERN: Outside of the scope of the designated testimony.
+THE WITNESS: People -- it was -- the message was not reversed in any substantial way necessarily. There — as people were still seeing tar and nicotine
+figures, for example.
+BY MR. MURRAY:
+Q. Do you know, were tar and nicotine figures continuing to be -- continued to be on cigarette packaging through 2001?
+MR. GEISE: Object to the form. Assumes facts not in evidence.
+THE WITNESS: I know that the federal government continued to generate those figures and that they continued to be used. I -- I don't recall honestly precisely whether it was the package or the advertisements, at this moment anyway.
+BY MR. MURRAY:
+Q. So looking at paragraph 16 and 17 of your report, you would concur that certainly during the 1970s and continuing into the 1980s, there was a widely held belief that light cigarettes were relatively safer than other cigarettes?
+MR. GEISE: Object to the form. Vague. Ambiguous. Lack of foundation.
+THE WITNESS: Well, as I state here in the declaration, the -- during this period of time, Congress and the Public Health Service and the ACS did actively encourage those who would not quit to use low-tar and low-nicotine cigarettes so long as they did not
+compensate.
+BY MR. MURRAY:
+Q. So the active encouragement of people to use those products, would that be part of the information climate?
+A. Yes.
+Q. Do you have any opinion as to whether or not smokers accepted those recommendations?
+MR. BERN: Objection. Outside the scope.
+THE WITNESS: That's outside of the scope of the research that I did —
+BY MR. MURRAY:
+Q. Okay. So that's -A. — for this case.
+Q. That's not an opinion that you intend to offer at trial of this matter?
+A. No. I intend to merely offer at this point the opinion that people were repeatedly exposed to that information in that period of time up through the class period.
+Q. You indicate that the Surgeon General's office in the 1980s and in -- well, let me back up.
+You indicate that in 1988, the ACS revised its policy with respect to low-delivery products, and you state that the Surgeon General's Office, and I quote,
+said, "Slowly ceased promoting 'safer' tobacco or the traditional use of low-tar and nicotine cigarettes to break the habit."
+Have you reviewed -- let me begin by asking, when you say "slowly ceased promoting," was that over -what did you mean by "slowly ceased"?
+A. Would you tell me what page we're on?
+Q. Okay. I'm sorry. I'm referring to page 7 of your declaration.
+A. Thank you.
+Q. Paragraphs 6 through 9 -- I'm sorry.
+Paragraph 18, lines 6 through 9.
+A. All right. So I'm sorry. Would the answer -ask the question --
+Q. Okay.
+A. — one more time, please.
+Q. You indicate that the Surgeon General solely -I'm sorry -- "slowly ceased promoting 'safer' tobacco or the transitional use of low-tar and nicotine cigarettes to break the habit."
+And I was just asking you to elaborate on what you mean there by "slowly ceased promoting."
+A. What I meant is that there were very significant -- significant campaigns to encourage that switch, so long as people didn't compensate, that you
+really saw dramatic -- fairly dramatic campaigns along those lines in the '70s particularly. And then over time, the emphasis, if you will, shifted more towards total abstinence and, in fact, as I said, the smoke-free class of 2000.
+And so it -- the drumbeat slows. It doesn't mean that they changed their position altogether.
+It's — they're just not as promoting it quite as actively as they had been.
+Q. You just said that -MR. MURRAY: Sorry. Could I have that last answer read back, please?
+(The following record was read by the reporter: "A. What I meant is that there were very significant campaigns to encourage that switch, so long as people didn't compensate, that you really saw dramatic —")
+MR. GEISE: That's -- that's all I was -THE COURT REPORTER: Okay.
+BY MR. MURRAY:
+Q. You just testified about campaigns to encourage the switch. And by "that switch," you're referring to the switch to so-called low-delivery products?
+A. Yes.
+compensate."
+Was the message of not compensating part of the campaigns that you saw with respect to switching to lower-delivery products?
+A. Yes.
+Q. Was the word "compensation" used in any of those advertising campaigns?
+A. Sometimes.
+MR. GEISE: Object to the form. Vague. Ambiguous.
+BY MR. MURRAY:
+Q. Can you direct me to any of the public campaigns advocating switching that used the term "compensation"?
+A. I -- I can't recall sitting here which ones used that word and -- or used another word that was similar to it, but I can tell you that that word per se was used at different times.
+Q. And when it was used in the advertisements that you're talking about, and I'm talking about the pre- — well, I'm talking about the period during which the health community was actively encouraging people to use low-delivery products, what methods of compensation were being discussed in the literature?
+MR. BERN: Objection. Overbroad. Compound.
+THE WITNESS: In the literature I saw, and there was a wide variety of it, I had — there were a number of ways in which they described methods of compensation that should be avoided. One of those was you shouldn't inhale more deeply, for example.
+BY MR. MURRAY:
+Q. And others?
+A. You shouldn’t smoke more cigarettes, you know, if you switched to a — a lighter — quote/unquote, lighter brand.
+Q. Any others?
+A. Yes. You shouldn't cover up the holes in the tobacco — in the cigarette.
+Q. Those warnings, are those — I won't use the term "warnings." Those cautions with respect to compensation, those were contained in statements being delivered by the public health community in the 1970s and 1980s. Is that your understanding?
+A. Yes.
+Q. Okay. Not covering up holes, that was contained in public health community statements encouraging use of low-delivery products?
+testimony.
+THE WITNESS: I don't recall which particular group did. I -- I could go back and find that, of course, but -- and the public health community is not a monolithic one. So it sometimes would be restated in a newspaper and other times in a school book. So it's hard for me to pin that down precisely for you, but that was pointed out.
+BY MR. MURRAY:
+Q. Was this message regarding compensation as widely pointed out as the message that smokers should consider use of lower-delivery products?
+A. It's hard to make that direct comparison. They tended to go in tandem.
+Q. Tended to. Did they always tend to go in tandem? That is to say, did the admissions about compensatory behavior go in tandem with the recommendations to use low-delivery products at the very beginning of the period where low-delivery product use was being encouraged, or was that something that developed over time?
+MR. GEISE: Object to the form. Vague. Ambiguous. Compound.
+THE WITNESS: The admonition against combina- — compensation of some form or another began
+at the time that -- right -- right in that same period of time that people began to be encouraged to switch.
+BY MR. MURRAY:
+Q. Did you see any tobacco industry advertisements or statements that discouraged compensatory behavior with connection to using low-delivery products?
+MR. GEISE: Object to the form. Vague.
+THE WITNESS: The ads that I saw were more generic than that.
+BY MR. MURRAY:
+Q. Okay. Could you elaborate on that for me somewhat? What do you mean by "more generic"?
+A. The majority of ads I saw were simply for brands. They would, by implication, be promoting a brand.
+Q. Did those advertisements promote -- did the ad — did any of the advertisements that you looked at promote low-delivery brands, question mark?
+MR. GEISE: Object to the form.
+THE WITNESS: I'm sorry.
+MR. GEISE: Vague and ambiguous.
+MR. BERN: Vague and ambiguous.
+THE WITNESS: And I'm sorry. I -- your "question mark" at least caught me off guard.
+///
+Q. I was just indicating that was the end of my question. I thought about making it more specific, but . . .
+So the question that I just posed was: Did the advertisements that you looked at promote low-delivery products?
+MR. GEISE: Same objection.
+THE WITNESS: I saw advertisements for low-tar and low-nicotine cigarettes.
+BY MR. MURRAY:
+Q. Uh-huh. Did any of those advertisements admonish against compensatory behavior?
+A. None that I saw.
+Q. As you sit here today, are you offering any opinions that the smoking public adopted or accepted these recommendations with respect to low-delivery products?
+A. No. At -- at this time I'm simply offering the opinion that they were exposed repeatedly to the information as we've discussed it.
+Q. And would that same answer, with respect to the scope of your opinion, hold true with respect to compensatory behaviors?
+ambiguous.
+THE WITNESS: Yeah, I guess because that question relies on the one before, could you maybe -BY MR. GEISE:
+Q. Okay.
+A. — make it a question unto itself?
+Q. I'm just trying to determine whether you have an opinion as to whether the public accepted or embraced the recommendations of the public health community with respect to compensatory behaviors?
+A. No. I'm not offering any testimony about public reception of this information.
+Q. Are you offering any testimony as to public understanding of this information?
+A. No.
+Q. Now, referring you to Section 4 of your report, which deals with a background period 1492 to 1880, do you still intend to offer opinions with respect to the items discussed in Section 4?
+MR. GEISE: Object to the form. Overbroad.
+And vague.
+THE WITNESS: I would probably have to reread Section 4 myself to see if there's anything that was pertinent to the case as it now stands, so I can't answer that.
+Q. Let me see. Maybe I can break it down to some of the specific opinions or areas of opinions in Section 4. For instance, the first paragraph, paragraph 19, that discusses the discovery or advent of tobacco in Europe in the 15th century.
+Is that an area on which you would continue to offer opinions at trial of this matter?
+A. This par- -- paragraph pertains to the problem of addiction and knowledge about the hazards of addiction. I don't anticipate that that's in the trial at this point. So I don't anticipate offering an opinion about that.
+Q. Okay.
+A. Were I asked about it, I could certainly, you know, give the information that I already gave here.
+Q. This is a matter of curiosity for me as much as anything else. But you indicate that the Spanish Inquisition imprisoned the first man to light up on European soil.
+Do you know who that person was?
+A. I think the name was Jerez, but I don't remember -- I haven't looked at that name in a while, but I could find it for you.
+Q. One of the reasons I asked that question was I
+was watching a popular television show called "The Borgias," and in that show they depict Rodrigo Borgia, who was Pope Alexander, the -- okay. I — good. I don't have it either, but anyway the Borgia Pope smoking cigars.
+Was that historically accurate? Did -A. Gosh.
+MR. GEISE: Object to form. Lacks foundation.
+THE WITNESS: That's real outside the scope of my testimony in this case.
+BY MR. MURRAY:
+Q. You don't know whether there was a Pope that smoked cigars in the 15th century?
+A. It would not have been before 1492.
+Q. And were your opinions with respect to paragraphs 20, 21 and 22, where you're talking about smoking in the 17th, 18th and 19th centuries, do those relate more to the issue of addiction on which you don't anticipate giving opinions at trial?
+A. They are actually other issues contained in this par- -- these paragraphs. I've just glanced at the first one, but I'd have to read them all to answer you comprehensively.
+Q. Well, let me just ask generally with respect to the opinions you offer about smoking in the 16th, 17th,
+18th and 19th centuries.
+Do those opinions generally relate to knowledge of health hazards and addiction generally as opposed to issues that you anticipate providing testimony on at trial?
+MR. GEISE: Object to the form. Vague.
+THE WITNESS: These paragraphs concern early government policy to discourage tobacco use as harmful. So I don't anticipate that they will arise in this particular case. If they do, I can comment on them, but it's not the focus of my testimony. It's not in those opinions.
+BY MR. MURRAY:
+Q. Is understanding of past government efforts to control tobacco pertinent to an understanding of what the state of awareness was during the class period, 1993 to 2001?
+MR. GEISE: Object to the form. Vague. Overbroad.
+THE WITNESS: It provides context.
+BY MR. MURRAY:
+Q. And is understanding context an important part of understanding the state of public awareness with respect to smoking and health during the class period?
+Q. Paragraph 18 -- I'm sorry, not -- we already discussed paragraph 18. Let me refer to paragraphs 24 and 25. We're on page 10. And you discuss the increase in use of cigarettes as opposed to other tobacco products post-1880.
+Well, do you intend to offer any opinions as to the cause for the increase in use of cigarettes?
+A. I plan to just discuss at this time the harms as they were portrayed of low-tar and low-nicotine cigarettes for the most part. The harms of cigarettes in general may come up, and I would certainly be prepared to testify about that.
+Q. You indicate that one of the reasons for the increase in cigarette use was the advent of cigarette-rolling machines. And I think you indicate another was the arrival of immigrants from Southern Europe who were used to smoking cigarettes as opposed to other tobacco products.
+Are there any other causes for the increase of cigarette use in the late 19th, early 20th century that you have not discussed in these two paragraphs, 24 and 25?
+MR. BERN: Objection. Outside the scope of the designated testimony.
+THE WITNESS: Yes. I — I believe urbanization
+was also an important phenomenon as well, and mechanization of other kinds of occupations. Those both played a role.
+BY MR. MURRAY:
+Q. Any other factors that would have played a role?
+A. Not that I'm recalling at the moment.
+Q. Did mass advertising play a role in the increase in the use of cigarettes in the early 19th -I'm sorry -- early 20th century?
+MR. BERN: Objection. Outside the scope —
+THE WITNESS: Again —
+MR. BERN: -- of the designated testimony.
+THE WITNESS: — that is outside the scope of this particular testimony.
+BY MR. MURRAY:
+Q. That's not an opinion that you intend to offer on trial?
+A. No. I — I -- I'm not.
+Q. At trial of this matter, you don't intend to offer any opinions as to the reasons for the increase in cigarette consumption in the early 20th century?
+MR. GEISE: Object to the form. Asked and
+answered.
+THE WITNESS: I don't at this time plan to
+discuss opinions related to the increase in cigarette usage during —
+BY MR. MURRAY:
+Q. Is that -A. — that 20-, 30-, 40-year period.
+Q. Okay. And I apologize for cutting you off.
+Is that a subject on which you've conducted
+research?
+A. Yes.
+Q. Did you, in conducting that research, reach any determinations as to the role that mass advertising may have played in the increase of cigarette use during that time period?
+A. I did not look at it per se. The other explanations I just gave are the predominant ones that historians have looked at.
+Q. Did you see any secondary sources that -- in the scope of that research, that opined that advertising -- mass advertising had a profound effect on the use of cigarettes in the early 20th century?
+MR. GEISE: Object to the form. Vague. Ambiguous. Assumes facts not in evidence.
+THE WITNESS: I remember reading an article on that, but it came with the opposite conclusion, that advertising came after the increase and, in fact, mass
+advertising was more a later phenomenon than the phenomenon of industrialization.
+BY MR. MURRAY:
+Q. Do you recall the author of that article or the title?
+A. It's a vague recollection, so I hate to place any, you know, great weight on it, but I actually think it was Michael Schudson who -- who spoke of this.
+Q. Did Schudson opine that the pervasiveness of advertising played any role in the increase in smoking rights at any point prior to the -- 1954?
+MR. GEISE: Object to the form. Vague. Ambiguous. Calls for speculation. And Schudson can speak for itself.
+THE WITNESS: I — I feel that's outside the scope personally of what I'm looking at in this case, so I don't want to just give an opinion that might not be accurate. I'd have to go back and review those materials.
+BY MR. MURRAY:
+Q. Have you ever formulated an opinion as to the relation between mass advertising and the rate of cigarette consumption?
+A. No.
+tobacco advertising in the -- in determining the information climate available to smokers.
+A. Yes.
+Q. In considering that, the availability of smoking advertisements, did you find it necessary to consider the efficacy of that advertising in delivering positive messages about cigarette smoking?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: I — I think that's outside the scope of my testimony in this case.
+BY MR. MURRAY:
+Q. So it would be safe to say that you don't intend to offer an opinion as to the efficacy of cigarette advertising in develop- -- delivering positive messages about cigarette smoking?
+MR. GEISE: Object to the form. Asked and
+answered.
+THE WITNESS: Not as you phrased that, no.
+BY MR. MURRAY:
+Q. Is there an aspect in which you would intend to deliver opinions about the efficacy of advertising on messages about smoking and health available to smokers?
+compound.
+THE WITNESS: Not in the way that you're phrasing it, no. I -- I don't think so.
+BY MR. MURRAY:
+Q. And I guess what prompts my question is that you're indicating, not in the way that I'm phrasing it, and I just want to see if maybe there's a way -- or rather there is an opinion with respect to that issue generally, perhaps phrased in your own way, that you would consider relevant or do intend to give testimony on at trial.
+MR. BERN: Objection. There's no question pending. Vague-and-ambiguous statement. Move to strike.
+THE WITNESS: I — I believe that there are probably references to advertising in my report. And if you could go or you could find those for me and we could talk about those, I probably could give you more of what you may need.
+BY MR. MURRAY:
+Q. In paragraph 40 —
+A. I'm sorry. Which paragraph?
+Q. Paragraph 40 on page 17, at lines 10-12, you opine that: "Over the 13 years that followed, the public became widely aware of the connection between smoking and lung cancer, and cigarette use began its
+historic decline."
+What is that 13-year period that you're referring to?
+A. I'm referring to the period from 1950 to 1963.
+Q. That's the period from the time of the publication of Raymond Pearl's analyses about health and cigarettes and the 1963 Surgeon General's report?
+MR. GEISE: Object to the form. Assumes facts not in evidence.
+THE WITNESS: No. No, that's not correct. Raymond Pearl's investigations were in the 1930s.
+BY MR. MURRAY:
+Q. Okay. I was wondering why you focused on the period 1950 to 1963.
+Could you tell me why that's a particular area of focus and why you referred to that 13-year period?
+A. Yes, certainly. It's in that period, 1950 to 1963, where the first major studies on the connection between cigarette smoking and lung cancer were released and made widely available to the public. And that 1963 is the endpoint because that's the year before the famous Surgeon General's report of 1964. So this is a very -- you know, period of time in which that story is covered a lot in the media.
+historic dec- -- I'm sorry -- cigarette use began its historic decline during that period.
+Are you offering an opinion that there is a correlation between the availability of that information and decline in smoking rates?
+A. As we've pointed out, this declaration was for a different purpose, so that's not an opinion I intend to offer at this time in the case, although it certainly is a part of my broader research.
+Q. Okay. So, as you sit here today, you don't intend to offer an opinion at trial of this matter as to the correlation between the availability of information about smoking and health and the decrease in smoking rates during the period 1950 to 1963?
+A. Yes. I don't intend at this time, unless I'm asked about it.
+Q. Do you have an opinion as to whether there was a correlation between the increasing availability of information and the decline in smoking rates?
+MR. GEISE: Object to the form. Calls for testimony beyond the opinions.
+THE WITNESS: Yes. I have an — an opinion, but it does go beyond the scope of the research in this case.
+///
+Q. Is that an opinion that you've offered at any trial in these tobacco cases?
+A. Yes.
+Q. Okay. And what is that opinion?
+MR. GEISE: Object to the form. Calls for an opinion beyond those she's being offered to give in this case.
+THE WITNESS: As I indicated in this report -in this declaration for a different matter, that I did see a connection between the proliferation of information about the health hazards, and as was reported in the newspapers and in the Surgeon Generals' reports and in elsewhere, the connection was made by public health officials that that was the reason for the decline.
+BY MR. MURRAY:
+Q. In those periods of decline, did you observe periods of reversal of decline in smoking rates?
+A. If you looked at — when I have looked at prevalence rates, like most graph lines, it's not an absolutely flat — you know, straight line. There's tiny jags in it. But the trend was always downward, you know, largely. I mean, the blip up, but downward.
+for those blips up during the 1950 to 1963 time frame?
+A. No.
+Q. And you don't have any opinion as to the reasons for those blips up during the 1950 to 1963 time frame?
+A. Nothing beyond what the newspapers would have told me or the Surgeon Generals.
+Q. Okay. Did you observe any — first of all, are you aware of the publication of a Frank Statement to smokers ?
+A. Yes.
+Q. Are you aware that was authored by I believe a company called Hill & Knowlton?
+MR. GEISE: Object to the form. Assumes facts not in evidence.
+THE WITNESS: I don't know who drafted it. I know that Hill & Knowlton was the public relations firm that many companies were working with.
+BY MR. MURRAY:
+Q. Did you observe any correlation between the publication of that Frank Statement and the uptick in smoking rates subsequent to the decline that began in the 1950 period?
+MR. GEISE: Object to the form. Assumes facts not in evidence. Calls for testimony beyond the
+opinions that the witness intends to offer.
+THE WITNESS: As I indicated, I didn’t — as you just asked me, I did not research those blips.
+BY MR. MURRAY:
+Q. Do you have an opinion as to whether or not the Frank Statement had an impact on public awareness of the hazards of smoking?
+MR. GEISE: Object to the form. Calls for testimony beyond the opinions the witness intends to offer.
+THE WITNESS: I do have an opinion, but it does go beyond the scope of this case.
+BY MR. MURRAY:
+Q. What is that opinion?
+MR. GEISE: Same objection.
+THE WITNESS: In previous testimony, I have offered the opinion that that message in no way drowned out or negated the larger, broader, more prevalent information that consumers were receiving at that time about the hazards of smoking.
+BY MR. MURRAY:
+Q. Do you have an opinion as to whether or not that Frank Statement had an impact on the public awareness of the dangers of cigarette smoking?
+speculation testimony beyond the opinions the witness intends to give.
+THE WITNESS: Again, this is beyond what I'm intending to offer in this case. I have not done an extensive analysis of that because it was a one-day event many, many years ago. So I can tell you what I just said before. I don't believe it had any impact on mitigating or undermining the message of the public health community.
+BY MR. MURRAY:
+Q. Again, turning to paragraph 40, you state that: "The public became widely aware of the connection between smoking and lung cancer."
+When you say "The public became widely aware," does that mean that the information was widely available, or are you offering an opinion as to what the public actually knew?
+A. In that statement, which pertained to the -- I guess to the decertification of the case, I'm testifying to both things, that the information was widely disseminated and that the public became aware of it.
+Q. When you use the term "widely aware" here -- I notice at other places in your report, you use, with respect to the smoking and health, the term "common knowledge."
+When you use "widely aware" here, are you meaning to indicate, in the 1950 to 1963 time frame, the link between smoking and disease was common knowledge as you refer to it elsewhere in your report?
+A. Yes. Those terms are somewhat interchangeable. And in that period of time, people became widely aware of what became common knowledge that scientists had made a connection between smoking cigarettes and lung cancer.
+Q. Would common knowledge that scientists had made a connection between smoking and lung cancer in your opinion equate to common knowledge that the link between smoking and lung cancer had been proven?
+MR. GEISE: Object to the form. Vague and ambiguous.
+MR. BERN: Outside the scope of the designated testimony.
+THE WITNESS: I feel like you're making some fine distinctions in there that I'm not quite getting. Would you mind just rephrasing it for me, al- -although it is, of course, outside the scope of this particular testimony.
+BY MR. MURRAY:
+Q. Well, let me go about it this way.
+Paragraph 49 of your report, one of the articles to which you refer is entitled "The Facts Behind the
+Cigarette Controversy."
+Do you know what was meant by "controversy" in that article?
+MR. GEISE: Object to the form. Calls for speculation.
+THE WITNESS: As I best recall that article, which, of course, I could recall better were it in front of me, they were talking about the fact that this was such dramatic news, and there were many elements of that controversy, whether people should quit or whether they should use filters or which things had been proven and which parts of it had not been proven.
+So by the word "controversy," as I recall it right now, they were referring to the broad topic as being this very dramatic topic that was in the news a lot.
+BY MR. MURRAY:
+Q. And, again, is this — I guess this opinion is offered in connection with the period 1950 to 1963?
+A. Yeah. Well, I'm just actually talking about that one article, and I don’t know the date of that article, but it was sometime in that period.
+Q. Was the controversy, as you just described it, a part of the general awareness of smokers with respect to smoking and health?
+A. What do you mean by "controversy" in this respect ?
+Q. Well, you had indicated that there were a lot of aspects to this controversy. One, you indicated it was -- there was a controversy as to whether or not people should quit smoking, correct?
+MR. GEISE: Object to the form. Vague. Ambiguous. Misstates her testimony.
+THE WITNESS: There were a lot of discussions about smoking in its many forms. For example, should one switch to a pipe? That would be an element of the broad discussions that were going on.
+BY MR. MURRAY:
+Q. As an element of those broad discussions, was there a particular discussion as to whether or not individuals should quit smoking?
+A. My recollection at this time is that the vast majority of materials encouraged smokers to quit smoking. That was the emphasis. Like in "Life Magazine," how — how do you swear off?
+Q. Was there a controversy with respect to whether or not the link between smoking and disease had been proven?
+THE WITNESS: There was discussion as to how strong the link was. There were -- air pollution was something that at that time people were wondering about as well. The vast majority were pointing at cigarettes, but those questions were raised from time to time.
+BY MR. MURRAY:
+Q. And were those questions part of the public awareness of the hazards or alleged hazards of smoking? A. You know -MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: -- I think that goes beyond the scope of my research in this case. To really parse that out would be anoth- -- another layer of research.
+BY MR. MURRAY:
+Q. Well, would that other layer of research go to perception of how smokers receive these messages that were available to them?
+A. It might go to that. There are a lot of different messages involved.
+Q. And how smokers receive this information as opposed to what information was available, that's not something you want to opine on or you plan on opining in this case?
+A. In this case, it's limited to what information
+was presented to class members about the harms of low-tar and low-nicotine cigarettes, which had not really been invented at this time.
+Q. Do you have any opinion as to whether statements by the cigarette companies had any effect on the controversy that you described?
+MR. GEISE: Object to the form. Calls for testimony beyond the opinions the witness is going to offer in this case.
+THE WITNESS: So are we talking about 1950 to
+1963?
+BY MR. MURRAY:
+Q. Yes.
+A. As I've testified in other cases, I believe that the evidence really speaks for itself, in that the overwhelming message that came across was about the harms, and that the companies' messages were very infrequent and were viewed with some skepticism by the general public. So that — that message did not diminish public awareness of the hazards.
+Q. Prior to 1950, had there been a controversy about the link between smoking and cigarettes?
+MR. GEISE: Object to the form. Misstates prior testimony. Vague. Ambiguous.
+THE WITNESS: There's always been a connection
+between smoking and cigarettes.
+BY MR. MURRAY:
+Q. Has there always been that controversy that we're — that you were discussing?
+MR. GEISE: Same objection.
+THE WITNESS: I'm sorry. You're saying "smoking and cigarettes." Do you mean smoking and cancer?
+BY MR. MURRAY:
+Q. I'm sorry. Smoking and disease.
+A. Okay.
+MR. GEISE: Same objections.
+THE WITNESS: I -- well, there had always been — there are laws that prohibited people from smoking, so that concern about the health hazards of smoking has a very, very long duration. It goes back to the importation of tobacco from the New World. So that connection was being made continuously.
+BY MR. MURRAY:
+Q. Well, I'm not asking about whether the connection was made. I'm asking about whether there was a controversy with respect to the connection between smoking and disease prior to the 1950 period?
+answered.
+THE WITNESS: I just don't think that that word applies really in the way that we're trying to use it here to that period before.
+BY MR. MURRAY:
+Q. And did the controversy -- was there a controversy, as you just described it, that did exist in the 1950 to 1963 period?
+MR. GEISE: Object to the form. Misstates prior testimony. Vague and ambiguous.
+THE WITNESS: What was well known before 1950 was that cigarettes had harms. What became more clear after 1950 is that one of the very specific harms was that it could cause lung cancer if you smoke cigarettes. And in the context of that news being widely discussed, there was a lot of conversation about it. If that's what you mean by "controversy," then, yes.
+But the -- the vast majority of the materials I've seen that are out there were focused on the harms as people were coming to understand them at the time -well, let's put it this way: Coming to better understand at the time.
+BY MR. MURRAY:
+Q. And do you have an opinion as to whether or not the tobacco companies' statements had an effect on the understanding that people had with respect to whether
+there was a controversy at that time?
+MR. GEISE: Object to the form of the question. Lack of foundation. Calls for speculation. And requests an opinion beyond those the witness says she intends to give in this case.
+THE WITNESS: I — I believe that that really goes beyond the scope at this time.
+BY MR. MURRAY:
+Q. You know, referring back to that 1950 to 1963 time frame, have you revealed -- I mean, reviewed any materials that dealt with public awareness of the relative hazards of filter cigarettes versus nonfilter cigarettes?
+MR. GEISE: Object to the form. Vague. Ambiguous. And overbroad.
+THE WITNESS: I've seen references to those -to that discussion in the popular media.
+BY MR. MURRAY:
+Q. And what were the contexts of those references that you saw in the popular media?
+A. The context was the concern about the growing prevalence of lung cancer and how people could avoid lung cancer.
+Q. Was there any indication in the media at that time that using filter cigarettes as opposed to
+nonfilter cigarettes might mitigate the adverse -- the chance of getting lung cancer?
+MR. GEISE: Object to the form. Vague.
+THE WITNESS: There was discussion about whether or not filters might help or whether they would be of no use whatsoever.
+BY MR. MURRAY:
+Q. Uh-huh. And were there, in those discussions, statements available to the public that indicated that filters would have helped?
+MR. BERN: Objection. Outside the scope.
+THE WITNESS: There were discussions in magazines like "Reader's Digest" or what was then called Consumers Union about the efficacy and/or inefficacy of filter cigarettes.
+BY MR. MURRAY:
+Q. And in those discussions, were any of the sources referred to in those articles advocating for the use of filter as opposed to nonfilter cigarettes?
+A. Not really, no. I wouldn't call — would not use that term, "advocating it."
+Q. Well, was there any suggestion that the non- -that the filter cigarettes would be safer than the nonfilter cigarettes?
+THE WITNESS: There were references to even compensation as being an issue honestly in the -- in the '50s. And in general, it was a more — at a more exploratory level in terms of what was the nicotine content or not of different kinds of cigarettes.
+BY MR. MURRAY:
+Q. You say at the "exploratory level." Was it being postulated in these articles that the filter cigarettes could have been better than the nonfilter cigarettes?
+MR. BERN: Objection. Outside the scope.
+THE WITNESS: Again, these are not, of course, low-tar, low-nicotine cigarettes as we were discussing in the — in the opinions I intend to offer here.
+The articles that I'm recalling at the moment tended to focus more on what the numbers were, because no — there was no standard uniform testing at that time, and so some of these articles offered figures that had been arrived at by independent testing.
+BY MR. MURRAY:
+Q. You indicated that as of 1963, the issue with respect to whether cigarettes caused cancer, and I think your term was "became official" with the publication of the 1963 Surgeon General's report.
+becoming, quote, official that the -- that cigarettes caused cancer?
+MR. GEISE: Object to the form. Misstates prior testimony. Assumes facts not in evidence.
+THE WITNESS: Would you mind directing me to the page you're looking at? That could help me refresh my memory on that.
+BY MR. MURRAY:
+Q. Certainly. It'll take me a minute.
+Paragraph 72 of your report at page 31, do you see there that in that first sentence of that paragraph, you indicate: "The Surgeon General's report made the connection between cigarette smoking and lung cancer 'official.'"
+And my question is: What is the significance of the connection between cigarette smoking and lung cancer becoming, quote, official to your opinions with regard to awareness of health hazards from smoking?
+MR. GEISE: Objection to the form. Vague. Ambiguous. And calls for opinion testimony beyond the disclosure.
+THE WITNESS: This, of course, goes outside the question of low tar and low nicotine. I think the -the importance of that event was that the federal government was trying to take leadership on this issue;
+whereas, before that a lot of the leadership had come from private individuals. So that was important in a -in a country like ours.
+BY MR. MURRAY:
+Q. Did the fact that the message became official make the awareness of the connection between smoking and disease more pervasive?
+MR. GEISE: Object to the form. Calls for testimony beyond opinions the witness intends to offer in this case.
+THE WITNESS: The public awareness of the harms and the connection to lung cancer was very, very prevalent before that report, but the report was the government's way of acknowledging what was also already out there in the public domain.
+BY MR. MURRAY:
+Q. Did the government's acknowledgment of what was out there in the public domain strengthen public awareness of the link between smoking and disease?
+MR. GEISE: Same objection.
+THE WITNESS: I — I think that over time, it had -- it played a role in -- in continuing to get this message out, and that was important for subsequent generations.
+///
+Q. I'm moving on to the issue that you've indicated you do intend to give testimony on in this case, and that is -MR. GEISE: Counsel, if you're going to move on, do you want to take a -- we've been going about a hour. It sounds like we're switching gears, if you want to take a quick break.
+MR. MURRAY: Yeah. Sure.
+MR. GEISE: I —
+MR. MURRAY: No. No. That's fine. That's fine. Thanks.
+THE VIDEOGRAPHER: We're off the record. The time is 2:00 p.m.
+(Recess.)
+THE VIDEOGRAPHER: We're on the record. The time is 2:09.
+BY MR. MURRAY:
+Q. Dr. Hoffman, can I refer you to paragraph 68 of your declaration? Did we take it back?
+A. I think -- I think you repossessed it. Thank you. So did you say 68?
+Q. Yes, please. And that's on page 29.
+And I just wanted to ask you quickly, so we can avoid spending time on it if we don't have to, do your
+citations to the Gallup polls referenced in paragraph 68 relate to opinions that you intend to offer at trial on this matter?
+A. They're not directly related to the low-tar, low-nicotine question, but they certainly pertain to the gen- — general question of knowledge that cigarettes -all cigarettes are harmful.
+Q. Do you intend to offer opinions about the Gallup polls referenced in paragraph 68 —
+MR. GEISE: Object to the form. Vague.
+BY MR. MURRAY:
+Q. -- at trial in this matter?
+MR. GEISE: Vague. And overbroad.
+THE WITNESS: At — at this time, my — my emphasis would be on the public knowledge of the harms of — of low-tar and low-nicotine cigarettes in particular. So I -- I don't anticipate that this would be — come in, but it might be. I could be asked about it.
+BY MR. MURRAY:
+Q. Have you reviewed any polls that specifically relate to awareness of the relative harm between light cigarettes and regular cigarettes?
+THE WITNESS: No.
+Q. And at trial of this matter, you don't intend to offer any testimony about any polls relating specifically to the relative risk between light cigarettes and regular cigarettes?
+MR. GEISE: Same objection.
+THE WITNESS: Not at this time. I'm — the emphasis of my research was on the information that was presented to the public.
+BY MR. MURRAY:
+Q. And just to nail that down, you haven't reviewed any polls that relate to what information was available to the public regarding the relative risk of light cigarettes and regular cigarettes?
+MR. GEISE: Object to the form. Vague. Ambiguous.
+THE WITNESS: I'm — I'm not aware of polls about what information was available to the public per se.
+BY MR. MURRAY:
+Q. On that topic?
+A. On that topic, nor is that necessary to my research.
+poll, and one of the points that's referred to in this poll is that persons, quote, addicted to the weed were more likely than nonsmokers to remember reports linking cigarettes to cancer, but somewhat less likely to believe them.
+And I think this goes to what you've already testified before, but I just want to be sure.
+Your opinions don't relate to how likely people are to believe the messages that were available about smoking and health?
+A. Well, in this case, when I'm talking about the information that was presented to the public about the hazards of low-tar and low-nicotine cigarettes and compensation as an issue, I have not tried to assess their receipt or to the extent to which they believed those messages and simply the messages that were delivered.
+Q. Have you seen any polls or reviewed any polls in your research that indicate that smokers would have been more likely to believe that light cigarettes were less harmful than nonsmokers?
+MR. GEISE: Object to the form. It goes beyond the opinions that the witness is going to offer.
+THE WITNESS: I -- I've seen some references, but I've not reviewed any polls.
+Q. Getting back to the opinions that you intended to offer at trial of this matter with respect to light cigarettes, do your opinions or do the portions of your declaration relating to the health community’s dissemination of the purported benefits of lower-delivery products relate to the opinions that you're going to offer at trial in this case?
+MR. GEISE: Object to the form. Ambiguous.
+Vague.
+THE WITNESS: Would you mind directing me to the page -BY MR. MURRAY:
+Q. Okay.
+A. — that you’re thinking of?
+Q. Yeah. I'm going to — let me direct you to page 34.
+A. Great.
+Q. Paragraph 80 and 81 and 82 and 83, but we can just start with, you know, 80 where you indicate that around 1960, public health experts were recommending that people who choose to smoke use lower tar and nicotine products.
+And my question is: Is that information pertinent to the opinions that you're going to offer at
+trial in this matter with respect to light cigarettes?
+A. Yes, it is.
+Q. Okay. Why is something that happened in the 1960s pertinent to the opinions that you're going to offer at trial of this matter involving a class spanning from 1993 to 2001?
+A. It would be pertinent for a variety of reasons, but one of which is that the class members, quite a few of them, would have been alive and -- and being exposed to this information much earlier than the class period. So my research pertains to the years that lead up to the class period as well as the class period itself.
+Q. And so, at least for your historical purposes, is it necessary to have an understanding of what happened prior to the class period in order to evaluate the state of awareness during the class period?
+A. Yes.
+MR. GEISE: Object to the form.
+BY MR. MURRAY:
+Q. And that would include events that took place in the 1960s with these reports from the public health community suggesting that light cigarettes may be less harmful?
+A. Yes.
+please. And that's on page 44. And in paragraph 100, you reference polls conducted by Roper in one instance and another conducted by the Gallup organization. These polls conducted in 1985 and 1987.
+And the question is whether or not you intend to offer opinions about these particular polls in the opinions you plan to offer at trial in this case?
+A. There's a -- there's a chance I might use them to the extent that we're talking about the first part of my findings, which is that the public was exposed repeatedly to information that all cigarettes could be very hazardous as well as low-tar and low-nicotine cigarettes.
+Q. Do you know whether these polls posed any questions about low-tar, low-nicotine cigarettes versus regular cigarettes?
+A. I'm not recalling if those polls do or not.
+Q. And you indicated, referencing these two polls, that the information contained in them, quote, qualified as common knowledge, closed quote.
+Is "common knowledge" a term of art in the historic community?
+MR. GEISE: Object to the form. Asked and
+answered.
+THE WITNESS: It's a phrase that would be used
+commonly.
+BY MR. MURRAY:
+Q. And how is "common knowledge" defined?
+MR. GEISE: Same objection.
+THE WITNESS: Again, this is a — an approximation, because it's not a -- a technical term in the way that you might get in the scientific rubric or something. But the meaning of it would be information that's so common as to be nearly assumed, so that a person might say, of course, dot, dot, dot, and then refer to the thing that is, of course, well known.
+BY MR. MURRAY:
+Q. So for something to reach the level of common knowledge, it would have to be commonly believed?
+MR. GEISE: Object to the form. Misstates her testimony. Vague and ambiguous.
+THE WITNESS: It would have to be commonly known, which is slight- — slightly different from commonly believed.
+BY MR. MURRAY:
+Q. Can you refer me to any textbooks that attempt to provide a definition of "common knowledge" such as you've just provided in this deposition?
+A. I would have to look at some historical methods, text- — textbooks. It may be that that term
+is in there. I -- there's not a great focus on that term, though. So it -- it could well be used, but it might not be used.
+Q. Were there any textbooks that you particularly referenced in forming your opinions in this case as respects the issue of what constitutes common knowledge?
+A. No.
+Q. You've indicated that there was widely available information — let me back up.
+You've indicated that there was common knowledge to the effect that — let me back up again.
+Do you intend to offer the opinion that there is common knowledge to the effect that all cigarettes, lights and regulars, pose health hazards?
+A. Yes. I mean, in -- in the sense that what I was saying to begin with is that the public was widely presented with this information that they were hazardous and -- and so I can show that quite easily.
+Q. Do you have an opinion as to whether or not the proposition that light cigarettes are not any safer than regular cigarettes has attained the level of common knowledge?
+MR. BERN: Objection. Vague as to time.
+BY MR. MURRAY:
+A. During the class period.
+Q. — 1993 to 2001.
+A. No, I don't intend to. I intend to show that this information was widely presented by credible authorities and was available quite widely to class members through the class period, but that's far as I'm prepared to testify to at this time.
+Q. Was the information that -- well, let me back
+up.
+During the class period, had the information that light cigarettes were not relatively safer than regular cigarettes attained the pervasiveness that lung cancer and smoking link had attained in, say, by 1963?
+MR. GEISE: Object to the form. Vague. Ambiguous. And calls for an opinion that the expert has testified she's not giving in this case.
+THE WITNESS: Yes. As I've — as I've indicated, I'm not prepared to testify as to the extent of awareness of that second fact, that — or that second claim anyway, that — that light cigarettes might not be as — might not be less harmful at all.
+What I can show is that that — that that message was given a lot and that that message grew especially strong towards the end of this period.
+///
+Q. The end of what period? The end of the class period?
+A. In that period of the '90s, as we discussed earlier and -- and by the end of the class period.
+Q. And the question I have is: Was the information that was -- I think your term was disseminated a lot -A. Uh-huh.
+Q. — did that receive as wide attention as the link between smoking and lung cancer received in the 1963 time frame?
+MR. GEISE: Object to the form. Vague. Ambiguous. Overbroad. And calls for opinion testimony beyond those the witness says she's offering.
+THE WITNESS: The -- the -- a comparison I could draw for you is that the coverage of the 1964 Surgeon General's report in the "Los Angeles Times" got 44-linear feet just about that one report in -- on one day alone.
+So that is a — a level of voluminousness, if that's a word, that does not compare with almost any story about cigarettes by the 1990s. So the information was widely out there. But when the information was new and the Surgeon General made his initial report, then
+the scale was -- was huge.
+BY MR. MURRAY:
+Q. How would you relate that scale, say, to when the ACS reversed its position on the use of light cigarettes?
+A. It would -MR. GEISE: Object to the form. Calls for speculation testimony. Beyond the opinions.
+THE WITNESS: The ACS reversal of its position was made known and was reported, but as a -- as an article, it was not -- did not attain the same degree of coverage as the Surgeon General's report on January -in January of 1964.
+BY MR. MURRAY:
+Q. Were there any stories with regard to the suggestion that light cigarettes are not relatively safer than regular cigarettes that attained the level of attention that the 1963 Surgeon General's report did?
+MR. GEISE: Object to the form. Assumes facts not in evidence.
+THE WITNESS: The 1964 Surgeon General's report was a very exceptional event. So, you know, that news was important news about the concerns about low-tar and low-nicotine cigarettes, and it was covered very frequently in the newspapers. But it's hard to find
+almost any event which attained the renown of the 1964 Surgeon General's report.
+BY MR. MURRAY:
+Q. Did the report —
+A. It doesn't mean it wasn't widely reported. It just was not to the same degree of sensational coverage.
+Q. Did the public health -- well, did the reversal of the public health -- back up.
+Did the public health community's embrace of the idea that light cigarettes would be more beneficial than regular cigarettes obtain wide notoriety?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: The public health community's commitment to getting people to switch did obtain wide notoriety.
+BY MR. MURRAY:
+Q. How would you quantify that notoriety as compared to the notoriety that the public health community's reversal on that position had received as of the time frame 2001?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: That kind of comparison I think would be hard to make in any quantitative sense, and I'm
+not prepared to offer a position -- pardon me -- an opinion on that.
+BY MR. MURRAY:
+Q. Do you have an opinion in a general sense?
+MR. GEISE: Object to the form.
+THE WITNESS: What do you mean?
+BY MR. MURRAY:
+Q. Would you say that the public health community’s dissemination of its message that light cigarettes would be preferable was wider — more widely distributed than the reversal of that position had been by the year 2001?
+MR. GEISE: Object to the form. Asked and answered. Beyond the scope of the opinions.
+THE WITNESS: The public community — health community isn't — wasn't one monolithic group. So I don't think it's possible to say that everyone had reversed the — that position by the end of the class period, for example.
+So, therefore, it was — the message was never as monolithic and clear as — as the initial message, which is that you ought to switch, but not to compensate. And then, as I indicated, that message fades a bit over time, but it's still there.
+///
+Q. Uh-huh. Is that message still there as of the end of the class period, 2001?
+MR. GEISE: Object to the form. Vague.
+THE WITNESS: I don't think it's been effectively withdrawn, if you know what I mean.
+BY MR. MURRAY:
+Q. When you say it hasn't been effectively withdrawn, do you mean as of this date?
+A. As of -- as of the end of the class period there — still there are numbers on the packages that the FTC requires and things like that that would indicate, you know, that that message is still getting across to some extent.
+Q. In your review of source materials for this investigation that you've conducted with respect to the opinions you're going to give in this case, did you consider the opinion issued by Judge Kessler in the Department of Justice case involving light cigarettes?
+A. No, I did not.
+Q. Okay. Is that a material that you have reviewed at any point in time?
+A. I believe I've seen references in the newspaper, but, no, I did not review her decision.
+decision with respect to historical knowledge about light cigarettes authoritative?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: Yeah. I'm not quite sure what you're asking. Do I consider her opinion authoritative? BY MR. MURRAY:
+Q. Yes.
+A. That seems -- that seems like almost a legal conclusion. I — I really can't give an opinion on that.
+Q. My question I guess would be: Would -- as an historian, would a legal opinion about issues involving light cigarettes be a source that one should consider?
+MR. GEISE: Object to the form. Vague. Ambiguous. Overbroad.
+MR. BERN: Calls for speculation. Calls for a legal opinion.
+THE WITNESS: It might. It would depend. And, in fact, I'm not even sure that that was within the class period. I don't recall if it was.
+BY MR. MURRAY:
+Q. Well, I'll represent to you that it was not.
+A. Oh, okay. Well, then it really is not germane in that case.
+Q. If that opinion contained -- I'm going to ask you to go with me on a hypothetical here. If that opinion contained findings with respect to what information was available during the class period, would that be something that you would want to consult to -would a case -- would a Court ruling on that issue be something that you would want to consult as a historian in evaluating what happened during the class period?
+MR. GEISE: Object to the form. Vague. Ambiguous. Compound. Calls for speculation. Assumes facts not in evidence.
+THE WITNESS: Since it —
+MR. GEISE: And lack of foundation for a historian.
+THE WITNESS: Since it falls outside this class period, I -- I just don't think I would go to it. I don't think it would be relevant. It would not be consistent with the historical method.
+BY MR. MURRAY:
+Q. Okay. I pose the same question to you with respect to NCI's Monograph 13. As I understand it, Monograph 13 was published at the -- after the close of the class period.
+Is that your understanding as well?
+MR. GEISE: Object to the form.
+Q. And that document does not inform your opinions that you're going to offer at trial of this matter, correct ?
+MR. GEISE: Asked and answered.
+THE WITNESS: No.
+BY MR. MURRAY:
+Q. Assume for me that that document contained a historical review of information available to the class during the class period.
+Would that document then be something that you would want to review in considering the availability of information about light cigarettes -MR. GEISE: Objection.
+BY MR. MURRAY:
+Q. — during the class period?
+MR. GEISE: Object to the form. Compound. Vague. Ambiguous. Incomplete hypothetical. Lack of foundation.
+MR. MURRAY: We can just assume you're going to make all of them.
+MR. GEISE: I switched them up that time.
+THE WITNESS: Because it's outside the class period, it wouldn't be the kind of thing I would
+generally use. And as a secondary source for historical information, if I was looking at secondary sources about a period, you know, a particular period, I generally would go to what -- I would go to historians for that. But in this case, I didn't believe it was important or relevant.
+BY MR. MURRAY:
+Q. Did you go to any secondary sources, historians that were published after the class period, in order to evaluate the information that was available to the public during the class period?
+A. Well, we -- we discussed that a little bit earlier. I think Schudson's book might cover that. I just don't recall offhand. I'd have to go back and look at my secondary sources.
+Q. And Schudson's book was -- you believe subsequent -- published subsequent to the class period?
+A. I'm guessing, but I think it was. But, again, my emphasis is always on the primary record.
+Q. When speaking about history of the public health community, would you consider the NCI a reliable secondary source as to what happened with the public health community -MR. GEISE: Object —
+///
+Q. — during the class period?
+MR. GEISE: Object to the form. Calls for a legal conclusion. Vague and ambiguous.
+MR. BERN: Lack of foundation. Calls for speculation.
+THE WITNESS: I can't evaluate that, not having studied it for that purpose.
+BY MR. MURRAY:
+Q. And you have not studied Monograph 13 for that purpose ?
+MR. GEISE: Objection. Asked and answered.
+THE WITNESS: I have read Monograph 13, but not for the purpose as we're describing it now.
+BY MR. MURRAY:
+Q. Did you make a decision not to read it for that purpose ?
+A. No.
+Q. At what point in your investigation did you read Monograph 13?
+A. Oh, I don't recall precisely. I've seen it a couple of times. I -- I saw I think articles on it at the time, around the time it came out. And I obtained a copy and reread it, oh, six months ago maybe.
+testimony is that it is not relevant to the opinions that you're offering?
+MR. GEISE: Object to the form. Calls for a legal conclusion. Lack of foundation.
+THE WITNESS: I don't think it's necessary for my opinion.
+MR. MURRAY: Let's take a break. I may be wrapping up.
+MR. GEISE: Okay.
+THE VIDEOGRAPHER: We're off the record. The time is 2:39.
+(Recess.)
+THE VIDEOGRAPHER: We're on the record. The time is 2:47.
+BY MR. MURRAY:
+Q. Dr. Cobbs Hoffman, as you sit here today, is there any additional work that you plan to do in this case prior to trial?
+A. Not at this time. My research is ongoing, but I don't have any specific plans.
+Q. Okay. Do you have any specific plans to review any additional materials with respect to this case prior to the opinion testimony you're going to give at trial in this matter?
+documents to refresh my memory, but I don't plan to do any big review.
+Q. Okay. And apart from review, I'm more interested in knowing, do you intend to review any materials that you hadn't reviewed before?
+A. Not at this time, not that I can think of.
+Q. Okay. And then, finally, I know I've asked you a lot of questions about the opinions that you plan to offer at trial on this case, are there any additional opinions that we -- you plan to offer at trial of this case that we haven't discussed?
+MR. GEISE: Object to the form. Vague and ambiguous.
+THE WITNESS: I -- I plan to offer the opinions that I described towards the beginning of our conversation. It may be that I'll be asked other questions upon which I would need to give an opinion.
+But at this point, this is all I anticipate.
+MR. MURRAY: At this point, I'm done. Thank you very much for your time.
+THE WITNESS: Thank you, sir.
+MR. MURRAY: Any questions?
+MR. GEISE: No questions.
+MR. BERN: No questions.
+MR. FOSTER: No questions.
+MR. BERN: Should we put a stipulation about the transcript on the record?
+MR. MURRAY: Yes, please. And you —
+MR. CALCAGNIE: What's been the stipulation?
+MR. MURRAY: Martin's has been -- Martin I think can -MR. BERN: I propose that we —
+MR. MURRAY: Can recite it. He's got it down. We do the same one every time.
+MR. BERN: I propose to relieve the court reporter’s duties under the Code. And we have the original deposition will be sent to the plaintiffs, who will keep it for trial on the case.
+Dr. Cobbs Hoffman will review a certified copy, provide any changes to the transcript, sign the transcript and return that to counsel for Philip Morris, who will circulate the changes and the signature page to counsel for the plaintiff class.
+If for any reason the original transcript is lost prior to trial, then a certified copy may be used for all purposes as though it were an original.
+MR. MURRAY: That's the -- that's the one we've been doing in every —
+MR. CALCAGNIE: So stipulated.
+MR. MURRAY: — one of these depositions, so so
+stipulated.
+MR. GEISE: So stipulated.
+MR. CALCAGNIE: All right. So you're going to maintain custody of the original transcript of your experts ?
+MR. MURRAY: We can go off the record. Sorry.
+THE VIDEOGRAPHER: This is the end of Disk 2 of 2. It concludes today's deposition of Dr. Hoffman. The time is 2:50 p.m. We're off the record.
+(The deposition was concluded at 2:50 p.m.)
+ACKNOWLEDGMENT OF DEPONENT
+I, ELIZABETH COBBS HOFFMAN, Ph.D., do hereby certify that I have read the foregoing pages,
+1 through 149 , and that the same is a correct transcription of the answers given by me to the questions therein propounded, except for the corrections or changes in form or substance, if any, noted in the attached errata sheet.
+Executed this _ day of _ 2012, at
+_t _■
+(City)	(State)
+ELIZABETH COBBS HOFFMAN, Ph.D
+I, Kimberly Thrall, Certified Shorthand Reporter and Registered Professional Reporter, in and for the State of California, do hereby certify:
+That the witness named in the foregoing deposition was, before the commencement of the deposition, duly administered an oath in accordance with the Code of Civil Procedure Section 2094; that the testimony and proceedings were reported stenographically by me and later transcribed through computer-aided transcription under my direction and supervision; that the foregoing is a true record of the testimony and proceedings taken at that time.
+IN WITNESS WHEREOF, I have hereunto subscribed my name this 6th day of September, 2012.
+Kimberly S. Thrall, RPR, CSR No. 11594
+ERRATA
+PAGE LINE	|	CHANGE/REASON
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+__I _
+PAGE LINE	|	CHANGE
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_
+__I	_

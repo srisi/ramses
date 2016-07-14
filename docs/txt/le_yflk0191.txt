@@ -1,0 +1,2007 @@
+﻿1	MISSOURI CIRCUIT COURT
+2	TWENTY-SECOND JUDICIAL CIRCUIT
+3	(City of St. Louis)
+4	DAYNA CRAFT, JASON STONE, DEBORAH )
+5	LARSEN, WENDI ALPER-PRESSMAN, )
+6	individually and on behalf of all )
+7	others similarly situated, )
+8	Plaintiffs,	)
+9	vs.	) No. 002-00406-02
+10	PHILIP MORRIS COMPANIES, INC., a )
+11	corporation, and PHILIP MORRIS )
+12	INCORPORATED, a corporation, )
+13	Defendants.	)
+14
+15	Continued Videotaped Deposition of JANETTE
+16	THOMAS GREENWOOD, taken before VIRGINIA DODGE, CRR,
+17	pursuant to the applicable rules pertaining to the
+18	taking of depositions, at Suite 1500, 53 State Street,
+19	in the City of Boston, Massachusetts, reconvening at
+20	9:28 a.m., on the 5th day of May, 2010.
+22
+23	VOLUME II
+24	PAGE 233 - 316
+1	PRESENT:
+3	ON BEHALF OF THE PLAINTIFFS:
+4	QUINN EMANUEL URQUHART & SULLIVAN, LLP
+5	BY: MR. DOMINIC SURPRENANT
+6	865 South Figueroa Street
+7	10th Floor
+8	Los Angeles, CA 90017
+9	(213)443-3166
+10	dominicsurprenant@quinnemanuel.com
+12	ON BEHALF OF THE DEFENDANTS:
+13	WINSTON & STRAWN LLP
+14	BY: MR. ERIK W. SNAPP
+15	35 West Wacker Drive
+16	Chicago, IL 60601-9703
+17	(312) 558-6106
+18	esnapp@winston.com
+19
+20
+22
+23
+24
+I	PRESENT (continued):
+3	ON BEHALF OF THE DEFENDANTS (continued):
+4	ARNOLD & PORTER LLP
+5	BY: MS. JUDITH BERNSTEIN-GAETA
+6	555 Twelfth Street NW
+7	Washington, DC 20004-1206
+8	(202) 942-5497
+9	judith.bemstein- gaeta @ aporter.com
+10
+II	ALSO PRESENT:
+12	SHAWN BUDD, Videographer
+13
+14
+15
+16
+17
+18
+19
+20
+22
+23
+24
+1	INDEX
+2	May 5, 2010
+3	JANETTE THOMAS GREENWOOD, Volume 2
+4	PAGE
+5	Examination by Mr. Suprenant........................238
+7	DEPOSITION EXHIBITS
+8	NUMBER	DESCRIPTION	PAGE
+9	Exhibit 11 Printout of Webpage	239
+10	Exhibit 12 Handwritten note: Health Issues
+11	Relating to Light Cigarettes 244
+12	Exhibit 13 Printout of Webpage	246
+13	Exhibit 14 Printout of Webpage	246
+14	Exhibit 15 Printout of Webpage	247
+15	Exhibit 16 Printout of Webpage	260
+16	Exhibit 17 All Scholarly Support Cited by
+17	Professor Greenwood in Her Expert
+18	Report for Her Definition of "Public
+19	Awareness"	251
+20	Exhibit 18 All Scholarly Support Professor
+21	Greenwood Could Cite at Her
+22	Deposition for Her Definition of
+23	"Public Awareness"	263
+24	Exhibit 19 The Pursuit of History excerpt 267
+1	DEPOSITION EXHIBITS (CONTINUED)
+2	NUMBER	DESCRIPTION	PAGE
+4	Exhibit 20 Handwritten notes	286
+10
+13
+14
+15
+16
+17
+18
+19
+20
+22
+23
+24
+I	(Deposition reconvened at 9:28 a.m.)
+3	VIDEOGRAPHER: We are back on the record.
+4	This is Day 2 in the videotaped deposition of Janette
+5	Greenwood. Today's date is May 5, 2010, and the time is
+6	9:28. You may continue.
+8	JANETTE THOMAS GREENWOOD, Deponent, having
+9	previously been duly sworn, deposes and states as follows:
+10
+II	CONTINUED EXAMINATION BY MR. SURPRENANT:
+12
+13	Q. Good morning, Professor.
+14	A. Good morning.
+15	Q. Thank you for bringing the excerpts from The
+16	Pursuit of History. I just read them here this morning.
+17	Quite interesting. And I will mark them as an exhibit
+18	and have some examination on them later.
+19	But I don't want to beat a dead horse, but
+20	I -- but I am very interested and concerned about the
+21	use of "public awareness" as -- as -- as inserted into
+22	the historical research question you answered by the
+23	lawyers for Philip Morris.
+24	Aware that the normal natural primary
+1	definition of aware -- of awareness is knowledge,
+2	correct?
+3	MR. SNAPP: Object.
+4	BY MR. SURPRENANT
+5	Q. To be aware of a fact means to have knowledge
+6	of a fact, correct?
+7	MR. SNAPP: Object to the form of the
+8	question.
+9	THE WITNESS: No. I don't think that's the
+10	case, as I went over a number of times yesterday.
+11	Knowledge, as I pointed out, is certainly based on
+12	information, but what I've been charged to do in this
+13	case is to document in the information environment that
+14	was out there for people in Missouri regarding light
+15	cigarettes.
+16	BY MR. SURPRENANT
+17	Q. Okay. Well, I spent some time this morning
+18	on the Internet. At home, I have a 22-volume, I think,
+19	edition of the Oxford English Dictionary, but I'm not at
+20	home, so I had to resort to the Internet, but I was
+21	trying to find some definitions of awareness. And I'm
+22	going to go over a few of them.
+23	(Exhibit 11, Printout of Webpage, marked.)
+24
+1	BY MR. SURPRENANT
+2	Q. I've marked as Exhibit 11a printout from --
+3	I think it's the Free Dictionary.
+4	Aware, adjective. I'm reading from a
+5	document. First meaning: "Having knowledge or
+6	cognizance." And then at the bottom, noun. Awareness.
+7	"Having knowledge of" as the first meaning.
+8	So the use of "aware" and "awareness" from
+9	the Free Dictionary which I went online this morning is
+10	not the way you're using "public awareness," correct?
+11	MR. SNAPP: Object to the form.
+12	THE WITNESS: Again, I think I have explained
+13	what my definition is. Public awareness, as I have
+14	defined it I think quite clearly in my report, is
+15	information that is readily available to -- to everyone.
+16	It's information that is widely disseminated. It's
+17	information that's deeply disseminated. It's
+18	information that is reiterated, reinforced over time.
+19	So that is my definition of "public awareness" and how I
+20	have used it in this report.
+21	BY MR. SURPRENANT
+22	Q. Yeah. Professor, I thoroughly understand
+23	that. You've made that point and -- a number of times,
+24	and I'm aware of that.
+1	But my question was: Your -- your use of
+2	"awareness" is inconsistent with the definition of
+3	"awareness" from the Free Dictionary, which I've marked
+4	for identification as Exhibit 11, correct?
+5	MR. SNAPP: Object to the form.
+6	THE WITNESS: No. I wouldn't say it's
+7	inconsistent. As I explained yesterday, awareness --
+8	knowledge is based on information that's -- that's
+9	available to people, okay. There is a connection
+10	between awareness and knowledge. I think we've gone
+11	over that a number of times yesterday.
+12	So I'm not -- so, you know, knowledge, as it
+13	says in this dictionary -- which again, I have no idea
+14	what the Free Dictionary is. I'm not familiar with it.
+15	It looks like it's, you know -- as you suggest, it's an
+16	online dictionary. I don't know the -- the
+17	qualifications of people who put this together.
+18	But I did say that there was a relationship
+19	between information and knowledge. Knowledge is built
+20	and based on information.
+21	Again, as a historian in this case, I can
+22	tell you what information was available to the people of
+23	Missouri regarding light cigarettes. What they knew
+24	about light cigarettes, again, I can't answer. It was
+1	not my charge in this case to answer that.
+2	And again, knowledge is, you know, what --
+3	what a person chooses to make of that information,
+4	whether they absorb it as knowledge, whether they reject
+5	it is again outside of my scope as a social historian in
+6	this case.
+7	BY MR. SURPRENANT
+8	Q. And not only is it outside your charge, a
+9	historian is not able to say what any individual or what
+10	a population actually knew, correct?
+11	A. No. I wouldn't say that that's the case at
+12	all.
+13	Q. Okay. Now I am even more concerned because
+14	it now seems to me that you want the jury to say based
+15	on your research that the class or the public knew a
+16	fact. And I thought you said up and down yesterday that
+17	that wasn't your intent. Have you changed your
+18	testimony?
+19	MR. SNAPP: Object to the form.
+20	THE WITNESS: No. I'm not changing my
+21	testimony. And I don't think you're relating what I
+22	said yesterday clearly. I think you're misconstruing
+23	what I said.
+24
+1	BY MR. SURPRENANT
+2	Q. Well, then we're going to have --
+3	A. May I -- may I finish, please?
+4	Q. Sure.
+5	A. What I said yesterday was that I have been
+6	charged in this case as an expert witness, as a social
+7	historian, to document the information that was
+8	available to the people of Missouri regarding light
+9	cigarettes.
+10	And I did that, again, defining "public
+11	awareness" as the information that is readily available
+12	to people, emanating from a wide variety of sources,
+13	repeated, reinforced, reiterated over time, broadly
+14	disseminated and deeply disseminated, okay. That's what
+15	I have been charged with in this case.
+16	Historians can determine individual belief,
+17	depending again on the sources that are available. I
+18	was not charged with that particular duty in this case.
+19	For example, you used -- well, let me just
+20	stop there.
+21	Q. Okay. I thought I'd established this
+22	yesterday, but now I'm going to have to do it again --
+23	A. I think you did.
+24	Q -- I'm afraid.
+1	MR. SURPRENANT: So let me mark as Exhibit 12
+2	a handwritten sheet that I just did.
+3	(Exhibit 12, Handwritten note: Health Issues
+4	Relating to Light Cigarettes, marked.)
+5	BY MR. SURPRENANT
+6	Q. The title is Health Issues Relating to Light
+7	Cigarettes. I've quoted "public awareness," and I mean
+8	the definition that you've given me that I know that's
+9	in your report that we've talked about. And I put a not
+10	equals sign, public knowledge.
+11	Now, is that -- is that correct or not? Or
+12	are you now saying public awareness equals public
+13	knowledge or public awareness does not equal public
+14	knowledge?
+15	MR. SNAPP: Object to the form. We've been
+16	through this numerous times --
+17	MR. SURPRENANT: Well, the problem -
+18	MR. SNAPP: You're misstating her testimony.
+19	We went through this over and over again yesterday.
+20	MR. SURPRENANT: The problem is that the
+21	witness -- and I think she's been encouraged to do
+22	this -- is not answering my questions.
+23	The present question is very simple. Does
+24	public awareness, as the witness has used it in her
+1	report, does it or does it not equal public knowledge?
+2	She can say yes. She can say no.
+3	What she doesn't need to do -- what she
+4	doesn't need to do is once again give me a speech about
+5	what I already know, which is how she has defined public
+6	awareness. I get to ask the questions. This is in
+7	effect cross examination.
+8	BY MR. SURPRENANT
+9	Q. Professor Greenwood, is public awareness --
+10	and you don't have to tell me what it is. I know what
+11	it is as you have used it in your report. Does it or
+12	does it not equal public knowledge?
+13	MR. SNAPP: Object to the form. I also
+14	object to any insinuation that she's been instructed to
+15	answer the questions in any way other than honestly --
+16	MR. SURPRENANT: Sure.
+17	MR. SNAPP: -- and consistent with her
+18	opinions.
+19	MR. SURPRENANT: Okay.
+20	MR. SNAPP: Object to the form of the
+21	question.
+22	THE WITNESS: I would say that public
+23	awareness does not equal public knowledge, but public
+24	knowledge is certainly related to and connected to
+1	public awareness because knowledge is based on the
+2	information that's available.
+3	MR. SURPRENANT: And then I have a
+4	understand -- a definition of "understanding" from
+5	Google, which I'm going to mark as Exhibit 13.
+6	(Exhibit 13, Printout of Webpage, marked.)
+7	MR. SURPRENANT: Oh, could I see that just
+8	for a moment, Professor?
+9	I'll have to make a copy of this at the
+10	break. I only have two copies. And so I will --1 will
+11	pass examination on that until the break when I can make
+12	a copy.
+13	So let me go to the Merriam Webster online,
+14	which I've marked as Exhibit 14.
+15	(Exhibit 14, Printout of Webpage, marked.)
+16	BY MR. SURPRENANT
+17	Q. Awareness. Two entries found. One, archaic.
+18	Watchful, wary. Two, having or showing realization,
+19	perception or knowledge.
+20	Now, this does not define awareness as having
+21	information available to an observer. It instead
+22	defines it as -- as the observer having shown
+23	realization, perception or knowledge, correct?
+24	MR. SNAPP: Objection to form.
+1	THE WITNESS: The definition is having or
+2	showing realization, perception or knowledge. Yes.
+3	BY MR. SURPRENANT
+4	Q. And -- and -- okay. That's Exhibit 14.
+5	Let me go to the next one I was able to find
+6	this morning.
+7	(Exhibit 15, Printout of Webpage, marked.)
+8	BY MR. SURPRENANT
+9	Q. Your Dictionary. And at trial, I'll actually
+10	have my -- my Oxford English.
+11	Example 15 from Your Dictionary, online
+12	service, YourDictionary.com. Aware definition.
+13	Adjective. One, obsolete. On one's guard; vigilant.
+14	Two, knowing or realizing; conscious; informed.
+15	So the Your Dictionary does not define
+16	awareness as information being available to an observer
+17	without regard to whether the observer actually knew of
+18	the information, read the information or made any use of
+19	the information, understood the information,
+20	comprehended the information or perceived the
+21	information, correct?
+22	MR. SNAPP: Object to form.
+23	THE WITNESS: I'm not sure what the question
+24	was.
+1	BY MR. SURPRENANT
+2	Q. Sure. This definition defines awareness as
+3	knowing or realizing, not that the observer merely had
+4	the information in some sense available to him or her,
+5	correct?
+6	MR. SNAPP: Object to the form.
+7	THE WITNESS: Well, if one knows something,
+8	that knowledge, as I've mentioned earlier, is based on
+9	information.
+10	Yeah. This is a -- this is a dictionary
+11	definition. Again, I know nothing of -- of the source.
+12	Never heard of YourDictionary.com.
+13	And again, I think I've made it very clear.
+14	I think it's extremely understandable the way I have
+15	defined "public awareness." I think a jury can
+16	understand that very clearly, what the scope of my -- my
+17	research was, what my charge was and what my conclusions
+18	were.
+19	BY MR. SURPRENANT
+20	Q. Right. But you could have defined
+21	"public" -- you could have -- you could have defined --
+22	instead of describing -- instead of using the term
+23	"public awareness," for example, you could have defined
+24	actual individual knowledge by every member of the class
+1	and used your same definition, and it would have been
+2	entirely misleading, correct?
+3	MR. SNAPP: Object to the form.
+4	THE WITNESS: I - I don't understand the
+5	question.
+6	BY MR. SURPRENANT
+7	Q. Right. Scholars have to use -- it is
+8	inappropriate to make up -- to let the tobacco lawyers
+9	make up a phrase that is misleading and then define it
+10	in an idiosyncratic way that is inconsistent with common
+11	English.
+12	MR. SNAPP: Objection to form.
+13	THE WITNESS: Is that a question?
+14	MR. SNAPP: Argumentative.
+15	MR. SURPRENANT: Okay. Is it -
+16	THE WITNESS: May-
+17	MR. SURPRENANT: Let me -- okay. Strike it.
+18	I'll ask the question again.
+19	BY MR. SURPRENANT
+20	Q. You're a professor, correct?
+21	A. Yes, I am.
+22	Q. A scholar, right?
+23	A. Yes.
+24	Q. A scholar isn't supposed to use idiosyncratic
+1	phrases that are misleading as commonly understood
+2	without any scholarly support, correct?
+3	MR. SNAPP: Object to the form of the
+4	question.
+5	THE WITNESS: I'm not using it in an
+6	idiosyncratic way. I use this concept in my teaching.
+7	As I said yesterday, I use it in my research. I use it
+8	in my own scholarship. This concept is embedded in
+9	social history. I can give you some examples, if you'd
+10	like, how I use it in my teaching.
+11	BY MR. SURPRENANT
+12	Q. I'm not interested in --
+13	A. Because I did not make--the tobac--my
+14	point in giving you some examples from my teaching is
+15	that the tobacco lawyers did not make this up. This is
+16	not a term that was foisted, forced upon me by the
+17	tobacco industry. I use this concept all the time in my
+18	teaching.
+19	Q. How much support --
+20	A. And I'd be happy to give you some examples.
+21	Q. Okay. Now, let's be clear. I'm not
+22	interested in a concept. I'm interested in the term
+23	that is attached to the concept by the tobacco lawyers.
+24	Now, what support, what scholarly support,
+1	do -- have you identified in your report, which is
+2	66 pages long, single-spaced, 287 footnotes. For the
+3	term "public awareness" as you have defined it in your
+4	report, I'm correct that there is no scholarly source
+5	cited, correct?
+6	MR. SNAPP: Objection to form. It's
+7	compound. It's argumentative. It's asked and answered.
+8	THE WITNESS: I think my definition is very
+9	clear what public awareness is. And it is a concept
+10	that I use as a teacher and a scholar regularly as a
+11	social historian.
+12	MR. SURPRENANT: Okay. Let me mark as
+13	Exhibit 17 a document that I prepared.
+14	(Exhibit 17, All Scholarly Support Cited by
+15	Professor Greenwood in Her Expert Report for
+16	Her Definition of "Public Awareness,"
+17	marked.)
+18	MR. SURPRENANT: Mark as Exhibit 17 -
+19	MR. SNAPP: Do we have 16? I'm sorry.
+20	THE WITNESS: Yeah. We're missing some
+21	numbers here.
+22	MR. SURPRENANT: I skipped 16.
+23	MR. SNAPP: Oh, okay.
+24	MR. SURPRENANT: 16 is another definition
+1	that I'll get back to.
+2	BY MR. SURPRENANT
+3	Q. Okay. Now, Exhibit 17 says All Scholarly
+4	Support Cited by Professor Greenwood in Her Expert
+5	Report for Her Definition of "Public Awareness."
+6	"Definition. The concept" -- let me strike
+7	"of." "The concept of public awareness" -- and that
+8	should be a small I -- "is a familiar one to social
+9	historians. It is the knowledge that is shared within a
+10	community, as reflected and reinforced by a number of
+11	sources that were widely disseminated in that community,
+12	including newspapers, magazines and songs, and, since
+13	the 20th century, other dimensions of popular culture,
+14	such as movies, televisions, and cartoons."
+15	And then it says, "Support Cited. None in a
+16	single-spaced 66-page report with 287 footnotes."
+17	Now, is that accurate or not?
+18	MR. SNAPP: Object to the form of question.
+19	Object to the exhibit as argumentative and misstating
+20	her testimony.
+21	BY MR. SURPRENANT
+22	Q. Okay. Now, either that -- either this --
+23	this exhibit which I've marked correctly states the
+24	facts surrounding scholarly support cited in your report
+1	or it doesn't. And -- and so tell me where that
+2	scholarly support is cited, if there is any in there.
+3	MR. SNAPP: Object to the form.
+4	THE WITNESS: Can -- please repeat the
+5	question.
+6	BY MR. SURPRENANT
+7	Q. Right. There was a couple of typos in the
+8	definition, so I should strike the first "of" and the
+9	"is" in the second sentence should be small case I.
+10	But on the left is a quote out of your
+11	report, Page -- Page 2 and 3. It's the quote from
+12	Paragraph C2. And there's no -- there's no support
+13	cited. There's 287 footnotes in the report, but there's
+14	not a footnote there saying in effect, "Here are
+15	scholarly sources that support my use of the term
+16	'public awareness' as I have defined it."
+17	I am correct, am I not, that in your report,
+18	there is no scholarly support cited for how you have
+19	defined the term "public awareness"?
+20	MR. SNAPP: Object to the form of the
+21	question.
+22	THE WITNESS: There is no footnote for that
+23	particular cite -- cita -- or for that particular
+24	sentences that you have -- have cited here.
+1	Again, this is a concept -- I'll repeat what
+2	I've said several times. This is a concept that is
+3	familiar to social historians. I as one use it all the
+4	time in my teaching and my scholarship.
+5	BY MR. SURPRENANT
+6	Q. Okay. Can -- have you looked and seen if
+7	your scholarship, you've ever used "public awareness,"
+8	that -- that precise term? Not the concept. I
+9	understand the concept. And I understand why a social
+10	historian would find the concept useful. I'm not
+11	arguing with the concept.
+12	What I'm arguing is the critical risk that is
+13	going to flatly mislead the jury and that is intended by
+14	the tobacco lawyers to mislead the jury.
+15	So what I want to know is in your published
+16	scholarly writing, have you ever used the term "public
+17	awareness" as you have def -- as it was used, as it was
+18	defined by the tobacco lawyers in your report?
+19	MR. SNAPP: Object to the form of the
+20	question. It's argumentative. It's been asked and
+21	answered. Move to strike the preamble to the question
+22	with respect to any motivations by any lawyers
+23	representing any party in this case.
+24	MR. SURPRENANT: Okay. Let me strike that
+1	question and ask a fresh one.
+2	BY MR. SURPRENANT
+3	Q. Have you ever used -- can you -- strike that.
+4	Can you identify anywhere in your published
+5	scholarship where you have defined the term "public
+6	awareness" in the way that you have used it in -- as the
+7	way it was written by the lawyers for Philip Morris when
+8	they gave you the research questions?
+9	MR. SNAPP: Object to the form of the
+10	question.
+11	THE WITNESS: There's so much in your
+12	question that I disagree with and I think I've made
+13	clear, which makes me hesitate to answer your question
+14	as a simple yes/no.
+15	BY MR. SURPRENANT
+16	Q. Okay. I'll strike the question then. Let me
+17	start again.
+18	The lawyers for Philip Morris wrote the
+19	research questions you've answered, correct?
+20	MR. SNAPP: Object to the form.
+21	THE WITNESS: No.
+22	BY MR. SURPRENANT
+23	Q. They told you the research questions they
+24	want -- wanted you to answer, correct?
+1	MR. SNAPP: Object to the form.
+2	THE WITNESS: They charged me, as I have
+3	said, with seeking out the question of public awareness,
+4	what citizens of Missouri knew regarding light
+5	cigarettes -- or were aware of. Excuse me. What
+6	citizens of Missouri, what information they had access
+7	to regarding light cigarettes.
+8	BY MR. SURPRENANT
+9	Q. Okay. Why didn't you call it -- why didn't
+10	you call it "information the public had access to,"
+11	since that's what you're talking about? Why did you
+12	call it "public awareness," where awareness is commonly
+13	and consistently defined to be knowledge?
+14	MR. SNAPP: Object to the form.
+15	MR. SURPRENANT: Well, strike that. Strike
+16	that.
+17	BY MR. SURPRENANT
+18	Q. Did you ask -- strike that.
+19	Why did you use the term "public awareness"
+20	as written for by the tobacco lawyers, when awareness is
+21	commonly defined and understood to mean knowledge, and
+22	you were not using it in that fashion?
+23	MR. SNAPP: Objection to the form. It's
+24	argumentative. It's compound. Misstates prior
+1	testimony.
+2	You can answer.
+3	THE WITNESS: I'm very clear how I'm using
+4	it. Public awareness, I think, is -- is a term that I
+5	use because I think it is understandable, very
+6	comprehensible to -- to a jury, to a layperson. Again,
+7	I think my definition of it is very clear, what the
+8	meaning of "public awareness" is. And I think it's a
+9	very accessible term.
+10	Again, I, you know, reject and deny your
+11	characterization that this was a concept forced upon me,
+12	foisted upon me by -- by the attorneys I've worked with
+13	in this case.
+14	BY MR. SURPRENANT
+15	Q. Now, the research question that you answered
+16	was posed by the tobacco lawyers, right?
+17	MR. SNAPP: Objection to form.
+18	THE WITNESS: I was charged with seeking --
+19	documenting information regarding the information
+20	environment, information that was readily available,
+21	again, over a series of years from various sources to
+22	the people of Missouri regarding light cigarettes.
+23	Again, I think I have said this numerous
+24	times. I think it's very clearly stated in my report.
+1	I don't know what else to tell you about that. I think
+2	I've got a very clear definition there that -- that a
+3	layperson could easily understand.
+4	BY MR. SURPRENANT
+5	Q. Just two minutes ago, you said, "I was
+6	charged with what the class knew, what the people in
+7	Missouri knew," and then you corrected yourself.
+8	Isn't -- isn't that the very risk --
+9	A. No.
+10	Q. — it's so easy when you're using the term
+11	"awareness" to think "knowledge"?
+12	MR. SNAPP: Object to the form.
+13	THE WITNESS: No.
+14	BY MR. SURPRENANT
+15	Q. Okay. Now, with that, have you ever used the
+16	term in your published scholarship "public awareness" in
+17	the way you've used it in your report, in the way it is
+18	used in your report?
+19	A. Wait. You changed the question there a bit,
+20	I think.
+21	Q. Right, because you didn't use it. The
+22	tobacco lawyers did. So I'll ask it again.
+23	Have you ever used --
+24	MR. SNAPP: Objection to all --
+1	THE WITNESS: No.
+2	MR. SNAPP: -- references to the tobacco
+3	lawyers. This is getting -- I'm not sure what you're
+4	trying to do here. You keep asking the same question
+5	over and over again with insinuations about tobacco
+6	lawyers. She's testified repeatedly that she came up
+7	with the term.
+8	MR. SURPRENANT: No. She didn't. You're
+9	making things up. You're making things up.
+10	MR. SNAPP: Okay.
+11	MR. SURPRENANT: You're just -- you're just
+12	making --
+13	MR. SNAPP: The transcript reads -- the
+14	transcript will tell us what she testified to. She
+15	never testified that the tobacco lawyers, as you use
+16	that term, told her what to do, dictated what she had to
+17	do. To the contrary, she testified that if these
+18	questions were in any way inaccurate from a historical
+19	method perspective or if they used inaccurate terms, she
+20	would have changed them.
+21	MR. SURPRENANT: Okay. Let me ask a fresh
+22	question. See if we can move on.
+23	BY MR. SURPRENANT
+24	Q. Have you ever used the phrase "public
+1	awareness" in your published scholarship in the fashion
+2	it is used in your expert report?
+3	A. Again, I would have to go back and reread
+4	things that I've written over the years. I'm not sure.
+5	I don't think I have, but I, again, have certainly used
+6	the concept numerous times.
+7	Q. Yes. And I understand that. And the
+8	concept, as I said, is a useful one. That's not what
+9	I'm worried about.
+10	(Exhibit 16, Printout of Webpage, marked.)
+11	BY MR. SURPRENANT
+12	Q. Let me mark -- I've marked as Exhibit 16
+13	somethingfromtheSynonym--Synonym.com. It's a hard
+14	word to say.
+15	A. Synonym.
+16	MR. SNAPP: Synonym.
+17	BY MR. SURPRENANT
+18	Q. Synonym. My -- my vocabulary vastly exceeds
+19	my pronunciation.
+20	The definition of "awareness." The noun
+21	"awareness" has two senses. One, awareness,
+22	consciousness, cognizance, cognisance, knowingness.
+23	Having knowledge of.
+24	Now, having knowledge of is different than
+1	having information available to an observer without
+2	regard to whether the observer actually perceived or
+3	knew the fact, correct?
+4	MR. SNAPP: Object to the form.
+5	THE WITNESS: Again, I think this is a
+6	complicated question that you're asking. As I've said,
+7	there's a connection, a relationship, between awareness
+8	and knowledge, as I've discussed it over the last couple
+9	of days.
+10	Again, I can tell you as a social historian
+11	in this case what information was available to the
+12	people of Missouri. What people chose to acknowledge,
+13	the cognitive process of knowing something or ignoring
+14	it or dismissing it or embracing it, I can't tell you
+15	that.
+16	And again, I think the distinction I've made
+17	is very clear. And I've made that distinction
+18	consistently. They are related. They're not one and
+19	the same.
+20	BY MR. SURPRENANT
+21	Q. You just said that awareness does not take
+22	into whether the observer accepted or rejected the
+23	knowledge. That's not the question.
+24	There's -- there's a threshold question.
+I	It's not whether the class in Missouri was given --
+2	here's information on compensation. You can either
+3	accept it or reject it. There's a threshold question,
+4	which you cannot answer, whether the class in Missouri
+5	ever even perceived that information about compensation,
+6	correct?
+7	MR. SNAPP: Object to the form.
+8	THE WITNESS: Again, I'm not sure what you
+9	mean by a threshold question. I guess I'm unclear, and
+10	I want to be clear what you mean by that.
+II	BY MR. SURPRENANT
+12	Q. Okay. I used the example yesterday of my
+13	wife and I. We both went to school way longer than
+14	probably any human being should. We read two daily
+15	newspapers, multiple magazines. I think we're
+16	well-informed. And -- and I never had any glimmer of an
+17	idea about compensation till I was hired in this case a
+18	few months ago.
+19	So it would be wrong to say, "You,
+20	Mr. Surprenant, did not acknowledge and accept but
+21	rejected information about compensation." I never --1
+22	never --1 never read it. I never knew about it. I
+23	never heard it. That's what we're talking about.
+24	How can -- awareness cannot mean that the
+1	class, as you have used it -- you have used it to say
+2	infor -- strike that.
+3	You have defined public awareness in a way
+4	that avoids the question of whether any individual
+5	member in the class or the class as a whole ever had
+6	information about compensation presented to it, correct?
+7	MR. SNAPP: Objection to the form of the
+8	question.
+9	THE WITNESS: Can there -- that's a pretty
+10	long question. I can tell you again --1 think I'll
+11	just repeat what I've said before. I can tell you what
+12	information was available out there over a long period
+13	of time, coming from a lot of different sources,
+14	repeated and reinforced broadly and deeply disseminated.
+15	I cannot tell you what an individual saw or
+16	believed. I can't tell you what a group of people saw
+17	or believed, but I can tell you the information that was
+18	available to them.
+19	MR. SURPRENANT: Okay. So I've marked as
+20	Exhibit 18 another document that I prepared.
+21	(Exhibit 18, All Scholarly Support Professor
+22	Greenwood Could Cite at Her Deposition for
+23	Her Definition of "Public Awareness,"
+24	marked.)
+1	BY MR. SURPRENANT
+2	Q. It's the same as Exhibit 17, with the same
+3	typos unfortunately that I've corrected by hand. And it
+4	cited -- the title is All Scholarly Support Professor
+5	Greenwood Could Cite at Her Deposition for Her
+6	Definition of, quote, "Public Awareness," and it has the
+7	same definition from Paragraph C2, Page 2 and 3 of your
+8	report. And on the right-hand side is a blank column.
+9	"Support cited at deposition."
+10	And feel free to -- to -- if you can cite me
+11	to any scholarly support that defines the precise term
+12	"public awareness" as you have used it, we'll just fill
+13	it in here. But -- but I think the answer is going to
+14	be that you can't cite any, correct?
+15	MR. SNAPP: Object to the form of the
+16	question.
+17	THE WITNESS: Again, I think as a social
+18	historian, as someone who's been trained in social
+19	history, this is a deeply embedded fundamental concept
+20	that I use in my teaching and my scholarship.
+21	BY MR. SURPRENANT
+22	Q. Right. But what -- but what I'm looking for
+23	is something like, for example, if Professors Tosh and
+24	Lang defined the term in The Pursuit of History, "public
+1	awareness," as you have used it, then I'd fill in
+2	"J. Tosh and S. Lang, The Pursuit of History." So that
+3	would be scholarly support for how you've used it.
+4	And I'm asking you is there any scholarly
+5	support that we can fill in that uses "public awareness"
+6	in the way that you have defined it -- in the way it is
+7	defined in your expert report?
+8	MR. SNAPP: Object to the form.
+9	THE WITNESS: Again, I'll simply repeat what
+10	I've said. This is a widely used concept that I have
+11	used in my teaching and my scholarship, used regularly
+12	by social historians.
+13	BY MR. SURPRENANT
+14	Q. I understand that, Professor. I understand
+15	the concept. I said five minutes ago, I can understand
+16	why the concept of information that is widely available
+17	to the public and reinforced from multiple sources is a
+18	useful concept for social historian. I get that.
+19	The problem is you have connected it to a
+20	term "public awareness," and so I'm asking not is the --
+21	is the concept of information widely known and
+22	reinforced within a social community a concept that's
+23	used in scholarly social history. I'm sure it is.
+24	I'm asking for scholarly support that has
+1	used -- that has -- that has used the term "public
+2	awareness" to describe that concept.
+3	MR. SNAPP: Is there a question?
+4	MR. SURPRENANT: Yes.
+5	BY MR. SURPRENANT
+6	Q. Is there any -- is there anything I can fill
+7	in here?
+8	MR. SNAPP: Object to the form.
+9	She's -- she's answered this question
+10	repeatedly.
+11	You can answer again.
+12	THE WITNESS: I'll just repeat what I've --
+13	I've said before. I use this -- this concept. Social
+14	historians use it. At the moment, off the top of my
+15	head, I cannot come up with an exact citation for you in
+16	footnote form, but this is a concept that I use.
+17	BY MR. SURPRENANT
+18	Q. Okay. Now, you get to review the transcript
+19	for errors. And what I'm going to ask is for the court
+20	reporter to put in a blank right here so that in the
+21	privacy of your --of your office or your library, if
+22	you can find any scholarly support to fill in, I invite
+23	you, Professor, to do that when you review the
+24	transcript.
+1	(Exhibit 19, The Pursuit of History excerpt,
+2	marked.)
+3	BY MR. SURPRENANT
+4	Q. So I've marked the excerpts, The Pursuit of
+5	History, that are referenced at Page 81 in Exhibit B to
+6	your report, as Exhibit 19.
+7	And I've read it. And -- and so could you
+8	direct me, because I read it quickly, but I --1 didn't
+9	find the term "public awareness" or not really even a
+10	good fit for the concept in this excerpt. I'm not a
+11	scholar. I'm a lawyer, so maybe I missed it.
+12	So could you direct me to where in this
+13	excerpt the concept of public awareness -- even though
+14	the term is not used, where the concept of public
+15	awareness, as you have used it in Paragraph C2 of your
+16	report at Pages 2 and 3 is found?
+17	A. Okay. I'd just like to refresh my memory on
+18	this, so I'm going to have to take some time to look at
+19	it.
+20	Q. Absolutely. And this is not --
+21	MR. SURPRENANT: Why don't we go off the
+22	record? There's no reason -- just take as much time as
+23	you need.
+24	VIDEOGRAPHER: The time is three minutes
+1	after 10. We're off the record.
+2	(A recess was taken.)
+3	VIDEOGRAPHER: We're back on the record. The
+4	time is 10:13.
+5	MR. SURPRENANT: Yeah. What I just wanted to
+6	say on the record is that Mr. Snapp objected to my use
+7	of the word "tobacco lawyers." And I explained in what
+8	I think was a cordial off-the-record conversation that I
+9	meant no improper insinuations, and if any were
+10	perceived, I apologize.
+11	I was using it effectively as Professor
+12	Weiner uses it in his article "Big Tobacco and the
+13	Historians," but I promise I won't use it in the future.
+14	I will say "lawyers representing Philip Morris." Okay.
+15	MR. SNAPP: Thank you for that. Your off-
+16	the-record comments were well-received. My objection
+17	was not to the use of the term so much as the perception
+18	that it was more of an attack on Dr. Greenwood's
+19	integrity in that she didn't do her own work, which she
+20	has testified repeatedly that she has done her own work.
+21	And as for Dr. Weiner or Mr. Weiner or
+22	Weiner, I believe the criticisms of that article were
+23	that he was acting as a journalist and his journalism
+24	was in fact suspect because he didn't present both sides
+1	of the story.
+2	So we can talk about that article, but --
+3	offline, but I appreciate your off-the-record comments.
+4	MR. SURPRENANT: Okay. Just in response, I
+5	don't mean to suggest or anything -- any questions I've
+6	asked to be in any way a suggestion of lack of integrity
+7	on behalf of Professor Greenwood.
+8	We --1 think it is critically important that
+9	the term "public awareness" was provided to Professor
+10	Greenwood by lawyers for Philip Morris, and I am going
+11	to rely on that fact in a motion in limine, but you and
+12	I can brief that issue in the fullness of time.
+13	BY MR. SURPRENANT
+14	Q. Okay. Now, The Pursuit of History, did we
+15	mark that as Exhibit 18?
+16	A. 19.
+17	Q. 19. Okay. I read the excerpts, and it's
+18	very interesting. I perhaps will at some point in time
+19	read the book.
+20	But you have now had a break, and so I,
+21	Professor -- I'm not a scholar, certainly not a
+22	professional historian. I didn't see the concept of
+23	public awareness as you've used it clearly set forth
+24	here, and perhaps I'm missing it. And if so, where is
+1	it set forth?
+2	A. I talked about this a little bit yesterday.
+3	I think the reason that I included this on my reliance
+4	list is because on Page 288, the authors, Tosh and Lang,
+5	talk about the issue of mentalitie, which I talked about
+6	yesterday as being, you know, related to this notion of
+7	public awareness, another way of using the term "public
+8	awareness."
+9	What I particularly liked about this piece
+10	and why I cited it is I think it gets to the heart of
+11	what social historians do and what we're charged to do
+12	as we work as scholars and as we work as teachers. And
+13	that is the often very difficult task of bridging our
+14	own, you know, present understandings with the way
+15	people, the -- you know, the universe of information
+16	that people had in the past, and -- and they're not one
+17	and the same.
+18	I like this piece because of that
+19	explanation, which again is something that I think is
+20	central to -- to how I teach and how I approach social
+21	history as a scholar. And I can give you a really good
+22	example of this, I think, when I teach about slavery
+23	because it's extremely difficult in two -- our
+24	current-day world, 2010, to understand, for students to
+1	understand, for anyone to understand how one person
+2	could own another. How can one human being own another
+3	human being?
+4	So the challenge I have as a professor is to
+5	try to get students and aid them in this process, to
+6	sketch out sort of the universe of information that
+7	people had about slavery.
+8	So to do that, I get them and look at again a
+9	variety of sources. What kinds of information is being
+10	promulgated, is emanated from a variety of sources about
+11	African-Americans?
+12	I have students look at sermons that were
+13	written that talk about blacks suffering under the curse
+14	of Ham in the Bible, that they were, you know, cursed by
+15	God to be slaves or servants.
+16	I have them look at cartoons from a period,
+17	other images that depict African-Americans in a negative
+18	light. I would have them look at what slaveholders are
+19	saying; the slaveholder trade magazines which actually
+20	existed, which talked about how to be a good master,
+21	gives a good sense of how slaveholders were thinking
+22	about slaves.
+23	I'd have them look at slaveholders' records
+24	which show, you know, this information that people had
+1	regarding, you know, looking at black people as
+2	commodities, people to be bought and sold.
+3	And so by that method then -- also, I should
+4	say, you know, have them look at, you know, abolitionist
+5	writings, what they're saying.
+6	Again, so this -- these kinds of
+7	information --or memoirs, the narrative of Frederick
+8	Douglass you brought up yesterday is a great example,
+9	again, one source of information regarding the nature
+10	of -- of black people.
+11	So that's a really important teaching tool
+12	because it sets out again this whole body of information
+13	that, you know, Americans had regarding the nature of
+14	African-Americans.
+15	Now, you know, can I tell you from that
+16	information what, you know, all white Americans thought
+17	about black people? No, I can't. But I can give you a
+18	sense -- sketch out this universe of information within
+19	which people worked. I can give you a sense of, you
+20	know, again, the kind of knowledge that they took away
+21	from that information.
+22	But I can't make a big general statement
+23	because again, I think in that particular case, it would
+24	be very hard for me to say, you know, what the average
+1	white American thought about black people.
+2	So that's why I like this piece, going back
+3	to this. That's why I like this piece because I think
+4	it gives a sense of how this notion of mentalitie and
+5	how social historians used it.
+6	Q. Do you have them read the Second Inaugural?
+7	A. The what?
+8	Q. Second Inaugural? Lincoln's?
+9	A. Lincoln's Second Inaugural? Yeah. I
+10	probably do. I mean, it's after emancipation, but yeah.
+11	Students read it.
+12	Q. Yeah. He has -- because you reminded -- he
+13	has a sentence where he talks that has the phrase -- he
+14	essentially suggests that the Civil War is punishment on
+15	the white community for the sins of slavery. Frederick
+16	Douglass thought it was very impressive.
+17	In any event, so let me -- let me -- let me
+18	pursue this -- this exhibit because it does have some
+19	things that--that I find interesting. Let me go to
+20	the page you cited, Page 288, "Getting into the mind of
+21	the past."
+22	He says, "Dissemination" --
+23	A. I'm sorry -- the top of that page. Okay.
+24	Q. Yeah. "Dissemination is an important issue."
+1	And I -- in context, he means dissemination of
+2	information, correct?
+3	MR. SNAPP: Object to the form.
+4	THE WITNESS: I'm not sure. I'd have to read
+5	what comes before.
+6	BY MR. SURPRENANT
+7	Q. Okay. What -- what he says is "Dissemination
+8	is an important issue, but by itself it is not an
+9	adequate framework for the study of popular culture."
+10	And -- and -- strike that.
+11	What -- what -- in what sense do you believe
+12	the professors are using "dissemination" in that
+13	sentence? Because you can go back to 287.
+14	A. I'll have to look at the previous page.
+15	Q. Let me -- let me withdraw that question and
+16	go back to the first excerpt, from 103 to 106.
+17	There, the professors are talking about --1
+18	think it's very clear. They say you have to identify
+19	everything. Preferably you want to look at all sources
+20	that have a bearing on the problem in hand.
+21	Do you agree with that as a social historian?
+22	I was reading from Page 103, "Weighing
+23	sources against each other."
+24	A. Let me just find the sentence.
+1	Again, yeah -- you have to read the whole
+2	sentence, I think, for that to make sense.
+3	Q. Yeah. "The procedure is rather to amass as
+4	many pieces of evidence as possible from a wide range of
+5	sources -- preferably from all the sources that have a
+6	bearing on the problem in hand."
+7	Is that the way a social historian should
+8	operate? Is that the proper --
+9	A. Yes.
+10	Q. — practice?
+11	Okay. Now, I --1 know you didn't read it,
+12	but -- but let me refer you to Exhibit 7, the article by
+13	Professor Kyriakoudes.
+14	And -- and at the -- his conclusion -- I'm at
+15	the last page of the text before the references,
+16	sentence on the bottom, beginning with "as." "As a
+17	consequence"--
+18	A. I'm sorry. What page are we on?
+19	Q. The last page of the text, V small Roman 14,
+20	114. Under Conclusion. And if you go down to the --
+21	the last full sentence on the page, beginning with "As a
+22	consequence."
+23	And please read whatever you want in context.
+24	I'm going to read the text and then ask you a question
+1	about your report.
+2	"As a consequence of this flawed methodology,
+3	defense historians present a history of the cig -- of
+4	the cigarette in which the tobacco industry all but
+5	ceases to exist as an agent in the history of the rise
+6	of the cigarette in American life. The effect is to
+7	present a skewed and profoundly ahistorical view of the
+8	cigarette divorced from all historical context where
+9	scholarship and evidence adverse to the industry's legal
+10	theories are ignored. From the testimony of indust --
+11	industry historians, one would never understand how it
+12	came to be that anyone ever smoked."
+13	And -- and so my question to you, Professor,
+14	is by -- by not going into TobaccoDocuments.org and by
+15	not studying what Philip Morris knew and understood and
+16	how it attempted to manipulate popular understanding,
+17	the criticism is that -- that the role that Philip
+18	Morris played disappears and -- and isn't that the risk
+19	that a social historian runs when he or she decides to
+20	ignore the documents from one of the principal actors in
+21	the controversy?
+22	MR. SNAPP: Object to the form.
+23	THE WITNESS: Well, first of all, I think I
+24	need to say that I haven't read this article. And I do
+1	not feel comfortable commenting on this article,
+2	especially — you know, I have no, you know -- having --
+3	you having read a couple sentences from the conclusion.
+4	I --1 can't comment on this article. I
+5	don't know what the evidence is that this professor
+6	has -- has amassed. So I just want to make it clear
+7	that I'm making no comment about this article. I would
+8	not feel comfortable by any means doing that because I
+9	haven't read it.
+10	BY MR. SURPRENANT
+11	Q. That's fine, Professor. I understand.
+12	A. Okay. And so that said --
+13	Q. Let me just ask --
+14	A. I'm not sure what the question was.
+15	Q. Let me ask a question independent of that
+16	article. Philip Morris is the largest domestic
+17	manufacturer of cigarettes, correct?
+18	MR. SNAPP: Object to the form.
+19	THE WITNESS: I don't know.
+20	BY MR. SURPRENANT
+21	Q. Okay. It is one of the principal tobacco
+22	companies in the United States, correct?
+23	A. Yes.
+24	Q. And -- and you know that Philip Morris was
+1	one of the leaders in the tobacco industry's open
+2	question strategy from 1954 to 1999 when the industry
+3	spent billions of dollars trying to call into question
+4	any connection between smoking, disease and addiction.
+5	Doesn't a social historian run an enormous
+6	risk of reaching ahistorical conclusions when he or she
+7	ignores the evidence of one of the principal actors in
+8	the controversy at hand?
+9	MR. SNAPP: Object to the form of the
+10	question.
+11	THE WITNESS: Again, I -- in answering this
+12	question, I -- you know, you've given me sort of a long
+13	prologue to the question, which I don't agree with or I
+14	can't say that I do agree with. I'd have to hear it
+15	again.
+16	I do not ignore the tobacco industry, as I've
+17	explained. Again, my definition of public awareness,
+18	again, I think it's very clear what I was charged to do
+19	was to document the information that was readily
+20	available to the citizens of Missouri regarding light
+21	cigarettes and broadly, deeply disseminated, reinforced
+22	and reiterated over a long period of time.
+23	That public information -- in that public
+24	information, I did find, and I do reference that, Philip
+1	Morris spokesmen, tobacco industry, in my report. I
+2	don't ignore it. Clearly my charge was again to look at
+3	this public -- publicly accessible, readily accessible
+4	information that is the basis of public awareness.
+5	BY MR. SURPRENANT
+6	Q. Professor Greenwood, is it your professional
+7	conclusion that devoting eight sentences in a 66-page
+8	single-spaced report to the efforts of the tobacco
+9	industry to call into question the link between smoking
+10	on the one hand and disease and addiction on the other
+11	is a balanced portrayal of the tobacco industry's
+12	participation in the health controversy of this century?
+13	MR. SNAPP: Object to the form of the
+14	question.
+15	THE WITNESS: Again, I want to reiterate what
+16	my specific charge was. It was looking at the issue
+17	of -- again, the inf or -- readily available information
+18	regarding light cigarettes. And I did include, you
+19	know, that information, comments regarding, for example,
+20	the FTC method that the tobacco industry made in 1967
+21	and subsequently. Comments that the tobacco industry
+22	said regarding, you know, some studies that came out
+23	about light cigarettes and health consequences. I
+24	included them and saw them, again, within the larger
+1	context of -- of public information.
+2	BY MR. SURPRENANT
+3	Q. I appreciate that, but my question is more
+4	precise.
+5	Do you -- is it your professional conclusion
+6	that eight sentences out of a 66-page single-spaced
+7	report discussing the efforts of the tobacco industry to
+8	call into question the link between smoking on the one
+9	hand and disease and addiction on the other is a
+10	balanced portrayal of the tobacco industry's
+11	participation in the controversy surrounding smoking?
+12	MR. SNAPP: Object to the form of the
+13	question. And I also object to any indication that her
+14	testimony focuses on the tobacco industry's
+15	participation in the controversy surrounding smoking.
+16	She's testified what her opinions deal with, and they
+17	are not the tobacco industry's participation in the
+18	controversy surrounding smoking.
+19	MR. SURPRENANT: Mr. Snapp, I rarely
+20	reformulate questions in response to objections, but I'm
+21	going to make an exception to my practice, and I'll
+22	state with greater precision, being edified by your
+23	objection.
+24
+1	BY MR. SURPRENANT
+2	Q. Do you think, Professor -- is it your
+3	professional conclusion that eight sentences in a
+4	66-page single-spaced report is a balanced portrayal of
+5	how the tobacco industry attempted to influence what the
+6	public understood about the link between smoking on the
+7	one hand and illness and addiction on the other?
+8	MR. SNAPP: Object to the form. The same
+9	comment applies to this question. She has not testified
+10	that her testimony or her opinions address the tobacco
+11	industry's attempts to influence anything.
+12	But you can answer.
+13	BY MR. SURPRENANT
+14	Q. I'll ask another question. Most of this --
+15	most of this report discusses how the -- how -- what
+16	information was available to the public as a general
+17	matter on the risk of smoking and more specifically on
+18	the risk of smoking light cigarettes versus regular
+19	cigarettes.
+20	Isn't that in the report?
+21	A. I don't agree with your characterization of
+22	the report. Again, I focus, as I was charged to do, on
+23	the question of information available to citizens of
+24	Missouri regarding light cigarettes. That was my
+1	charge. That was what I researched.
+2	Q. Okay.
+3	A. And I did include the tobacco industry's
+4	comments and statements regarding light cigarettes on
+5	key issues as they pointed out, such as the FTC method,
+6	on some scientific studies regarding light cigarettes.
+7	That voice is there.
+8	Q. Is that a fair and balanced portrayal of the
+9	voice? Eight sentences in a 66-page report?
+10	A. I would have--
+11	MR. SNAPP: Object to the form.
+12	Go ahead.
+13	THE WITNESS: I would have to go back and see
+14	whether it's eight sentences. I don't know if that's
+15	the case.
+16	I know that I certainly incorporated that
+17	voice. It was, you know -- as I mentioned, went over a
+18	number of times yesterday, it was one voice in a
+19	universe of information. It's a voice that does not get
+20	repeated, reiterated, reinforced from other sources. So
+21	I feel very strongly that my documentation of the
+22	tobacco industry, Tobacco Institute, tobacco industry
+23	spokespeople, is fair. Again, within -- as viewed
+24	within the larger context of available --
+1	BY MR. SURPRENANT
+2	Q. Now, wouldn't --
+3	A. May I finish?
+4	Q. Sure.
+5	A. -- of available information.
+6	Q. Now, wouldn't -- wouldn't there be objective
+7	criteria that one could bring to bear in measuring
+8	voice? For example, the amount of money that was spent
+9	by big tobacco to call into question whether there was
+10	any ill effects from smoking regular cigarettes or light
+11	cigarettes versus the amount of money that was spent to
+12	convey the contrary method -- message?
+13	MR. SNAPP: Object-
+14	BY MR. SURPRENANT
+15	Q. One could look at that, those -- those
+16	metrics, correct?
+17	MR. SNAPP: Object to the form. It's a
+18	compound question.
+19	THE WITNESS: Again, I - yeah. That's a
+20	compound question. I'm not sure exactly what you're
+21	asking. If you could, simplify --
+22	BY MR. SURPRENANT
+23	Q. Sure.
+24	A. -- that for me, please.
+1	Q. Sure. You minimize the voice of the tobacco
+2	industry because you say it was only one voice and it
+3	wasn't echoed and picked up.
+4	Couldn't you as a social historian attempt to
+5	say how much money did the tobacco industry spend trying
+6	to undermine the message that there were any health
+7	effects from smoking versus how much money was spent
+8	conveying the message that smoking did cause health
+9	issues?
+10	MR. SNAPP: Object to the form.
+11	Mischaracterizes her prior testimony.
+12	THE WITNESS: I don't agree with your premise
+13	that I miss --or "minimized" is your word -- the
+14	tobacco industry's voice in this document. As I've said
+15	before, I've given you some good examples of how I've --
+16	I've included, incorporated that voice.
+17	The second part of your question, as I
+18	understand it, is related to could I measure the impact
+19	in terms of amount of money spent? That would be --1
+20	honestly don't know if that's possible. It's certainly
+21	beyond my expertise as a social historian. It seems to
+22	me that you would need to speak to a marketing expert, a
+23	consumer -- consumer behaviorist, again, someone who
+24	deals with perceptions, again, which is -- is beyond
+1	my -- my expertise.
+2	BY MR. SURPRENANT
+3	Q. In determining whether the tobacco industry's
+4	voice had an effect on public understanding, wouldn't a
+5	social historian want to look at how much money was
+6	spent supporting the "no health effect" message versus
+7	the "health effect" message?
+8	MR. SNAPP: Object to the form. Asked and
+9	answered.
+10	THE WITNESS: Again, my charge was specific
+11	to look at the issue of public awareness regarding light
+12	cigarettes. I think -- again, I'll just repeat what I
+13	said before. I think when you're talking about effect,
+14	you're talking about impact, you're talking about
+15	perception, you're talking about what people take away
+16	from an ad or a statement. Again, I think that is
+17	beyond my expertise and not what I was charged to do as
+18	the expert in this case.
+19	MR. SURPRENANT: What I've written and I'm
+20	going to mark as the next exhibit -- which I think is
+21	19?
+22	MR. SNAPP: It's 20,1 think.
+23	MR. SURPRENANT: 20. I'm out of stickers.
+24	Thank you.
+1	God, these are nice stickers. My second
+2	daughter, Alexandra, loved stickers when she was
+3	younger. And I once brought home a bunch of deposition
+4	stickers, and she thought they were so lame.
+5	THE WITNESS: Not as much fun as unicorns and
+6	balloons and things like that.
+7	MR. SURPRENANT: Yes. That's exactly her
+8	point of view.
+9	21?
+10	MR. SNAPP: 20.
+11	THE WITNESS: 20.
+12	MR. SURPRENANT: Huh?
+13	MR. SNAPP: 20.
+14	(Exhibit 20, Handwritten notes, marked.)
+15	BY MR. SURPRENANT
+16	Q. Okay. Now, what I wrote on Exhibit -- what
+17	I've marked as Exhibit 22 -- I'm just trying to
+18	understand an implication of your testimony. And let
+19	me -- let me first do it without regard to the
+20	demonstrative, and then I'll try to use it.
+21	If -- as a matter of logic, if a consumer was
+22	convinced by the tobacco industry, the Tobacco
+23	Institute, the individual efforts of the individual
+24	tobacco companies, that cigarettes did not -- regular
+1	cigarettes did not cause ill effects on health and was
+2	not addictive, if a consumer believed that from 1971
+3	through 1999, as a matter of logic, the consumer would
+4	have to believe that Marlboro Lights did not cause ill
+5	health effects or addiction, just as a matter of logic,
+6	correct?
+7	MR. SNAPP: Object to the form of the
+8	question.
+9	THE WITNESS: I - I don't feel comfortable
+10	with your -- with your characterization, and I don't
+11	think I can make that connection as a matter of logic.
+12	BY MR. SURPRENANT
+13	Q. Okay. Well, then now -- now let me mark as
+14	Exhibit 22 —
+15	MR. SNAPP: I think it was actually 20. The
+16	next one was 20.
+17	MR. SURPRENANT: Well, you - I write
+18	whatever you tell me. Mr. Snapp, I'm just the most
+19	compliant person. Whatever you tell me to do, I do.
+20	BY MR. SURPRENANT
+21	Q. Okay. Exhibit 20, it says on the left-hand,
+22	"No cigarette causes ill health effects or addiction."
+23	On the right-hand, it says, "Marlboro Lights do not
+24	cause ill health effects or addiction." And in the
+1	middle is a bracketed arrow, and in the middle of the
+2	bracket, it says, "Must necessarily mean, if true."
+3	So the logical proposition I'm trying to
+4	illustrate is that --
+5	MR. SNAPP: Can I take a look at that?
+6	MR. SURPRENANT: Sure.
+7	BY MR. SURPRENANT
+8	Q. -- is that as a matter of logic, if an
+9	individual -- if an individual believes no cigarette
+10	causes ill health effects or addiction, that individual
+11	as a matter of logic must necessarily conclude that
+12	Marlboro Lights do not cause ill health effects or
+13	addiction, correct?
+14	MR. SNAPP: Object to the form.
+15	THE WITNESS: Again, I think I've - I've
+16	answered this question. I again don't feel comfortable
+17	commenting as an expert on, you know, this kind of
+18	logical -- or your argument that this is a logical --
+19	that one thing follows logically from the other.
+20	What I can tell you, again as someone who
+21	deals with evidence as a social historian and as someone
+22	who has, you know, spent quite a bit of time researching
+23	these questions is that the overwhelming message that
+24	emanated from a variety of sources, really from the
+1	1950s forward, is that no cigarette is safe. That
+2	message grows stronger over time. I can tell you that.
+3	And I'm comfortable making that statement.
+4	This, I am not quite --1 don't quite know
+5	where you're going with it.
+6	MR. SURPRENANT: Okay. Move to strike
+7	everything after "what I can tell you."
+8	Let's go back to your report --
+9	MR. SNAPP: Object to the motion to strike.
+10	BY MR. SURPRENANT
+11	Q. Let's go back to your report, and I'm not
+12	going to go through all the sources, but I just want to
+13	go through perhaps, you know, Footnotes 4, 5, 6.
+14	The report -- I'm going to go through the
+15	footnotes in Paragraph -- in just Roman I. I'm not
+16	going to go through all of them. And to orient the
+17	examination, I'm going to be questioning whether it is
+18	reasonable to believe the cited sources actually played
+19	any role in -- in the class's understanding.
+20	And yesterday, I had examination on
+21	Footnotes -- the sources in Footnotes 2 and 3. I won't
+22	repeat that.
+23	In Footnote 4, we have a citation to an
+24	article on Page 2 of an April 13, 1957 article in the
+1	St. Louis Post-Dispatch.
+2	Now, let's say a smoker was my age, for
+3	example, 54. At the time that article came out, the
+4	smoker would have been two years old. Is it --1 wasn't
+5	reading when I was two years old. Is it -- is it
+6	reasonable to believe that -- that this article was
+7	actually read and understood by -- by a member of the
+8	class who -- who is today 54?
+9	MR. SNAPP: Object to the form. She's
+10	testified that she's not talking in her opinions about
+11	what any class member believed, but you can answer.
+12	THE WITNESS: Again, I think you need to
+13	understand this section of my report in context. And I
+14	think you're mischaracterizing the purpose of it.
+15	In many ways, these questions that you're
+16	focusing on, the footnotes that you're focusing on in
+17	Section 1 are really just sort of background information
+18	regarding, again, public awareness about the dangers
+19	of -- of cigarettes and the very early focus by public
+20	health authorities as well as the federal government and
+21	the Surgeon General to think and to promote -- to think
+22	about, promote, to begin to research what they refer to
+23	as a safer cigarette.
+24	That's the point of me citing this evidence
+1	in this report, that this is an old idea relatively
+2	speaking. The notion of a safer cigarette that, you
+3	know, you might be able to filter out the toxic elements
+4	in tobacco smoke that were related to disease, again,
+5	based on this notion of tobacco being -- smoking being
+6	dose-responsive, going back to those early 1950s
+7	experiments in St. Louis that again seemed to capture
+8	the interest of the citizens of St. Louis and Missouri
+9	because they were at the center of these -- this
+10	research.
+11	This is just simply showing that, you know,
+12	this -- there was -- there's a deep history to the
+13	notion of trying to develop a safer cigarette.
+14	MR. SURPRENANT: Okay. Move to strike,
+15	nonresponsive.
+16	MR. SNAPP: Objection to the move -- motion
+17	to strike. It was responsive to the question.
+18	BY MR. SURPRENANT
+19	Q. Do you recall if you were provided the
+20	citations in Footnote 4 by attorneys or paralegals
+21	working on behalf of Philip Morris?
+22	A. No. I --1 asked -- this is information
+23	that, again, that I had -- research I had done myself.
+24	I knew there were articles out there about safer
+1	cigarettes, and I asked -- particularly around these
+2	dates, many of these dates related to, as you can see if
+3	you read the paragraphs above them, Congressional
+4	testimony.
+5	I probably asked my research assistant in
+6	Missouri to collect this information for me in -- in the
+7	St. Louis paper. The Washington paper and the Times
+8	that are cited, I would have gotten online.
+9	Q. Okay. If I could direct your attention to
+10	Footnote -- to the next -- to Page 6, Paragraph 5, this
+11	is, by my count, one of the eight sentences in the
+12	report that discusses the tobacco industry's efforts to
+13	affect public -- public understanding of the health
+14	issues around tobacco.
+15	And it says newspapers -- after discussing
+16	the widely publicized report in November 1959, then at
+17	the -- at the end of the paragraph, it describes the
+18	response from the tobacco companies. Quote:
+19	"Newspapers also included a response from the Tobacco
+20	Institute that claimed Surgeon General Burney's
+21	assertions were not new, end quote, not supported by
+22	experimental evidence."
+23	My -- my question, Professor, is for
+24	virtually every paragraph in your report through 1999,1
+1	could identify a similar attempt, a similar voice of the
+2	Tobacco Institute or other spokesman for the tobacco
+3	industry trying to call into question all of the
+4	information you cite.
+5	My question is: Why didn't you uniformly
+6	include the tobacco industry's response and just did it
+7	in the -- in the citations that I marked as an exhibit
+8	yesterday?
+9	MR. SNAPP: Object to the form.
+10	THE WITNESS: Again, I think maybe there's
+11	some misunderstanding again about what my charge was
+12	here. I did cite tobacco industry responses relating to
+13	light cigarettes. You know, again, I --1 feel very
+14	confident in my research on this that I was thorough
+15	and -- and you know, weighed my -- my sources
+16	accordingly and, you know, carefully read through the
+17	evidence that I had.
+18	And I included the tobacco industry's
+19	statements regarding light cigarettes as they appeared,
+20	again, in publicly disseminated information.
+21	BY MR. SURPRENANT
+22	Q. Marlboro Lights were introduced in 1971,
+23	correct?
+24	A. Yes.
+1	Q. And all the information about -- about
+2	lowered tar and nicotine that you cite prior to that
+3	doesn't deal with light cigarettes, correct? It deals
+4	with either going from an unfiltered cigarette to a
+5	filtered cigarette or a very high-tar and nicotine
+6	cigarette to one that would not classify as a light
+7	cigarette, correct?
+8	MR. SNAPP: Object to the form.
+9	THE WITNESS: I think there are references --
+10	again, I'd have to go back and look exactly -- to
+11	certainly lower tar cigarettes absolutely going back
+12	much earlier than 1971 to safer cigarettes to filtration
+13	systems.
+14	Certainly in 1967 when the FTC listings come
+15	out that measured tar and nicotine content by the FTC
+16	method, newspapers often referred to low-tar or
+17	low-yield cigarettes.
+18	THE WITNESS: I'm afraid I'm going to have to
+19	take another break, if that's okay.
+20	MR. SURPRENANT: Why don't we do that,
+21	Professor? And I'm getting near--I'm going to have a
+22	handful of questions, and we'll be done.
+23	THE WITNESS: Okay. Thank you.
+24	VIDEOGRAPHER: The time is 10:52. We're off
+1	the record.
+2	(A recess was taken.)
+3	VIDEOGRAPHER: We are back on the record.
+4	This is Tape No. 2. The time is 8 minutes after 11.
+5	BY MR. SURPRENANT
+6	Q. We live in an uncertain universe, Professor.
+7	I just promised you I will be done as soon as I can,
+8	before -- as close to 11:30 as possible. Let's see if
+9	that's the case.
+10	Okay. Page 16 of your report, Paragraph 8.
+11	In 1978, DHEW -- is that Department of Health, Education
+12	and Welfare?
+13	A. Yes.
+14	Q. In 1978, DHEW Secretary Joseph Califano,
+15	declaring cigarette smoking Public Health Enemy No. 1
+16	and slow-motion suicide, also proposed a graduated tax
+17	on cigarettes according to nicotine, tar and carbon
+18	monoxide content.
+19	You know, I withdraw the question.
+20	* I'll go to Page 20. Paragraph 10, Page 20, first
+21	sentence. "Throughout the late 1960s, 1970s and 1980s,
+22	FTC reports on tar and nicotine content and annual
+23	rankings in the newspapers regularly stressed that the
+24	lower the tar and nicotine, the better for the smoker."
+1	Would it have any implication for any expert
+2	conclusion you have reached, Professor, if at least from
+3	the mid-1970s, Philip Morris knew that as a practical
+4	matter, that sentence was false and that low-tar
+5	cigarettes were just as dangerous as regular cigarettes?
+6	MR. SNAPP: Object to the form. Assumes
+7	facts not in evidence. Calls for speculation. It's
+8	also compound.
+9	MR. SURPRENANT: Other than that, it's a
+10	sterling question.
+11	Could you please reread it for the -- for the
+12	witness?
+13	* (Question read.)
+14	MR. SNAPP: Same objections.
+15	THE WITNESS: Again, I don't know what Philip
+16	Morris knew at this time. Again, I can respond based on
+17	the information that I know, the evidence that was out
+18	there is that this is the message, the less tar, the
+19	better, that was continually repeated, continually
+20	reinforced, stated over and over again in a -- by a
+21	variety of sources, in a variety of sources, from the
+22	1950s forward.
+23	BY MR. SURPRENANT
+24	Q. Do you know who Judge Kessler is?
+1	A. Yes.
+2	Q. Who is Judge Kessler?
+3	A. She's a federal judge who has ruled on some
+4	cases regarding light cigarettes. That's about all I
+5	know about her.
+6	Q. And do you know that she published a several-
+7	hundred-page-long opinion on -- after a nine-month trial
+8	on -- on health issues around tobacco?
+9	A. That case and her decision was certainly
+10	publicized in the press, so I know it through that. I
+11	haven't read the 700 pages.
+12	Q. More recently, the -- the way it works in the
+13	federal system is you have a district court, and then
+14	the appeal goes up to the court of appeal. And there's,
+15	I think, 11 circuits. And an appeal from the DC
+16	district court goes up to the court of appeals for the
+17	DC circuit.
+18	And more recently, the court of appeals
+19	affirmed Judge Kessler's opinion. Did that receive
+20	public attention?
+21	MR. SNAPP: Objection to the form.
+22	THE WITNESS: Yes. I believe it was in the
+23	newspapers and on television news. Yes.
+24
+1	BY MR. SURPRENANT
+2	Q. And one of the things Judge Kessler found is
+3	that the defendants in that case, including Philip
+4	Morris, violated the civil Racketeer-Influenced and
+5	Corrupt Organizations Act, or RICO, by fraudulently or
+6	deceptively marketing light cigarettes.
+7	Was that reported in the -- in the press?
+8	MR. SNAPP: Object to the form.
+9	THE WITNESS: Judge Kessler's decision was
+10	certainly reported in the press. Yes.
+11	BY MR. SURPRENANT
+12	Q. Okay. I am actually skipping some of these
+13	because I think they would just lead to a series of
+14	repetitive questions and answers, but let me go to
+15	Page 30, Paragraph 7. I just have a terminology
+16	question.
+17	You say in Paragraph 7, "A 1966 study,
+18	publicized in several Missouri newspapers, showed that
+19	smokers of some filtered tip cigarettes actually inhaled
+20	more tar and nicotine than those who smoked filtered
+21	cigarettes."
+22	I'm just confused. What is -- what is filter
+23	tip -- how is that different than filtered, filtered
+24	brands?
+1	A. I'd better read this a second. Just give me
+2	a few -- a minute.
+3	I need to go back and look at it. That may
+4	be a typo. It may be non-filtered brands. I mean,
+5	that's what it seems to be, according to the -- the rest
+6	of that paragraph.
+7	Q. Okay.
+8	A. But if I could --1 could double-check that
+9	for you. I'd be happy to do that.
+10	Q. Yeah. I--yeah. I just wasn't following
+11	the terminology.
+12	A. Yeah. I think that may be a -- and there is
+13	another typo in that sentence, too, that I see.
+14	Q. You know, the funny thing is the typos go
+15	into documents after you finish them. They weren't in
+16	there before.
+17	A. They do. It's a strange thing.
+18	Q. It's a virus.
+19	MS. BERNSTEIN-GAETA: I agree.
+20	BY MR. SURPRENANT
+21	Q. Okay. Page -- okay. What I'm going to --
+22	okay. Strike that.
+23	Let me just go to Page 40, Paragraph 30.
+24	And -- and I'm going to -- I'm going to -- strike that.
+1	Let me just ask questions.
+2	Paragraph 30, Page 40 of your report cites a
+3	magazine called Current Health in March of 1984 titled
+4	"The Light Cigarette Hoax." So what's going on here in
+5	sum or substance is that a health magazine in 1984 is
+6	kind of trying to call out that light cigarettes is a
+7	hoax and it's not really any safer. Correct?
+8	A. Well, I think if you read the direct quote
+9	from that article, it's a bit more complicated than
+10	that. Again, I think, you know, what they're
+11	referencing here -- and they even use the Surgeon
+12	General's term about nullifying the intent of low-tar
+13	cigarettes.
+14	They're talking about compensation, you know.
+15	Again, smoking, as they say here -- and if I may quote
+16	directly from the article, as I've -- I've cited it in
+17	my report, "Smoking lower tar and nicotine is not the
+18	answer. One can get more tar and nicotine from these
+19	'low,'" in quotes, "cigarettes by inhaling the smoke
+20	more deeply, by holding it in the lungs longer or by
+21	increasing the number of cigarettes smoked."
+22	And then it goes on to use the term,
+23	"Smokers' habits often nullify the intent of low-tar
+24	cigarettes."
+1	And again, this come three years after the
+2	Surgeon General's warning in 1981. So this is sort of
+3	getting that same warning out from the Surgeon General
+4	in a -- in a popular health magazine.
+5	Q. But what is the hoax?
+6	A. I think, as they're saying here, the hoax is
+7	the sense that, you know, you can -- that -- that these
+8	cigarettes are somehow safe, and the -- the hoax seems
+9	to be the impression that you can smoke as many of these
+10	as you want, that that -- that seems to be what some
+11	light smokers believe and -- and they'll be safe.
+12	And again, they're just -- the magazine is
+13	simply really reiterating what the Surgeon General said
+14	about low-tar and nicotine cigarettes.
+15	Again, the hoax --1 think if you continue
+16	down in that particular paragraph, where they again
+17	reference, "Numerous studies have shown that when
+18	nicotine content is lower, smokers take more puffs.
+19	They smoke more to compensate, feeling this low-tar and
+20	nicotine cigarette is so safe, it is okay to smoke more.
+21	Again, that's the hoax. Nothing could be further from
+22	the truth. The truth is there is no safe form of
+23	tobacco."
+24	Again, repeating in sort of more layman's
+1	terms, I suppose you could say, what the Surgeon General
+2	said in 1981.
+3	Q. Okay. Let's turn to Page 45. And that is a
+4	runover paragraph. Paragraph 42 starts on Page 44, and
+5	then it runs over to Page 45.
+6	A. Yeah. Okay.
+7	Q. And this is dated August of 1983. And the --
+8	I'll quote after the block indent.
+9	"The article concluded," internal quote,
+10	"'The widely touted notion that low-tar and nicotine
+11	cigarettes are safer than the -- than stronger brands is
+12	a pipe dream.'"
+13	And so what was out there in the public as
+14	late as -- as August of 1983 was that it was widely
+15	touted that lowered tar and nicotine was safer, correct?
+16	MR. SNAPP: Object to the form.
+17	THE WITNESS: Again, this quote is, you know,
+18	directly from--from Newsweek actually, right? August
+19	of 1983. The notion that low -- less tar is better is
+20	certainly out there and was, you know, widely touted.
+21	But again, as I've mentioned numerous times
+22	over the last couple of days, that assertion was almost
+23	always accompanied by the caveat that smokers should not
+24	change their behavior, their smoking behavior, modify
+1	their smoking behavior.
+2	Again, if you look above the direct quote
+3	from the magazine in that paragraph that you've just
+4	cited, it talks about specifically Dr. Benowitz's study
+5	and again, the issue of compensation, that a smoker -- a
+6	human smoker tends to get the same satisfying level of
+7	nicotine he would from a stronger cigarette by smoking
+8	more, inhaling more deeply or puffing more frequently.
+9	MR. SURPRENANT: Okay. Move to strike
+10	everything after "but again" as nonresponsive.
+11	MR. SNAPP: Objection to form --to the
+12	motion to strike.
+13	BY MR. SURPRENANT
+14	Q. If we could turn to Page 53, Paragraph 61,
+15	you quote Professor Frank Lautenberg?
+16	A. Senator Lautenberg.
+17	Q. What did I say?
+18	A. Professor.
+19	Q. You quote Senator Frank Lautenberg in 1988 as
+20	stating, "Light cigarettes are a deadly sham."
+21	So -- so again what we see here, this is
+22	actually during the class period. A elected senator
+23	from I believe New Jersey saying, "Look, folks. You
+24	need to understand light cigarettes are a deadly sham."
+1	Doesn't -- doesn't that indicate to you, and
+2	there's going to be more examples even deeper and later
+3	in the class period, that the durability and persistence
+4	of the notion that light cigarettes are better for you
+5	was really marked, and it was like trying to put out a
+6	fire.
+7	You have it called a hoax in '83. You have
+8	it called a pipe dream in eighty -- in '83. And '98,
+9	Senator Lautenberg is still trying to put out the fire.
+10	Isn't -- strike that.
+11	Doesn't these three examples show that there
+12	was a real persistence in the public mind, a false
+13	persistence, that light cigarettes were better for you?
+14	MR. SNAPP: Object to the form.
+15	THE WITNESS: Again, I don't think you can
+16	draw that conclusion from the evidence that you've
+17	cited. Senator Lautenberg's quote again I think needs
+18	to be read in context, as all historical evidence needs
+19	to be read in context.
+20	He's referring quite specifically to the FTC
+21	method and the FTC numbers and is criticizing that, that
+22	they are misleading to the public, which, as I point out
+23	in my report, actually Tobacco Institute says in 1967,
+24	when this was first instituted.
+1	So again, I think, you know, your quotes need
+2	to be read in context.
+3	And what I see again, as a historian looking
+4	over this period of time, is a consistency in message,
+5	as I've said, that, one, no cigarette is safe. Second,
+6	the less tar, the better. And third, if you're going to
+7	switch down to a low-tar cigarette, don't modify your
+8	smoking behavior.
+9	BY MR. SURPRENANT
+10	Q. Okay. Let's go -- so -- so you don't -- you
+11	would disagree with the analogy, the metaphor that I
+12	used, that the -- the hoax, the pipe dream, the deadly
+13	sham that light cigarettes were safer was like a fire
+14	that just wouldn't go out; you would reject that
+15	metaphor based on your reading --
+16	A. Yeah. Yeah. I guess I don't --
+17	MR. SNAPP: Object to the form.
+18	BY MR. SURPRENANT
+19	Q. --based on your reading of the materials?
+20	A. I guess I don't quite understand the metaphor
+21	and how it fits--
+22	Q. It's a wonderful metaphor.
+23	A. -- what I'm saying here. Okay. Maybe.
+24	Q. I mean, I mean, isn't --1 mean, like let's
+1	say if -- if the message that -- the 1983 message, which
+2	you cite, that it was a pipe dream, that lower tar and
+3	filters -- lower tar and nicotine cigarettes were --
+4	were healthier, less risky, if that message had been
+5	widely adopted, there would be no need 15 years later
+6	for Senator Lautenberg to warn people it's a deadly
+7	sham, correct?
+8	MR. SNAPP: Object to the form.
+9	THE WITNESS: And I'm not sure what you mean
+10	by the message being adopted. Again, it seems to me, is
+11	that getting, you know -- getting -- it seems to me
+12	that's getting into notions of belief, what people
+13	believed.
+14	Again, I'm saying that message, there was a
+15	very strong message out there before the 1980s, before
+16	Senator Lautenberg as well in the -- what year is that?
+17	In the nineteen --in 1998 that, you know, no cigarette
+18	is safe, and switching down is going to be better --
+19	could be better for you, might minimi -- may be able to
+20	minimize your risk, but don't modify your smoking
+21	behavior. That's not a new message in 1998.
+22	BY MR. SURPRENANT
+23	Q. Okay. Let's go to Paragraph 78 at Page 60.
+24	Now, this is from 60 Minutes II, which is February 2001,
+1	relatively late in the class period. And I'll quote:
+2	"In February 2001, 60 Minutes II presented a story
+3	entitled 'The Low-Tar Myth,' which criticized the FTC
+4	method."
+5	Internal quote: "'What smokers don't know,'
+6	a reporter explained, 'is that the government's low-tar
+7	number on the pack has almost nothing to do with how
+8	much tar they're inhaling. It only tells you how much
+9	tar is being delivered to a smoking machine, not to real
+10	smokers.'"
+11	So there, we have a television report late in
+12	the class period saying low tar is a myth and that
+13	smokers don't know it. That is another example, is it
+14	not, of the persistence in the public mind, the false
+15	persistence, that lower tar and nicotine cigarettes were
+16	healthier?
+17	MR. SNAPP: Object to the form.
+18	THE WITNESS: Again, I think as you've
+19	pointed out, this is one journalist's opinion regarding
+20	this low-tar myth.
+21	Again, I think I've provided lots of
+22	documentation with my charge as the expert in this case
+23	being to document the information that was readily
+24	available to citizens of Missouri regarding light
+1	cigarettes. This is not a new message in 2001. And
+2	again, I think my report provides that evidence, and I
+3	document that.
+4	BY MR. SURPRENANT
+5	Q. Okay. I'm going to have one more example and
+6	then -- and then try to sort through it, and then we'll
+7	be done.
+8	If you could, go to Page 64, Paragraph 90.
+9	Quote: "In July 2008, national news broadcasts and
+10	national newspapers reported the FTC's decision to
+11	rescind its endorsement of the FTC method of measuring
+12	the tar and nicotine content of cigarettes. CBS's Katie
+13	Couric explained, Tonight, the label -- the labels say
+14	low tar, but a government agency says the claim smokers
+15	have trusted for years doesn't mean a thing.'"
+16	This is yet another example from your report,
+17	is it not, where the public message is that as late as
+18	2008, it is saying smokers trusted the fact that lowered
+19	tar and nicotine was healthier and it's false?
+20	MR. SNAPP: Object to the form.
+21	THE WITNESS: What was the question? Is
+22	there a question?
+23	BY MR. SURPRENANT
+24	Q. Yeah. Let me reread it.
+1	Paragraph 90, the quote I just read, is yet
+2	another example of where the message is as late as 2008,
+3	that consumers mistakenly trusted the notion that
+4	lowered tar and nicotine cigarettes were safer.
+5	MR. SNAPP: Object to the form.
+6	THE WITNESS: Again, I heard a statement.
+7	I'm not sure I heard a question.
+8	BY MR. SURPRENANT
+9	Q. The question --
+10	A. I'm sorry if I missed it.
+11	Q. Let me -- let me -- the quote from
+12	Paragraph 90, from Katie Couric, that a government
+13	agency says that the claim smokers have trusted for
+14	years doesn't mean a thing is yet another example from
+15	your report, very late after the class period, that --
+16	that what people actually believed and trusted, i.e.,
+17	lowered tar and nicotine cigarettes were healthier,
+18	continued to persist, correct?
+19	MR. SNAPP: Object to the form.
+20	THE WITNESS: Again, I cannot tell you as a
+21	social historian in this case what people believed. I
+22	do know, however, that the FTC method was criticized
+23	from its very inception, not only by the tobacco
+24	industry from 1967 forward, but by organizations such as
+1	Consumer Reports, Reader's Digests, health organizations
+2	warned smokers that the amount of tar and nicotine that
+3	they ingested may not really be reflected in the numbers
+4	because people don't smoke like machines smoke.
+5	Again, there's lots of information out there,
+6	and you know, that's what I can testify to regarding
+7	issues and problems about the FTC method.
+8	BY MR. SURPRENANT
+9	Q. Well, let's have kind of a discussion of
+10	history. I've just cited materials from 1983 through
+11	2008, 25-year period, where time after time, there are
+12	emphatic public statements that either expressly or
+13	implicitly say two things. The public is being deceived
+14	by the persistent notion -- strike that. Let me -- let
+15	me restate the question.
+16	I've just gone over 25 years of examples
+17	where the concept, the notion, that lowered tar and
+18	nicotine cigarettes were less risky was called a pipe
+19	dream, a hoax, a deadly sham, a low-tar -- a myth. And
+20	as late as 2008, it's called, you know, a claim smokers
+21	have trusted for years which is false.
+22	Doesn't that show that there is a persistence
+23	in the public mind of the low-tar myth and that the
+24	fact -- the fact that information was available that
+1	said it was a myth did not make the myth go away?
+2	MR. SNAPP: Object to the form of the
+3	question.
+4	THE WITNESS: Again, I cannot tell you as a
+5	social historian in this case what -- how people
+6	perceived the message, what their perceptions were. I
+7	can tell you, again as I have on several occasions now,
+8	what information was out there regarding low-tar
+9	cigarettes.
+10	And again, I think there is a message from
+11	very early on, preceding this class period, certainly
+12	continuing through it, that there's no safe -- there's
+13	no such thing as a safe cigarette. Less tar is better.
+14	If you can't quit smoking or you won't quit smoking,
+15	switch down, but do not modify your smoking behavior.
+16	Those messages are out there. Again, I can't
+17	tell you about, as an expert, the public perceptions of
+18	those message -- messages, the public belief. Again,
+19	that's in the area of cognition. I can tell you, as
+20	I've said, what messages were out there, which I think
+21	I've documented quite extensively in this report.
+22	BY MR. SURPRENANT
+23	Q. Okay. So let's talk about one strand,
+24	Professor, of the messages that were out there. One
+1	strand of the messages that were out there as late as
+2	2008 is that there was a persistent public
+3	understanding, which was false, that lowered tar and
+4	nicotine cigarettes were safer. That's one of the
+5	strands of the message that was out there that is
+6	identified quite clearly in your report, correct?
+7	MR. SNAPP: Object to the form.
+8	THE WITNESS: No, I don't think that's
+9	exactly what I'm saying or what I've said in this
+10	report. I've related Katie Couric's, you know,
+11	quotation regarding low-tar cigarettes. I don't know
+12	where Katie Couric got that information. I don't know
+13	what she's basing it on. I don't know what foundation
+14	she has for asserting this particular belief. It's
+15	reported out there as such, again as part of public
+16	information that's readily available, and that's how I
+17	have -- have used it in this particular report.
+18	BY MR. SURPRENANT
+19	Q. Let me just ask one final -- address one
+20	final topic, and then we'll be done, Professor, and
+21	thank you for your patience.
+22	* One of the issues in this case which you address is
+23	what was publicly available information on the relative
+24	delivery and health risk of light cigarettes versus
+1	regular cigarettes. And that's a topic that is addressed
+2	in your report, correct?
+3	A. Could you please repeat that? I want to make
+4	sure I understood what you said --
+5	MR. SURPRENANT: Ms. Reporter--
+6	THE WITNESS: --in terms of characterizing
+7	my report.
+8	* (Question read.)
+9	THE WITNESS: Again, if I could ask for a
+10	little clarification, what do you mean by "delivery"?
+11	Again, I think that's a kind of a technical term. I
+12	want to make sure we're on the same page.
+13	BY MR. SURPRENANT
+14	Q. That's fine, Professor. Let me withdraw the
+15	question. Try to get at it differently.
+16	When you became aware that Judge Kessler had
+17	found, among other things, that Philip Morris in concert
+18	with other tobacco companies had misleadingly marketed
+19	Marlboro Lights, did you think that it would be useful
+20	for you to closely read those sections of her decision
+21	to see if it might cast any light on your research
+22	assignment?
+23	MR. SNAPP: Object to the form.
+24	THE WITNESS: No, because I think -- again, I
+1	think my charge was quite specific as an expert witness
+2	in this case. Again, I was asked to research, you know,
+3	the messages that were information available to citizens
+4	in Missouri regarding light cigarettes.
+5	And you know, again, certainly Judge
+6	Kessler's -- reports of Judge Kessler's decision were in
+7	the newspapers and magazines and television reports and
+8	things like that. And I, you know, certainly dealt with
+9	that -- with that information as it was publicly
+10	disseminated, as was my charge in this case.
+11	MR. SURPRENANT: Okay, Professor. Thank you
+12	for your patience. And I have no further questions at
+13	the time -- at this time, and the deposition is over
+14	unless Philip Morris's lawyers wish to examine you.
+15	MR. SNAPP: We have no questions.
+16	VIDEOGRAPHER: The time is 11:39. We are off
+17	the record.
+18
+19	(Deposition concluded at 11:39 a.m.)
+20
+22
+23
+24
+I	COMMONWEALTH OF MASSACHUSETTS SUFFOLK, SS.
+4	I, VIRGINIA DODGE, a Notary Public in and for the
+5	Commonwealth of Massachusetts, do hereby certify that
+6	there came before me on the 5th day of May, 2010, at
+7	Suite 1500, 53 State Street, Boston, Massachusetts, the
+8	following named person, to wit: JANETTE THOMAS GREENWOOD,
+9	who was previously duly sworn to testify to the truth and
+10	nothing but the truth as to her knowledge touching and
+II	concerning the matters in controversy in this cause; that
+12	she was thereupon examined upon her oath and said
+13	examination reduced to writing by me; and that the
+14	statement is a true record of the testimony given by the
+15	witness, to the best of my knowledge and ability.
+16	I further certify that I am not a relative or
+17	employee of counsel/attorney for any of the parties, nor
+18	a relative or employee of such parties, nor am I
+19	financially interested in the outcome of the action.
+20	WITNESS MY HAND this 7th day of May, 2010.
+22	__________
+Virginia Dodge
+23	Notary Public CRR #835835
+24	My Commission Expires:
+November 17, 2011
+1	Errata Sheet
+2	Instructions: You are entitled to read and correct your deposition. Please carefully read your testimony,
+3	making any necessary changes or corrections by identifying the page and line number, the change desired
+4	and the reason. Do not mark the actual transcript.
+Then date and sign the bottom of this page in the
+5	presence of a notary public. Please forward the original to Attorney Surprenant and a copy to each party
+6	of record. (You may copy this page if additional space is needed.)
+Page No. Line No.
+______Change___________
+9	To____________
+Reason___________
+1	0______Change__________
+To____________
+11	Reason__________
+______Change___________
+12	To____________
+1	3______Change__________
+To____________
+14	Reason__________
+15	I, JANETTE THOMAS GREENWOOD, do hereby certify under the pains and penalties of perjury that the foregoing
+16	testimony is true and accurate to the best of my knowledge and belief as amended by any errata indicated above.
+17	WITNESS MY HAND, this__day of______,
+2010.
+18	_________
+JANETTE THOMAS GREENWOOD
+19
+On this__day of_______,
+20	2010, before me, the undersigned notary public,
+personally appeared, JANETTE THOMAS GREENWOOD, proved to
+21	me through satisfactory evidence of identification,
+which was______, to be the person whose name
+22	is signed on this document, and who swore or affirmed to me that the contents of the document are truthful and
+23	accurate to the best of her knowledge and belief.
+24	Notary Public My commission expires:
+

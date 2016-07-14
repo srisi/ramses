@@ -1,0 +1,1712 @@
+﻿IN THE CIRCUIT COURT OF THE 13TH JUDICIAL CIRCUIT IN AND FOR MANATEE COUNTY, FLORIDA
+CASE NO. 41-2008-CA-009589 ---------------------------------------x
+JIMMIE P. WILLIS,
+Plaintiff,
+vs .
+R.J. REYNOLDS TOBACCO COMPANY, individually and as successor by merger to BROWN & WILLIAMSON TOBACCO CORPORATION, individually and as successor by merger to THE AMERICAN TOBACCO COMPANY, a foreign corporation; PHILIP MORRIS USA, INC., a foreign corporation; LORILLARD TOBACCO COMPANY, a foreign corporation; LIGGETT GROUP LLC, (f/k/a Liggett Group, Inc., f/k/a Liggett & Myers Tobacco Company); and VECTOR GROUP LTD. INC. (f/k/a Brooke Group, Ltd.), a foreign corporation,
+Defendants.
+---------------------------------------x
+One SE Third Avenue Miami, Florida September 1, 2009 1:05 p.m.
+DEPOSITION OF DR. KENNETH LIPARTITO Taken before Dana Riccobono, Registered Professional Reporter and Notary Public in and for the State of Florida at Large, Pursuant to Notice of Taking Deposition Duces Tecum filed in the above cause.
+APPEARANCES:
+ABRAHAMSON, UITERWYK & BARNES
+900	W. Platt Street Tampa, FL 33606
+BY: JOHN HAMILTON, ESQ.
+DLA PIPER 500 8th Street Washington, D.C. 20004 BY: BENJAMIN S. BOYD, ESQ.
+GREENBERG TRAURIG 1221 Brickell Avenue Miami, FL 33131 BY: SABRINA FERRIS, ESQ.
+KASOWITZ, BENSON, TORRES & FRIEDMAN, LLP
+1441 Brickell Avenue
+Miami, FL 33131
+BY: KELLY ANNE LUTHER, ESQ.
+JONES, DAY, REAVIS & PAYNE
+901	Lakeside Avenue Cleveland, Ohio 44114
+BY: AMANDA JACOBS, ESQ., via telephone
+INDEX
+WITNESS	DIRECT	CROSS
+Kenneth Lipartito	3
+EXHIBIT #	PAGE
+Plaintiff’s 1	33
+Plaintiff’s 2	33
+Plaintiff’s 3	33
+Plaintiff's 4	38
+Plaintiff’s 5	56
+Plaintiff's 6	82
+KENNETH LIPARTITO, having been first duly sworn by a notary public in and for the State of Florida, was examined and testified under oath as follows:
+EXAMINATION BY MR. HAMILTON:
+Q Good afternoon.
+A Good afternoon.
+Q My first question to you is, what are you going to offer an opinion about if you are called to testify in this case?
+A Well, that’s a long question, I will give you an outline and then if you want I can answer more specifics.
+I am going to testify about public knowledge of the dangers connected with smoking, specifically smoking cigarettes. I am going to cover I believe roughly the period from the beginning of the 20th century probably a little bit going back further but most of it begins there through the 1980s or perhaps nineties. I am going to focus on the developing knowledge of the dangers of cigarettes, the way in which that information was available in the public, both about health risks of smoking and the habitual or
+addictive nature of smoking.
+Well, that’s probably the best general
+outline.
+Q Let me just ask you one question because I am not sure I understood your last comment with regards to the habitual or addictive nature of smoking cigarettes. Are you talking about the information that was available to individuals or are you talking about the actual issue of addiction?
+A The information.
+Q Anything else that you plan on offering an opinion on if you are called to testify in this case other than the awareness of the or public knowledge of the dangers of smoking cigarettes from approximately 1900, the developing knowledge or the way it was made available to the public and the information regarding the habitual or addictive nature of smoking cigarettes?
+A I think maybe elaborating some of those points, the various media by which it was available, the various authorities who made it available, the larger context I think of information about health risks of the time, the — I think to some extent it could come up the larger I'd say business if you will or context of business since this concerned business
+issues of the time. And I think some would eventually get to questions about the specific case of the person involved and the world they grew up in and what they might have been exposed to in terms of these issues.
+Q I actually didn’t forget to ask you your name, it was by design —
+A Okay.
+Q — I had a first question I wanted to ask because other questions would be predicated on it but for the record could you tell me your name, please, and your professional address?
+A My name is Kenneth Lipartito and my professional address is, I am a professor of history at Florida International University in Miami, Miami, Florida 33199.
+Q We noticed or we sent a notice of taking your deposition duces tecum which is a legal word for asking you to bring those things upon which your opinion is based and several other things that you may have as a result of your agreement to participate as an expert on behalf of the defendants, so let me go down the schedule and the things that we asked you to bring and let me ask you —
+A Um-hmm.
+Q — first in each individual category whether you have any and second, whether you brought them, okay?
+A Okay.
+Q The first request was all documents, reports, records, data or other materials prepared, retained, possessed or produced by any defendant to this action or any officer, director, agent or employee of the defendants upon which you are going to rely in formulating your opinions.
+A Yes, I have materials.
+Q And what materials do you have?
+A I have on disks the materials that I have relied on in the Jimmie Willis case.
+Q Would you please get those disks for me out of your whatever you brought?
+A Sure.
+Q Thank you.
+(Whereupon, counsel is handed said item)
+Q I was provided disks which are labeled your reliance materials and a disk one through four. Do you have disk one through four?
+A I do.
+Q Have you reviewed those disks to determine
+that they comprise the materials upon which you are basing your opinions in this case?
+A I have.
+Q Are there any other documents that you are going to use to base or are basing your opinions on that are not contained in disks one through four?
+A Yes.
+Q Tell me what documents those are?
+A These are depositions in connection with the Willis case.
+Q Anything other than disks one through four and the documents contained on those disks or images contained on those disks and the depositions that you have received and reviewed?
+A No, not that I can recall.
+Q Please tell me the depositions that you have received in this case?
+A I can give them to you or bring them up if that’s —
+Q Yeah, I would like to know which ones they
+are.
+A Okay, sure.
+Okay. Do you want me to tell you?
+Q Yes, I’d like you to list the depositions that
+you have received in this case and then we will talk about whether you reviewed them and then we will talk about whether you have marked them —
+A Okay.
+Q — and other things related to them.
+A All right. I have videotaped deposition of Jimmie P. Willis August 2, 2008. Is that sufficient?
+Q Yes.
+A Okay. I have continued videotaped deposition of Jimmie P. Willis continued from August 2, 2008, it says date taken August 14, 2008.
+I have discovery deposition of Donna Fay Griffith Harris Rouse, October 31, 2008. I have deposition of Michael Thrasher, August 12, 2008. Deposition of Richard Keith Smith, August 18, 2008. Deposition of Ruth Daly, August 18, 2008. Deposition of Timothy Willis, August 5, 2008. Deposition of Paul Willis, August 6, 2008. Deposition of Dee Dee Willis, August 6, 2008. Deposition of Margaret Tester, August 20, 2008.
+Q Is that Margaret Tester?
+A Yes, T-e-s-t-e-r. Deposition of Carolyn Johnson, August 19, 2008. Deposition of Ben Johnson, August 19, 2008.
+Q Are we through with the depositions?
+A Those are the depositions I have.
+Q What other documents other than the depositions and what we have already identified as the disks and the information on the disks are you using to or are you relying upon in support of your opinions?
+A I have the amended complaint for damages of Jimmie Willis as well.
+Q Are you using that for any purpose or is it just something that was sent to you?
+A I think it is mainly to understand the names of the people in the deposition.
+Q There is nothing in that that you are particularly relying upon in support of the opinions you are going to offer; is that correct?
+A I don’t believe so. Not directly in terms of my opinions.
+Q May I see the depositions that you brought with you.
+(Whereupon, counsel is handed said item)
+Q Thank you.
+A Sure.
+Q Let's talk about the first deposition which is Jimmie Willis dated August 2, 2008. There is a red
+circle around Willis and an underline, red underline under Jimmie P. Willis. Is that yours?
+A Yes.
+Q I see a yellow sticker which seems to be placed over a red check mark on this deposition on page 81. Could you tell me why you placed the yellow sticker there and the red check mark?
+A Okay. I marked this page because it had information about his awareness of the nicknames of cigarettes.
+Q And what awareness of the nicknames of cigarettes did he have?
+A He said that he understood that cigarettes were called coffin tacks and cancer sticks when he was growing up.
+Q Anything other than the fact that he was aware that they were called that when he was growing up?
+A On this page?
+Q Yes.
+A No.
+Q And if I could see the deposition back.
+That section on page 81 indicates that he was aware of certain nicknames for cigarettes. Were there any questions with regards to what he understood the
+significance of that was?
+A Could I —
+Q Sure.
+A Not on this page.
+Q You just reviewed this page just now, correct?
+A Yes.
+Q In order to respond to my question?
+A Yes.
+Q Did you miss on page 81 line 16 the question that was asked of him, "And did you understand that they were called coffin tacks because they might kill you?"
+His answer, "I don’t know why they called them
+that."
+And the question starting at line 20, "In regard to that nickname cancer sticks, do you recall that they were called cancer sticks because they might cause cancer?
+"ANSWER: I don’t know if they did at the time, I didn’t know."
+Did you miss those questions and answers when you reviewed that —
+A Oh, no, but —
+Q — just now?
+A Did I misunderstand your question?
+Q What did you think my question was?
+A I thought your question was is there any information as to him understanding the meaning of those terms.
+Q Right.
+A Okay.
+Q And weren't there questions in the very page that you marked right down there when I asked you to review that and you reviewed it where they were asked the significance of that to him and he responded?
+A Right. I was looking for a positive that he could tell me what the significance was, I just interpreted your question that way.
+Q In other words, he was asked and his response was that he wasn't sure what he thought the significance was, if any, of those nicknames when he was growing up; isn’t that right?
+MR. BOYD: Objection to the form, mischaracterizes Mr. Willis' testimony.
+You can go ahead and answer.
+THE WITNESS: Yeah, it does say that he testifies here that he says he does not know exactly what those terms meant.
+BY MR. HAMILTON:
+Q Well, what do you think he meant when he said that if you think he has some other meaning than exactly what he said?
+MR. BOYD: Object to the form, confusing.
+THE WITNESS: Yeah, I mean it just says to me what it says. He says that he doesn't know or doesn't remember.
+BY MR. HAMILTON:
+Q Or wasn’t aware of the significance?
+MR. BOYD: Object to the form.
+THE WITNESS: Again it could be interpreted that way.
+BY MR. HAMILTON:
+Q May I have the deposition back.
+(Whereupon, counsel is handed said item)
+Q Page 93 has another yellow marker?
+A Yes.
+Q And what is the significance of you placing a yellow marker on that page?
+A I marked a part of his testimony where he says that the earliest he recalls having any source of that cigarettes might be hazardous was on the cigarette warning, on the warning on the cigarette pack.
+Q Doctor, in looking through the deposition, other than the initial circle in red on the front and the underline on the very front of the deposition which has nothing to do with his testimony, I see no other markings up to this point other than a yellow sticky tab on the deposition.
+Is that your way of marking things in the deposition that you think are significant to your opinions?
+A Yes.
+Q If there is something that is significant to your opinion then I assume that you would have marked it with a yellow tab unless you somehow missed it?
+A Yes, yes.
+Q Well, I stand corrected.
+A Is there a red mark?
+Q Because now we have on page 94 both a yellow sticky that seems to be on page 94 although it crosses over to 95 and an underline starting at line 19.
+A All right.
+Q Again did you underline that and mark it because of his testimony concerning when the warnings came out ?
+A Yes.
+Q Do you know when he was in the Air Force?
+A I believe it was from '61 until '67 but I can’t recall exactly the end date off the top of my head.
+Q Were there any warnings on cigarettes from '61 to '67?
+A I believe in '67 was the warning.
+Q I see on page 97 — well, I take that back. I see on page 96 a red underline again concerning the warnings but no yellow sticker?
+A I marked pages originally when I read it and then I went back with yellow stickers to remind me where the marks were.
+Q So the yellow sticker might mean something on the page that you reviewed, not necessarily the exactly the page that it was on but if there is something on the page, you would have underlined it with red?
+A Sometimes, although there are cases where the yellow sticker could have placed right next to it and I used that.
+Q On page 97 there is a red underline on, "You had even tried to quit smoking before the warnings came out?
+"ANSWER: Yes."
+Of what significance is that to your opinion?
+A Partly to try and quantify when he was aware of the warnings, partly I think because he had tried to quit smoking, and yes.
+Q There is a yellow sticky marker on page 99, it seems to be marking testimony about his attempts to quit and his lack of success in doing so and there is some testimony there with regards to his symptoms.
+Why did you mark that?
+A I marked this because again part of keeping track of things that might be evidence could be evidence of his awareness and his trying to quit.
+Q Well, did he say there why he tried to quit?
+A He does.
+Q And what does he say?
+A The beginning of page 98, "I thought it would be better for me.
+"QUESTION: Better for your health?
+"ANSWER: Well, better for me altogether.
+"Your health is included in that, right?
+"ANSWER: Right."
+Q And do you know the date at which this testimony refers to?
+A I'd have to look.
+Q Sure.
+A The beginning of these questions begin with the mark I had made on page 97, You had tried to quit smoking before the warnings came out, so I took that to indicate before 1967.
+Yes .
+"Why was it on that first attempt to quit that you tried to quit smoking?"
+He says, "I can't remember the date but it surely was back in the sixties, early sixties but I don't remember the date."
+So that's the best I could do in time.
+Q I see no other red underlines and no other yellow stickers on that deposition that we have just been discussing. Are you aware of any other information in that deposition that you felt was particularly significant so that it necessitated you underlining it or putting a yellow sticker by it so you could refer to it?
+A I — there could be other information, it would depend on reading it again. At the point at which I marked them, those were things that I decided to highlight as significant.
+Q Well, you are here in order to provide us with
+your opinion that you intend to express at trial and the basis for your opinion; you understand that, correct?
+A Yes.
+Q I would assume that before you presented yourself to give your testimony you would have carefully reviewed all the documents to insure that your opinion is based on the information that you thought was significant in this case?
+MR. BOYD: Object to the form.
+MR. HAMILTON: What’s wrong with the form?
+MR. BOYD: I don’t know, you are putting your assumptions into the case and then it's compound so it’s confusing, it contains assumptions that you have made that aren't in the record so those are the reasons that I made the objection to the form.
+MR. HAMILTON: Did you have any trouble understanding the question, Doctor?
+THE WITNESS: Well, maybe we should start again.
+BY MR. HAMILTON:
+Q I assume that before coming here to testify because you understood that I was going to be asking what your opinions are and what the basis of your
+opinions are, correct?
+A Correct.
+Q That you would carefully review the documentation in order to provide me those opinions and the basis for those opinions?
+A I have done that.
+MR. BOYD: Objection to form.
+THE WITNESS: I have reviewed this.
+BY MR. HAMILTON:
+Q And I would also suspect that if you felt something needed to be marked as significant so that you could refer to it, you would have done so?
+A Up to that point.
+Q Is there anything about that first deposition that we have already gone to as you sit here now without having to read the deposition again in its entirety that you feel is significant with respect to the opinions that you are going to offer in this case?
+A As I sit here at this moment, no.
+Q Let's go to the second deposition which is the continuation of the August 2, 2008 of Jimmie P. Willis. Again on the very front of that deposition I have a circle around Willis and an underline around Jimmie P. in red.
+Up to page 251, 252 and I can't tell which one because the yellow sticker borders both, I see no underlined red marks or no yellow stickers. So when I give this back to you, would you confirm that that's the case and would you tell me what it was on that page that's marked with the yellow sticker that you thought was significant to your opinions?
+A There are no red marks or other marks on this, particularly 251 and 252, but also carrying back to 250 and 24 9 there is a discussion with his I believe his stepdaughter Donna that he says that he did not allow her to smoke, that he has nephews and that his nephew does not smoke. But particularly his statement that he did not allow his stepdaughter to smoke.
+Q And of what significance is that testimony to your opinion in this case?
+A The — again, the issue that I investigated with respect to his deposition was if I could find evidence that suggested he might have had awareness of the dangers of smoking. This is to me indirect evidence that he had some awareness from this particular piece of testimony.
+Q In page 251 it said, quote, was asked, Did you ever have any conversation with her about smoking or
+cigarettes, referring to Donna?
+A I believe so.
+Q And his answer was no, he never did?
+A I believe that's what I remember, yes.
+Q Then there was a question about you didn’t allow her to smoke?
+A I believe that's right.
+Q And he said no?
+A I believe so.
+Q Are there other reasons why people don't allow children to smoke other than the fact they might feel that it's harmful to them?
+A There could be.
+Q They shouldn’t be purchasing cigarettes underage, should they?
+A That could be a reason.
+Q Well, a lot of parents don't allow children to smoke because they consider it to be an adult activity, not because they consider it necessarily harmful?
+A That could be.
+Q Especially if they are smokers themselves?
+A That is possible.
+Q So you can’t draw the conclusion from that testimony, can you, that he was aware of the dangers of
+smoking and that's why he didn't allow her to smoke, can you?
+MR. BOYD: Object to the form.
+THE WITNESS: I wouldn't draw that conclusion.
+To me it's a piece of evidence that corroborates
+other evidence that suggests awareness.
+BY MR. HAMILTON:
+Q And the next one was Levi?
+A Yes.
+Q Who was the child of Paul?
+A Paul.
+Q And do you understand Paul's relationship with Mr. Willis?
+A I believe it's his nephew.
+Q Do you know whether he was living with his nephew Paul during any period of time in his life?
+A I believe he did for a time.
+Q How old is Levi?
+A In this incident here?
+Q Yes, how old was Levi, he was asked how old Levi was?
+A Okay. I believe he was a small child or an infant at the time.
+Q What does Levi have anything to do with this?
+A The question with Levi comes up in several of the depositions and so part of that I marked this as well as the discussion of Donna because there is also a deposition with Donna in which she talks about what she learned from her father about smoking. So part of it is simply to cross-reference other testimony.
+In the case of Levi there was some discussion with his, Levi's parents, I guess the nephew Paul and Paul's wife, I believe that's Dee Dee, as to whether Jimmie Willis was or anyone else was permitted to smoke in the presence of the infant or child Levi. And I believe the consensus of the testimonies from various parties was that smoking was not permitted or did not take place in the presence of the child, it's clearly not a direct piece of evidence about Jimmie Willis but it does suggest that he lived in households or was acquainted with households where people understood that smoking around children and smoking could be dangerous, could be health related.
+Q Is that the only reason that you marked that page?
+A That and the discussion of Donna.
+Q There is a page that's marked, looks like page 321. What was the significance of that testimony to
+you?
+A It begins on page 320, the question is asked, what cigarette, What warnings do you recall on the sides of cigarette packs?
+The answer, "May be hazardous to your health." Do you recall reading —
+"QUESTION: Do you recall reading the warnings on sides of cigarettes?
+"ANSWER: I read them but I forgot what they
+said."
+Continues asking, "Do you recall that the Surgeon General has determined that smoking is hazardous to your health?
+"ANSWER: I don't remember right now. "QUESTION: Do you remember one that said smoking causes lung cancer, heart disease, emphysema and may complicate pregnancy?
+"I never read that one.
+"You never read that one?
+"No, I don’t believe so.
+"You knew there were warnings on the sides? "ANSWER: Oh, yes.
+"So you were aware there were warnings
+present?
+"ANSWER: Yes."
+And it continues with discussions of his awareness of warnings on cigarettes.
+Q What’s Mr. Willis’ educational level?
+A I believe he left school at sixteen.
+Q How did he do in school?
+A I don't have his records from high school or elementary school.
+Q What are his intellectual capabilities?
+A I couldn't say.
+Q Does a statement like cigarette smoking may be hazardous to your health in your mind communicate an absolute statement that they are?
+A In my mind?
+MR. BOYD: Object to the form.
+BY MR. HAMILTON:
+Q Yeah, in your mind.
+A In my mind.
+Q Yeah, if something says it may be hazardous to your health, are you at the opinion that that indicates finality meaning it is hazardous to your health?
+MR. BOYD: Object to the form.
+THE WITNESS: It's different than saying it is
+hazardous or it is always hazardous.
+BY MR. HAMILTON:
+Q Well, there is a difference between saying cigarette smoking may be hazardous to your health and cigarette smoking causes lung cancer, isn’t there?
+A There is a difference.
+MR. BOYD: Objection to form.
+THE WITNESS: There is a difference.
+BY MR. HAMILTON:
+Q In one case you may conclude that it may not or the evidence doesn’t support it or science doesn’t support it or there is a question about the causal link and the other somebody is making a flat categoric statement; isn’t that correct?
+MR. BOYD: Object to form.
+THE WITNESS: Well, you are going to have to ask me my opinion about parsing a sentence which seems pretty far removed from any expertise in this case but if you want an answer I would say that a statement of causation could be interpreted in multiple ways as well.
+BY MR. HAMILTON:
+Q By different people under different circumstances who have different intellectual capabilities and different educational background;
+isn’t that true?
+MR. BOYD: Objection to form.
+THE WITNESS: Without drawing any conclusions as to what they would interpret depending on the various attributes you have just introduced, as a very general statement people could interpret different statements differently.
+BY MR. HAMILTON:
+Q I think the next mark that I can see here is — I'm sorry, it may be the same mark, it's page 251, we have already gone over that.
+I don't see any other markings on this deposition, it's the continued videotaped deposition of Jimmie P. Willis dated August 14, 2008. Underneath there seems to be another deposition.
+A Ah, I didn't know if that was a continuation of the same or a different one, so...
+Q The reason I say that is the one underneath here, and we can make these all exhibits, the one underneath here seems to have two-sided front and back —
+A Correct.
+Q — as distinguished from the one in front, and there is seems to have a date on it.
+MR. BOYD: Looks like that page is turned around, John.
+MR. HAMILTON: Which one?
+MR. BOYD: The page you were on.
+MR. HAMILTON: This one?
+MR. BOYD: Looks like that would be the front side of it.
+MR. HAMILTON: Looks like November 18, 2008.
+THE WITNESS: I see.
+BY MR. HAMILTON:
+Q So it's a different deposition, not the same? A Oh, I see. I thought it was the same. The page numbers continue I think, that's why.
+Q Ah, I see.
+Let me go to the deposition that is continued videotaped deposition of Jimmie P. Willis dated November 18, 2008. We have covered the one that was dated August 14, 2008, correct?
+A Yes.
+Q And we covered all the areas that you have either underlined or marked with a yellow sticky tab, correct?
+A All the ones that are currently underlined or stickied.
+Q Is there anything else in that deposition that you can recall as you sit here today that you felt was significant enough so that you would either underline it or mark with a yellow tab?
+A Nothing that I would have underlined and marked with a tab.
+Q Do you recall anything in there that you feel is significant to your opinions regardless of whether you underlined it or yellow tabbed it?
+A Well, I mean since you have asked this a couple of times I should say that like any historian I continue to look at and review evidence so I can't say for certain that my mind is irrevocably fixed and will never change, it’s an ongoing process.
+Q As I understood you to say, and perhaps I’ve got it backwards, you went through the deposition and you made a red mark on those areas you thought were significant, then you went back and put a sticky tab on them, correct?
+A Correct, although I read the deposition I think a second time in the process.
+Q You anticipated me. So you read the deposition a second time?
+A Yes.
+Q And as you were going through you put a sticky mark on those areas that you underlined with red and perhaps areas that you had not initially underlined with red?
+A Correct.
+Q Which would explain the difference between the sticky marks that had no red underlines and the ones that did?
+A Correct.
+Q So you had two opportunities in going through the depositions to mark areas that you felt were significant to your opinions; is that correct?
+A Correct.
+Q The first mark I see in this next deposition is on page 42 9. Would you please tell me why you felt that was significant to your opinion?
+A This refers to testimony by Donna, the stepdaughter, which returns to the issue of what he may have told her about the dangers of smoking. For me it was simply a reminder to check the testimony of Donna and remember what she had said.
+Q Nothing new?
+A It's mostly about his diet. Most of this does concern material that's also covered in the testimony
+by Donna, yes.
+Q By the way, did you make any sort of chronology or written note or typewritten note of any kind referring to the pages that you marked in these depositions and the testimony that you felt was significant to your opinions in this case?
+A No.
+Q While I am on that subject, did you make any notes whatsoever?
+A In relation to Jimmie Willis?
+Q Yes.
+A No.
+Q Did you make any notes in relationship to your participation as a potential witness in this case regardless of whether it related to Jimmie Willis or not?
+A No.
+Q So other than the reliance documents that we have seen today, one through four which I will have marked as Exhibit 1 through 4, and the depositions that we will mark, you made absolutely no notation of the information that you reviewed in preparation for rendering your opinions; is that correct?
+MR. BOYD: Object to form.
+THE WITNESS: Notation referring to marks on paper?
+BY MR. HAMILTON:
+Q Notation means other than marking on these depositions, did you make any sort of notation, whether it be electronic or not, regarding the things that you reviewed and the information in those things that you thought was important?
+A No.
+Q So other than the markings we have in these depositions you have nothing that can direct you specifically to any other significant information?
+MR. BOYD: Object to the form.
+BY MR. HAMILTON:
+Q In either the reliance documents or the depositions, correct?
+MR. BOYD: Object to the form.
+THE WITNESS: Meaning —
+BY MR. HAMILTON:
+Q Yes.
+A — these as well. No, no, except I have an index that's refers to the disks if that's —
+Q Do you have that index with you?
+A Yes, I should.
+(Whereupon, counsel is handed said item)
+A So this is the index of reliance materials referring to those disks.
+MR. HAMILTON: Let's stop for a second. I would like you to mark the disks as Composite Exhibit Number 1 so you can mark on the back of one of them. I’ve got them but just for the purposes of this deposition.
+(Whereupon, Plaintiff's Composite Exhibit 1 was marked for identification)
+MR. HAMILTON: Miss Reporter, would you mark this first deposition somewhere where it doesn't cover up any words or typing Composite Exhibit Number 2.
+(Whereupon, Plaintiff's Composite Exhibit 2 was marked for identification)
+MR. HAMILTON: Doctor, we have marked as Composite Exhibit Number 1 the disks that we spoke of earlier one through four. We have marked as Composite Exhibit Number 2 the depositions that you have relied upon that you identified earlier in the deposition. And I am now going to mark as Exhibit Number 3 the reliance list that you just handed me.
+(Whereupon, Plaintiff's Exhibit 3 was marked
+for identification)
+BY MR. HAMILTON:
+Q Exhibit Number 3 seems to have two different documents. It starts with the number one and the page number goes to 20, and the other one that starts with page number 21 and goes to 23, actually 21 and 23 looks like it's in a different format with different type and it's actually contained and placed on top of the document that starts with page number one. That always implies to me that it was as it says at the top addendum.
+A Um-hmm.
+Q Are pages 21 through 23 an addendum to the reliance list that is numbered one through 20?
+MR. BOYD: Can I look at it for a second.
+THE WITNESS: I guess I didn't think of it that way but I suppose that would be a way of looking at it. I probably separated them out because one is useful for determining which disk to look at and the other was useful for remembering what particular documents are found in each disk.
+BY MR. HAMILTON:
+Q Who typed the pages that start with page number one through page number 20?
+A The copy that you hold in your hand?
+Q This document, who originally typed it? When I say originally —
+A Yes.
+Q — who originally typed the order and the information on pages one through 20?
+A I couldn't say who originally typed that.
+Q Let me get directly to the point. Was this reliance list given to you?
+A This was — this list came from documents and materials I had sent to Amy Schwaller at Shook, Hardy, Bacon. That particular list, I don’t know if she typed it or if someone else there did.
+Q So let me see if I understand this. There is a document that starts with page number one which is part of Plaintiff's Exhibit 3 through page number 20 was typed by someone you don't know but you believe it was probably somebody associated with Shook, Hardy, correct?
+A The typing of that particular document, yes.
+Q The order that it was typed, in other words, the order in which the documents appeared, was that done at your direction or was that something that Shook, Hardy did?
+A The process I began by listing all of the materials that I had read, I placed them in obvious categories, newspapers, books, materials from the state of Tennessee. I believe — I'd have to look carefully to see —
+Q Sure.
+(Whereupon, witness is handed said item)
+A — remember exactly what order it was. Now this is a modification of the original of the version that I sent in but roughly contains the same categories.
+Q When you say it's a modification of the original version that you sent in, you are saying that it's not in exactly the same format, correct?
+A Order.
+Q Order. Are all the documents that are on Plaintiff's Exhibit Number 3 starting at page one through 20, do they reflect documents that you sent to Shook, Hardy indicating you reviewed or are there additions or deletions to those documents?
+A No, these are ones that I reviewed and either informed them, I think most cases did not physically send them the document but just the title or the name or the reference.
+Q One of our requests in our duces tecum was all correspondence including e-mails, faxes between you and the defendants or any law firms or lawyers representing the defendants regarding this matter or cigarette litigation generally. That would include in my mind the document you provided to Shook, Hardy indicating the materials that you have used which resulted in the generation of the document we just discussed with pages number one through 20.
+Where is that document?
+A I produced all the or have all the documents that relate to correspondence I have had with Shook, Hardy, Bacon regarding the Jimmie Willis case.
+Q But where is that document, we asked you to bring it today, I haven’t seen it, do you know where it is?
+A Oh, okay.
+MR. HAMILTON: In with the depositions, you think?
+THE WITNESS: Let's see, I brought the correspondence. Oh, here it is, here it is. So this is the correspondence that I have with respect —
+MR. HAMILTON: Why don’t you show it to your
+lawyer first.
+MR. BOYD: I saw it and I will just for the record say this is all the correspondence that has any substantive information. There are several e-mails that say can you show up on the 8th or the 9th, we did not produce those. That’s pursuant to what Benowitz did and other people did. You want him to go back and print out the ones that say can you show up on the 8th or 9th, then we can talk about it but this has everything that's substantive in there.
+MR. HAMILTON: We will decide that later.
+They are not here so it’s a moot point, right?
+Let's mark this as 4.
+(Whereupon, Plaintiff's Exhibit 4 was marked for identification)
+BY MR. HAMILTON:
+Q Doctor, let me hand you what we have marked as Plaintiff's Composite Exhibit Number 4 and I want you for the record to identify that as being the correspondence between you and the defendants and/or their lawyers that you have produced here today in response to our request?
+A Yes, that's what it is.
+Q Now Doctor, these look like, thank you very much, they were put in date order?
+A Oh, if they were it was purely accidental.
+Q Well, I am looking at an initial e-mail that's dated July 14 from David Bowman to you with a cc to Amy Schwaller which talks about the availability, your availability for deposition on September 1, 2, 3, 10 and 11. Perhaps I've got the year wrong. No, I don't. That's the first e-mail I see.
+A July 14? Okay, I'd have to —
+Q Down at the bottom.
+A Yeah, I'd have to — that's the first one you see, okay.
+Q Are you saying that prior to this date, July 14, 2009, you had no correspondence between you and the attorneys for any of the defendants regarding this matter?
+A Regarding Willis?
+Q Well, let's start with Willis.
+A Yes, that's the earliest that I found or that's all that I found to be more precise.
+Q Well, let me back up. I don't want to misstate anything and I want to make sure that we have this right. There looks like it's a little confusing,
+this looks like at the top there are forward selections —
+A Correct.
+Q — that are sent to you and then in the body of some of these there is a date that is different than the date in the forward selections?
+A Correct.
+Q So I want to make sure that I understand what these mean before we move on.
+A I can explain it.
+Q Well, why don’t you explain it so that I don’t have to fumble around and try and figure out what happened here.
+A So when I searched for material for correspondence from my e-mail accounts that related to correspondence about the Willis case, I also checked a second e-mail account, if you look on the forwarded e-mail you will see the klipartito@gmail. When I printed them or went to print them I for whatever reason dealing with computers I found it difficult to print, at least to come out in the way that I could find easy to keep track of so I just determined it was easier to forward those e-mails to my University account which seemed to work better when it came to
+printing and just print them all from that account.
+MR. HAMILTON: Let me make sure that I understand what you just told me. There is, for example, —
+I will tell you, would you do me a favor, this you have as Composite Exhibit Number 4. Would you write in a place that's not very — that's unobtrusive on the bottom right a page number for each one of these so when I refer to it I will know which one in the record I was referring to.
+(Court reporter hand-wrote numbers 1 through 13 on Plaintiff's Exhibit 4)
+BY MR. HAMILTON:
+Q And just for the record, Doctor, Plaintiff's Exhibit Number 4 which you identified before as being all of the correspondence that you have produced to me today in response to my request consists of thirteen different sheets. And if you want to confirm that, just take a look.
+A All right.
+Yes, I see thirteen.
+Q On July 15 you sent to Mr. Bowman and Miss Schwaller work completed on the Wheeling, Lincoln, Johnson City, Sarasota and Elizabethtown papers,
+correct?
+A Yes.
+Q And are all those documents part of the reliance documents that are in on disks one through four?
+A I don’t believe — I have to see if the Wheeling materials, that may not be relevant to this case.
+No, the Wheeling paper I think refers to some other case but I sent them all because I had completed them all.
+Q Page two there is a obviously forwarded to you from your gmail account as you discussed before an e-mail that was sent to you or sent from you to Miss Schwaller on June 3 and it refers to three disks of Means Report from Tennessee. One was defective, I received a new one a few days ago but if the latest is the correct version, I will use that and send the others back to you.
+Also I'd like to speak with David at some point about the July meetings and where things stand before I leave the country.
+What July meetings?
+A Oh, I believe we met in Miami in July.
+Q Who did you meet with?
+A David Bowman and Amy Schwaller.
+Q Anybody else on the phone or in attendance in some manner?
+A Not that I recall.
+Q What was the point of that meeting?
+A Again I don't recall the specifics of that meeting. We met possibly to discuss dates for depositions, to discuss my opinions. That’s generally what we met about.
+Q How long did the meeting last?
+A I think the meetings generally lasted three or four hours.
+Q It says you have three disks of the Means Report from Tennessee. What did you mean?
+A The material from Richard Means who had at some point collected documents relating to curriculum in public schools in Tennessee and I had reviewed those documents but there had been a problem, it had been sent to me on a CD disk but there had been a problem with the disk and so I had sent back the one that I had that was defective and received an undefective one in return.
+Q Who is Mr. Means?
+A Mr. Means is a specialist in the history of education and curriculum. I don't know his full biography but he is I believe his Ph.D. is in education, he's worked in curriculum and education and has done research on the history of school curriculum related to health and hygiene.
+Q Did you employ him to do this work?
+A No, I didn't.
+Q How did you learn about Mr. Means?
+A I had asked if there were materials related to the public schools that were available, if anyone knew of such things. That was something that I was considering researching. I was then told that there were in fact, there was in fact a collection of such materials and that I would look at it.
+Q Who told you?
+A I can't remember, it was a lawyer for I don't know if it was — I don't think it was for Shook, Hardy Bacon, I think it was for another law firm.
+Q It was somebody associated with the tobacco industry?
+A The law firm was Johnson, Tyler and Purvis.
+Q Do you know who Mr. Purvis is?
+A I know he is a lawyer who was part of the law
+firm that I believe doesn't exist anymore.
+Q Do you know anything about Mr. Purvis at all?
+A I think I've met him once or twice. I just I know he is a lawyer, he is — he was someone who contacted me at one point.
+Q Contacted you at one point, what do you mean?
+A He called and asked if I had knowledge of or would be able to testify in relation to public awareness in Florida about tobacco and health matters.
+Q Did you understand that he is employed by the tobacco companies?
+A I didn't understand exactly his relationship,
+no.
+Q Did you ever ask him or anybody else what his specific function was with respect to contacting you to see if you would make yourself available to testify?
+A I understood that he worked with a number of historians who testified in tobacco cases as expert witnesses.
+Q Do you know who Jan Johnson is?
+A No.
+Q Do you know how they got involved in the function of trying to find people who will testify about the issues that you are going to testify in this
+case?
+A No, I don’t know the history of them or their law firm.
+Q I want to show you pages two and three and just correct me if I’m wrong but it looks like that’s a duplicate?
+A It could be. Oh, it is, I may have printed the same one twice.
+Q Well, unless I am wrong again, pages four and five seem to be duplicates to me as well. Why don’t you check that out and tell me if it is?
+A All right. I think the gmail account keeps the previous correspondence so I guess when I had printed it it would also print out related correspondence.
+Q But those documents are identical, correct?
+A Slightly different but yes.
+Q Where is the difference?
+A No, just the this one has it’s probably reflecting it has both it has my name and affiliation twice.
+Q But the information on them is the same?
+A No.
+Q In terms of —
+A No, actually it’s not.
+Q Let me take a look, maybe I was mistaken.
+The forward was done on the same date?
+A The body I believe is different.
+Q If you look at the forwarding on page four and the attachments, see the attachments there?
+A I do.
+Q Take a look at the forwarding on page five and the attachments.
+(Whereupon, witness is handed said item)
+Q They are different, correct?
+A They are and one says Amy, I am attaching a list of the selections I made from the Bradenton paper... Amy, I have looked at but have not been able to locate the disk.
+Q So the attachments that you sent with these e-mails was different, at least indicates different that it was different on at least the forwarding part at the top. One says Braden Herald.XLS. XLS is a spreadsheet, Exel?
+A It's a spreadsheet.
+Q Tennessee miscellaneous PDF one mega bite and on page four it’s SPTlist.XIR. What’s the SPT list?
+A I believe that’s probably St. Petersburgh.
+Q Where is that list?
+A The list?
+Q Yeah, the list itself?
+A I don't know.
+Q Where is the spreadsheet that you forwarded?
+A Oh. I don't know. I mean I forwarded them and that was the way in which I kept track of which documents I was using.
+Q Where is the Tennessee that's TN miscellaneous PDF one mega bite?
+A I believe that one actually is I believe that's the same as it's on here. I mean really I couldn't answer those questions. These were lists that I forwarded of materials to be put on my reliance list.
+Q Based on my understanding of the way computers work, if you were able to generate these documents on August 30 by forwarding it from your gmail account, the attachments would still be there with the gmail that you sent.
+A Oh.
+Q They would be resident on your computer.
+A Really?
+Q Yes.
+A Could be. Okay. You might be right.
+Q Do you have the Exel spreadsheet that you sent regarding the Bradenton Herald?
+A Well, I guess if you are saying it's all on my computer then maybe I do.
+MR. BOYD: Just let the record reflect that he
+did point to the disk a moment ago.
+BY MR. HAMILTON:
+Q Is there an Exel spreadsheet on there?
+A That Exel spreadsheet, no, because eventually it became compiled into the entire list.
+Q So there is a separate list that you sent but there may — is there an Exel spreadsheet on the reliance documents one through four?
+A Any Exel spreadsheet?
+Q Yeah, any.
+A Well, okay, let me see. Could be. Most of these are documents. Most of them are documents. They are actual documents so I would — I don’t believe any of these would really be an Exel spreadsheet.
+Q So there is an Exel spreadsheet that you sent to the defendants that you may or may not have but certainly you at one time did have on your computer in order to send it to them, correct?
+A Yes.
+Q And you don't have that with you today?
+A No.
+Q On page six there is a forwarded document from your gmail to you, it says Ken Lipartito but I assume it’s to your business or school account?
+A Exactly.
+Q And it has the Tennessee Annotated Code, looks like it's all code material?
+A Okay.
+Q Did you actually research the Tennessee Annotated Code?
+A I read documents from the Tennessee Annotated Code.
+Q My question was did you research it as opposed to read it?
+A Well, I don't remember exactly the source, that may have come from the Means Report which also had material on laws pertaining to education in schools.
+Q How many reliance documents do you have on disks one through four total?
+A How many documents meaning how many pages?
+Q The number of documents as opposed to the pages.
+A The number of documents. Gosh, I couldn't say
+right off the top of my head. There is multiple categories of multiple media. Certainly if one includes every issue of every newspaper they could be in the thousands I guess.
+Q Was it you did all the research to produce the thousands of documents that you have on your reliance list or was that research accomplished by someone else?
+A Well, I would say it was me.
+Q Why would you say it was you?
+A Because I began with a — with various sources of documents I read and I selected the ones that I found useful for my opinions so I would consider that constituting research.
+Q Well, my question would be, I am not suggesting that you didn’t read some documents, I am suggesting that — I am not suggesting anything. My question to you is did you personally do all the research that discovered the documents that are on your reliance list or did you employ somebody else to do it or was somebody else involved in the process whether you employed them or asked them to do it or not?
+A A combination of all.
+Q Describe to me your understanding of the combination of all that resulted in the generation of
+these thousands of documents that are on your reliance list?
+A Well, that's a complicated process. I will see if I can get through some of it. It took place over five years so it was a long period of time. It began with me reviewing some materials from the Miami Herald which had been collected by research assistants employed by Johnson, Tyler and Purvis, it involved me going to archives and libraries in Miami, it involved me doing online research through my library, it involved me employing research assistants to review materials to check and verify them, it involved me also receiving materials from archives that had available things that otherwise I couldn’t get, it involved online research, so it involved a wide variety of different methods of work.
+Q Tell me who besides you was involved in finding the documents that are included on your reliance list?
+A Who besides me.
+Q Who besides you?
+A It was either me personally or research assistants who had been employed by Johnson, Tyler, Purvis or by Richard Means I suppose, I don't know how
+he employed research assistants.
+Q Of the documents that are on disks one through four, how many of those documents were documents that you discovered that had not yet been discovered by others doing research?
+A I couldn't answer that question.
+Q Can you even give me a percentage?
+A I couldn't answer the question because I don't know what other people may have discovered over the years.
+Q How did you begin this process five years ago?
+A The research process?
+Q Yes.
+A I began by reviewing the Miami Herald.
+Q Why did you do that?
+A The questions that were asked about my knowledge and expertise about public awareness, my very first thought was to begin with what seems to be one of the main sources of public knowledge, a newspaper. And so and I knew the Miami Herald existed going back quite a ways, I knew it was the main newspaper in Miami and at least originally my focus was on Miami and it was a major newspaper in the state so it made logical sense to me to begin with Miami.
+Q And who asked you to do that five years ago?
+A This came from my contacts through Johnson, Tyler and Purvis that asked if I could review materials and offer opinions about public awareness of smoking and health.
+Q And you understood that Johnson, Tyler and Purvis were attorneys who were acting on behalf of tobacco companies, correct?
+A I don't know if I understood who their clients may have been but I understood that, yes, they had some connection with some companies in the tobacco industry.
+Q The exhibits that we have marked as Composite Exhibit Number 4 which is the correspondence that you have produced today, are you telling me that that is the sum total of all of the written communications, whether electronic or otherwise, that you have had with the defendants and their attorneys over a period of five years?
+A As pertains to the Willis case.
+Q Well, I don't think it was limited to the Willis case.
+A Well, that's what I was told.
+Q Well, do you have other correspond — who told you that it was limited to the Willis case?
+A I believe that was David Bowman.
+Q So your understanding of your obligations to bring materials here today was that you were only to bring materials that were related to your communications with the defendants or their attorneys as it relates to Willis specifically and you did not attempt to locate or find any other materials that corresponded to the request for correspondence between you or the defendants and their attorneys?
+A That’s a pretty complicated question.
+Q Well, to make it real simple, you were told that the only thing that you had to bring today was correspondence relating to the Willis case and could you ignore every other piece of correspondence or communication that you had available relating to other matters that relate to the research that you did that has resulted in your offering yourself as a expert in this case; isn’t that right?
+MR. BOYD: Object to the form.
+THE WITNESS: That’s the simple version?
+BY MR. HAMILTON:
+Q That's the simple version.
+A Let’s get back to the complicated.
+Q Do you not understand the question?
+A Well, I don't think anyone ever used the word ignore, for example, so I am having trouble with the way you phrased the question. I was — I saw that I was supposed to bring material related to my correspondence which is the only form that I could bring so I can't bring any things that don't exist on paper. I asked them, you know, what that might mean, what this refers to, I was told to bring correspondence that relates to your work on the Willis case.
+Q Schedule A, did you get a copy of that?
+A What is schedule —
+Q The notice of taking deposition duces tecum and schedule?
+A I believe that's my copy, isn't it? No, it isn't, sorry.
+Q I don't think so.
+A You are right, sorry.
+Yes, I have it right here.
+MR. HAMILTON: Would you please mark that as the next exhibit.
+(Whereupon, Plaintiff's Exhibit 5 was marked for identification)
+BY MR. HAMILTON:
+Q I want you to take a look at number nine.
+A Yes.
+Q Do you see that in any way limits your obligation to bring correspondence including e-mails and faxes between you and the defendants or any law firm or lawyers representing defendants regarding this matter or cigarette litigation generally as limiting this to the Willis case?
+A No.
+Q So what you had and was provided to you with regards to your obligations to produce material did not limit, would you agree, you from bringing those items to this deposition that related to other matters other than Willis?
+MR. BOYD: I am going to object to the form and just mention that objections were filed regarding this deposition notice on file in this case that actually deal with this point but you may answer if you can.
+THE WITNESS: Again I read it as saying all correspondence including e-mails and faxes, so yes, that's I read it as what it says.
+BY MR. HAMILTON:
+Q The reliance documents that we have marked here today on disks one through four, they are the
+culmination of your work over the five years, correct?
+A Well, certainly I have worked on some of the material going back five years and some more recently that’s relevant directly only to the Willis case.
+Q And some of the materials that are on those disks are materials that you would have received years ago, perhaps the newspaper articles regarding the Miami Herald would have been a result of the work you first did five years ago, correct?
+A Yes.
+Q So it relates to your function as a potential expert in cases involving cigarette litigation regardless of whether it was done five years ago, four years ago or three years ago, correct?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, I mean it's — I don't know how to answer that question.
+BY MR. HAMILTON:
+Q Well, is there anything that are on these disks which are exhibits which is Exhibit Number 1, disks one through four —
+A Right.
+Q — that doesn't relate to cigarette litigation?
+A No. Sorry, litigation.
+Q Yes.
+A Meaning my opinion.
+Q Yes, your opinions.
+A All the opinions here relate to my opinions.
+Q And you understood that your opinions were being sought because there was litigation involving the damages caused by smoking cigarettes, correct?
+A I understood there was legal case that required an expert opinion that I was able to give.
+Q And many of the documents that are contained within disks one through four are documents that you generated over a period of time including five years ago?
+A Yes.
+Q Page 397 on the deposition of November 18,
+2008,	you marked page 397 on the deposition of November 18, 2008.
+A Um-hmm.
+Q Tell me the significance to your opinions to that marking?
+A It discusses both continues some of the discussions of what he may have known or seen and also discusses his quitting in 1993.
+Q And what significance is that to your opinion? A I think partly just to have a better sense of his history. I don’t — doesn’t seem to have a huge bearing on his particular awareness and knowledge to think continues the story of his attempts to quit and then quitting in 1993.
+MR. BOYD: John, we have been going about ninety minutes. Can we take a break whenever it's a good time for you.
+MR. HAMILTON: We can break whenever anybody wants to.
+(Short recess)
+BY MR. HAMILTON:
+Q So I can make sure I understand this correctly, on page six of what we have marked as the Composite Exhibit Number 4 which is what you produced with regards to the correspondence or communications, there is a e-mail that looks like it went out from you to Miss Schwaller dated July 18, 2009 which attached the Tennessee codes, it says attached are additional selections from the Tennessee materials.
+Were the code materials provided to you?
+A I think those came from the Means Report.
+Q And there is a e-mail that's been marked as
+seven of this group from you to Miss Schwaller July 18, it just says more selections from the Tennessee materials and the forwarding that you have from your gmail indicates more Tennessee codes.
+Same answer to the same question?
+A Yes.
+Q Think it came from the Means Group?
+A That’s my recollection.
+Q And then July 18, 2009 forwarded message from you to Amy Schwaller, says final set of selections from Tennessee that finishes up the Tennessee materials and the attachments above that indicate that this is an e-mail that you forwarded from your gmail account I guess to yourself and then to Amy?
+A No, no, that’s not correct.
+Q Okay, I am a little confused here so take a look at eight and tell me what the e-mail indications indicate?
+A The forwarding simply refers to work that I did on August 30 which was Sunday in order to produce these printed copies, I forwarded material from my gmail account.
+Q Maybe my question was unartful, that's what I meant.
+A Yes.
+Q The August 30 e-mail was the e-mail that you did on that date where you were trying to get e-mails that related to this case and they were on your gmail account, you forwarded them to yourself and then the body of the e-mail that's down below that forwarding part indicates the date the e-mail was sent and to whom and what it relates to, correct?
+A That is correct.
+Q So but in this case if you take a look at this page number eight, it identifies the attachments —
+A Yes.
+Q — that were there?
+A May I?
+Q Yes, sure.
+A And you are referring to.
+Q The top?
+A The top, yes.
+Q The e-mail that you forwarded to yourself on August 30?
+A Yes.
+Q Identifies the attachments that were attached to the original e-mail that you received?
+A That is correct.
+Q Is that correct?
+A That is correct.
+Q And then the bottom identifies the e-mail that you sent to Miss Schwaller, I guess in that case it was Miss Schwaller, I can’t see it but —
+A It was.
+Q — Miss Schwaller, and when you say this or these are the last Tennessee materials or whatever it is you say there, you are actually forwarding to her an e-mail that was sent to you on your gmail account?
+A No, no, no. I forwarded — I forwarded from my gmail account an e-mail that I had — an e-mail from my gmail account I had sent to Amy Schwaller on July 18, 2009.
+Q Let me just see here.
+A So — is that clear? The date of the —
+Q Yes, I understand that but what I am trying to find out here is the attachments that are on this e-mail that were sent to Amy on July 18, 2009?
+A Correct.
+Q And it indicates that they came from your gmail account?
+A Correct.
+Q Were those attachments attachments that were
+sent to you? In other words, they came into you at your gmail account, you forwarded that information to Amy from your gmail account, then on August 30 you went back, forwarded the entire e-mail to yourself at your faculty —
+A Correct.
+Q — e-mail so you could print it out and produce it?
+A No. The original attachments, the attachments that I forwarded to Amy on July 18 were from the same Means Report material on Tennessee that I had received at a different date. I believe that's referenced in the e-mails to the Tennessee Means Report.
+Q So you are saying that you — I guess what you are telling me is on July 18 you received all this information and you forwarded it on to Amy?
+A No.
+Q Or at least you received the information and after you reviewed it or whatever you forwarded it on July 18?
+A No.
+Q Well, it doesn't make any sense to me so I'm sorry to be so obtuse but —
+A All right.
+Q — I am looking at the original information, it says Saturday July 18 at 4:01 p.m. to Amy Schwaller from you at your gmail account. I am attaching a list of selections I made from the Bradenton newspaper with several other documents from the Tennessee schools collection. I will be sending after this several more e-mails with the Tennessee materials as well?
+A Correct.
+Q So it seems to me that you are sending selections of the Bradenton newspaper along with several other documents from the Tennessee schools collection to her?
+A Correct.
+Q Correct?
+A Correct.
+Q And then you have already previously said that the Tennessee documents came from the Means Report, correct?
+A Correct.
+Q And the Tennessee code annotations came from the Means Report?
+A That’s my recollection.
+Q Which would have had to have been sent to you in some form?
+A In the form of a disk.
+Q Disk. So you didn’t get them by e-mail?
+A No.
+Q You got them sent to you by a disk?
+A Correct.
+Q And then you sent Amy these e-mails on these dates capturing the disk materials to send to her?
+A Exactly.
+Q The Bradenton selections, did you make those yourself?
+A Yes.
+Q The Tennessee Killebrew Tobacco Culture 1 PDF, did you find that yourself or was that sent to you?
+A That was part of the Means Report.
+Q Same with TN manual high school 194 6?
+A Yes.
+Q And the TN pub education program 194 6 PDF?
+A Yes.
+Q Did you obtain anything from Tennessee on your
+own?
+A I don't believe anything on these disks, no.
+Q Well, whether it’s on the disk or not, did you obtain anything from Tennessee on your own?
+A I can’t — I can’t recollect anything. If I
+can clarify, on your own meaning did I physically —
+Q Did you do it personally?
+A Did I physically go and collect the material?
+Q Not physically, online, write away to a collection, communicate with somebody in Tennessee other than somebody working for the tobacco company and request specific documents to be sent to you?
+A I don't believe so.
+Q On page ten of these e-mail communications there is an e-mail to Amy Schwaller dated January 30, 2009, subject Tribune, here’s the sheet covering the Tampa Tribune 1960s and 1970s?
+A Um-hmm.
+Q What sheet was that?
+A I believe — can I see the —
+Q Sure.
+A Anyway, it's another probably a either a Word file or a spreadsheet file that has selections from the Tampa Tribune that I wanted included in the reliance material.
+Q And do you have that Exel document or Word document with you today?
+A No.
+Q Are there any materials from the Tampa Tribune
+in your reliance list that were not what you personally obtained through your individual research?
+A The Tampa Tribune materials came to me from — the actual body of materials I believe came from I think it was Shook, Hardy but I can't recall now exactly.
+Q So all the Tennessee materials came from people who were doing research on behalf of the tobacco companies and all of the materials from Tampa Tribune came from people doing research on behalf of the tobacco companies, not from you, correct?
+MR. BOYD: Objection to the form of the question.
+THE WITNESS: I obtained boxes or disks of the Tampa Tribune on the Tennessee Means Report, yes.
+BY MR. HAMILTON:
+Q When you say you obtained boxes or disks, were you sent boxes with disks in them and how many disks did you receive?
+A Well, actually in that case I meant in some cases, and I don't recall off the top of my head, which form I received the Tampa Tribune. Some cases I actually received photocopies in boxes of newspapers and some cases I received disks with PDFs of newspapers
+or other materials.
+Q When you say you received copies of I assume images of the Tampa Tribune? Hard copy meaning not digital?
+A Photocopy. In the case of Tampa I can't recall right now if it was a hard copy or a digital but I have received both over time, hard copy and digital.
+Q Were they identical, in other words was there always a digital image of the hard copy that you received?
+A No, it was one or the other.
+Q And what did you do with the hard copies?
+A The ones that are on if it was sent to me as a hard copy and I read it as a hard copy, then the ones that I selected I still have.
+Q Were there ones that you did not select?
+A Yes.
+Q Where are those?
+A Oh, I think at this point they are — I don’t have them anymore.
+Q Do you remember why you did not select those or excluded those as opposed to including them in the research that was done?
+A In the reliance material a variety of reasons,
+not relevant to the issue, largely not relevant, I mean that would be the reason.
+Q So you received copies of images from the Tampa Tribune during the sixties and seventies, hard copies that were not digital, you went through them and you selected ones that you thought were relevant to the opinions you were going to give in the case and you discarded others that you did not feel were relevant; is that correct?
+A Yeah, I mean it's going to depend on which particular material you are talking about. If I received hard copies, physical, you know, a photocopy like a sheet of paper that's been photocopied, almost always I think from microfilm, then if that was the form I received it, I read it, I selected it, I noted down on those lists that I sent which ones to include. Over time I simply got rid of the ones that were in the pile that was not relevant.
+I don't know about the — huh, about the disks. If I was sent material on disk I believe I still have at least some of the disks and so I guess that would be what I was sent.
+Q All of that material is not contained within the disks that we have marked as Composite Exhibit
+Number 1, correct?
+A Let me see if I can answer that. The disks reflect the material that I selected from a larger universe of materials and the selections reflect my reliance material from my opinions.
+Q And you may have some of the disks that were sent to you that contained documents that you decided not to use?
+A Yeah, I suppose that's possible.
+Q Did any of those disks contain documents from the Tampa Tribune?
+A I — again at the top of my head I can't recall if the Tampa Tribune was disk or — was a digital image or was a hard copy but if it was a digital image then I may have the original disk that I was sent.
+Q Let's take a moment to go back and go through Schedule A which we have marked as Exhibit 5, I will give that you.
+A All right.
+Q It's your notice of taking deposition with Schedule A attached. And let's go over the requests.
+Number one, all documents, reports, records, data or other materials prepared, retained, possessed
+or produced by any defendant to this action or any officer, director, agent or employee of the defendants upon which you rely in formulating your opinions in this case.
+We have already talked about that, you have produced that and those are Composite Exhibit Number 1 which are the disks and the depositions?
+A Yes.
+Q All documents, reports, records, articles or other materials containing statements, reports or research attributed to any defendant in this action or any officer, director, agent or employee of the defendant upon which you rely in formulating your opinions in this case.
+That's the same as number one in your opinion?
+A Yes.
+Q Any other document that you may have received from them that is not something that you intend to rely upon, you may have but you didn’t produce?
+A Yes. I think.
+Q Have you prepared any reports, summaries, impression, memoranda or evaluations relating to this litigation or your opinions that you are going to express in this case?
+A No.
+Q Have you produced all the documents, data, medical records and literature reviewed by you in forming any opinion or in preparing any testimony relating to this case?
+A That's contained in the exhibits, those materials are contained in the exhibits.
+Q Number seven is all scientific publications, documents, literature, data, medical records and other documents forwarded to you to any other defendant to this matter or any law firm or lawyers representing the defendants in this matter.
+You haven't produced all of that, right, because there are other documents that you forwarded to the lawyers that represented defendants in this matter that we have already talked about, correct?
+MR. BOYD: What number is that?
+THE WITNESS: Seven.
+MR. HAMILTON: Right.
+THE WITNESS: All scientific publications. Well, I don't have any scientific publications or medical records.
+BY MR. HAMILTON:
+Q Well, it says all scientific publications,
+documents, literature, data, medical records or other documents that you forwarded to any defendant to this matter or any law firm or lawyers representing the defendants in this matter and you forwarded other documents to law firms that represent the defendants in this matter, correct? It’s not limited to just documents that relate to your opinions in this matter?
+MR. BOYD: Well, and just for the record I want to read it because I don't think you read it correctly, and again this appears to be a typo but I just want to make sure it's on the record, are we at number seven? All scientific publications, documents, literature, data, medical records or other documents forwarded to deponent to any defendant to this matter, any law firm or lawyers representing defendants in this matter.
+So again it' s a bit confusing but you can go ahead and answer it as best you can.
+MR. HAMILTON: Yeah, it is a typo, it should be by deponent.
+BY MR. HAMILTON:
+Q Let me ask you something. When you read that, how did you understand it to mean?
+A I think the things I focused on were
+scientific publications, and maybe I construed it more narrowly as related to science and medicine, and forwarded, I guess I wasn't sure what that meant but as I said, if — I have to say I couldn’t really make a lot of sense of it so I wasn't sure exactly what that was referring to but it seemed like I produced the reliance materials so that seemed to be what the main thing I was supposed to bring was.
+Q You didn't receive and review any medical records relating to the plaintiff, did you?
+A Pertaining specifically to Jimmie Willis?
+Q Right.
+A No, only his depositions.
+Q And you don't have any pathology or radiology materials, slides or anything like that?
+A No.
+Q Have you given any prior depositions?
+A On this matter?
+Q Well, let’s talk about whether you had given any prior depositions at all?
+A Yes.
+Q How many times?
+A I believe three.
+Q And what matters?
+A Concerned cases involving lead paint.
+Q And your function in those cases as an expert witness was to what?
+A It was to review materials with respect to a defendant in the case.
+Q And you actually gave depositions?
+A Depositions, yes.
+Q Can you give me a thumbnail sketch of what it was that you testified to as an expert in those cases involving lead paint?
+A Oh, I don't think I can really do the thumbnail sketch off the top of my head.
+Q Give me the abbreviated version?
+A You know, it was a deposition, I was asked I think just the same sort of questions I am being asked here about my research methods, I discussed that, I talked about — I have to say it's been a couple of years now and I just can't recall.
+Q What was the substance of your testimony, what did you testify about?
+A About testify you mean give?
+Q Sure, what did you give an opinion on; what was your opinion?
+A Oh, I'm not sure I was even asked my opinion
+in a direct way like that but basically since I never — the cases did not either come to trial or I didn’t testify at a trial so I have never given a sort of direct testimony but the substance concerned the records of one of the defendants with respect to knowledge about the dangers of lead paint and other matters related to their business, oh, that sort of thing.
+Q And I assume the purpose of your testimony was to were you employed by the plaintiff or the attorneys for the plaintiff?
+A Hang on, plaintiff?
+Q Yeah, meaning the one who was suing?
+A No, I think it's the other one.
+Q You were employed by the defendant?
+A Correct.
+Q And what was the purpose of your testimony, to somehow indicate through your testimony that the defendant did not have knowledge of the harmful effects of lead paint?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, it was —
+MR. BOYD: And again, well, go ahead.
+THE WITNESS: Okay. So I mean it was rather
+much broader than that, it had everything from the history of the company to the history of the industry to the different aspects of the company and its operations and how it was organized. And then with respect I think to specific questions about internal records that might have related to whether they had records related to knowledge of the dangers of lead paint and whether I had found anything like that.
+BY MR. HAMILTON:
+Q Well, Doctor, I will get into this later but you understand that when somebody calls an expert witness to the stand, there is a purpose behind calling that witness; you understand that?
+A Well, I guess in the sense that whatever the person is testifying to it should be relevant to the case.
+Q Right, you understand that they have a purpose, there is something they are trying to communicate to the trier of fact which is the jury, correct?
+A Well, trying to communicate something, yes, I will buy that.
+Q And was your purpose in being called to that
+as a witness in that case whether you testified in deposition or and it ultimately did not reach trial was to talk about the defendant who was being sued presumably by somebody who had been injured by the effects of lead paint to demonstrate that the defendant did not have knowledge of the dangerous aspects of the lead paint —
+MR. BOYD: I am going to object to the form.
+BY MR. HAMILTON:
+Q — when it was sold?
+MR. BOYD: Object to the form.
+THE WITNESS: Yeah, it's a, you know, it's a — not sure I'd quite characterize it that way.
+I would say it was more to testify to what their knowledge and business operations were so it was broader than that but it involved questions about whether there was information available to the defendants about the dangers of lead paint, what was known more generally among members of the public and the industry about the dangers of lead paint. So it's not quite as narrow as you are asking.
+BY MR. HAMILTON:
+Q As somebody who was retained by the defendant
+and offered expert testimony on behalf of the defendant, you know they wouldn’t have offered you to testify in that case if your opinion was going to be well sure, based on all my research I found out that the defendant certainly did know that there were dangers to lead paint at the time he sold it to the plaintiff who are claiming injuries; you know that?
+MR. BOYD: I am going to object to the form, that’s argumentative. I don’t think you have to answer that question.
+BY MR. HAMILTON:
+Q You know that, don’t you, Doctor?
+A All I know is I did research and offered my opinion.
+Q And you are saying you had no clue that that was the underlying rationale for you being an expert witness in the case?
+MR. BOYD: Object to the form, argumentative and mischaracterizes his testimony.
+THE WITNESS: I was simply told would you look at these records and offer your opinion as to what you found.
+BY MR. HAMILTON:
+Q Have you ever given any depositions or any
+sort of testimony under oath, whether it be an affidavit or not, about the etiology of lung cancer or respiratory diseases?
+A No.
+Q Did you bring a list of the cases that you testified as an expert in those lead cases?
+A No.
+Q And you understand that that was a request?
+A Which one is that?
+Q Number sixteen?
+A Again, I guess it was my understanding it was limited to cases involving tobacco but —
+MR. BOYD: Well, and I'd also just note for the record that objections were filed and I think under the rule it's three years rather than the five or six years here. So again, I can look — I don't know exactly, I can go talk to him about what his last three years of testimony were or whether we provided that or not.
+BY MR. HAMILTON:
+Q Have you testified in the last five years by deposition?
+MR. BOYD: And again I am going to object to the form of that question, I think the rules call
+for three.
+THE WITNESS: I believe, let's see, we are in
+2009,	I think five years, yes, I'm not sure about three years, I'd have to go back and look. It's been several years at least.
+BY MR. HAMILTON:
+Q Did you bring a copy of your most current curriculum vitae?
+A I do have a copy of that.
+MR. HAMILTON: Would you give that to me, please, so we can mark it.
+THE WITNESS: Sure.
+(Whereupon, Plaintiff's Exhibit 6 was marked for identification)
+BY MR. HAMILTON:
+Q Have you given any programs, seminars, attended any seminars regarding cigarette litigation?
+A What number is this?
+Q Twenty.
+A Okay.
+Q All records, notes, outlines, programs, announcements or other documents relating to seminars or other similar meetings attended by you relating to cigarette litigation?
+A I don't have any records.
+Q Did you ever attend any — and I am going to call them seminars, I don't mean a meeting with the lawyers in this case, that's a different matter.
+A Um-hmm.
+Q Did you ever attend any sort of seminar or formal meeting which you and other experts attended with regards to cigarette litigation?
+A No.
+Q How about invoices that you have received relating to any compensation paid to you in this litigation for services rendered?
+A I have invoices, yes, but I didn't bring them.
+Q You didn't bring them?
+A No.
+Q Can you tell me to date how many hours that you have put into this case in particular?
+A Into the Jimmie Willis case?
+Q Into the Jimmie Willis case?
+A I believe I calculated about sixty hours.
+Q And your rate of compensation for the number of hours you have spent, it differs, does it differ between research and deposition and trial?
+A No.
+Q What is the rate?
+A Currently it’s $250 an hour.
+Q All invoices, records, receipts for payment or other documents identifying or related to any compensation paid to you in tobacco litigation generally for the past five years for services rendered including but not limited to testimony and consultation.
+Did you bring those invoices with you?
+A No.
+Q There certainly are invoices since you indicated to me you began working five years ago, correct?
+A Yes.
+Q Do you have copies of those invoices at some place?
+A Yes.
+Q That you can get a hold of them?
+A I do.
+Q Can you give me an idea of how much you have billed in the last five years for the work that you have done in working for the tobacco companies?
+A The work that I have done on cases through Shook, Hardy and Bacon and Johnson, Tyler Purvis which
+is —
+Q No, my question is broader than that. My question is, can you tell me how much you have billed in the last five years for work that you have done for tobacco companies, not just for particular law firms?
+A Well, the only invoices I have and the only bills that I have submitted and the only compensation I have received have come from invoices submitted to Johnson, Tyler and Purvis and to Shook, Hardy and Bacon.
+Q Then that limits it, can you tell me approximately how much you have been paid over the last five years for the work you have done and the invoices you have submitted to them?
+MR. BOYD: Again I am going to object to the form, I think the rule is over three years but you can go ahead and answer as best you can.
+MR. HAMILTON: No, I disagree with you.
+THE WITNESS: Yes, I believe depending on the next bill I submit it would be approximately $150,000.
+BY MR. HAMILTON:
+Q And over the last five years approximately what percentage of your total income would that
+$150,000 represent?
+MR. BOYD: Same objection to the form.
+THE WITNESS: Ooh, gosh. I — well, let me see if I can do a quick calculation for you. I would say — I am not very good with percentages, so I think it's maybe a rough estimate maybe say — yeah, maybe twenty percent, fifteen percent.
+BY MR. HAMILTON:
+Q Well, in case you have trouble with figures, the way I calculated $150,000 over five years is $30,000 a year?
+A Yeah.
+Q So you stick with twenty percent, thirty percent?
+A Yeah, I think if I looked at my total, the total income.
+Q Right.
+A Yeah, it would be about twenty percent. It goes up and down.
+Q You report the income that you receive on a 1099?
+A Yes.
+Q I assume?
+A Yes.
+Q And you have copies of 1099s at home related to the income that you have received for the work you have done on tobacco litigation I assume?
+A 1099 being the —
+Q Meaning that somebody has to pay you and you have to declare that you earned it in some manner; it's not a W-2 unless you are an employee?
+A Right, I receive something, I don’t know what form it is, each year for all consulting work I do and is a 1099 an independent — what do they call it?
+Q Independent contractor?
+A Yes, Schedule C I believe is what I file.
+Q And you have those?
+A The 1099s? Well, I think I do, at least some of them, I'm not sure how far back my tax records go.
+I filed the income tax of course and then I don't have to file the 1099 so I guess I might have it.
+Q Let's talk about the deposition of Donna Griffith Harris Rouse, October 31, 2008. You have some red markings, those are yours on the front?
+A Those are mine.
+Q Seems to me it says Jimmie Willis married her mother?
+A That was my understanding when I read it.
+Q Red marking but no tab on page eight, just he is my dad?
+A Yes, that was probably —
+Q Just circling that so that you could identify relationships?
+A Precisely.
+Q Page 28 I see — I don’t know if it’s 28 or 29, I see a tab but I don’t see any red underlining. Could you tell me what you found significant on that page or pages?
+A Yes. On page 20 — well, beginning at the bottom of page 27, continues to 28 and 29, and that’s pretty much it, discusses his watching the news, movies, television shows, Channel 3 in the morning, just his exposure as it were to especially television.
+Q What did you get out of the testimony of 27,
+28 and 2 9 that you thought was significant?
+A Is that the pages we just discussed?
+Q Yes.
+A That he — I was again just interested to know did he read newspapers, did he see television, since I do have material that relates to various media that discuss the dangers of smoking, I wanted a sense of whether he was someone who might have seen those
+things.
+Q Nothing on these pages talks about newspapers, does it?
+A I believe — sorry, can I see that?
+Q Sure.
+(Whereupon, witness is handed said item)
+A Okay, this — this one doesn’t but so not newspapers in that case.
+Q So in those pages there was nothing about newspaper. It said he liked to watch TV and she was asked what kind of shows he liked to watch and she said he liked to watch Hee Haw?
+A Yes.
+Q Did you research Hee Haw?
+A No, that wouldn’t have been relevant.
+Q Why?
+A Because I wasn't interested in TV shows, I was interested in perhaps things that appeared like public service announcements.
+Q You weren't interested in seeing what he was exposed to if he liked Hee Haw and watched that all the time, you weren't interested in seeing whether or not there were things like cigarette advertisements on Hee Haw and that sort of thing that he might have been
+exposed to during the period of time that you were interested in public announcements?
+MR. BOYD: Object to the form.
+THE WITNESS: Right, well, I generally didn't research specifically the content of TV shows in part because at least I wasn't able to find places where such content existed. I did actually do research to try to find out what was available in terms of the broadcast media historically and I have been able to turn up that level of detail.
+BY MR. HAMILTON:
+Q So you weren't able to determine — by the way, did you request that the tobacco company that you were employed by in this case researched their archives to find out what advertisements they may have placed on Hee Haw?
+A No.
+Q Any reason why not?
+A Well, in part because advertisements weren't central to my research.
+Q And why weren't advertisements promoting the use of cigarettes by the tobacco companies essential to your research?
+A Because I was researching information about
+the health effects of cigarettes.
+Q Well, don’t you think that somebody who is exposed to information that may be geared to the health effects of cigarettes might also in some way be influenced by the messages that are sent out by advertisements —
+MR. BOYD: Objection.
+BY MR. HAMILTON:
+Q — promoting the use of cigarettes?
+MR. BOYD: Object to the form.
+THE WITNESS: Not the way I see it, I don't see those as related to health.
+BY MR. HAMILTON:
+Q So in your opinion the amount of money that the tobacco companies spent from 1941 through 1973 promoting the use of their product and the manner in which they did it wasn’t particularly essential to your inquiry with were regards to how the public may have perceived the issue; is that correct?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, again my focus was on information specifically dealing with the dangers of smoking, health and related matters and commercials I didn't see as part of that.
+BY MR. HAMILTON:
+Q Don’t you think that people are affected by all sort of media when they make decisions about what they are going to do or not going to do?
+MR. BOYD: Object to the form.
+THE WITNESS: As a general proposition I suppose that's true.
+BY MR. HAMILTON:
+Q I mean if there is an advertisement out there that says more doctors smoke Camel or smoke Lucky than any other cigarette, isn’t that something that might have some sort of impact on an individual who is a smoker?
+MR. BOYD: Object to the form, vague.
+THE WITNESS: I mean that's to me too removed from context to answer, I'd have to see a very specific example and a very specific time period to be able to answer it.
+BY MR. HAMILTON:
+Q But you didn't even look for it, did you?
+A Well, I saw advertisements as part of my research, they certainly did come up as part of my research.
+Q Did you find those advertisements —
+A I be —
+Q — the ones advertising, promoting, saying doctors smoke more of these cigarettes than any other type of cigarette?
+A I believe I saw some in the newspapers.
+Q Are they in your reliance document?
+A No.
+Q Why not ?
+A Well, again I think my understanding was that that really wasn't relevant to the questions that I was researching.
+Q When you say your understanding, where did you get your understanding?
+A Based on my research.
+Q How often did Mr. Willis watch Channel 3?
+A Off the top of my head I don't know, I don't think it mentions it there.
+Q Do you know if he watched it one day a week, one day a month?
+A I don't think that level of detail is in the deposition which would be my only source of information.
+Q Did you research Channel 3?
+A Channel 3, research Channel 3, do you mean did
+I look for materials that may have appeared on Channel
+Q Yes.
+A No, no, I did research in general to see what was available on television news and other sources, I don't think specifically Channel 3.
+Q Why would you look for other sources and not look at Channel 3 since that was the testimony in this case that he looked at Channel 3?
+A Well, I suppose I could try but it was based on research that I had been doing over five years, it's only recently that I read the testimonies of Mr. Willis and related parties.
+Also from what I could tell my research, again that kind of detail that would have local broadcasting materials, I have yet to find a place where that might exist. I don't know if it might exist somewhere but I haven't found it.
+Q Is there any organization out there that keeps information with regards to the transcripts of radio programs that were popular during the period of 1940 to 1973?
+A Radio transcripts? I have again looked, from what I can see there may be a few here and there but so
+I believe there was some actually from the National Archives or from the Library of Congress but very limited from what I have seen.
+Q So in all your research in attempt to find out this information you found no particular institution or other organization that actually has archives of large archives of radio transcripts?
+A Well, what I found, I don't know if it's radio but I found the Vanderbilt TV News Archives has some TV, it has broadcasts, Museum of Broadcasting, the National Archives and the Library of Congress have some recordings. I didn't — I didn't find a big selection of radio transcripts, perhaps I missed something.
+Q What magazines did Mr. Willis read?
+A Off the top of my head I don't recall if there was a discussion of his magazine reading.
+Q What books did he read?
+A Again I don't recall there being much information on that.
+Q What TV programs did he watch?
+A Well, we talked about Hee Haw.
+Q What written or visual media are you aware of that Mr. Willis watched during the period of 1941 through 1973?
+MR. BOYD: Object to the form.
+THE WITNESS: That's a broad period. I am not sure exactly in that period, I don't have a lot of information on it.
+BY MR. HAMILTON:
+Q I just want to make sure, you have read all these depositions twice including Mr. Willis' deposition, correct?
+A Correct.
+Q You don't know what, other than Hee Haw, you don't know what TV programs he watched, correct?
+A It discusses I believe the news on Channel 3.
+Q Other than Channel 3, Hee Haw, do you know of any other television programs that he watched?
+A I am not recalling anything from the depositions. There may be an occasional mention in some of the other ones.
+Q And in terms of his frequency watching those television programs over a period of time, do you have any information whatsoever?
+A Again only I think what's in the depositions.
+I don't recall a lot of information on frequencies.
+Q And with respect to what health information related to the smoking of cigarettes, we are on those
+particular television programs, Channel 3 and Hee Haw, you don’t have any information with regard to that either; is that correct?
+A The question is do I have information about what information about health and smoking was broadcast on those.
+Q On Channel 3 and on Hee Haw?
+A All right. No.
+Q You don't know what magazines he read?
+A Actually I think there was a mention of either a fishing or a hunting magazine but...
+Q Do you know which one it was?
+A Off the top of my head maybe Field and Stream, I can't remember.
+Q Do you know if any health information was in Field and Stream?
+A No.
+Q Any other thing that you know of that Mr. Willis read or saw other than warnings on the cigarettes and what we have just discussed that you can say transmitted health information to him, that you can specifically say, I know that Mr. Willis read this or saw this?
+A There may be a few other things but I am not
+recalling them now.
+Q But as you sit here today you can’t think of
+any?
+A Not off the top of my head.
+Q With regards to the educational materials that you received as a result of the Means Report from Tennessee?
+A Um-hmm.
+Q Do you know whether Mr. Willis ever saw any of those things?
+A I know he went to school, I know he went to school at a time when certain health textbooks being used and it was part of the prescribed curriculum. I know he lived in a Christian home that prohibited smoking. Those are the things that are most relevant to his education.
+Q But with regards to the specific materials that you have been provided that are part of your reliance list, you can't put those in the hands of Mr. Willis, can you?
+A Well, no.
+Q Did you pull information from the Bradenton newspaper?
+A Yes, I believe that’s on my list, no? Yes,
+the Bradenton Herald is the one I looked at.
+Q Do you know if Mr. Willis read the Bradenton Herald?
+A I recall that was one of the newspaper that one, I don't know if he himself or someone else who lived with him testified that he read, at least the one he most commonly read.
+Q Do you know what sections of the paper he read?
+A I don't recall anyone discussing that.
+Q Do you know how often he read it?
+A As I recall the discussion of it seemed to indicate that he read that one on a more regular basis, whether it was once a day or a week, I don't know but on a regular basis what I recall.
+Q Do you recall who said that?
+A No, I don't. I probably marked it though.
+Q In this deposition of Donna Fay Griffith Harris Rouse she talked about the Bradenton newspaper and you actually have it marked here?
+A Um-hmm.
+Q With a tab?
+A Um-hmm.
+Q And she was asked whether or not her dad read
+any particular section of that newspaper and she answered no, and then she said that her thing with her dad would be on Sundays they would read the funnies together?
+A Um-hmm.
+Q Did you get anything else out of that deposition other than the fact that he read the funnies with Miss Rouse?
+A Well, that he read the paper. She couldn't recall which sections except for the one that she remembered as a young girl reading the comic section.
+Q Well, the question to her was it said what do they get; it said my parents got the Bradenton newspaper —
+A Um-hmm.
+Q — meaning mother and father. Then she was asked the specific question if she knew of any specific section that her father read and the only thing she can recall were the funnies?
+A Yes.
+Q Cartoons, correct?
+A That is true.
+Q You don't take that to mean that she is testifying that he read the paper?
+A Well, he clearly read at least some of the paper and she recalls him reading that section.
+Q How do you know he read some of the paper from that testimony; what about that testimony tells you he read anything but funnies?
+A Well, because she says that he read — oh, sorry, the first question you asked me was how do I know he read the paper and the answer is because she testifies that he read at least one section that she recalls.
+Q Which is the cartoons or the funnies?
+A Correct.
+Q What about that testimony tells you he read any other portion of the paper?
+A We can't know one way or the other if he read anything else from that testimony.
+Q So you can't make any assumptions from that testimony about that, can you?
+A I only know that he got the paper and at least one person remembers him reading one section of it.
+Q Well, it's not just him, it's he and his wife, correct?
+A Well, they lived I believe as a family, so...
+Q Do you have a family?
+A I do.
+Q A wife and kids?
+A I do.
+Q Do some of the people in your family get materials that you don’t read?
+A Yes, but it says he and his wife, it doesn't say his wife only nor did it say him only, so...
+Q I am assuming your wife gets magazines that you probably never pick up and read at all, right?
+A I suppose. That would be her magazine.
+Q You marked page 56. What did you think it was significant about that?
+A Just 56?
+Q Well, I see 56 there?
+A There are two sections.
+Q Well, give me 56 first?
+A Okay.
+Q What did you think it was significant about that?
+A Yes. On page 56 it’s a longer discussion of his work, painting and other things, so on page — other work he did over his career life, she says in answer to the question, "It’s fair to say your dad thought it important to wear the mask to keep from
+breathing the fumes when he was painting?
+"Yes, he was very safe, you know, anything that says danger. And like painting, for instance, he wants me to read the back of it and see what it's made of and what kind of chemicals are in it and stuff like that. If it says danger or if it says different things on it, he was very cautious about stuff like that." And it continues.
+Q What did you take from that?
+A Well, again his daughter remembers him being actually someone who paid seems like very close attention to warning labels.
+Q Did it ever occur to you that he was warning her about the toxic properties of the paint in making sure that she read all those things says something about the fact that he smoked cigarettes but he never talked to her about the dangers of smoking?
+MR. BOYD: Object to the form, foundation.
+BY MR. HAMILTON:
+Q Did it ever occur to you that that might indicate something about his level of belief about the dangers of smoking?
+MR. BOYD: Objection to form, foundation.
+THE WITNESS: Well, I took it to mean what it
+says which was that he was someone who was very safe and who read labels. There is also other information contained on page 57 that speaks to some part of your questioning.
+BY MR. HAMILTON:
+Q Page 57, you marked that talked about a conversation she had with Mr. Willis where he said it was — he told her when she asked him if she could smoke and he said it's bad and it's nasty?
+A Um-hmm.
+Q And not good for you?
+A Um-hmm, correct.
+Q That doesn't tell you anything about whether or not he believed that it was a health hazard, does? MR. BOYD: Object to the form.
+THE WITNESS: Well, I think trying to say what someone believed is a difficult task to be absolute about under any circumstances for any historian.
+All I can say is that she recalls him being someone who said to her when it came to smoking that it was bad or bad for her, that she shouldn’t do it, they warned her not to do it.
+BY MR. HAMILTON:
+Q What about that testimony requires expert
+opinions? What about that requires somebody like you to come in and interpret that for a jury?
+A Well, I don't know I am going to interpret that.
+MR. BOYD: Object to form.
+BY MR. HAMILTON:
+Q It doesn't really require an expert opinion, does it?
+MR. BOYD: Object to the form.
+THE WITNESS: I don't know.
+BY MR. HAMILTON:
+Q I mean, what is it that you can say about that that a jury can't figure out for themselves?
+MR. BOYD: Object to the form, calls for a legal conclusion.
+THE WITNESS: I don't know.
+BY MR. HAMILTON:
+Q Page 60. Read that?
+A From where?
+Q Page 60, I think you have marked 60?
+A Yes, do you want me to read something?
+Q Yes, just read it so before I ask you some questions.
+A Oh, okay.
+Yes, okay.
+Q How old was Miss Rouse when she gave this deposition?
+A When she made these statements here?
+Q When she gave the deposition?
+A Right.
+Q What was her age at the time she gave the deposition?
+A I don’t — I couldn’t say right now, I’d have to look.
+Q How many years had passed between the time of the conversation that she is recounting here and the time she is testifying?
+A Well, rough guess I think based on what I recall about her age, I think it might have been 30, 25 years, 20 to 30 years, something like that.
+Q So we are talking about a conversation that occurred when somebody was fourteen years old that occurred some 30 or some odd years ago, correct?
+A Maybe less than 30 but...
+Q As a historian, how much credence do you put into memories of children that they relate to thirty years later about one conversation among many?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, I think as a historian I look at depositions the same as I look at oral history as one possible source of information as a lead perhaps into other avenues of research, as some understanding of how different people might have thought about or remembered parts of the past and as something that has to also be supported by things other than oral testimony.
+BY MR. HAMILTON:
+Q Do you take that testimony to mean that Mr. Willis told her that cigarette smoking was bad for her health; is that how you are going to interpret that?
+A I would say that this is with other indications at least something that seems to indicate he had absorbed some of the messages about the dangers of health.
+Q When she was asked directly about that question, and I will read it to you.
+A Sure.
+Q "QUESTION: And when you were fourteen you asked him for — strike that.
+"When you were fourteen and you asked him for a cigarette, did he also tell you then that smoking was bad for your health?"
+And her answer to that was, "Yeah, he said girls shouldn't smoke because they can look pretty or cute or smart or intelligent."
+That was her answer to that.
+A It goes on.
+Q Right. And then the lawyer says, "And he also said you shouldn't smoke because it's not good for you?
+"Um-hmm."
+A Right.
+Q Who is testifying there, is she testifying or the lawyer?
+MR. BOYD: Object to the form of the question.
+THE WITNESS: Gosh, I don't know. I mean again I am not a lawyer, I am not reading these as a lawyer would, I am not thinking about them as legal documents, I am thinking about them as sources of information as a historian.
+BY MR. HAMILTON:
+Q Well, you are entitled to interpret what's going on there with regards to the significance of that testimony, aren't you?
+MR. BOYD: Object to the form.
+BY MR. HAMILTON:
+Q Isn't that what you are doing?
+A I am trying to use the testimony to get as much information as I can about what he may or may not have been exposed to.
+Q Right. In other words, you are interpreting that testimony to be part of your opinion as to whether or not Mr. Willis was or was not aware of the dangers of smoking at the time of this conversation when she was fourteen years old; isn’t that what you are doing?
+MR. BOYD: Objection to form.
+THE WITNESS: One piece of a much larger body of evidence that I like all oral testimony to not be taken as definitive but shouldn't be dismissed out of hand either.
+BY MR. HAMILTON:
+Q And when you do that do you take into consideration the context of how that testimony was obtained and by whom and in what manner?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, as a historian, yeah, I would have to.
+BY MR. HAMILTON:
+Q And you don't see anything in there about the fact that her initial testimony was that he was talking about it doesn’t make girls pretty and they can be cute
+and everything and then a follow-up by the lawyer that assumes within the question itself the point that the lawyer is trying to make?
+MR. BOYD: Objection to form.
+THE WITNESS: That's a bit legalistic for me.
+I would say that as a historian trying to be sensitive to the context of the people and that she is also someone who is part of his family and is probably trying to say things that she thinks would be positive or help him. I think that’s why any witnesses to history one has to be very careful about taking what they say as simply the straight truth.
+BY MR. HAMILTON:
+Q Does that comment relate to you as well?
+A Well, I see myself as a historian and not a participant.
+Q You don't see yourself as a person who is testifying about issues in this case that have a particular position to a spouse, correct?
+MR. BOYD: Object to the form.
+THE WITNESS: I see myself as I am drawing conclusions based on research the way any historian does.
+BY MR. HAMILTON:
+Q What does context mean to you?
+A Context means taking historical evidence and understanding the time period, the place and the producer of that information and understanding it in relation to a larger universe of evidence that speaks to the conditions of — the conditions and values of the time.
+Q And if you don’t view a single event within an appropriate context, you can draw conclusions about that single event that's in fact a misinterpretation, can't you?
+A Without proper context, yes.
+Q What did you take from the page 58 where she was asked a question about that conversation and she recounted that he said that it's bad for you because later in life you could get wrinkles from it?
+A Again at the most general level simply that he was talking to her about not smoking, apparently he did not want her to smoke, she recalls those things. I don’t think you can say definitively one way or another what exactly was going on in his mind, it's just an indication that he had some awareness.
+Q Well, certainly her acting like she doesn't
+include the testimony that he told her she could get cancer or she could get lung cancer or bladder cancer or laryngeal cancer or she could get COPD or emphysema or die from it, does it?
+MR. BOYD: Objection to form.
+THE WITNESS: Those things are not discussed. BY MR. HAMILTON:
+Q Does it indicate to you at all what his level of understanding, awareness and belief was?
+A Again it indicates to me that he was someone who in his mind, you know, was concerned about a young girl smoking and I think at least some of it was related to health, as to what he chose to say and why he chose to say those things rather than other things or whether she recollects those things or other things, I don't think anyone can speak to that, the record is just absent on those issues.
+Q I am reading on pages 67 and 71, you can take a quick look but it looks to me that it's simply testimony about what she would say about punishment that she might expect to get if she smoked. Any other significance other than that?
+A Yes, that she was aware that — that Donna was aware that smoking was something that she shouldn't do,
+that she was afraid that her parents would find out so that at least in her household it seems that the lesson that smoking was something you shouldn't do was part of that world she lived in.
+Q Page 74 and 75, what’s the significance of that testimony to you?
+A Okay. So here there are several issues. One again goes back to Jimmie Willis finding out that Donna smoked or may have been smoking, that she says that again that he did not want her to smoke, he didn't like the idea.
+Q It also says he bought her cigarettes at fourteen, correct?
+A It does say that, yes, I noticed that. That also — no, now we are getting into — oh, I guess it’s her mother’s — no, is it — it’s her mother’s father who died of lung cancer so I think it’s just part again of the world in which Donna grew up that Jimmie was a part of.
+Q What does the fact that he bought her cigarettes at fourteen say to you with regards to his awareness of the dangers of getting lung cancer, cancer of the larynx, bladder cancer, COPD and emphysema?
+MR. BOYD: Objection to the form.
+BY MR. HAMILTON:
+Q If anything?
+A Yeah, I don’t know if it says anything directly on that.
+Q And you don't take any inferences on that either, do you? Or do you?
+A Well, again it seems to be a on the one hand he told her not to smoke and got angry at her when she seemed to be smoking and then she says at least once he bought her cigarettes. It's — I don't know what exactly one can conclude from that. You know, I am probably in this case more interested in the larger information, environment and context. How much about smoking was discussed in the household.
+Q Page 80, is that the same thing?
+A Yeah, a little — adds a little bit more context besides talking about Jimmie, it also talks about I guess that would be Jimmie's father Mike, I believe that's right. And him saying that she shouldn't smoke so I believe part of the reason I was interested in information in households or among relatives is that information also gets passed from person to person besides from media to person.
+Q Now, for example, page 80 says the same thing,
+that grandpa Mike told her that girls are supposed to smell good, not smell like dirty laundry, right?
+A Um-hmm.
+Q Did you do any research at all into the culture in Tennessee that Mr. Willis grew up in as a young child with respect to men’s attitudes towards women smoking?
+A Nothing that specific, no.
+Q So when you see these comments made by Miss Rouse with regards to Mr. Willis and her older adult family members telling her that they don't think she should smoke as a young girl because it doesn't make her look pretty, that it doesn't make her smell good and everything, you haven’t put it in the context under which Mr. Willis grew up, have you?
+MR. BOYD: Objection to form, foundation, mischaracterizes testimony.
+THE WITNESS: I think it says what it says and it doesn't surprise me. There are many people over the course of history of smoking that talked about women shouldn't smoke for reasons other than health, so I would not say that those issues didn't exist but that's simply one part of it.
+BY MR. HAMILTON:
+Q What I am saying is that may be true, I accept that to be true, that there are many reasons why some people tell other people they shouldn't smoke unassociated with health reasons, men may tell women they don’t think they should smoke, they don’t think women should smoke because it doesn't make them look feminine or whatever?
+A Right.
+Q There are lots of reasons, we can agree with that, correct?
+MR. BOYD: Objection to form.
+THE WITNESS: There is a variety of reasons.
+BY MR. HAMILTON:
+Q Can you think of any others?
+A Well, there are certainly lots of reasons people might think women shouldn't smoke.
+Q Tell me the reasons you can think of people would tell women not to smoke unassociated with health reasons?
+A Anybody or?
+Q Anyone.
+MR. BOYD: Object to form.
+THE WITNESS: That would vary really a quite a bit over time.
+BY MR. HAMILTON:
+Q You have issued the research of awareness and the dangers of smoking. Tell me what you have discovered in your five years of research about why some people might say to other people like women that they don't think they should smoke that is unassociated with health reasons?
+A Well, I think in the early part of the 20th century in general tobacco was seen as a masculine thing and therefore non-feminine thing. I think those attitudes changed in the 1920s, the question of masculinity or femininity no longer depended on using tobacco or not using tobacco. So that's something that one point there were certainly discussions about arguments that women shouldn't smoke. Many of them were — it's hard to say when you say health reasons, part of the problem is that they often have a health component even when other things were involved.
+For example, even in the 1920s there were discussions by various authorities who believe that women smoking would weaken the race. Now whether that was linked specifically to disease or whether that was linked to effects on child bearing was not quite specified, it seemed to be both a kind of feminine
+cultural issue and a somewhat health-related issue.
+Other reasons people have certainly talked about and one can see in the literature the cost of smoking. There were discussions again in the thirties, twenties, thirties and forties about young children who smoke got poor grades, though again those were often indirectly at some point then linked back to the questions about the debilitating effects of tobacco or somehow it was the reason they got poor grades is that it weakened them, juvenile delinquency was something that was discussed.
+So those reasons have been there, they have existed alongside the health reasons.
+Q Why did you mark the section in his testimony on page 142 where they ask her to describe her father as a strong-willed person?
+A I think it referred — can I just —
+Q Sure.
+A — before I answer.
+Yes. It also refers to somewhat in my mind at least resonated back with her testimony about him being careful and reading warning labels. I think it provided again her picture of him as someone who seemed to be a person who would be aware of the world around
+him. That he was not a passive person, he was someone who seemed to be able to make decisions for himself, perhaps not easily persuaded but decisive.
+So it seemed to be part of his personality, someone I guess who I would say I think the main thing I got out of it was it was her sense that of a strong-willed person is that he was someone who had perhaps more awareness than one might think given his sort of difficult childhood.
+Q Where did she say that?
+A Well, she says —
+Q Does she say anything about the fact that his being strong-willed indicated that he was perhaps more aware; where does she say that?
+A Well, I think someone who is passive is less likely to be aware of the world around them. I think someone who is strong-willed is someone who is more likely to look at life more clearly.
+Q What do you base that on, what sort of study do you have that says that a passive person is less aware than a strong-willed person?
+A Well, again I think there is — I am not claiming that I am an expert on human will here, I am simply trying to get a sense of what sort of person he
+was with all of the other things I learned about him to simply get a sense of, you know, what sort of person this was, a better idea of if, for example, she had said he was a very, you know, weak-willed person, he was someone who couldn't make up his mind, then I might be willing to say — I might think that he might be someone who was, you know, either easily led astray or someone who couldn't sort out information very well, this at least suggests at some level that he wasn't that sort of person.
+Q Isn't that an area that delves into psychology of which I don't think based on your CV you have any training in, do you?
+MR. BOYD: Objection to form.
+THE WITNESS: No, I am not a psychologist.
+BY MR. HAMILTON:
+Q So whether or not somebody who is weak-willed as you say it or strong-willed as you say it affects their awareness level is not something that you have ever done any research on, correct?
+A Well, at that level, no, but I —
+Q And you haven't read anything about that, have
+you?
+A Only literature that existed in — only
+historical literature about personality and influence that was circulating in different periods of time.
+Q And you don't have any expertise in that area to be able to give an expert opinion that a person who is weak-willed is less aware than a person who is strong-willed, do you?
+A Less aware, no. I think I was more talking about how they might respond to information.
+Q I am looking at the deposition of Michael Thrasher. In red on the front is his mother married Jimmie Willis, brother Robert?
+A I think that's what I —
+Q That's you?
+A Yes, that's me.
+Q This may be quick because I see absolutely no tabs.
+A There may be some red marks.
+Q And I see no red marks so if you will take a quick look at that and tell me if there is anything in that deposition that you feel is significant or that you have relied upon in the formation of your opinions that you intend to express in this case?
+A I couldn't point to a specific thing, I would have marked it I think with a mark or a tab but it's
+part of again my coming to understand as much as I could about Mr. Willis, his background, what he may have seen or read.
+Q The deposition of Richard Keith Smith taken August 18, 2008. I see no tabs. I do see on page 14 a red mark. Looks like you are simply trying to mark when he first met Mr. Willis?
+A That's correct.
+Q In the scheme of things that's not significant to your opinion I assume?
+A Only to know who he was and why he was testifying and what he might know.
+Q I see no other red marks in here other than the one we have just discussed. Would you take a look at that deposition and tell me whether or not there is anything in that deposition that you considered significant to or that you have utilized in the formation of your opinions that you intend to express in this case?
+A Again just the very general statement that it’s part of information about him, Mr. Smith — Mr. Willis and his background. Nothing struck out as being worth marking at that point.
+Q The deposition of Ruth Daly, August 18, 2008.
+You have on the very front something Mr. Christian home at Christian home manager — administrator of Christian home, no smoking allowed?
+A Right.
+Q All right.
+A Let me see it. Administrator, yes, what I wrote is administrator of Christian home.
+Q No smoking allowed?
+A No smoking allowed, right.
+Q Page 27?
+A Yes.
+Q What's the significance of that to you?
+A No one was supposed to drink, curse or smoke, none of the workers did. It goes on to describe some of the workers but none of the workers who lived there with the children were ever allowed to smoke, so it continues the point about prohibiting smoking and even prohibiting the people who worked there from smoking which suggested a strong anti-smoking environment.
+Q When was she the administrator?
+A As at least some of the time when Jimmie Willis and his sister were there.
+Q The question that was asked of her on that page was whether or not there was any sort of teaching
+about the health risk of smoking and she didn't indicate at least in response to that question that there was any teaching about that, correct?
+A Let me see the question.
+Oh, I see, I'm sorry. Yeah, she doesn't really answer the question but I think the closest she comes to answering that is so we had it was just understood that you didn't do that, so it doesn't seem she can affirm that there was teaching.
+Q And by the way, how old was Jimmie Willis when he lived in this home?
+A I don't remember what year he came there, I think he was fairly young, four, five or six and he stayed until he I think he until he was sixteen.
+Q Why did you mark page 44?
+A I found that just interesting that she said that, I don't know.
+Q Really doesn't have any significance to your opinion, does it?
+A I was trying to understand what she was saying. It said the only thing that seems very relevant is that it surprised me the way he was supposed to have been raised in the home and I thought at that point she was going to say something but then
+she doesn’t quite make it clear as she — it could be that she is indicating that the one possible thing and I was probably going to look and see if it came back or was followed up at a later date where she gave any indication that it’s something to do with the notion of taking personal responsibility. Is this the —
+Q That’s the rest of the deposition, I will put it back together but —
+A Yeah, that's what I was looking for, if she was going to say, she doesn’t seem to hear and I don’t think I ever found anything that ever followed up where she was talking about some sense of personal responsibility that they taught some strong sense of personal responsibility.
+Q Did she ever to your knowledge in this deposition answer the question of what was behind the no smoking policies at the home?
+A Only in a very general sense that smoking, drinking and what the other one was she mentioned seemed to violate principles of religious principles of the home, their idea of, you know, proper way to live.
+I think she says it was a Christian home, therefore — so she connected at least to their version of the religion.
+Q And didn't she testify that actually it was based primarily on the church or religious affiliation as opposed to any health reasons?
+A Well, I don't think she made that distinction. That's something we'd have to talk about outside the context of this particular testimony.
+Q Why don't you read page 35 for me.
+A All right.
+Okay. The entire page?
+Q Well, just read the question that leads into the answer.
+A So it begins on page 34:
+"And so as you recall at the school, at the home, no smoking, no drinking, no cursing were driven, those policies were driven much more by the doctrine of the church than for any health reason?
+"Yeah, it was — it's just a — I don't know, all the men, none of the men, you know, were on the board, well, some of them of course smoked but they didn't live there at the time, no one that worked at the home was allowed to smoke or drink, that was not allowed, we didn't hire anyone," et cetera, et cetera.
+She doesn't quite give an answer to it so but it seems to be part of it certainly.
+Q She is given a second opportunity to answer the question as to whether or not any of the policies regarding no smoking at the home were based on any health reasons and she didn't affirm that for a second time, correct?
+MR. BOYD: Object to the form.
+THE WITNESS: Where is the second time?
+BY MR. HAMILTON:
+Q Well, the first time was when she was asked initially at the beginning of the deposition that we discussed?
+A Is that here?
+Q Yeah.
+A She said — oh, that was you mean the question about teaching?
+Q Right.
+A Yeah, oh well, yeah, that's not exactly the same question but...
+Q Well, there is at least two times that she is given an opportunity to say that the smoking policies at the home were either a result of teaching or health considerations and both times she did not affirm that but said that they were related more to the religious beliefs?
+MR. BOYD: Object to the form, mischaracterize the testimony but go ahead and answer it again.
+BY MR. HAMILTON:
+Q Isn't that what she said?
+A I see it as two separate questions, one did you teach anything about health and she seemed to not give an affirmative answer, she didn't come out and say no either, and then asked what I would say is a separate question which is what were the policies, so you could have policies that were based on health but not teach it or I suppose you could teach it and not have or allow people to smoke.
+Q And she didn't affirm that either?
+A She didn't.
+Q So with regard to that testimony, do you utilize that at all in determining whether or not there is some sort of awareness by Mr. Willis at that time that he was in the home that there were health effects to smoking cigarettes?
+MR. BOYD: Object to the form.
+THE WITNESS: Yeah, you can't draw a very strong conclusion on particular issues of health effects. I would say that there historically and in that period and before that period there had
+been religious organizations and authorities that had condemned smoking and they to my reading there was often a mixture of both health and moral reasons, but she doesn't really make it clear what if any combination of those things affected that home.
+BY MR. HAMILTON:
+Q How old was Jimmie Willis when he lived in that home?
+A Again I believe he came there when he was fairly young child, maybe four, maybe six and I believe he left when he was sixteen.
+Q You are not going to testify that Mr. Willis was aware of the dangers of smoking cigarettes between the ages of four and sixteen, are you?
+A I don't think we can conclude for certain.
+All we have is the information that's in the testimony about his childhood.
+Q Did you find any articles at all during that period of time that as 1945 to 1960 that talked about the dangers of getting laryngeal cancer as a result of smoking cigarettes?
+A Laryngeal cancer. I know there certainly was discussions of cancer and types of cancer. I believe
+there were some articles in that period that or you mean globally or not —
+Q I mean globally.
+A Yeah.
+Q Were there articles that you have found that are part of your reliance list that discuss the dangers of getting laryngeal cancer between 19 — well, let’s pick these dates, 1940 —
+A Okay.
+Q — and 1960?
+A Yeah, there certainly were articles that discussed cancer, lung cancer more prominently. I don’t — I can’t say for certain off the top of my head whether it was 1960 or whether it was a bit after that but it’s not — it’s entirely possible that in that very time period that you are talking about there were articles about people who had lost their voice box and that discussed possible ways in which smoking contributed to the cancer.
+Q Could you get your reliance list and point those articles out to me, please, by number?
+A Well, I don't think I can do it by number but I can tell you —
+Q Well, I mean there is numbers associated with
+every description for articles there?
+A Right, but there is also The New York Times, the Miami Herald, so if they appear they probably appeared within.
+Q Well, just give me the number of the group then even if it’s The New York Times, give me the number of the group where you believe that the subject of cigarette smoking causing laryngeal cancer appeared between 1940 and 1960.
+A The most likely place I would have seen that would have been in Part B number one and Part B number two, possibly Part B numbers six, eight and possibly also in part C number three, four, five, again I am not — six, I can’t say for certain if it’s in all of those but I believe there were discussions of people who had had laryngeal cancer and I again off the top of my head I believe at least there was a discussion of the possible considerations of cigarettes to that.
+Q And you have identified in your reliance list the articles that you think or the areas, the numbers in which you think those articles or that information may appear, correct?
+A Yeah, it may. I can't say for certain I can recall a specific article but I do recall seeing
+articles on that topic.
+Q How long ago did you review those articles?
+A Well, it depends. If you are talking about the Miami Herald it could have been five years ago. If you are talking about the New York Times four or five years ago. The Orlando, Bradenton and other papers specifically more focused on this case more recently.
+Q But despite the fact that you reviewed those articles, at least within the last five years and some of them closer to today’s date, you don’t have a specific recollection of where those articles appeared in what year or in what publication; is that correct?
+MR. BOYD: Object to the form.
+THE WITNESS: Just to the year, no, I couldn’t do that.
+BY MR. HAMILTON:
+Q And that's not unusual, that people would not remember things that they may have seen or they may have reviewed even as long as ago as last week much less five years ago?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, I think two different things. I mean one is remembering generally, the other is remembering a specific citation.
+BY MR. HAMILTON:
+Q Deposition of Timothy Willis. Page 37. Just another documentation that he was told not to smoke? When I say he I am talking about the deponent?
+A Oh, so in this case it's Timothy Willis. Let me see, let's see. Yeah, growing up he couldn't smoke. Yeah, he told us not to smoke. Let me go back and see exactly where we are.
+His father told him not to smoke so his father would have been I believe that would have been Mr. Willis' brother. So...
+Q What year was that?
+A Let's see, he seems to have used tobacco some form, I guess he was dipping tobacco in '73 and it just says growing up so I would imagine he meant sometime in the seventies.
+Q When was Mr. Willis diagnosed with laryngeal cancer?
+A I think it was 1991.
+Q Would it make a difference to you with respect to when Mr. Willis became aware of the dangers of smoking the date of these conversations, whether they occurred before or after he was diagnosed with laryngeal cancer?
+A Well, I suppose in theory it could.
+Q Pages 78, 79, what’s the significance of that to you?
+A Okay. Let’s go back.
+MR. HAMILTON: Off the record.
+(Discussion off the record)
+MR. HAMILTON: Go ahead and answer that question.
+THE WITNESS: Okay. So the significance is Timothy Willis living with his uncle Jimmie Willis, asked him, When you were living with your uncle did you observe newspapers in the house?
+I don’t recall.
+Magazines lying around?
+Don’t know.
+Bradenton paper?
+It goes on.
+Okay. Do you recall, that is do you Timothy recall ever having heard of the Surgeon General's.
+Now or then?
+At any time.
+Yes .
+When did you first hear?
+I couldn’t tell you, I couldn’t tell you.
+When you say now, would it be for you this morning?
+Keeps going.
+So you were specifically talking about the Surgeon General this morning?
+It’s always he says there is always don’t smoke or whatever on TV.
+You saw it on TV?
+Yes .
+So he is basically saying that he recalls seeing something on TV about not smoking.
+Have you ever discussed the Surgeon General’s warning with your uncle?
+No.
+Before your uncle got sick how would you describe his health?
+Good.
+And I believe after that it just goes on to things that are — so it’s again not a very clear answer but it seems to indicate that I don’t know if he is saying when he lived with his uncle, he is very vague so I can’t draw a lot of strong conclusions but the warnings about smoking were on the television that he recalls.
+MR. HAMILTON: Let's take a short break.
+(Short recess)
+BY MR. HAMILTON:
+Q We are on the deposition of Timothy and we went over pages 78 and 7 9?
+A Yes.
+Q Correct?
+A Um-hmm.
+Q Any other things that you marked or thought of significance in this deposition that is the deposition of Timothy Willis of August 5, 2008 that you are going to use in support of your opinion or that you think are significant to your opinion?
+A Nothing that I can see right now.
+Q Let's go over deposition of Paul Willis dated August 6, 2008.
+Read to me what you have on front if you
+would.
+A Nephew, Dee Dee Willis, that's Paul's wife, son of Jimmie Willis' brother Robert. And I wrote, told by parents not to smoke. Jimmie Willis didn't smoke around their children.
+Q Essentially are you encapsulating what you thought was significant from this deposition on the
+front page?
+A I believe so, there is only like three or four sticky marks or stickies.
+Q Let me take a look just to make sure.
+So you marked page 27 which seems to be part of what you wrote on the front page.
+Okay. You have marked pages 91, 92 and it looks like a portion of 93. Just take a look at that.
+A Right, right.
+Q I am going to summarize it and you tell me if my summary needs to be expanded in any way. Basically looks like he is testifying that he and his wife didn't allow anybody to smoke around Levi because they didn't think it was good for him but he does not quantify the good for him in any specific way, correct?
+A Let me read. It says, "Why didn't you think it was good to smoke around your son when he was a baby?
+"I just don't think it was good.
+"QUESTION: Is it because you knew cigarette smoke would be bad for your son's health?"
+Objection.
+In my opinion, witness says, yes, and he answers yes in his opinion. So I read it as saying in
+his opinion it's because he knew cigarette smoke was bad for his baby's health.
+Q By the way, when somebody says that something is bad for their health —
+A Yes.
+Q — when it relates to cigarette smoking —
+A Yes.
+Q — what does it mean?
+A Well, it means what it says.
+Q Well, what does it mean?
+A It means —
+Q Does it mean the same thing in every year meaning starting in 1940 to the year 2009 when somebody said smoking is bad for your health did it mean the same thing?
+A It could mean the same thing or it could refer or it could be referring to specific diseases or it could be both, it could be bad for your health, it could be bad for your health and because it will give you this, it could be bad for your health because it can give you this and this.
+My understanding of the history was that there was a long understanding of the bad for health part and then additional information about specific diseases
+came out over time.
+Q I mean if people said bad for health, could they mean that it could cause you to cough?
+A Well, that's not the way I have seen the history of information about bad for health.
+Q So you don't believe that there is anything in the historical documents that you have looked at that when people said it could be bad for your health that they could have meant that it would make you cough?
+MR. BOYD: Object to the form.
+THE WITNESS: That's I mean they may have mentioned coughing but it's when health was discussed it seemed to be things almost always — there may be cases where this was not the case but it seemed to always be related to something other than a cough unless the cough led to additional disease.
+BY MR. HAMILTON:
+Q At the time when people said bad for your health, did they always mean that this would cause cancer?
+A No, and I think there is lots of things it was thought to cause.
+Q Tell me some of the things that based on your
+review historically of the documents relating to the awareness of health effects of smoking that people thought smoking might cause other than cancer?
+A From the beginning of my research.
+Q Yeah, from the beginning of your research tell me what people thought smoking might cause other than cancer, COPD and emphysema?
+A Well, let's see. There are references to shortening life and reducing longevity. There were references to affecting the heart, affecting the blood pressure and affecting circulation in ways that were negative for health, references to shortness of breath, not specifically of the examples you mentioned. There were references to affecting diet, affecting digestion in bad ways, affecting growth, affecting — well, there were references to, let's see, affecting health, there is probably others but off the top of my head those are the ones that come most prominently to mind.
+Q But would you agree with me when someone said or said over time that smoking is bad for your health, they could have meant a variety of different things including at some point in time lung cancer?
+A It could have meant a variety of things including forms of cancer.
+Q And again in order to make any specific conclusions about what a particular person may have meant by saying it could be bad for your health, you would have to put it in the context of when it was said, who was saying it and the level of awareness of that particular person, wouldn’t you?
+MR. BOYD: Object to the form.
+THE WITNESS: Well, that's a lot there. I mean certainly if you are going to talk about bad for health at a time when there was very little discussion of lung cancer, then you would probably be incorrect that mainly they were talking about lung cancer. If you are talking about bad for health when lung cancer was on the front page of newspapers, then it might be more reasonable to assume that bad for health was talking specifically about the latest scientific evidence on lung cancer. On —
+BY MR. HAMILTON:
+Q And — sorry, I don’t mean to interrupt.
+A Sorry, so in general as always context is important for understanding historical information.
+Q Unless of course they are one of those people that the polling statistics indicate did not believe
+that smoking caused cancer; if that person was saying it's bad for your health then that person obviously would not have been referring to cancer?
+MR. BOYD: Object to the form.
+THE WITNESS: I don't know about that.
+BY MR. HAMILTON:
+Q Why don’t you know about that?
+MR. BOYD: Same objection.
+THE WITNESS: I am not exactly sure what you are asking.
+BY MR. HAMILTON:
+Q If I am a person that doesn't believe that smoking causes lung cancer and I tell you smoking is something bad for your health, you wouldn't assume that it's going to cause lung cancer, would you?
+MR. BOYD: Objection to form.
+THE WITNESS: I would need to know the context of that discussion.
+BY MR. HAMILTON:
+Q What do you need to know besides the facts that I have expressed, the belief that I do not believe that smoking causes lung cancer, you smoke and then I tell you I think it's bad for your health; what more do you need to know or understand that I am not telling
+you that I think smoking is going to cause lung cancer?
+MR. BOYD: Objection to form.
+THE WITNESS: Well, again you are giving me a very superficial form of a conversation between two people. Again someone could be saying, you know, I don't believe that smoking causes lung cancer but other people say it does and some scientists are saying it does so it’s bad for your health. That person could still be thinking well, you know, maybe you shouldn't smoke because it might cause lung cancer but I myself don't personally believe that.
+BY MR. HAMILTON:
+Q Doctor, we just went over the deposition of Paul Willis and went over your markings in the deposition and your handwritings on the front of the deposition. Is there anything else in this deposition that you felt was significant enough to mark or underline when you reviewed?
+A Yeah, not up to this time.
+Q Let me talk about the deposition of Dee Dee Willis which was taken on August 6, 2008. I see only two yellow tabs. Let me just hand it to you and ask you to take a look at those tabs and tell me why you
+tabbed them and what's significant about the testimony in that to your opinion?
+A Page 19, discussion of how much she smoked, what she smoked, whether she tried to quit.
+"Did you quit smoking when you were pregnant with your son Levi?
+"ANSWER: Yes.
+"Did you start smoking again after?
+"Yes."
+I don't see anything else. The only thing that I thought that might be of interest to me was that she stopped smoking when she was pregnant so she had some awareness. It's not a great direct deal to do with my understand of Jimmie Willis but it was part of again his family. Oh, there is another tab there.
+Q Yeah, if you would —
+A She says about why they did not meaning Mr. Willis and her never smoked around their son as a baby, again:
+"QUESTION: Did you know at the time that cigarette smoke would not be healthy for the baby?
+"I mean I have heard things but I didn't know anything, you know, for sure.
+"So you heard things back then?
+"I had heard things that may or may not be good for my baby, but no, I didn’t know anything definite."
+Keeps going on, she heard things. It also asks her about cancer sticks, coffin tacks, coffin nails. Had she heard of those things, had she heard Mr. Willis refer to them, she says no, she has heard the term cancer sticks, the reason she heard is because she heard that smoking causes cancer, that's what she understood cancer stick to mean.
+Q Any dates on any of that conversation as to exactly when those conversations occurred and when her understanding or what was her understanding at that time?
+A It just says have you ever heard so it doesn't say when.
+Q That's just like the question that says have you ever heard about flying saucers?
+A Well, I don't know if it's exactly the same, flying saucers.
+Q Well, the fact that you say have you ever heard doesn't say anything about belief, does it?
+MR. BOYD: Object to the form.
+THE WITNESS: No, have you heard doesn't speak
+directly to belief.
+BY MR. HAMILTON:
+Q And you don't find it unusual that an expectant mother, even if she doesn't believe that cigarette smoking causes cancer or causes any sort of health effects, if she is aware that there is some sort of question about that might not smoke during her pregnancy?
+A Yeah, as I understand it from what I have read the changing attitudes and even changing advice from doctors from even the 1950s to the 1970s and eighties was increasingly that women should not smoke during pregnancy for a variety of reasons, and that by the time she was pregnant or old you have no have children, that advice had disseminated fairly widely.
+MR. HAMILTON: Off the record.
+(Discussion off the record)
+BY MR. HAMILTON:
+Q I am now on the deposition of Margaret Tester dated August 20, 2008. What did you — I think you wrote on there something like admit told him not to smoke?
+A Yeah, she says aunt as I understand and she says later on in life, meaning after his childhood and
+then his growing up in the children's home, after when you saw Jimmie after he had been in the service, did you or any point after that, you knew he was a smoker, did you tell him he shouldn't smoke?
+Yeah, I told him he shouldn't smoke, he just looked at me with a grin.
+So she told him not to smoke. He was told by her that he shouldn't smoke.
+Q Why did you use the word admit instead of testified?
+A Oh, hang on, when did I say that?
+Q Right in the very front of the page, the top page where you wrote, why did you use the word admit instead of testified?
+A No, I didn't, it's aunt.
+Q I read it as admit, sorry.
+A That's because you are a lawyer.
+Q So out of that you get that at some point in time, unclear when, she told him he shouldn't smoke?
+A Seems to be sometime after he got out of the Army or out of the Air Force.
+Q Do you know when that was?
+A '67? I can't remember exactly.
+Q Other than that, any other significance to
+you?
+A No.
+MR. HAMILTON: I am not going to get through these last two. For the record they are the deposition of Carolyn Johnson August 19, 2008, the deposition of Ben Johnson August 19, 2008. I am going to save that to when we conclude your deposition.
+BY MR. HAMILTON:
+Q Doctor, before I go, however, I want to make sure we have marked a bunch of exhibits here to your deposition. Did you bring anything else in response to the request for documents that we made when we noticed your deposition with you?
+A No.
+Q Other than the documents that we have discussed where we have determined that you have some documents but they weren’t part of what you brought here, do you have any other documents whatsoever that relate to your performance of your function as a historian hired by the tobacco companies for the last five years that we have not discussed about or has not been revealed to me?
+MR. BOYD: Object to the form,
+mischaracterizes his former testimony.
+THE WITNESS: So in any documents or information related to any of the work I have done on this subject.
+BY MR. HAMILTON:
+Q Right.
+A That could be relevant to any case?
+Q In the last five years.
+A Right.
+Q In your research that you have done that has culminated in the numbers of documents that you have produced to us as your reliance documents, are there any other documents that you have that reflect the work you have done, the communications you have had, the efforts you have made, the billing that you have done, essentially your function as an expert retained by the tobacco companies in these cases that we have not discussed that exist that have not been produced in this deposition?
+MR. BOYD: Again I am going to object to the form. Also I think that may include some privileged information so I am going to object on the grounds of privilege as well but you can answer if you can.
+THE WITNESS: Yeah, I believe we have discussed everything, my recollection of today we have discussed everything that I have.
+BY MR. HAMILTON:
+Q Everything that you have and we have discussed everything that you have but did not produce today, you don’t have any other documents, electronic or otherwise, that reflect the work that you have done in this case that we have not discussed?
+MR. BOYD: Again I am going to object to the form, I think it's overly broad and a little unfair to ask that really broad question at the end of the day, but again, Doctor, you can answer if you can.
+MR. HAMILTON: Let me ask you something. Does the fact that it's the end of the day affect your ability to answer my questions?
+THE WITNESS: Well, it is a very big question and I suppose I do want to give it some careful thought.
+MR. BOYD: And again I will just object. My end of the day comment was because of the four hours of testimony that happened before, not because the doctor is tired. You are trying to swing it all in.
+THE WITNESS: I have another version of this. BY MR. HAMILTON:
+Q Another version of the reliance disks?
+A Yes.
+Q And why do you have another — I assume, I think we talked about that, that you had another version of the reliance list that had been modified somewhat and but I didn't understand you have other disks?
+A I have other disks but I think that was in the scope of all the things we talked about.
+Q That aren't these disks?
+A Right.
+Q They have some of the information here but they may have more or not?
+A Exactly.
+Q Was there any rationale that was used to exclude or include documents that were on those disks with these reliance materials?
+A I think relevance to Jimmie Willis' life.
+Q These other disks that you have, do they contain all of the documents that you have acquired from whatever source regarding the issues that you are prepared to speak about in this case?
+A Well —
+MR. BOYD: Again I am going to object to the form and it mischaracterizes his former testimony.
+Go ahead.
+THE WITNESS: Right. I mean I think what we discussed this, I have other copies of the reliance materials like this, I have other disks that have reliance materials that are somewhat different from this because they involve different cases in different places and I have disks in hard copies of materials that I looked at in the preparation of this material and other reliance disks.
+BY MR. HAMILTON:
+Q Well, I haven’t really gone through your methodology.
+A Right.
+Q That's something that I will go through when I talk to you the next time.
+A Um-hmm.
+Q But I just wanted to have an understanding what materials you have sort of acquired over the last five years that you may have that are not here. And you understand that's the intent of my question?
+A Okay, that’s a very big question. I mean I
+have looked at many many things over the years.
+Q I am talking about that you have in your possession, I am not talking about the fact you may have looked at something and you don't have a copy of it.
+A Right.
+Q I am talking about things that you have done in the last five years where you have obtained documents from whatever source that you do not have with you today that pertain to your research on the issues that are involved which is as you described.
+A Right.
+Q We don't have to go back and I don't have to tell you what they are, right?
+A No, I certainly do have some documents — such documents.
+MR. BOYD: Object. My objection is on the
+record. We also object to the deposition notice.
+I object to the form as well.
+MR. HAMILTON: Right.
+THE WITNESS: So the question is? Sorry.
+BY MR. HAMILTON:
+Q Just to make it clear —
+MR. HAMILTON: It's a statement.
+BY MR. HAMILTON:
+Q You understand that the purpose of my question is to discover if you have additional documents, whether they be electronic or otherwise, that you have in your possession or control that you have generated or acquired over the period of the last five years that you did not bring with you today that relates to your research on the issues that you discussed in my very first question?
+A All right. The material I relied on —
+MR. BOYD: Objection to form.
+THE WITNESS: — my testimony today is contained in these disks.
+BY MR. HAMILTON:
+Q But I didn't use the word reliance in my question.
+A Okay. And the entire body of materials that I have looked at, some of which a percentage of which did not — are not part of the reliance list but were materials that I reviewed at one point or another, yes, I do have those and I think we discussed those.
+Q And if I were to ask you or your attorneys to produce them, what question would I have to ask you in order to get you to understand what I am looking for,
+those documents?
+MR. BOYD: I am going to object to the form.
+THE WITNESS: What's your question?
+BY MR. HAMILTON:
+Q My point is you understand what I am looking for. Is there a particular way that I would have to describe it so you would understand what I mean?
+A Well, I think —
+MR. BOYD: I object to the form again and again cite our prior objections to the production of such materials.
+THE WITNESS: Right. I think we have discussed everything that covers what you are asking. The only things that perhaps you don't think I am telling you about would be things that are part of just my, you know, my own personal library of historical materials like books that might talk about the tobacco industry that I have read at one time or that might talk about smoking and health that I have read at one time but I did not include on this list.
+MR. HAMILTON: Well, I am not really interested in having you produce those boxes to me but I am interested in having you identify them for
+me so we will get to that the next time.
+THE WITNESS: Okay.
+MR. HAMILTON: Okay?
+THE WITNESS: Fair enough.
+MR. HAMILTON: Thank you very much.
+It's ordered, I want summation bundle with the exhibits attached on disk. Don't e-mail.
+MR. BOYD: Copy, mini.
+MS. JACOBS: This is Amanda. I am fine if one of my other co-defendants is getting a copy. In other words, I don’t need a copy if they are getting a copy.
+MR. BOYD: We are.
+MS. FERRIS: Just a copy.
+(Time noted 5:15 p.m.)
+STATE OF FLORIDA)
+: SS
+COUNTY OF DADE)
+I, the undersigned authority, certify that the foregoing is a true and accurate transcript of my stenographic notes.
+WITNESS my hand and official seal this 3rd day of September 2009.
+Dana Riccobono
+Notary Public-State of Florida My Commission No. DD 189268 Expires: March 3, 2011

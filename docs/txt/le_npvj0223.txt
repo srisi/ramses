@@ -1,0 +1,4804 @@
+﻿I	IN THE CIRCUIT COURT OF THE 11TH JUDICIAL CIRC
+IN AND FOR MIAMI-DADE COUNTY, FLORIDA
+GENERAL JURISDICTION DIVISION
+CASE NO.: 09-79584-CA-01
+4	Judicial Section: 22
+5	ALICIA SUAREZ, as Personal Representative
+of the Estate of PIO MANUEL SUAREZ, deceased,
+6	and on behalf of RICARDO SUAREZ, LETICIA SUAREZ SERRA and CARLOS SUAREZ,
+Plaintiff,
+8	vs.
+9	R.J. REYNOLDS TOBACCO COMPANY, et al,
+10	Defendants. ______________/
+II
+13
+Carlton Fields
+14	450 S. Orange Avenue Suite 500
+15	Orlando, Florida
+Friday, 10:25 a.m.-4:50 p.m.
+16	October 11,2013
+19	DEPOSITION OF LUIS MARTINEZ-FERNANDEZ, Ph.]
+21	Taken on Behalf of the Plaintiffs before
+22	Lisa Gerlach, Court Reporter, Notary Public
+23	in and for the State of Florida at Large,
+24	pursuant to Plaintiffs' Notice of Taking
+2
+I	Appearances:
+Counsel for the Plaintiff:
+JANPAUL PORTAL, ESQUIRE
+4	The Ferraro Law Firm, PA 600 Brickell Ave.
+5	Suite 3800 Miami, FL 33131
+6	305/375-0111
+jpp @ ferrarolaw .com
+7
+8	Counsel for Philip Morris USA:
+9	CHRISTOPHER Y. COTTON, ESQUIRE Shook Hardy & Bacon, LLP
+10	2555 Grand Boulevard Kansas City, MO 64108-2613
+II	816/559-2393 ccotton@shb.com.
+13	Counsel for RJ. Reynolds Tobacco Company:
+14
+OLGA M. VIEIRA, ESQUIRE
+15	Carlton Fields
+4000 International Place
+16	100 SE 2nd Street Miami, FL 33131
+17	305/539-7379
+o	vieira @ carltonfields .com
+1	INDEX
+2	WITNESS EXAMINATION	PAGE
+3	Luis Martinez-Fernandez, Ph.D
+4	Direct by Mr. Portal	5
+5	Cross by Mr. Cotton	185
+Certificate of Oath	191
+7
+Certificate of Reporter	192
+8
+Witness Review Letter	193
+9
+Errata Sheet	194
+11	PLAINTIFF'S EXHIBITS
+12	Exhibit 1 Amended Notice of Taking Deposition
+Duces Tecum	5
+13
+Exhibit 2 Reliance List	5
+14
+Exhibit 3 Two Invoices	5
+15
+Exhibit 4 Handwritten Notes, 2 pages 5
+16
+Exhibit 5 Handwritten Notes, 17 pages 5
+17
+Exhibit 6 Handwritten Notes, 10 pages 5
+18
+Exhibit 7 Typewritten Notes, 1 page 5
+19
+Exhibit 8 Typewritten List, 5 pages 5
+20
+Exhibit 9 Typewritten Notes, 56 pages 5
+21
+Exhibit 10 Typewritten Notes, 44 pages 5
+22
+Exhibit 11 Composite, Correspondence 5
+23
+Exhibit 12 RJR's Expert Witness List 5
+24
+Exhibit 13 Letter, 4/1/1954, to George Weisman
+4
+1	Exhibit 14 Document Titled, "How Many
+Millions of Dollars to Cubans
+2	Spend on Cigarettes"	74
+3	Exhibit 15 Handwritten Notes, 9 pages 77
+4	Exhibit 16 Page from Diario de la Marina 86
+5	Exhibit 17 Document Titled, "Tabaco y
+Cancer V"	86
+6
+Exhibit 18 William Etsy Documents	105
+7
+Exhibit 19 Bohemia Documents	110
+Exhibit 20 Bohemia Ad	110
+9
+Exhibit 21 Bohemia Documents/Ads	110
+10
+Exhibit 22 RJR Public Document Repository 110
+11
+Exhibit 23 William Esty Co. Radio Documents 120
+12
+Exhibit 24 Advertising Cost Documents 120
+13
+Exhibit 25 Winston Ad Documents	146
+14
+Exhibit 26 Winston Ad Documents	150
+15
+Exhibit 27 Marlboro Ad Documents	152
+16
+Exhibit 28 Document titled, "Can We Have an
+17	Open Debate About Smoking?" 161
+18	Exhibit 29 Document titled, "Claims That
+Cigarettes are Addictive
+19	Irresponsible and Scare Tactics" 161
+20	Exhibit 30 Document titled, "Facts You
+Should Know"	161
+Exhibit 31 Document titled, "Smoking & Health
+22	Issues - Philip Morris USA" 180
+23	Exhibit 32 Document titled, "Guiding Principles
+and Beliefs	180
+1	(Plaintiffs' Exhibits 1 through 12 were
+2	marked for identification.)
+3	THEREUPON,
+4	LUIS MARTINEZ-FERNANDEZ, Ph.D,
+5	A Witness herein, acknowledged after having
+6	been duly sworn and testified upon his oath as
+7	follows:
+8	THE WITNESS: I do.
+9	DIRECT EXAMINATION
+10	BY MR. PORTAL:
+11	Q. Good morning. Can you please state and spell
+12	your name for the record?
+13	A. Luis Martinez-Fernandez, L-U-I-S,
+14	M-A-R-T-I-N-E-Z, hyphen, F-E-R-N-A-N-D-E-Z.
+15	Q. Do you go by Dr. Martinez-Fernandez?
+16	A. That would be fine.
+17	Q. I introduced myself to you earlier today. My
+18	name is Janpaul Portal. I'm with The Ferraro Law Firm
+19	and I represent the Estate of Pio Manuel Suarez in
+20	this lawsuit that's been filed against RJ. Reynolds
+21	and Philip Morris.
+22	Do you understand that?
+23	A. Yes, I do.
+24	Q. You've been disclosed as an expert witness in
+6
+1	that?
+2	MR. COTTON: Object to form.
+3	A. In this case?
+4	BY MR. PORTAL:
+5	Q. Yes, sir. Strike that. What is your
+6	understanding of your role as an expert witness in the
+7	Suarez matter?
+8	A. In the Suarez matter, I've been doing
+9	research pertaining to his particular case. I
+10	understand --1 came up with conclusions based on
+11	that. I have brought these materials today for the
+12	deposition. I'm going to be deposed today -- I'm
+13	being deposed -- and I may testify in trial.
+14	Q. Dr. Martinez-Fernandez, you've given both
+15	deposition and trial testimony before. Correct?
+16	A. Correct.
+17	Q. Let me refresh your recollection. As you
+18	know, I'm going to be asking today a series of
+19	questions in a fashion. There's a court reporter to
+20	your right, so I ask that you allow me to completely
+21	ask my questions before you answer so we can avoid
+22	speaking over each other.
+23	At any time you do not understand my
+24	question, please do not answer it. Let me know and
+7
+1	you.
+2	If at any time you need to take a break, if
+3	there's a question pending, I ask you that please
+4	answer the question before taking the break and we'll
+5	certainly accommodate you.
+6	Are these procedures fair and acceptable to
+7	you?
+8	A. Yes, they are.
+9	Q. What do you do for a living?
+10	A. I'm a professor of history at the University
+11	of Central Florida.
+12	Q. What does it mean to be a professor of
+13	history?
+14	A. As a professor of history, my
+15	responsibilities are to teach history courses, to do
+16	research and publish in my areas of expertise, and to
+17	be active in the area of service to the profession.
+18	Q. In connection with the services that you're
+19	rendering in the Suarez matter, who have you been
+20	retained by?
+21	A. Jones Day.
+22	Q. Jones Day is a law firm, correct?
+23	A. Correct.
+24	Q. In this case, the lawsuit has been brought
+8
+1	Do you understand that you're here testifying on those
+2	defendants' behalf?
+3	MR. COTTON: Object to form.
+4	A. Yes.
+5	BY MR. PORTAL:
+6	Q. Certainly you're not testifying for the
+7	plaintiff, Mr. Suarez, in this case. Correct?
+8	A. No I'm not.
+9	Q. The testimony that you are offering in this
+10	case would be testimony to assist the defense of this
+11	case, correct?
+12	MR. COTTON: Object to form.
+13	A. These are materials that I have found. They
+14	may be used by the defendants or they may be used by
+15	somebody else.
+16	BY MR. PORTAL:
+17	Q. Do you have a corporate entity or how do you
+18	bill for the services that you render in litigation
+19	cases like the one you're on today?
+20	A. I bill --1 used the -- well, I used my name,
+21	so it's directly. I do consulting on the side as
+22	well.
+23	Q. So do you have a separate PA or do you go by
+24	a d/b/a? How does that work?
+9
+1	Q. Do you have a professional association, a
+2	corporation, some other type of legal entity for which
+3	you are paid for the services you render in your
+4	consulting and litigation work?
+5	A. Could you repeat the question?
+6	Q. Sure. You work with the University of the
+7	Central Florida, correct?
+8	A. Correct.
+9	Q. You're a salaried employee of the university?
+10	A. Yes, I am.
+11	Q. For the services you're rendering in the
+12	Suarez case and the other cases that you've testified
+13	in tobacco-related litigation, are any of those moneys
+14	paid to the university for the services that you
+15	render?
+16	A. No.
+17	Q. Who are those moneys paid to?
+18	A. They're paid to me.
+19	Q. So my question is: Are they paid to you as
+20	Luis Martinez-Fernandez, individually, or are they
+21	paid to -- have you set up a corporation to do your
+22	consulting business -- how are you paid?
+23	A. In terms of these, it's directly to me.
+24	Q. It's my understanding that you bill your work
+25	at a rate of $225 an hour?
+1	A. That's correct.
+2	Q. Are you billing $225 an hour for the services
+3	you rendered in connection with the Suarez matter?
+4	A. Yes.
+5	Q. Let's start first -- we premarked some
+6	exhibits, so let's go to those on the record first and
+7	then I'm going to ask you some details.
+8	First of all, we marked as Plaintiffs
+9	Exhibit 1 to your deposition the amended notice of
+10	taking deposition for today, which also includes a
+11	duces tecum.
+12	Have you seen this document before?
+13	A. Yes, I have.
+14	Q. To the best of your ability, have you brought
+15	with you and produced the records that were requested
+16	in that duces tecum?
+17	A. Yes, I have.
+18	Q. Now, we were provided a correspondence from
+19	counsel on behalf of RJ. Reynolds dated October 9,
+20	2013, which included a log of reliance materials that
+21	appears you will be relying on in order to render your
+22	opinions in this case. They were also included on CDs
+23	or DVDs.
+24	Are you aware of that?
+11
+1	A. Yes, I am.
+2	Q. And that's been premarked as Plaintiffs'
+3	Exhibit 2 to your deposition, correct -- the actual
+4	correspondence, copies of the CDs and the log of
+5	reliance materials.
+6	A. Yes.
+7	Q. Now, those reliance materials, there are some
+8	over 5,000 documents, ballpark, correct, listed there?
+9	A. That's my recollection, yes.
+10	Q. In the reliance materials, you do not
+11	disclose any depositions or other records specific to
+12	Mr. Suarez's case that you reviewed. Is that correct?
+13	MR. COTTON: Object to form.
+14	A. Can you repeat the question?
+15	BY MR. PORTAL:
+16	Q. Sure. The log of reliance materials, I had
+17	an opportunity to review it in preparation for your
+18	deposition. I noted that there was no reference to
+19	any of the depositions, pleadings or other documents
+20	specific to this case.
+21	So my question to you: Is that consistent
+22	with your understanding in preparing your list of
+23	reliance materials?
+24	MR. COTTON: Object to form.
+25	A. Well, first I would like to make sure that
+12
+1	we're talking about the same list.
+2	BY MR. PORTAL:
+3	Q. Sure.
+4	A. This one has 181 pages.
+5	Q. In a review of what's been premarked as
+6	Plaintiffs' Exhibit 2 to your deposition, there's also
+7	a reliance list of 181 pages.
+8	A. Correct.
+9	Q. So, again, what I just want to have an
+10	understanding is -- number one -- did you formulate
+11	that reliance list or did you defer to the attorneys
+12	who work in this case to create the reliance list?
+13	MR. COTTON: Object to form.
+14	A. We have worked together in the past. This is
+15	a list that has been changing, of course, pertaining
+16	to each case. I, of course, had input in the process.
+17	Everything that is in there has my approval and those
+18	are materials that I have seen and read.
+19	BY MR. PORTAL:
+20	Q. So in reviewing the reliance list, again,
+21	I'll represent to you that I didn't see any reference
+22	to any specific materials relating to Mr. Suarez --
+23	that being medical records, depositions, pleadings,
+24	answers to responses to discovery. Is that consistent
+13
+1	contained or not contained in the reliances list?
+2	MR. COTTON: Object to form. You're
+3	asking him if case-specific materials are
+4	referenced in here?
+5	MR. PORTAL: Right.
+6	MR. COTTON: If you need to look at it,
+7	you need to look at it. For the benefit of
+8	the record, Dr. Martinez-Fernandez has
+9	brought certain case-specific materials that
+10	he has reviewed, including several deposition
+11	transcripts, interrogatory responses, and he
+12	certainly reserves the right to rely upon
+13	those if that's the question.
+14	BY MR. PORTAL:
+15	Q. The question is a little different, but
+16	that's what I want to establish. In reviewing your
+17	reliance materials, I saw that there are references to
+18	multiple media references, newspaper articles, things
+19	of that nature. What I didn't see is any
+20	case-specific materials, meaning depositions,
+21	pleadings and things like that.
+22	I understand that you brought here today with
+23	you certain depositions which you've reviewed,
+24	correct?
+1	Q. So that's what I just want to know. I want
+2	to understand -- what is the entire universe of
+3	documents you reviewed in formulating your opinions
+4	that you anticipate offering in this case? I have
+5	your 181-page reliance list. I know now that you've
+6	reviewed depositions and some discovery.
+7	What else have you reviewed so that I have a
+8	full understanding of the entire universe of documents
+9	that you're going to be relying on?
+10	A. That reflects the -- with the exception of
+11	these materials that you just mentioned, which I
+12	didn't know had to be part of the list -- that
+13	reflects the universe of materials that I intend to
+14	rely upon.
+15	Q. By that, you're referring to what's been
+16	previously marked as Exhibit 2, the 181-page reliance
+17	list. Correct?
+18	MR. COTTON: Object to form.
+19	A. Yes.
+20	BY MR. PORTAL:
+21	Q. And in addition to the 181-page reliance
+22	list, you reviewed some depositions. Correct?
+23	A. Correct.
+24	Q. And some discovery answers in the Suarez
+1	A. Yes.
+2	Q. Of the depositions that you reviewed, is it
+3	your understanding that you only were provided fact
+4	witness depositions in this case?
+5	A. Fact witness depositions?
+6	MR. COTTON: Have you seen any expert
+7	transcripts?
+8	THE WITNESS: Expert transcripts, no.
+9	BY MR. PORTAL:
+10	Q. So all the depositions that you reviewed in
+11	this case is what you produced here today, correct?
+12	A. Yeah, the depositions are here and some of
+13	the other legal materials, like the interrogatories,
+14	which I think may be here.
+15	Q. So I had an opportunity before your
+16	deposition to go through those depositions and I did
+17	not see any of the plaintiffs' experts depositions,
+18	including, for example, the testimony of Dr. Proctor
+19	or Dr. Miller or Dr. Davila, plaintiffs' experts in
+20	this case. So I just want to make sure that you
+21	weren't provided those depositions and you have not
+22	reviewed them.
+23	A. I have not seen them.
+24	Q. Have you reviewed any of Mr. Suarez's medical
+1	A. No.
+2	Q. Have you reviewed any applications for life
+3	insurance pertaining to Mr. Suarez?
+4	A. No.
+5	Q. Have you reviewed any of Mr. Suarez's
+6	employment records or income tax returns?
+7	A. No.
+8	Q. So that we're clear then for the record, as
+9	of today, the only materials that you've reviewed in
+10	terms of case-specific materials are the depositions
+11	of the fact witnesses that I'll represent to you is in
+12	the binder or accordion file that you have to the left
+13	of you. Correct? There's nothing else in your office
+14	or somewhere else that you viewed that you didn't
+15	bring today, is there?
+16	A. There is one item.
+17	Q. What's that?
+18	A. These are something that I requested to see.
+19	In one of the depositions, there's photocopies of some
+20	Bohemia and Carteles magazines.
+21	Q. Those are Cuban magazines?
+22	A. Correct.
+23	Q. Have you been provided those magazines?
+24	A. As exhibits, yes.
+17
+1	ads from Cuban magazines from the 1950s, do you have
+2	any materials that you didn't produce here today?
+3	MR. COTTON: Object to form.
+4	A. No, I don't.
+5	BY MR. PORTAL:
+6	Q. So let's go down the list of items that we
+7	premarked for housekeeping purposes. Exhibit 3 is
+8	your -- it's a two-page invoice. Correct?
+9	A. There are two.
+10	Q. And those invoices are for July 12, 2013 and
+11	September 13, 2013, correct?
+12	A. Correct.
+13	Q. In fact, in this case, you were first
+14	contacted to do work back on October 3rd of 2010,
+15	correct?
+16	MR. COTTON: Object to form.
+17	A. It's within that ballpark of the time I
+18	recall.
+19	BY MR. PORTAL:
+20	Q. We premarked -- and we'll get down the
+21	line -- but Exhibit 11 -- you produced to us all of
+22	your correspondence -- and feel free to refer to it —
+23	correct?
+24	A. Yes.
+18
+1	deposition, is all the correspondence that you
+2	generated or you received regarding your involvement
+3	in this case. Correct?
+4	A. That's correct.
+5	Q. And I take it this exhibit is in date order
+6	with the oldest correspondence on top and then
+7	proceeding chronologically. Correct?
+8	MR. COTTON: I'm not sure he can confirm
+9	that on the spot, but object to form.
+10	A. I can't confirm that unless I have a chance
+11	to look through it.
+12	BY MR. PORTAL:
+13	Q. Sure. Feel free.
+14	MR. COTTON: For the record, I think the
+15	dates will speak for themselves.
+16	A. They're not in precise order.
+17	BY MR. PORTAL:
+18	Q. The first page of Composite Exhibit 11 is
+19	dated October 3, 2010, correct?
+20	A. It says October 3. I don't see the year
+21	here.
+22	Q. Do you mind if I take a look at it, please?
+23	It looks like, if you look at the first page, that
+24	this is an e-mail from Paul D. Koethe at Jones Day.
+1	A. Correct.
+2	Q. And it appears to be that Mr. Koethe is an
+3	attorney with Jones Day, correct?
+4	A. That is correct.
+5	Q. And there's the date reference of October 3,
+6	correct?
+7	A. October 3.
+8	Q. It appears this first page is an e-mail
+9	chain, where the e-mail continues on page two of this
+10	document. Correct?
+11	A. Let me see. I can't verify that by --1
+12	can't verify that.
+13	Q. Certainly on page two of Composite
+14	Exhibit 11, this is dated August of 2010. Do you see
+15	that?
+16	A. Yes.
+17	Q. So is it fair to say then that you would have
+18	started working on this case somewhere in the middle
+19	to fall of 2010?
+20	MR. COTTON: Object to form.
+21	A. That's within the ballpark.
+22	BY MR. PORTAL:
+23	Q. And you've continued to work on this case
+24	since 2010 to the current date in 2013, correct?
+20
+1	A. Yes.
+2	BY MR. PORTAL:
+3	Q. However, you've only produced invoices for
+4	July of 2013 and September 2013, is that correct?
+5	A. That's correct.
+6	Q. As you sit here today, can you tell us how
+7	many hours in total you've spent, in terms of doing
+8	work in preparation up till today, in the Suarez
+9	matter?
+10	A. I believe there's one that is missing here.
+11	I'm not a hundred percent sure. These are--you
+12	asked me about the --
+13	MR. COTTON: He asked how many hours --
+14	THE WITNESS: My estimate is that it may
+15	be probably 100 to 150. It's a good faith
+16	estimate.
+17	BY MR. PORTAL:
+18	Q. So 100 to 150 hours, correct?
+19	A. Yes.
+20	Q. And that's what you bill out at $225 an hour,
+21	correct?
+22	A. Correct.
+23	Q. So in this case so far, ballpark, if we take
+24	the range you've provided to us, your fees would range
+21
+1	150 hours. Does that sound accurate to you?
+2	MR. COTTON: That would speak for itself.
+3	If you want him to get out a calculator, he
+4	can.
+5	A. I trust the math as it came out of your
+6	machine.
+7	BY MR. PORTAL:
+8	Q. You reviewed a lot of materials in this case.
+9	The ballpark of 100 to 150 hours, is that the average
+10	amount of hours that you would put in a case like this
+11	or is it actually below your typical average?
+12	MR. COTTON: Object to form.
+13	A. I don't recall that.
+14	BY MR. PORTAL:
+15	Q. You recall providing litigation support in
+16	deposition and trial testimony in other tobacco
+17	related cases in Florida, correct?
+18	A. Yes.
+19	MR. COTTON: Object to form.
+20	BY MR. PORTAL:
+21	Q. As a matter of fact, you recall recently, in
+22	February of this year, providing testimony in the
+23	Wendel case. Correct?
+24	A. Deposition, yes.
+22
+1	testified you had put in somewhere of approximately
+2	250 to 260 hours of work. Does that seem fair to you
+3	based on your recollection?
+4	A. For that case?
+5	Q. Yes.
+6	A. Yes.
+7	Q. And that case involved a smoker in the United
+8	States only, correct?
+9	A. Correct.
+10	Q. This case actually involves a Cuban smoker
+11	who smoked both in Cuba and in the United States,
+12	correct?
+13	A. Yes.
+14	Q. So that, in this case, you spent doing
+15	research not just on issues of --1 take it that
+16	you'll testify about public awareness of smoking and
+17	health effects of smoking. Correct?
+18	A. Correct.
+19	Q. In this case, you did research in order to
+20	prepare for your testimony regarding public awareness
+21	of the health effects of smoking in Cuba. Correct?
+22	A. Correct.
+23	Q. And you also did research and prepared for
+24	the health effects of smoking in the United States.
+1	MR. COTTON: Object to form.
+2	A. Correct.
+3	BY MR. PORTAL:
+4	Q. In addition, within the United States -- and
+5	you testified a lot about general public awareness and
+6	then plaintiff-specific awareness.
+7	In this case, did you do any research
+8	specifically related to public awareness of the health
+9	effects of smoking of, number one, Hispanic smokers in
+10	the United States?
+11	MR. COTTON: Object to form.
+12	A. I wouldn't put it in those terms.
+13	BY MR. PORTAL:
+14	Q. What terms would you put it in?
+15	MR. COTTON: Object to form.
+16	A. In terms of focus on Miami and the greater
+17	Miami area.
+18	BY MR. PORTAL:
+19	Q. So did you perform additional research
+20	specifically related to public awareness of the health
+21	effects of Hispanic smokers in the Miami-Dade County
+22	area?
+23	MR. COTTON: Object to form.
+24	A. Yes, I did.
+25	BY MR. PORTAL:
+1	Q. Did you perform even further specified or
+2	detailed research regarding public awareness of the
+3	health effects of smoking amongst Cuban smokers in the
+4	Miami-Dade County area?
+5	MR. COTTON: Object to form.
+6	A. I don't believe the information was
+7	specifically about Cubans, so I don't know.
+8	BY MR. PORTAL:
+9	Q. Certainly that's a lot more area to cover and
+10	to research than what you had done in the Wendel case,
+11	correct?
+12	MR. COTTON: Object to form, lack of
+13	foundation.
+14	A. Not necessarily.
+15	BY MR. PORTAL:
+16	Q. You've testified in other cases before that.
+17	I think in 2012, in October, there was the Buonomo
+18	case. Do you recall that?
+19	A. Yes, I do.
+20	Q. In that case, how much time do you recall you
+21	had spent in doing research and preparing for your
+22	testimony?
+23	A. I don't recall the number.
+24	Q. When did you first start working on
+1	A. That was in 2001.
+2	Q. I understand you were contacted by a law firm
+3	in Puerto Rico, who then subsequently put you in
+4	contact with the Jones Day law firm. Correct?
+5	A. That is correct.
+6	Q. And that from 2001, you've been primarily
+7	retained by or working for Jones Day in connection
+8	with tobacco-related litigation in Florida. Correct?
+9	A. Not in Florida at the beginning. That came
+10	later.
+11	Q. When did you first start testifying in
+12	Florida?
+13	MR. COTTON: Object to form.
+14	A. I don't remember with precision. What I do
+15	remember is that the first few years I focused on
+16	Puerto Rico.
+17	BY MR. PORTAL:
+18	Q. In Puerto Rico, you testified just in one
+19	federal case. Correct?
+20	A. One federal case.
+21	Q. Outside of that one federal case in Puerto
+22	Rico, the rest of your testimony in terms of
+23	tobacco-related litigation has all been in Florida.
+24	Correct?
+26
+1	A. In Florida, yes.
+2	BY MR. PORTAL:
+3	Q. Since you were retained by the Jones Day firm
+4	back in 2001 and through the current date, can you
+5	tell us ballpark or approximately how much moneys
+6	you've earned in connection with that service?
+7	MR. COTTON: Object to form.
+8	A. I can only give you an estimate.
+9	BY MR. PORTAL:
+10	Q. Sure.
+11	A. It's a rough estimate. I would say perhaps
+12	$600,000. I want to underscore that it's a rough
+13	estimate.
+14	Q. That would be from starting in 2001 to the
+15	current date, 2013?
+16	A. Correct.
+17	Q. Is there any additional work that you
+18	anticipate doing in connection with your opinions in
+19	the Suarez matter that you have still not done?
+20	A. I anticipate the possibility of looking at
+21	the materials again or perhaps new materials.
+22	Q. You indicated that there might be an invoice
+23	that's missing. Would that be for services that you
+24	invoiced or billed for prior to July of 2013?
+27
+1	prior to July.
+2	Q. So is there a different invoice or separate
+3	invoices for the time that you billed when you were
+4	first retained on or about the middle of 2010 up to
+5	July of 2013?
+6	A. Is there a difference in terms of?
+7	Q. Your invoice.
+8	A. Of the invoices ?
+9	Q. Right.
+10	A. Yes, there's a difference.
+11	Q. You indicated to us that you, approximately,
+12	have put in 100 to 150 hours; yet, the invoices you
+13	produced are only for about, I believe, in total
+14	15 hours.
+15	A. Uh-huh.
+16	Q. So we're missing a significant amount of time
+17	in terms of your billing, correct?
+18	MR. COTTON: Object to form.
+19	A. As it appears in these two invoices.
+20	MR. PORTAL: So what I'd like to do-
+21	I'll do this by request to defense counsel --
+22	I'd like to leave open and supplement
+23	Exhibit 3 to your deposition -- we'll mark it
+24	as Exhibit 3 -- the amount of the invoices
+28
+1	in this case leading up to today.
+2	MR. COTTON: We'll reserve our right to
+3	make any appropriate objections.
+4	BY MR. PORTAL:
+5	Q. All of your litigation work in connection
+6	with tobacco litigation has been 100 percent for the
+7	defendant tobacco companies, correct?
+8	A. That is correct.
+9	MR. COTTON: Object to form.
+10	BY MR. PORTAL:
+11	Q. You've never testified in any case on behalf
+12	of a smoker, correct?
+13	A. No.
+14	Q. I'm not correct or I am correct?
+15	A. Okay. I'm sorry.
+16	Q. I'll re-ask the question. Is it fair to say
+17	that, in connection with all of your work testifying
+18	as an expert and in doing research in tobacco-related
+19	litigation, you've never been retained or offered
+20	opinions on behalf of the smoker or the smoker's
+21	family?
+22	A. That is correct.
+23	Q. Based on the testimony list that I have, it
+24	looks like -- I'm aware of your deposition testimony
+29
+1	year.
+2	From that date to the current date, have you
+3	offered deposition or trial testimony in any other
+4	matter?
+5	A. Not in trial, and I'm not sure whether I had
+6	another deposition during that period. That may be
+7	the case. I don't recall the timing.
+8	Q. Let's go ahead and, just for the record,
+9	identify what we premarked. Let's put it on the
+10	record and we can come back to them later. Exhibit 4,
+11	you can just tell us what this is for the record.
+12	Just identify what that contains.
+13	A. These are handwritten notes that summarize
+14	some of what I found in the depositions.
+15	Q. Exhibit 4 is two pages of handwritten notes,
+16	correct?
+17	A. Yes.
+18	Q. Then Exhibit 5, this is another set of 17
+19	pages of handwritten notes. Please identify what that
+20	is.
+21	A. These are notes from the interrogatories as
+22	well as depositions.
+23	Q. These are your notes basically summarizing
+24	whatever information you gleaned from review of that
+1	MR. COTTON: Object to form.
+2	A. Notes that I took as I was reading them.
+3	BY MR. PORTAL:
+4	Q. Exhibit 6 is, again, another composite
+5	exhibit of approximately ten pages of handwritten
+6	notes. Please tell us what that is.
+7	A. These are notes that I took from the
+8	Elizabeth Daily Journal.
+9	Q. What is the Elizabeth Daily Journal?
+10	A. It is the local newspaper in Elizabeth,
+11	New Jersey. There's actually a typo here. It says
+12	New York, but it's New Jersey.
+13	MR. COTTON: Are you talking about the
+14	first page of the exhibit?
+15	THE WITNESS: Yes.
+16	BY MR. PORTAL:
+17	Q. You're talking about the title that you have
+18	handwritten on the top page. You have the initials
+19	"NY," which in fact you're now correcting and it
+20	should be "NJ" for New Jersey instead of New York.
+21	Correct?
+22	A. Correct.
+23	Q. Is the Elizabeth Daily Journal a Spanish
+24	language newspaper or English language newspaper?
+31
+1	Q. Now, we've also marked a one-page typewritten
+2	document as Exhibit 7. Tell us what that is.
+3	A. These are more notes which I took from
+4	depositions for this case.
+5	Q. Are they notes reflective from any particular
+6	document or set of documents? What are they
+7	summarizing?
+8	A. A deposition by Linares, a deposition by
+9	Maria Migdalia, a deposition by Obdulio Tapanes and a
+10	deposition from Fernandez Franco.
+11	Q. To your knowledge, these are all fact
+12	witnesses in the case. Correct?
+13	A. Yes.
+14	Q. We premarked Exhibit 8 and this is five pages
+15	of typewritten notes. It looks like this makes
+16	reference to the document numbers for the documents
+17	identified in your 181-page reliance list. Correct?
+18	MR. COTTON: Object to form.
+19	A. No, that's not correct.
+20	BY MR. PORTAL:
+21	Q. Tell me what those document numbers are there
+22	that are typed out in this composite exhibit.
+23	A. These -- the first ones, I believe, reflect a
+24	previous reliance list.
+1	A. And then, towards the end, it pertains to the
+2	draft for the 181 pages.
+3	Q. So the initial pages, when you say prior
+4	list -- I'll represent to you that we were provided by
+5	defense counsel, Carlton Fields, a reliance list dated
+6	December of 2010, also containing, similarly, three
+7	CDs with approximately the same number of reliance
+8	materials, give or take some documents.
+9	Is that what you're referencing?
+10	MR. COTTON: Object to form.
+11	A. I'm not sure whether I'm referencing the one
+12	that you ended up receiving.
+13	BY MR. PORTAL:
+14	Q. I see. Is there any way for us to
+15	cross-reference them to be sure, when you list those
+16	document numbers, to which reliance list you are
+17	referring to?
+18	A. Is there a way to do that? I guess if --
+19	yes, there's a way.
+20	Q. So let's start this way. How many reliance
+21	lists do you have?
+22	MR. COTTON: Object to form.
+23	A. Reliance lists?
+24	BY MR. PORTAL:
+1	MR. COTTON: You're talking about just
+2	the Suarez case?
+3	MR. PORTAL: Correct.
+4	A. I have one for sure. I don't know if I have
+5	another one.
+6	BY MR. PORTAL:
+7	Q. What I'm getting at -- we've already marked
+8	to your deposition, as Composite Exhibit 2, a 181-page
+9	reliance list and it's numbered one through --
+10	documents 1 through 5,414.
+11	A. Yes, it's the same.
+12	Q. So the document that you have in front of
+13	you, Exhibit 8, it references document numbers from
+14	the reliance list. Correct?
+15	MR. COTTON: Object to form,
+16	mischaracterizes --
+17	BY MR. PORTAL:
+18	Q. From a reliance list.
+19	A. From a reliance list.
+20	Q. What I'm trying to figure out is for you, as
+21	Dr. Martinez-Fernandez, when you're going back and
+22	overlooking Exhibit 8, how can you tell what document
+23	numbers contained in Exhibit 8 reference which
+24	reliance list?
+34
+1	order to answer that question.
+2	Q. Again, as you sit here today, you can't tell
+3	us how many different reliance lists have been
+4	prepared by you in the Suarez case in order to
+5	crosscheck or cross-reference what document numbers
+6	those are that are listed on Exhibit 8?
+7	MR. COTTON: Object to form,
+8	mischaracterizes testimony.
+9	A. Well, there's one that I provided today.
+10	BY MR. PORTAL:
+11	Q. Correct.
+12	A. There's another one, which I believe I have,
+13	and I'm not sure whether there's a third one or not.
+14	Q. I see. I'll represent to you that we've only
+15	received two reliance lists, one in December 2010 and
+16	the current one of October 9, 2013. So when I go back
+17	and I cross-reference the documents that you have on
+18	Exhibit 8,1 want to be able to tell which reliance
+19	list I should be looking at. How can I do that?
+20	A. The one that you're referring to --
+21	Q. Which is Exhibit 2 to your deposition dated
+22	October 9, 2013. Please continue.
+23	A. -- my understanding is that it begins on the
+24	third page where it says number two.
+35
+1	total of five pages. Correct?
+2	A. Uh-huh.
+3	Q. And on page three of Exhibit 8, towards the
+4	middle of the page, there's a line and then it says
+5	"two," correct?
+6	A. It says "two."
+7	Q. So any documents listed underneath the middle
+8	of page three, underneath number two, would refer to
+9	the October 9, 2013 reliance list produced today. Is
+10	that fair?
+11	MR. COTTON: Form.
+12	A. I don't know that for sure.
+13	BY MR. PORTAL:
+14	Q. But is that your general understanding?
+15	A. That's my understanding.
+16	Q. Fair enough. Back to the housekeeping
+17	issues. Exhibit 9 to your deposition, this is a
+18	composite of typewritten notes. Tell us what this
+19	contains.
+20	MR. COTTON: Object to form.
+21	A. The title is "Notes on Cuba Materials," and
+22	what it contains are notes that I have taken as I've
+23	examined a variety of sources for Miami in general.
+24	BY MR. PORTAL:
+36
+I	said this --
+2	MR. COTTON: Did you say Miami or did you
+3	say Cuba?
+4	THE WITNESS: I'm sorry. Cuba.
+5	BY MR. PORTAL:
+6	Q. That's where I'm confused. Let's start over.
+7	Exhibit 9 is a composite exhibit, correct, of multiple
+8	pages?
+9	A. Correct.
+10	Q. You indicated that it is your notes regarding
+II	materials you reviewed regarding Cuba, correct?
+12	A. Cuba, correct.
+13	Q. Specifically what as it pertains to Cuba were
+14	you reviewing or researching?
+15	MR. COTTON: Object to form.
+16	A. I was researching information on health
+17	consequences of smoking and I looked into newspapers.
+18	BY MR. PORTAL:
+19	Q. What else?
+20	A. Articles, speeches, books, reports,
+21	magazines, journals, government publications, public
+22	awareness. Those are the categories.
+23	Q. Your research of those Cuba materials, was
+24	there a scope in terms of the number of years that you
+37
+1	A. The scope was generally from the start of the
+2	20th century to the present.
+3	Q. You understand in this case that the
+4	decedent, Mr. Suarez, was born in 1938 in Cuba.
+5	Correct?
+6	A. Correct.
+7	Q. You understand that he resided in Cuba from
+8	1938 until approximately 1967, at which time he
+9	immigrated to the United States. You understand that,
+10	correct?
+11	A. Yes, I do.
+12	Q. In terms of any materials regarding public
+13	awareness, as it pertains to the health effects of
+14	smoking in Cuba after Mr. Suarez left Cuba in 1967,
+15	they wouldn't be relevant to this case?
+16	MR. COTTON: Object to form.
+17	A. I can't say that categorically.
+18	BY MR. PORTAL:
+19	Q. Can you offer an opinion in this case that
+20	Mr. Suarez was aware of and believed any public
+21	statements regarding the health effects of smoking in
+22	Cuba that were issued or generated after he left the
+23	island in 1967?
+24	MR. COTTON: Object to form.
+38
+1	BY MR. PORTAL:
+2	Q. And you cannot testify to that within a
+3	reasonable degree of professional certainty as a
+4	historian in this case, correct?
+5	MR. COTTON: Object to form.
+6	A. The answer would be the same, that I'm not
+7	aware. I can't categorically say that he did have
+8	access to them or not.
+9	BY MR. PORTAL:
+10	Q. So you're an expert and you've testified in
+11	these cases before. Correct?
+12	A. Correct.
+13	Q. And you understand, in order for you to offer
+14	an opinion in this case, you have to be able to
+15	testify within a reasonable degree of professional
+16	certainty based on your expertise as a historian as to
+17	whether or not an individual, such as Mr. Suarez
+18	specifically, or the public in general more likely
+19	than not was aware of the health effects of smoking
+20	within the community that they were present in.
+21	Correct?
+22	MR. COTTON: Object to form, lack of
+23	foundation.
+24	A. Well, that's part of it. In this case,
+39
+1	in the depositions that information about risks of
+2	smoking was exchanged between him and his family in
+3	Cuba.
+4	BY MR. PORTAL:
+5	Q. Are you referring to a one-week visit that
+6	occurred in 1979, when Mr. Suarez -- it was the one
+7	and only time, you understand that he had returned to
+8	Cuba since leaving in '67. Correct?
+9	A. That's what I'm referring to.
+10	Q. And what you're referring to is just whatever
+11	communications by his family -- for instance, his
+12	sister and parents -- may or may not have conveyed to
+13	him during that one-week visit. Correct?
+14	MR. COTTON: Object to form.
+15	A. No. It goes beyond that.
+16	BY MR. PORTAL:
+17	Q. What else are you basing that on?
+18	MR. COTTON: Object to form.
+19	BY MR. PORTAL:
+20	Q. What other information are you referring to?
+21	MR. COTTON: Form.
+22	A. I'm basing that on information from the
+23	depositions, particularly his sister, where she makes
+24	it very clear that there was telephone communication
+40
+1	subject of smoking and health.
+2	BY MR. PORTAL:
+3	Q. As you sit here today, though, can you
+4	testify that more likely than not, within a reasonable
+5	degree of professional certainty, any communications
+6	regarding the public awareness of the health effects
+7	of smoking in Cuba, as it was known to Cuban citizens,
+8	was communicated to Mr. Suarez and/or that he believed
+9	them?
+10	MR. COTTON: Object to form.
+11	A. When you say communicated, do you mean
+12	through the letters and phone calls?
+13	BY MR. PORTAL:
+14	Q. You're the expert for the defense in this
+15	case, correct?
+16	A. That is correct.
+17	Q. I take it that your testimony that you intend
+18	to offer in this case is that, number one, there was
+19	public awareness about the health effects of smoking
+20	at or around the time periods that Mr. Suarez was
+21	alive and smoking. Correct?
+22	A. Throughout his lifetime.
+23	Q. And, further, you intend to offer opinions as
+24	to whether or not Mr. Suarez specifically was aware of
+41
+1	them. Is that true?
+2	A. Yes.
+3	Q. In every case in which you've testified in
+4	tobacco-related litigation on behalf of the defendant
+5	cigarette companies, like R.J. Reynolds and Philip
+6	Morris, your testimony has always been, has it not,
+7	that there's public awareness about the health effects
+8	of smoking during the particular plaintiff-smoker's
+9	lifetime and that that particular plaintiff-smoker
+10	believed those statements regarding the health effects
+11	of smoking ?
+12	MR. COTTON: Object to form.
+13	A. Certainly aware of that information.
+14	BY MR. PORTAL:
+15	Q. You've never testified in any tobacco
+16	litigation case that there was no public awareness
+17	about the health effects of smoking and that that
+18	smoker, the plaintiff-smoker, had not somehow been
+19	communicated or became aware of those statements?
+20	MR. COTTON: Object to form.
+21	A. Can you recast the question?
+22	BY MR. PORTAL:
+23	Q. Sure. The scope of your opinions that you
+24	intend to offer in this case -- the Suarez case --
+42
+1	the health effects of smoking during Mr. Suarez's
+2	lifetime. Correct?
+3	MR. COTTON: Object to form.
+4	A. That's one of them.
+5	BY MR. PORTAL:
+6	Q. Secondly, you intend to offer opinions that
+7	Mr. Suarez, this smoker, specifically was aware of
+8	these public statements of the health effects of
+9	smoking and believed them. Correct?
+10	A. Yes.
+11	Q. Is it correct that, in every case where
+12	you've testified as a defense expert on behalf of the
+13	defendant tobacco companies, including R.J. Reynolds
+14	and Philip Morris, you've offered the same exact
+15	opinion as it pertains to the plaintiff-smoker?
+16	MR. COTTON: Object to form, lack of
+17	foundation.
+18	A. I can't tell you whether it was exact or not.
+19	BY MR. PORTAL:
+20	Q. As you sit here today, you agree that, in all
+21	of the cases you've testified for the defendant
+22	tobacco companies, you've testified that there was
+23	public awareness about the health effects of smoking
+24	during that plaintiffs lifetime. Correct?
+43
+1	A. That was part of the testimony, yes.
+2	BY MR. PORTAL:
+3	Q. And then every single case that you've
+4	testified on behalf of the defendant tobacco
+5	companies, including R.J. Reynolds and Philip Morris,
+6	you've offered opinions that the plaintiff-smoker was
+7	aware of those statements about the health effects of
+8	smoking during his or her lifetime. Correct?
+9	MR. COTTON: Object to form, lack of
+10	foundation.
+11	A. That is correct.
+12	BY MR. PORTAL:
+13	Q. Which is, in this case -- obviously, there
+14	are other details -- but, generally speaking, it's the
+15	same opinions that you're going to offer in this case.
+16	Correct?
+17	MR. COTTON: Object to form.
+18	A. I don't agree with the fact that it's the
+19	same opinions because I don't know what questions I
+20	will be asked.
+21	BY MR. PORTAL:
+22	Q. But certainly those two opinions you have
+23	formulated in this case and you do anticipate
+24	rendering those opinions, correct?
+44
+1	A. Can you repeat the two opinions?
+2	BY MR. PORTAL:
+3	Q. Sure. Let's go to what's been premarked as
+4	Plaintiffs' Exhibit 12. It is the defendant R.J.
+5	Reynolds' expert witness disclosure. I ask you to
+6	take a look at that. Specifically look at pages 23,
+7	24 and 25 of that disclosure.
+8	A. Okay. I'm on 23.
+9	Q. You've seen this disclosure before, correct?
+10	A. Yes.
+11	Q. In reviewing the disclosures contained on
+12	pages 23, 24 and 25, regarding the scope of your
+13	opinions in this case, you agree with what's disclosed
+14	here. Correct?
+15	A. Yes.
+16	Q. So based on the scope of your opinions
+17	as contained herein, it says, "Dr. Martinez-Fernandez
+18	will testify about the information disseminated to the
+19	public concerning the fact some people, once they
+20	start smoking, find it very difficult to quit."
+21	Do you see that?
+22	A. What page?
+23	Q. I'm sorry. Page 23. In fact, why don't you
+24	read into the record under the paragraph titled
+45
+1	read that into the record.
+2	A. "Dr. Martinez-Fernandez is expected to
+3	testify about the history of the use of tobacco and
+4	cigarettes in Cuba and the United States. He will
+5	also testify about the information disseminated to the
+6	public in Cuba and the United States, including
+7	Florida and New Jersey, concerning the health risks
+8	associated with smoking cigarettes and the public's
+9	knowledge of those risks. In addition,
+10	Dr. Martinez-Fernandez will testify about the
+11	information disseminated to the public concerning the
+12	fact that some people, once they start smoking, find
+13	it very difficult to quit. Dr. Martinez may also
+14	comment on the opinions expressed by other witnesses
+15	in the case to the extent that they are related to his
+16	area of expertise."
+17	Q. Is that your understanding of the subject
+18	matter of your testimony that you intend to offer in
+19	this case?
+20	MR. COTTON: Object to form. He's got
+21	four more paragraphs that summarize the
+22	substance of that opinion.
+23	BY MR. PORTAL:
+24	Q. Understood. But you understand that that's
+46
+1	A. It is the subject. And the rest of the page
+2	and part of the following -- actually up to page 25 --
+3	expands on that.
+4	Q. All right. So going back to my original
+5	question, which is --1 understand there's details
+6	here involving awareness of smoking health effects in
+7	Cuba, in Florida and New Jersey, and there's details
+8	you intend to offer about that. Correct?
+9	A. Yes.
+10	Q. But, generally speaking, if you were to take
+11	the sum and substance of your opinions, as you've
+12	testified in prior cases, it's your opinion that there
+13	was public awareness about the dangers of health and
+14	that Mr. Suarez was aware of those dangers of smoking
+15	and believed them?
+16	MR. COTTON: Object to form. Can you
+17	read that back?
+18	(The reporter read back the last
+19	question.)
+20	MR. COTTON: Object to form.
+21	A. That's only part.
+22	BY MR. PORTAL:
+23	Q. That part of your opinion is the same part of
+24	the opinions that you've rendered in each of the cases
+47
+1	case, correct?
+2	MR. COTTON: Object to form, lack of
+3	foundation.
+4	BY MR. PORTAL:
+5	Q. As it pertains to the particular specific
+6	smoker.
+7	A. Can you repeat the specific fact again?
+8	Q. Sure. Let me just ask you this way. Have
+9	you ever testified that the plaintiff-smoker was not
+10	aware of the dangers of smoking during that smoker's
+11	lifetime?
+12	A. I don't recall that.
+13	Q. No. Have you ever testified that it was your
+14	opinion that, more likely than not, the
+15	plaintiff-smoker did not believe that there was
+16	dangers of smoking that was made aware in the public
+17	domain?
+18	MR. COTTON: Object to form.
+19	A. That's not accurate.
+20	BY MR. PORTAL:
+21	Q. What case have you testified such that the
+22	plaintiff-smoker didn't believe the public awareness
+23	regarding the health effects of smoking?
+24	MR. COTTON: Object to form,
+1	A. I would really have to look at the
+2	transcripts of those testimonies.
+3	BY MR. PORTAL:
+4	Q. As you sit here today, do you recall any case
+5	where you said that?
+6	MR. COTTON: Object to form.
+7	A. About the belief, I really don't recall any
+8	case.
+9	BY MR. PORTAL:
+10	Q. Let's go back to this housekeeping and we'll
+11	get back to your opinions.
+12	MR. COTTON: We've been going about an
+13	hour. Is it a good time for a comfort break?
+14	MR. PORTAL: Let me just finish this.
+15	MR. COTTON: Okay.
+16	BY MR. PORTAL:
+17	Q. I believe we left off on Exhibit 10. This,
+18	again, is another composite exhibit similar to
+19	Exhibit 9 regarding your review of certain articles
+20	and publications, but it pertains to Cubans in Miami.
+21	Correct?
+22	A. To Cuban Miami, yes.
+23	Q. Exhibit 11, we have already discussed. That
+24	is the composite containing your correspondence in
+1	A. That is correct.
+2	Q. Then, lastly, Exhibit 12 is what we just
+3	discussed, which is your expert witness disclosure.
+4	Have we now attached -- other than the actual
+5	depositions and discovery responses that you reviewed,
+6	have we attached all the other materials within the
+7	universe of materials that you've reviewed and are
+8	going to be relying on?
+9	MR. COTTON: Object to form.
+10	BY MR. PORTAL:
+11	Q. Strike that. You indicated to us that you
+12	have two exhibits to a depo which were the ads from
+13	Bohemia and Carteles, which are not here today.
+14	Correct?
+15	A. Correct.
+16	Q. Other than those two documents and the
+17	missing invoice, are there any other documents that
+18	you have that you reviewed and you are relying on in
+19	formulating your opinions that you have not brought
+20	with you today?
+21	MR. COTTON: Object to form.
+22	A. These reflect what I was asked to bring.
+23	BY MR. PORTAL:
+24	Q. And I just want to make sure there's no other
+50
+1	any additional notes, memos, e-mails, anything of that
+2	nature, which you've done in the course of formulating
+3	your opinions and which you intend to rely on in this
+4	case?
+5	A. I don't think so.
+6	Q. Now, the trial in this case is scheduled for
+7	January of 2014. As it stands today, do you
+8	anticipate being called to testify at the trial?
+9	MR. COTTON: Object to form, calls for
+10	speculation.
+11	A. I'm not sure whether that will be the case.
+12	BY MR. PORTAL:
+13	Q. In the past, you've testified live at trial
+14	on behalf of the defendants. Correct?
+15	MR. COTTON: Object to form.
+16	A. I-
+17	BY MR. PORTAL:
+18	Q. In the past, you have been called to testify
+19	live at trial on behalf of the defendants, correct?
+20	MR. COTTON: Object to form.
+21	A. I've been asked to testify.
+22	BY MR. PORTAL:
+23	Q. All I'm getting at is, you've given trial
+24	testimony before, correct?
+1	Q. In each of those instances, in rendering your
+2	opinions at trial, have you prepared a demonstrative,
+3	such as a PowerPoint, to assist in rendering your
+4	opinions ?
+5	A. Yes.
+6	Q. So in this case, have you created -- even if
+7	it's an early draft -- a PowerPoint or similar type of
+8	demonstrative regarding your opinions ?
+9	A. I have not.
+10	Q. But if you were to be called to testify at
+11	the trial in January, would you anticipate creating
+12	such a demonstrative PowerPoint presentation like
+13	you've done in the past?
+14	A. I don't know that for sure. What I can tell
+15	you is about the past, and that has been the case in
+16	the past.
+17	MR. PORTAL: Let's take a break.
+18	(Brief recess.)
+19	BY MR. PORTAL:
+20	Q. Back on the record. Doctor, I want to talk a
+21	little bit now about, first, your background. You are
+22	a professor of history at the University of Central
+23	Florida, correct?
+24	A. Correct.
+52
+1	understand you're of Cuban descent. You were born in
+2	Cuba?
+3	A. Yes.
+4	Q. You left when you were approximately
+5	two-years-old, correct?
+6	A. Correct.
+7	Q. From what I understand, you left Cuba, you
+8	came to Miami, Florida for some brief moment of time
+9	with your family when you were young?
+10	A. Yes.
+11	Q. When did your family and you leave Cuba?
+12	Strike that. Did you leave with your family when you
+13	first left Cuba?
+14	A. Yes, I did.
+15	Q. And what year was that?
+16	A. That was June of 1962.
+17	Q. So you were born sometime in 1960?
+18	A. '60.
+19	Q. So you were born after the revolution shortly
+20	after Fidel Castro came into power?
+21	A. That's right.
+22	Q. At two-years-old, I take it, you didn't
+23	attend any grammar school in Cuba. Correct?
+24	A. No.
+53
+1	and you came to Miami, Florida. How long were you in
+2	the United States for?
+3	A. It was actually in June. Not approximately.
+4	Q. So in June of 1962, your family emigrated
+5	from Cuba and went to the United States. Correct?
+6	A. Correct.
+7	Q. And you lived for a brief time period in
+8	Miami, Florida, right?
+9	A. Yes.
+10	Q. How long was that?
+11	A. I can't tell you whether it was one month or
+12	two months. In the ballpark of perhaps three months.
+13	That's what I've been told.
+14	Q. Just a couple months then approximately?
+15	A. Yeah.
+16	Q. At that point, your family then moved to
+17	Lima, Peru?
+18	A. Correct.
+19	Q. Where you lived for some eight to ten years
+20	until sometime in 1970 or early 1970s?
+21	A. Eight years.
+22	Q. So then in 1970, is that when your family
+23	moved and relocated to Puerto Rico?
+24	A. Correct.
+54
+1	A. The first place we moved is a municipality of
+2	Bayamon, which is part of the metropolitan area of --
+3	Q. Of San Juan, Puerto Rico?
+4	A. -- of San Juan.
+5	Q. Puerto Rico, is that where you attended high
+6	school and ultimately went to the University of Puerto
+7	Rico?
+8	A. Yes.
+9	Q. So in terms of your personal knowledge
+10	regarding Cuba and any public awareness regarding what
+11	was known in Cuba as it pertains to the health effects
+12	of smoking, fair to say you were too young to really
+13	have ascertained or have any personal firsthand direct
+14	knowledge of that?
+15	MR. COTTON: Object to form.
+16	A. When I lived there?
+17	BY MR. PORTAL:
+18	Q. Correct.
+19	A. I don't have any recollection.
+20	Q. I understand that you had a grandfather who
+21	lived in Cuba up until not too long ago or is he still
+22	alive?
+23	A. He's still alive.
+24	Q. Good for you. And he's still in Cuba,
+1	A. Correct.
+2	Q. Have you ever been to the island of Cuba
+3	after you left when you were two-years-old?
+4	A. Yes, I have.
+5	Q. How many times?
+6	A. It's between nine and ten.
+7	Q. When was the first time that you returned to
+8	Cuba and when was the most recent time that you've
+9	been there?
+10	A. I believe the first time was 1994 and I
+11	believe the last time may have been 2003.
+12	Q. So in terms of any public awareness regarding
+13	the health effects of smoking in Cuba during
+14	Mr. Suarez's lifetime, while he lived in Cuba --
+15	meaning the late '30s, '40s, '50s and up to 1967 --
+16	you would have no direct firsthand personal knowledge.
+17	Correct?
+18	MR. COTTON: Object to form.
+19	A. It is direct because I've researched it.
+20	BY MR. PORTAL:
+21	Q. In terms of firsthand knowledge, you have
+22	none. Correct?
+23	MR. COTTON: Object to form.
+24	A. Some of them are primary materials that I've
+25	used, but firsthand knowledge as to being there and
+56
+1	seeing or hearing anything during the time when
+2	Mr. Suarez was there, the answer is no.
+3	BY MR. PORTAL:
+4	Q. In the course of doing your research and
+5	review of materials, have you actually spoken with any
+6	eyewitnesses who provided to you firsthand eyewitness
+7	accounts regarding smoking and public awareness of
+8	smoking in Cuba? And I'm going to limit it to the
+9	time period that Mr. Suarez was a smoker in Cuba.
+10	So for purposes of predicate, I'll represent
+11	to you that Mr. Suarez began smoking around
+12	approximately 18 or 19-years-old, sometime in 1957 or
+13	1958, and continued to smoke until he left Cuba in
+14	1967. So that's the timeframe that I'll provide to
+15	you -- 1955, let's say, to 1967.
+16	With that in mind, have you spoken with any
+17	eyewitnesses who provided to you their accounts of
+18	what the public awareness was regarding the health
+19	effects in Cuba during that time period?
+20	MR. COTTON: Object to form.
+21	A. I don't recall specifically about awareness.
+22	BY MR. PORTAL:
+23	Q. Did you speak with any eyewitnesses who were
+24	alive around that time in Cuba regarding just a
+57
+1	males -- and I'll put that at, say, age 18 to 30 years
+2	of age -- during that timeframe -- and their exposure
+3	to American brand cigarettes in Cuba?
+4	MR. COTTON: Object to form.
+5	A. I don't recall those specific aspects.
+6	BY MR. PORTAL:
+7	Q. Do you have an understanding as to whether or
+8	not American brand cigarettes, and specifically
+9	cigarettes from the defendants R.J. Reynolds and
+10	Philip Morris, were exported to and sold and
+11	distributed in Cuba in the 1950s and early 1960s?
+12	MR. COTTON: Object to form, lack of
+13	foundation.
+14	A. Can you repeat the question?
+15	BY MR. PORTAL:
+16	Q. Sure. I've gone through some -- not all --
+17	of the 5,000 documents of your reliance materials. In
+18	there it contained several documents regarding Cuban
+19	archived materials, Cuban magazines and articles that
+20	talk about the incidence of smoking in Cuba, both
+21	Cuban cigarettes and American cigarettes. Correct?
+22	A. There's information on both.
+23	Q. So as you sit here today, based on your
+24	review of the material regarding cigarette smoking in
+58
+1	understanding that American brand cigarettes,
+2	specifically R J. Reynolds' Camel cigarettes and
+3	Winston cigarettes and Philip Morris's Marlboro
+4	cigarettes, were sold and distributed in Cuba during
+5	that time period?
+6	MR. COTTON: Object to form.
+7	A. I have seen evidence to the effect that
+8	Camels were advertised and sold. I'm not sure about
+9	the other two brands.
+10	BY MR. PORTAL:
+11	Q. Based on your review of the documents,
+12	materials, depositions and in speaking with
+13	individuals from that timeframe, do you have an
+14	understanding as to the popularity of RJ. Reynolds'
+15	Camel brand cigarettes in Cuba in terms of rankings
+16	with other American brand cigarettes?
+17	MR. COTTON: Object to form, lack of
+18	foundation.
+19	A. I can say that American cigarettes were a
+20	very small minority of what was sold and consumed in
+21	Cuba. As far as the popularity of Camels, vis-a-vis
+22	other US cigarettes, if that's the question, I vaguely
+23	remember that they were perhaps the ones who were sold
+24	the most, but this is a vague recollection.
+1	Q. You certainly read testimony from the fact
+2	witnesses in this case, including Mr. Tapanes,
+3	Mrs. Suarez, Migdalia Suarez, the decedent's sister,
+4	and some other folks, who have testified to the fact
+5	that, amongst the American brand cigarettes sold and
+6	distributed in Cuba during this timeframe, Camel
+7	cigarettes were the most or the number-one ranked
+8	cigarette. Correct?
+9	MR. COTTON: Object to form, lack of
+10	foundation.
+11	A. I don't remember that fact off the top of my
+12	head, whether that was mentioned or not in the
+13	depositions.
+14	BY MR. PORTAL:
+15	Q. Is there anything that you've read, or based
+16	on your understanding of the role of American
+17	cigarettes in Cuba, that would be inconsistent with
+18	that, meaning that Camels were in fact amongst the
+19	most popular, if not the most popular, brand of
+20	American cigarette sold and distributed in Cuba at the
+21	time?
+22	MR. COTTON: Object to form, lack of
+23	foundation.
+24	A. Could you repeat that, please?
+1	BY MR. PORTAL:
+2	Q. Based on your knowledge of the sale and
+3	distribution of American cigarettes in Cuba during the
+4	1950s and early '60s, would you agree that Camel brand
+5	cigarettes were amongst the most popular, if not the
+6	most popular, American brand cigarette sold in Cuba?
+7	MR. COTTON: Object to form, lack of
+8	foundation.
+9	A. I can't speak specifically to the issue of
+10	popularity. What I vaguely recall was that Camels
+11	were towards the top of the list of the most sold
+12	American cigarettes in Cuba, which, again, all
+13	American cigarettes combined were a very small
+14	minority of what was consumed.
+15	BY MR. PORTAL:
+16	Q. Thank you for that last portion. I
+17	understand you said that. But if I represent to you
+18	that the witnesses -- certain fact witnesses --
+19	including Migdalia Suarez, the decedent's wife
+20	Mrs. Suarez, Mr. Tapanes and others, had testified to
+21	the effect that, amongst young Cuban males ages
+22	ranging 18 to 30, Camel brand cigarettes were amongst
+23	the more popular of American brand cigarettes, if not
+24	the most popular, in terms of volume, use and sale, is
+61
+1	or you believe would be inconsistent with the facts?
+2	MR. COTTON: Object to form, lack of
+3	foundation.
+4	A. I would like to see the segments in which
+5	that kind of information that you're mentioning
+6	appears.
+7	BY MR. PORTAL:
+8	Q. Well, I understand. You have the depositions
+9	here. Feel free to refer to them, but I'm asking you
+10	to assume that that's what they have testified to. So
+11	for purposes of my question, if I'm asking you to
+12	assume that that's what they've said, based on your
+13	understanding as a historian -- you've looked at Cuba
+14	and smoking trends in Cuba and health issues regarding
+15	smoking in Cuba during those timeframes --is there
+16	anything about those statements that you would say,
+17	"You know what? That's inconsistent. That's not what
+18	I remember. It just doesn't make any sense to me."
+19	MR. COTTON: Object to form. I've lost
+20	track now of what we're talking about.
+21	BY MR. PORTAL:
+22	Q. I think you understand the question, don't
+23	you, Dr. Martinez-Fernandez?
+24	A. I understand the question. My answer is --
+62
+1	the question? I don't understand the
+2	question.
+3	MR. PORTAL: Well, the witness is
+4	answering. Let him answer the question.
+5	MR. COTTON: Read back the question,
+6	please.
+7	(The reporter read back the last
+8	question.)
+9	MR. COTTON: I'll object to form.
+10	BY MR. PORTAL:
+11	Q. Now you can answer.
+12	A. My response is that I don't want to assume
+13	anything. In order for me to reply to your question,
+14	I would like --1 would need to see the specific parts
+15	of the depositions that, as you say, refer to that.
+16	Q. We can certainly do that, but to not delay
+17	this any more than we need to -- as a general
+18	statement, you would agree that, based on your
+19	understanding of historical facts as it pertains to
+20	American brand cigarettes in Cuba -- and I think you
+21	already testified to this -- Camel certainly was
+22	amongst the most popular in terms of use by young
+23	Cuban males. Correct?
+24	MR. COTTON: Object to form, lack of
+1	A. No.
+2	BY MR. PORTAL:
+3	Q. Why not?
+4	A. First of all, because I don't think I
+5	mentioned popularity. I may have mentioned sales.
+6	And, secondly, I have no way of knowing whether that
+7	range of ages and men --1 have no foundation to speak
+8	to that.
+9	Q. In terms of your background, you're a
+10	professor of history. You told us that. You've
+11	published, I believe, three books. Correct?
+12	A. I think there's four, at least, and some
+13	monographs.
+14	Q. As it pertains to Cuba, I'm aware of three
+15	books -- "Torn Between Empires."
+16	A. Right.
+17	Q. The second is "Frontiers, Plantations and
+18	Walled Cities," correct?
+19	A. It deals with Cuba.
+20	Q. Right. And then third, it's a list of essays
+21	on Hispanic Caribbean, I think, is what you refer to
+22	it as.
+23	A. Can I refer to my curriculum vitae?
+24	Q. Sure. By all means, feel free to do so.
+64
+1	MR. PORTAL: His publications, his books.
+2	THE WITNESS: You're talking about books
+3	specifically?
+4	MR. COTTON: They're all listed. Is
+5	there something he's looking for is my
+6	question.
+7	BY MR. PORTAL:
+8	Q. It's very simple, Dr. Martinez-Fernandez. I
+9	asked you about books that you've published in this
+10	area as it pertains to Cuba or to Hispanics in the
+11	Caribbean. I've identified three books. You thought
+12	there might be a fourth, right?
+13	A. Yes. I was not sure about the number so I'm
+14	going to check on this list.
+15	"Frontiers, Plantations and Walled Cities,"
+16	that is a book that covers Cuba. I was chief editor
+17	of the "Encyclopedia of Cuba." Another book is
+18	"Protestantism and Political Conflict in the
+19	Nineteenth-Century Hispanic Caribbean." Another book
+20	is "Fighting Slavery in the Caribbean." Another book
+21	is "Torn Between Empires."
+22	As far as books that have already been
+23	published, that's what is accurate as reflected here.
+24	I have, however, finished "The History of the Cuban
+65
+1	University Press of Florida.
+2	Q. Of all of those publications, is it fair to
+3	say that you never published on the topic of the
+4	public awareness of smoking hazards and the addictive
+5	nature of smoking?
+6	A. In those publications, I've touched upon the
+7	topic of tobacco, but not specifically the issue of
+8	awareness.
+9	Q. And I've read your depositions in multiple
+10	cases and trial testimony. In all of those, you
+11	testified that you've never published, whether
+12	peer-reviewed articles, books or as such, regarding
+13	public awareness of the health risks of smoking and
+14	addictive nature of smoking.
+15	Is that still true today?
+16	A. I've researched it for many years, but I've
+17	never published on that subject.
+18	Q. And that's my question. In terms of
+19	publishing a book or publishing peer-reviewed
+20	articles, you've never done such a thing specifically
+21	as it relates to the public awareness of smoking
+22	hazards and the addictive nature of smoking. Is that
+23	correct?
+24	A. I may have mentioned something about the
+66
+1	Q. Which one was that?
+2	A. I believe that would be, "Fighting Slavery in
+3	the Caribbean." But that was a comment, not based on
+4	research.
+5	Q. So as it pertains to -- now let's break it
+6	down even further -- public awareness of smoking
+7	hazards and the addictive nature of smoking in Cuba in
+8	the 1930s, '40s, '50s and '60s, you have not
+9	published. Correct?
+10	A. That is correct.
+11	Q. And as far as it pertains to the public
+12	awareness of smoking hazards and the addictive nature
+13	of smoking pertaining to Hispanic smokers in the
+14	United States in the 1960s, '70s, '80s and '90s, you
+15	have not published. Is that correct?
+16	A. Just researched, not published.
+17	Q. Now, in terms of your background, you're not
+18	a medical doctor. Correct?
+19	A. Correct.
+20	Q. You don't have any particular specialty in
+21	oncology or psychiatry or addiction medicine, correct?
+22	A. That is correct.
+23	Q. And you have no expertise on cigarette
+24	design, correct?
+1	Q. Certainly, in this case, you're not offering
+2	any opinions regarding smoking cigarettes containing
+3	nicotine causes certain diseases like lung cancer?
+4	A. Can you repeat the last part?
+5	Q. Sure. In this case, you're not offering any
+6	opinions regarding whether smoking cigarettes
+7	containing nicotine causes certain diseases like lung
+8	cancer?
+9	MR. COTTON: Object to form.
+10	A. Not my opinions.
+11	BY MR. PORTAL:
+12	Q. And you're not going to be offering any
+13	opinions as to whether or not smoking is addictive,
+14	correct?
+15	A. Not my personal opinions.
+16	Q. Nor your expert opinions, because you're not
+17	an expert in that field. Is it that true?
+18	A. Nor am I an expert.
+19	Q. I take it then that you will be offering no
+20	opinions on a smoker's ability to successfully quit
+21	smoking, correct?
+22	MR. COTTON: Object to form.
+23	A. Not my opinions.
+24	BY MR. PORTAL:
+68
+1	any opinions as to whether a smoker can cut down and
+2	control their smoking, correct?
+3	MR. COTTON: Object to form.
+4	A. Not my opinions.
+5	BY MR. PORTAL:
+6	Q. You reviewed a number of documents regarding
+7	Cuban newspapers, magazines and articles as it
+8	pertains to smoking and related health disease.
+9	Correct?
+10	A. There were items and stories in these
+11	materials that spoke to that topic, yes.
+12	MR. PORTAL: I'd like to mark this as the
+13	next numbered exhibit, Exhibit 13.
+14	(Plaintiffs' Exhibit 13 was marked for
+15	identification.)
+16	MR. COTTON: Just for identification
+17	purposes, the Bates number on this
+18	document is 1005039743.
+19	MS. VIEIRA: Can I see it one second?
+20	BY MR. PORTAL:
+21	Q. For the record, Dr. Martinez-Fernandez, this
+22	is a document from Philip Morris dated April 1, 1954,
+23	from a Mr. G.C. Dawson to Mr. George Weisman. I'll
+24	ask you to take a look at it and then I'm going to ask
+1	MR. COTTON: Have you ever seen
+2	Exhibit 13 before?
+3	THE WITNESS: This is the first time I've
+4	seen this. Should I look at the second page
+5	or just the first?
+6	BY MR. PORTAL:
+7	Q. Just page one and page two. I'll represent
+8	to you that this just shows that this was a document
+9	that was obtained from the Philip Morris public
+10	website located at www.pmdocs.com. As previously
+11	referenced, it's Bates number 1005039743.
+12	Have you had an opportunity to review this
+13	document right now?
+14	A. I looked at it just now, yes.
+15	Q. This letter dated April 1st of 1954, it's a
+16	letter where it indicates that Mr. Dawson, Philip
+17	Morris & Company, had recently returned from a visit
+18	from Cuba. Correct?
+19	MR. COTTON: Object to form, lack of
+20	foundation. The document says what it says.
+21	He doesn't know who Mr. Dawson is or who he
+22	works for or any of the background about this
+23	document.
+24	Do you, Doctor?
+70
+1	don't know -- I've never heard of Weisman or
+2	Dawson.
+3	BY MR. PORTAL:
+4	Q. Are you familiar with the importation of
+5	American cigarettes in Cuba during the 1940s and '50s?
+6	MR. COTTON: Object to form, vague.
+7	A. I don't have any information on the
+8	importation itself.
+9	BY MR. PORTAL:
+10	Q. Have you ever heard of a company by the name
+11	of Roberts Tobacco Company in Cuba?
+12	A. I have.
+13	Q. What do you know about the Roberts Tobacco
+14	Company?
+15	A. It was a distributor of imported cigarettes.
+16	Q. Is it your understanding that Roberts Tobacco
+17	Company imported American brand cigarettes, including
+18	the defendants Philip Morris and R.J. Reynolds brand
+19	cigarettes, to Cuba?
+20	MR. COTTON: Object to form, lack of
+21	foundation, calls for speculation.
+22	A. I'm not aware of that direct connection.
+23	BY MR. PORTAL:
+24	Q. We'll get to that in a minute. What else do
+71
+1	MR. COTTON: Object to form.
+2	A. What I know is they were distributors of
+3	foreign cigarettes in Cuba.
+4	BY MR. PORTAL:
+5	Q. In this letter that you have that's been
+6	marked Exhibit 13, it refers to "our agent, Mr. Alex
+7	M. Roberts." Do you see that in the first sentence?
+8	A. I see that.
+9	Q. Do you have any understanding as to whether
+10	or not Roberts Tobacco Company was owned and operated
+11	by Mr. Alex Roberts?
+12	MR. COTTON: Object to form, lack of
+13	foundation, calls for speculation.
+14	A. I don't know that.
+15	BY MR. PORTAL:
+16	Q. Do you know who ran and operated the Roberts
+17	Tobacco Company in Cuba?
+18	MR. COTTON: Object to form.
+19	A. I don't know.
+20	BY MR. PORTAL:
+21	Q. In this letter, it reads, "On a recent visit
+22	from Cuba, our agent, Mr. Alex M. Roberts, brought up
+23	the question of the publicity on cancer. He informed
+24	the writer that Cuba has the highest consumption in
+72
+1	incidence of cancer. He has promised to send us full
+2	data as soon as possible."
+3	First of all, did I read that right?
+4	MR. COTTON: I'll object to the form.
+5	Obviously the document speaks for itself.
+6	The second line, I can't tell if that's an
+7	"on" or an "of". The document says what it
+8	says.
+9	BY MR. PORTAL:
+10	Q. What I read was right, right?
+11	MR. COTTON: Object to form.
+12	A. You read it accurately.
+13	BY MR. PORTAL:
+14	Q. Now, in preparing for your testimony today,
+15	you looked exactly at this issue, right -- the
+16	publicity of cancer in Cuba and the incidence of
+17	smoking-related cancer in Cuba during this timeframe.
+18	Correct?
+19	MR. COTTON: Object to form,
+20	mischaracterizes testimony.
+21	A. I don't remember at this point any
+22	information on incidence.
+23	BY MR. PORTAL:
+24	Q. Fair enough. Do you intend to offer any
+73
+1	certainty, regarding the incidence of cancer among
+2	Cuban smokers in Cuba in the 1950s and '60s?
+3	A. I don't know whether I'm going to be asked
+4	that question.
+5	BY MR. PORTAL:
+6	Q. That's not my question, Doctor. My question
+7	is: As you sit here today, have you formulated an
+8	opinion within a reasonable degree of professional
+9	certainty as to the incidence of cancer amongst
+10	smokers in Cuba in the 1950s and 1960s?
+11	A. No, I haven't.
+12	Q. And it indicates that, based on this letter,
+13	that, although there's a high consumption of
+14	cigarettes in Cuba, they have the lowest incidence of
+15	cancer.
+16	Is there anything that you've reviewed or
+17	read that in any way would contrast or dispute that
+18	statement?
+19	MR. COTTON: Object to form, lack of
+20	foundation.
+21	A. I don't know for a fact, nor have I seen
+22	information as to whether Cuba was the world's largest
+23	consumer of cigarettes per capita. Neither do I
+24	recall having read anything about Cuba having the
+1	BY MR. PORTAL:
+2	Q. In the course of reviewing your information,
+3	you have some handwritten notes that you prepared
+4	regarding certain articles, including -- one of them
+5	was a document from the Cuban archives entitled, "How
+6	Many Millions of Dollars to Cubans Spend on
+7	Cigarettes?" Is that correct?
+8	A. Can I see it?
+9	MR. PORTA: Sure. We'll mark this as
+10	Exhibit 14.
+11	(Plaintiffs' Exhibit 14 was marked for
+12	identification.)
+13	MR. COTTON: Did you say he has notes
+14	about it?
+15	MR. PORTAL: We're going to mark the
+16	document and I have his notes, but we'll get
+17	to that in a minute.
+18	BY MR. PORTAL:
+19	Q. Doctor, let me show you what's been marked
+20	Exhibit 14. You've reviewed this document before,
+21	correct?
+22	A. Yes, I have.
+23	Q. In fact, it's one of the documents listed in
+24	your 181-page reliance materials -- strike that. It
+75
+1	reliance material list, correct?
+2	A. I don't recall that specifically.
+3	Q. I'll represent to you that that document
+4	attached as Exhibit 14 was retrieved from the disk
+5	provided to us and is identified in your reliance
+6	list.
+7	Any reason to dispute that?
+8	MR. COTTON: Object to form.
+9	A. If you say so, I'll take your word.
+10	BY MR. PORTAL:
+11	Q. Do you have the originals of all of your
+12	handwritten notes? What's been produced here are just
+13	the copies. Where are the originals?
+14	MR. COTTON: The yellow pads ?
+15	BY MR. PORTAL:
+16	Q. I see you have some of the documents in front
+17	of you. Are those your notes?
+18	A. These are the originals.
+19	Q. Can I see those real quick, please? Okay.
+20	The originals that you've produced here today, these
+21	are from yellow legal pad pages and they correspond to
+22	what's been marked as Exhibit 4, Exhibit 5 and
+23	Exhibit 6. Correct?
+24	A. That's correct.
+76
+1	materials, Composite Exhibit 2 -- and specifically I'm
+2	referring to APS-3126. It's actually document number
+3	5,300 on page 178 of your reliance materials. It's
+4	identified as notes on Cuban materials.
+5	Do you see that?
+6	A. Notes on Cuban materials.
+7	Q. And the image number is APS-003126, correct?
+8	A. Correct.
+9	Q. I only brought one copy, which is my
+10	handwritten notes -- my notes on your notes.
+11	MR. COTTON: Do you want to mark that as
+12	an exhibit?
+13	MR. PORTAL: No.
+14	BY MR. PORTAL:
+15	Q. Where are these notes? I can show you my
+16	copy of it. They weren't produced here today
+17	separately printed out? Is there another set of --
+18	MR. COTTON: They're on the disk.
+19	MR. PORTAL: They're on the disk?
+20	BY MR. PORTAL:
+21	Q. Do you still have those original notes?
+22	A. I keep the notes, and, yeah, I should have
+23	them.
+24	Q. They're not here today. That's why I'm
+25	asking you --
+77
+1	MR. COTTON: They're here. They're on
+2	the disk.
+3	MR. PORTAL: No. The original notes are
+4	not here.
+5	MR. COTTON: We've got copies of the
+6	notes. We've got copies of lots of things,
+7	including the notes.
+8	MS. VIEIRA: He didn't bring originals of
+9	any of the documents that are on the CD. He
+10	only brought originals of the stuff you
+11	didn't already have.
+12	MR. PORTAL: What we'll do then on a
+13	break, we'll print out a clean copy for you,
+14	Dr. Martinez-Fernandez, and we'll attach that
+15	as Exhibit 15 to your deposition, which is
+16	going to be the notes contained in document
+17	number 5,300 as previously identified.
+18	(Plaintiffs' Exhibit 15 was marked for
+19	identification.)
+20	BY MR. PORTAL:
+21	Q. In this document -- it's a composite
+22	exhibit -- on pages 143 through 145 of number 5,300,
+23	there's handwritten notes. It looks like it contains
+24	a summary of a document from 1957.
+78
+1	A. I see it.
+2	Q. In fact, those are your notes -- number
+3	one -- correct?
+4	A. These are my notes.
+5	Q. Those are your notes based on your review of
+6	what's been marked as Exhibit 14 to your deposition,
+7	the Cuban archives material. Correct?
+8	A. Let me double-check. Yes.
+9	Q. Can you just read into the record that
+10	portion referencing the 1957 Cuban archives article so
+11	that we can go back in case we can't read your
+12	handwriting?
+13	A. First it says 1957. Quotation mark, Cubans
+14	are among the smokiest people in the world, end of
+15	quotation. And then six million equals five million
+16	packs of cigs, 16 million packs of imported cigs most
+17	US. And then there's another quotation mark. There
+18	is no doubt that Cuban cigarettes are considered to be
+19	the purest and healthiest in the world. End of
+20	quotation. Another quotation --
+21	Q. They contain a minimum of nicotine?
+22	MR. COTTON: He gets to decide the
+23	handwriting. Are you able to read it or not?
+24	THE WITNESS: They contain a minimum of
+79
+1	and the majority of the brands are subjected
+2	to a long cleaning and purifying process, end
+3	of quote.
+4	MR. COTTON: Is this quoting from an
+5	article?
+6	BY MR. PORTAL:
+7	Q. In fact, Doctor, so that we're all on the
+8	same page, Exhibit 14 -- if you turn to page two of
+9	that article and you go to the second paragraph where
+10	it says page 71, do you see that?
+11	A. Yes.
+12	Q. In fact, the quotations that you've just read
+13	into the record come from that paragraph, correct?
+14	A. They come from that paragraph.
+15	Q. Right.
+16	MR. COTTON: So your notes are quoting
+17	from that document?
+18	THE WITNESS: Yes.
+19	BY MR. PORTAL:
+20	Q. What you've written there is the quotation
+21	that Cuban cigarettes are considered to be the purest
+22	and healthiest in the world, correct?
+23	A. You mean in the document or my notes?
+24	Q. What you took from the document and what
+80
+1	statement, correct?
+2	A. Purest and healthiest in the world -- purest
+3	and healthiest in the world. Yes, they correspond.
+4	Q. You also quoted a document for saying that
+5	they, meaning Cuban cigarettes, contain a minimum of
+6	nicotine. Correct?
+7	A. They contain a minimum of nicotine.
+8	Q. Same paragraph, second sentence.
+9	A. They contain a minimum of nicotine.
+10	Q. Okay. In fact, if you turn to the bottom of
+11	page three and page four of six of Exhibit 14, the
+12	actual article --
+13	A. Page three.
+14	Q. And then if you continue reading your notes,
+15	if you could read those into the record where you left
+16	off, regarding the quantity of nicotine in American
+17	brand cigarettes versus Cuban brand cigarettes. Let
+18	me restate the question.
+19	Can you please read into the record your
+20	handwritten notes where it addresses the quantity of
+21	nicotine in American brand cigarettes versus Cuban
+22	brand cigarettes?
+23	MR. COTTON: Are you talking about
+24	excerpts from the same article?
+81
+1	Dr. Martinez-Fernandez has noted in his
+2	handwritten document.
+3	BY MR. PORTAL:
+4	Q. And feel free to turn to the next page of
+5	your handwritten notes as well.
+6	A. There is information on the level of nicotine
+7	in US cigarettes and Cuban cigarettes.
+8	Q. And what information, if any, did you
+9	document regarding the comparison of nicotine levels
+10	of Cuban cigarettes versus American cigarettes as
+11	reflected in the actual document Exhibit 14?
+12	MR. COTTON: Object to form.
+13	A. So the question again?
+14	BY MR. PORTAL:
+15	Q. Exhibit 15 is your handwritten notes, your
+16	summary, essentially, of what you took from the actual
+17	document Exhibit 14. Correct?
+18	A. That is correct.
+19	Q. That's information --1 take it that you
+20	would have documented information that you felt was
+21	relevant and important information for you in
+22	reviewing these materials. Correct?
+23	MR. COTTON: Object to form, lack of
+24	foundation.
+25	A. Relevant or potentially relevant.
+82
+1	BY MR. PORTAL:
+2	Q. Fair enough. And part of what you documented
+3	was that, as reflected on Exhibit 14, the quantity of
+4	nicotine in American brand cigarettes -- and, in
+5	particular, Camel brand cigarettes -- was identified
+6	as 2.21 percent versus a much lower percent in Cuban
+7	brand cigarettes listed at 1.05 percent. Correct?
+8	A. That's what the document reflects and that's
+9	what my notes reflect.
+10	Q. In fact, Exhibit 14 also refers to various
+11	medical articles published both in the American
+12	Medical Journal, as well as Wright and Moffat
+13	published in The Journal of the American Medical
+14	Association, regarding the lower level of nicotine
+15	percentage in Cuban cigarettes versus American
+16	cigarettes. Correct?
+17	MR. COTTON: Object to form. If you're
+18	asking about what the article covers, he's
+19	going to have to look at the article.
+20	MR. PORTAL: He's got both of them in
+21	front of him. He's got both his notes of
+22	what he read and the document.
+23	BY MR. PORTAL:
+24	Q. Doctor, I'm referring to the little chart you
+83
+1	article on top and the medical article on bottom on
+2	page four of six of Exhibit 14.
+3	MR. COTTON: The article says what it
+4	says in there. What are you looking for him
+5	to confirm it says?
+6	MR. PORTAL: The question stands and it's
+7	referring to his notes.
+8	MR. COTTON: Object to form. The exhibit
+9	speaks for itself.
+10	A. There's mention of one book and one article.
+11	BY MR. PORTAL:
+12	Q. The chart that's on page four of six appears
+13	to be based on information gleaned from an article in
+14	the American Medical Journal from a Dr. Bauer.
+15	Do you see that?
+16	MR. COTTON: Object to form, lack of
+17	foundation.
+18	A. I can't reach that conclusion based on what
+19	I'm reading.
+20	BY MR. PORTAL:
+21	Q. So the information here is, you're saying,
+22	from a book that was published by Dr. Bauer entitled,
+23	"The Poison of Nicotine." Correct? And then
+24	published with the permission of the Medical American
+1	MR. COTTON: Object to form, lack of
+2	foundation, calls for speculation.
+3	A. I'm not saying that.
+4	BY MR. PORTAL:
+5	Q. Tell me what you're saying. Maybe we can
+6	clarify it for the record.
+7	A. A man by the name of Dr. Bauer published a
+8	book entitled, "The Poison of Nicotine." That's a
+9	book. In this book --
+10	MR. COTTON: For the record, you're just
+11	reading from the article at this point,
+12	aren't you?
+13	THE WITNESS: Yes. Not what I said
+14	before, but it's based on what I'm reading.
+15	MR. COTTON: Okay. Are you familiar with
+16	Dr. Bauer and his publication?
+17	MR. PORTAL: Hold on, Mr. Cotton. It's
+18	my deposition. You get to ask questions when
+19	it's your turn.
+20	MR. COTTON: I'm saying-
+21	MR. PORTAL: No, no, no. You're not
+22	coaching the witness anymore. I've given you
+23	a lot of leeway here. Object to form and you
+24	can ask your question when it's your turn.
+1	Number one, this is an article containing
+2	his reliance materials, which you produced to
+3	us, which, not only are they contained in
+4	reliance materials, but he summarized in his
+5	own handwritten notes. So I'm entitled to
+6	ask him questions, because, clearly, he's
+7	reviewed it and he's relying on it. So
+8	that's what I'm doing here today. That's the
+9	question.
+10	BY MR. PORTAL:
+11	Q. All right, Doctor.
+12	A. My answer is: There is mention of a book by
+13	Dr. Bauer entitled, "The Poison of Nicotine." And
+14	then there's a statement that talks about permission
+15	of the American Medical Journal. I don't -- from what
+16	appears here, it's not clear what the connection
+17	between the journal and the book is.
+18	Q. Understood. But the conclusion from --
+19	strike that -- the data that comes from the book and
+20	the publication, however it is that was ultimately
+21	produced is what is in front of you, which is what you
+22	documented -- what that reflects is that Cuban
+23	cigarettes have approximately 1.05 percent of nicotine
+24	as compared to American brand cigarettes, including
+86
+1	MR. COTTON: Object to form, lack of
+2	foundation.
+3	A. No, I didn't say that, because, again,
+4	there's mention of two -- there's just mention of a
+5	specific book and there's mention of a journal. So
+6	from this, I can't tell where it came from.
+7	BY MR. PORTAL:
+8	Q. But certainly what you documented -- strike
+9	that. What you took from this article and what you
+10	documented was the fact that, as reflected here, Cuban
+11	brand cigarettes had lower nicotine levels than
+12	American brand cigarettes. Right?
+13	MR. COTTON: Object to form.
+14	A. Cuban cigarettes had 1.5 and all of the
+15	brands that are American have a higher nicotine
+16	percent.
+17	BY MR. PORTAL:
+18	Q. Now, you also pulled -- and are part of your
+19	reliance materials -- and I'll attach that as
+20	Exhibit 16. Let's mark Exhibit 17 too.
+21	(Plaintiffs' Exhibits 16 and 17 were
+22	marked for identification.)
+23	BY MR. PORTAL:
+24	Q. Let me show you what we marked as Exhibit 16
+87
+1	you and then I'll ask you some questions.
+2	MR. COTTON: Do you have any extra copies
+3	for us?
+4	MR. PORTAL: Sorry. That's what I've
+5	got.
+6	BY MR. PORTAL:
+7	Q. Doctor, before we get to Exhibits 16 and 17,
+8	I do have some further questions regarding Exhibit 14.
+9	Let's do that before we move on so we can be
+10	consistent here.
+11	What you documented and what this article
+12	reflects -- Exhibit 14 -- was the fact of the rising
+13	levels of Cuban consumption of American cigarettes
+14	from the late 1930s to the mid 1950s, particularly in
+15	1956. Correct?
+16	MR. COTTON: Object to form.
+17	A. There's information on rising consumption of
+18	US cigarette packs.
+19	BY MR. PORTAL:
+20	Q. In fact, you documented there that they had
+21	risen from some 2.2 million packages in 1939 to
+22	16.8 million packages by 1956. And that's also
+23	consistent with the actual article in front of you
+24	right there. I'll refer you to page two of six of
+1	A. Sorry. Did you say page six?
+2	Q. Two of six.
+3	A. What appears in the document is consistent
+4	with what appears in my notes.
+5	Q. Then there's also -- if you could read into
+6	the record the rest of your notes, there's a mention
+7	there of Cuban cigarettes being healthier and having,
+8	I believe, lower levels of furfural --1 think you
+9	wrote down there. Can you just tell me what you wrote
+10	there?
+11	A. In Cuba, many doctors have proven and
+12	demonstrated bad effects of US cigarettes. It
+13	mentions some examples. And then there's a table on
+14	the content of nicotine with information on some of
+15	the brands: 3.11 percent, Piet Mount; 2.21, Camel;
+16	1.94, Marlboro; 1.26, Benson & Hedges; 1.05, Cuban.
+17	Almost no furfural.
+18	Q. And that's, for the record, F-U-R-F-U-R-O-L.
+19	Correct?
+20	A. I'd have to look at this one.
+21	Q. I'll make it easier. I'll just represent
+22	that's in, at least, the document at the top of page
+23	five of six.
+24	A. Okay.
+1	A. No potassium-40, and, in quotations,
+2	cancerous substance, end of quote.
+3	Q. On page five of six of Exhibit 14, the term
+4	"furfurol" is used in connection with aldehyde, which
+5	irritates the bronchial tubes and the larynx, and its
+6	effects are worse than those of nicotine.
+7	A. Page five?
+8	Q. Yes. That's what the document states, right?
+9	A. It says that it irritates bronchial tubes and
+10	the larynx. Its effects -- referring to furfural --
+11	are worse than those of nicotine. Then I'm going to
+12	read the last sentence.
+13	Q. Please.
+14	A. "All tobacco in the world, with the exception
+15	of Havana tobacco, contain furfurol in a greater or
+16	small quantity, the analysis published in 'The Lancet'
+17	show."
+18	Q. And you can read the next paragraph. It's
+19	one sentence.
+20	A. "It should also be noted that studies of the
+21	ash of Havana tobacco show that qualitatively it does
+22	not contain potassium 40 (K-40), the cancerous
+23	substance found in the ash of other tobaccos."
+24	Q. And then if you could just read the last
+90
+1	it says, "nicotine and tar," starting with "It can be
+2	definitely stated."
+3	A. "It can be definitely stated that Cuban
+4	cigars and cigarettes are the pures" — P-U-R-E-S —
+5	"and healthiest in the world. They do not contain,
+6	therefore, any substances which may be considered
+7	injurious to the health, and much less which can
+8	produce diseases of the gravity of cancer."
+9	Q. And that, along with what we had previously
+10	read on page two of six, is consistent with what you
+11	had documented in your notes, being that there's no
+12	doubt Cuban cigarettes are considered to be the purest
+13	and healthiest in the world. Right?
+14	MR. COTTON: Object to form.
+15	A. Is that on the second page? The only
+16	difference is that, in the original, it appears -- the
+17	word appears "pures," and in my notes, "purest."
+18	BY MR. PORTAL:
+19	Q. Page two of six. It says, "purest." We
+20	already read that into the record.
+21	A. Oh, it does? 206?
+22	Q. Page two of six.
+23	A. I read "purest." Now you're referring to
+24	another segment?
+91
+1	It's says, "purest and healthiest." Two of six starts
+2	with the premise that Cuban cigarettes are the purest
+3	and healthiest, and the conclusion, after all the
+4	data, is, again, that they're the purest and the
+5	healthiest. Correct?
+6	MR. COTTON: Object to form.
+7	A. Which paragraph?
+8	BY MR. PORTAL:
+9	Q. It's what you read here, Doctor -- "There is
+10	no doubt that Cuban cigarettes are considered to be
+11	the purest and healthiest in the world," which is what
+12	you wrote in your notes?
+13	A. Correct.
+14	Q. Doctor, now I want to turn your attention to
+15	the two documents in front of you, Exhibits 16 and 17.
+16	MR. COTTON: Before we go too far, we've
+17	been going another hour or so. I don't know
+18	how much you time you want to spend on this,
+19	but --
+20	MR. PORTAL: These two exhibits go hand
+21	in hand. Why don't we finish those and then
+22	we'll break for lunch in about 10 or 15
+23	minutes?
+24	MR. COTTON: Fair enough.
+1	Q. So if you could turn your attention to
+2	Exhibits 16 and 17, please?
+3	A. Okay.
+4	Q. I will represent to you that Exhibit 16
+5	has -- you see on the bottom -- your image number. It
+6	comes from the CDs that you or defense counsel had
+7	produced to us -- APS-5958. That's a document that
+8	you've reviewed and you're relying on in your
+9	testimony. Right?
+10	MR. COTTON: Object to form.
+11	A. Yes, I have reviewed it and I will rely or
+12	potentially rely on it.
+13	BY MR. PORTAL:
+14	Q. This is an article that appears in a Cuban
+15	newspaper, Diario de la Marina. Correct?
+16	A. Correct.
+17	Q. Dated October 10, 1954, right?
+18	A. October 10, 1954.
+19	Q. And in this article that you've referenced,
+20	it talks about the determination of nicotine in
+21	cigarettes. Right?
+22	MR. COTTON: Go ahead and read the
+23	article.
+24	A. I would like to have the full picture of the
+1	BY MR. PORTAL:
+2	Q. Doctor, this is from your reliance. This is
+3	what you produced. So take your time to read it.
+4	And just for the record, while the doctor is
+5	reading, this is document number 985 contained on
+6	page 35 of Dr. Martinez-Fernandez's reliance list.
+7	A. Okay, I read it as well as I could, given the
+8	quality.
+9	Q. It's your document, Doctor, so I can only go
+10	with what I have.
+11	A. This is a copy.
+12	Q. I understand, but it was produced to us on a
+13	CD just --
+14	MR. COTTON: He looked at it.
+15	BY MR. PORTAL:
+16	Q. First of all, this Exhibit 16, a newspaper
+17	article, it refers to, actually, an American
+18	scientific study. Correct?
+19	MR. COTTON: Object to form.
+20	A. Yes, it's an American scientific study.
+21	BY MR. PORTAL:
+22	Q. It was actually regarding a study conducted
+23	in New York by the Foster D. Snell, Inc. entity,
+24	right?
+1	Q. With the Dr. J. Mitchell -- it's a bit
+2	illegible -- Fain, F-A-I-N, director of the group
+3	investigators for that firm?
+4	A. Yes.
+5	Q. This article -- basically what it's talking
+6	about is a summary of what these Americans scientists
+7	at Foster D. Snell had found regarding nicotine in
+8	cigarettes, right?
+9	MR. COTTON: Object to form.
+10	A. Nicotine in cigarettes, yes.
+11	BY MR. PORTAL:
+12	Q. Now, I also want you to turn now to
+13	Exhibit 17, which you have before you. This is an
+14	article in Spanish. You see this is an article -- it
+15	look like it is from the Boletin de la Liga Contra el
+16	Cancer.
+17	First of all, you are familiar with La Liga
+18	Contra el Cancer?
+19	A. Yes, I am.
+20	Q. In fact, throughout your reliance materials
+21	for Cuba, you have literally tens, if not hundreds, of
+22	documents from La Liga Contra el Cancer. Right?
+23	A. I would say tens, not hundreds.
+24	Q. But certainly you're familiar with the entity
+95
+1	you've listed on your reliance materials. Right?
+2	MR. COTTON: Object to form.
+3	A. Correct.
+4	BY MR. PORTAL:
+5	Q. And La Liga Contra el Cancer originated in
+6	Cuba. It was The League Against Cancer, right?
+7	A. Yes.
+8	Q. And then subsequently recreated here in the
+9	United States some years later, correct?
+10	A. Correct.
+11	Q. And this article that we've attached as
+12	Exhibit 17, again, is referencing a study performed by
+13	the same entity as referenced in Exhibit 16, Foster D.
+14	Snell, Inc. in New York, regarding the levels of
+15	alquitran y nicotina?
+16	MR. COTTON: For the record, it's unclear
+17	to me whether Dr. Martinez-Fernandez has seen
+18	this document before.
+19	Have you seen this before?
+20	THE WITNESS: I believe so.
+21	BY MR. PORTAL:
+22	Q. In fact, this is a document that was -- it's
+23	also Bates-stamped 501875052 and also made available
+24	to the public through the Legacy website, which is
+96
+1	document.
+2	A. Let me say something about this.
+3	Q. Sure.
+4	A. I looked at numerous issues of the Boletin de
+5	la Liga Contra el Cancer. I believe, but I'm not
+6	100 percent sure, that I've seen this one in
+7	particular.
+8	Q. That's fine. First of all, for the record, I
+9	used the word -- this talks about the content of
+10	alquitran. That, you understand, is tar, right --
+11	that's what they're talking about?
+12	A. Yes.
+13	Q. Nicotina means nicotine, right?
+14	A. Correct.
+15	Q. So what this study is, it's based on a study
+16	performed by Foster D. Snell, Inc. from New York
+17	regarding the content of tar and nicotine in the four
+18	Cuban cigarette brands of highest sales or volume.
+19	Right?
+20	MR. COTTON: If he's going to speak to
+21	what the document addresses, he's going to
+22	have to read the document.
+23	MR. PORTAL: Let's take a break while you
+24	read that document. Once you're done with
+97
+1	(Brief recess.)
+2	BY MR. PORTAL:
+3	Q. Ready?
+4	A. Yes.
+5	Q. So we're talking about Exhibit 17. This is
+6	an article that talks about tar and nicotine levels in
+7	Cuban cigarettes versus American cigarettes based on a
+8	study conducted by Foster D. Snell, Inc. in the United
+9	States sometime, it looks like, in 1954.
+10	MR. COTTON: Object to form.
+11	BY MR. PORTAL:
+12	Q. Is that consistent with what you read in
+13	reviewing this document?
+14	MR. COTTON: Object to form.
+15	A. There's another study in the same piece.
+16	BY MR. PORTAL:
+17	Q. Correct.
+18	A. So there are two studies.
+19	Q. All right. Essentially what this study
+20	concludes is that, of the three most smoked Cuban
+21	brands in Cuba, as compared to the three most American
+22	brands smoked in Cuba, the Cuban cigarettes had less
+23	nicotine. Right?
+24	MR. COTTON: Object to form, the document
+1	A. (No response.)
+2	BY MR. PORTAL:
+3	Q. By way of reference, Doctor, I'm looking at
+4	page 123 of this document. It's the last page.
+5	A. The last page?
+6	Q. Bottom paragraph of the last page.
+7	A. I want to have something clear. There are
+8	two different studies in these two articles that
+9	appear side by side. For the first one, we're talking
+10	about four Cuban brands and this is the study
+11	conducted in New York. The second study is a
+12	different one, which is the comparative one, and that
+13	includes three brands of Cuban cigarettes and three
+14	brands of US cigarettes.
+15	Q. Okay. The conclusion, you would agree, is
+16	that, when comparing the Cuban brand cigarettes to
+17	American brands cigarettes smoked in Cuba, the Cuban
+18	brand cigarettes had less nicotine?
+19	MR. COTTON: Object to form, lack of
+20	foundation.
+21	A. You're referring to the second study, the
+22	Cuban study?
+23	BY MR. PORTAL:
+24	Q. Yes. Looking at the summary and the studies
+99
+1	you draw?
+2	A. I'm going to refer to the authors so it's
+3	clear. Drs Gonzalo E. Arostegui and Antonio
+4	Navarrete, who are of the Tobacco and Cancer
+5	Commission of La Liga Contra el Cancer, which is a
+6	Cuban organization. And the title of this study is,
+7	"Estudio Del Contenido De Alquitran Y Nicotina En Los
+8	Cigarrillos De Las Marcas Mas Fumadas En Cuba."
+9	So as I understand it, your question pertains
+10	to this study that I just mentioned?
+11	BY MR. PORTAL:
+12	Q. Right.
+13	A. Okay. And the question again is?
+14	Q. That the conclusion drawn from this study by
+15	Drs Arostegui and Navarrete, and in comparison with
+16	the studies from Foster D. Snell, Inc., is that the
+17	Cuban brand cigarettes -- strike that -- the Cuban
+18	brand cigarettes most smoked in Cuba contain less
+19	nicotine than the three most smoked American brands in
+20	Cuba?
+21	MR. COTTON: Object to form, lack of
+22	foundation, document speaks for itself.
+23	A. The Cuban brands contain less nicotine than
+24	the United States brands.
+1	Q. And that would corroborate or further support
+2	the same conclusions that were drawn from Exhibit 14,
+3	the Cuba archives documents, and the notes that you
+4	took from it. Right?
+5	MR. COTTON: Object to form, lack of
+6	foundation, beyond the witness's expertise.
+7	BY MR. PORTAL:
+8	Q. Meaning that these documents are consistent
+9	in that the Cuban brand cigarettes have lower nicotine
+10	than the American brand cigarettes?
+11	MR. COTTON: Object to form, lack of
+12	foundation, beyond the witness's expertise.
+13	A. I can only read these documents as a layman.
+14	BY MR. PORTAL:
+15	Q. Yes.
+16	A. As a layman, the first document that we
+17	talked about, which was from Gente Magazine stated
+18	that Cuban cigarettes had less nicotine than US
+19	cigarettes. Also, as a layman, I read in this second
+20	document, which is the study carried out by the
+21	Cubans, that Cuban cigarettes had less nicotine than
+22	the United States cigarettes.
+23	Q. So that this scientific study that was
+24	conducted by Drs Arostegui and Navarrete would further
+101
+1	Magazine article?
+2	MR. COTTON: Object to form, lack of
+3	foundation, beyond the witness's expertise.
+4	A. I can't comment on that specifically because
+5	I am not aware of the differences or comparing the
+6	methods of these two studies. What I can tell you is
+7	the information that they contain, which I just
+8	expressed to you.
+9	BY MR. PORTAL:
+10	Q. Which would be consistent with each other,
+11	right?
+12	MR. COTTON: Objection, form, asked and
+13	answered, beyond the witness's expertise.
+14	A. I don't understand what you mean by
+15	consistency.
+16	BY MR. PORTAL:
+17	Q. Dr. Martinez-Fernandez, you pulled documents
+18	that you want to rely on regarding public awareness of
+19	the health effects of smoking. Amongst the documents
+20	that you researched and have produced as part of your
+21	reliance materials includes this article from the
+22	Cuban archives from Gente Magazine, Exhibit 14, and
+23	this news article regarding an American study done on
+24	nicotine in cigarettes regarding Foster D. Snell, Inc.
+102
+1	the studies with Foster D. Snell, Inc. by Cuban
+2	doctors and these three documents, two of which are in
+3	your reliance materials.
+4	All come to one consistent conclusion, which
+5	is Cuban brand cigarettes, when compared to American
+6	brand cigarettes in the time period of the mid 1950s,
+7	contain lower nicotine in the Cuban cigarettes.
+8	Right?
+9	MR. COTTON: Object to form, lack of
+10	foundation, the documents speak for
+11	themselves.
+12	A. I don't want to use the word "consistency,"
+13	because that would require me to know more about the
+14	way they were carried out. What I can tell you is
+15	that in the news item -- well -- in the first study
+16	and the second study, there's information to the
+17	effect that Cuban cigarettes have less nicotine than
+18	American cigarettes.
+19	BY MR. PORTAL:
+20	Q. By the way, you reviewed a lot of documents
+21	both from the United States and Cuba regarding public
+22	awareness of the dangers of smoking, including
+23	scientific articles published by different medical
+24	doctors. Right?
+103
+1	Q. Are you familiar with Dr. Wynder?
+2	A. I am familiar with him.
+3	Q. Are you familiar with several studies that he
+4	published in the turn of the 20th century, around the
+5	time of the 1950s, regarding cigarettes, nicotine and
+6	all that stuff. Right?
+7	MR. COTTON: Object to form.
+8	A. I'm familiar with those studies, yes.
+9	BY MR. PORTAL:
+10	Q. Did you ever see any studies that were
+11	authored with Dr. Wynder and Dr. Arostegui and
+12	Dr. Navarrete, the ones that are referenced in that
+13	article?
+14	A. I don't recall that for a fact.
+15	Q. Would that surprise you?
+16	MR. COTTON: Object to form, calls for
+17	speculation.
+18	A. Would what surprise me?
+19	BY MR. PORTAL:
+20	Q. The fact that these Cuban doctors,
+21	Drs Arostegui and Navarrete, coauthored medical
+22	documents with Dr. Wynder.
+23	A. I'd like to see the source of that
+24	information so I can comment on it.
+104
+1	way or the other. Is that right?
+2	MR. COTTON: Object to form.
+3	A. I'm not sure one way or the other.
+4	MR. PORTAL: Let's break for lunch.
+5	MR. COTTON: Okay.
+6	(Lunch recess.)
+7	BY MR. PORTAL:
+8	Q. Dr. Martinez-Fernandez, we talked earlier
+9	about the Roberts Tobacco Company and you had
+10	mentioned that you're familiar with the name as they
+11	were distributors of foreign cigarettes in Cuba.
+12	Correct?
+13	MR. COTTON: Object to form.
+14	A. Yes, correct.
+15	BY MR. PORTAL:
+16	Q. And you understood, based on your review of
+17	the documents both in this case and just in your
+18	general knowledge of Cuban history, that Roberts
+19	Tobacco Company, amongst certain products, imported
+20	R.J. Reynolds and Philip Morris brand cigarettes into
+21	Cuba. Right?
+22	MR. COTTON: Object to form, lack of
+23	foundation.
+24	A. I've seen their ads including those
+1	BY MR. PORTAL:
+2	Q. In fact, I'll show you what will be our next
+3	numbered exhibit. I believe we are up to 18.
+4	(Plaintiffs' Exhibit 18 was marked for
+5	identification.)
+6	BY MR. PORTAL:
+7	Q. Let me identify it for the record and then
+8	I'll ask you questions. It's a document dated
+9	December 16, 1947, Bates-stamped 504272986, and then
+10	there's two attachments, 502472713 and 502472712.
+11	Doctor, are you familiar with William Esty
+12	Company?
+13	A. William Esty Company?
+14	MR. COTTON: He asked if you're familiar
+15	with that company.
+16	THE WITNESS: I'm not familiar with that
+17	company.
+18	BY MR. PORTAL:
+19	Q. You're not familiar with William Esty being
+20	one of the, if not the principal, advertising
+21	companies for R.J. Reynolds?
+22	MR. COTTON: Object to form, lack of
+23	foundation.
+24	A. I don't remember the name or that connection.
+1	Q. I will represent to you that William Esty
+2	Company is an advertising agency in the United States
+3	who, throughout the years, including the '40s and '50s
+4	and continuing onward, did a lot of the advertising
+5	for R.J. Reynolds. As a predicate for my next set of
+6	questions, I just want you to assume that. Okay?
+7	MR. COTTON: Object to form, lack of
+8	foundation.
+9	A. (No response.)
+10	BY MR. PORTAL:
+11	Q. On this letter, this exhibit that we've
+12	attached as Exhibit 18, it is a letter from the
+13	William Esty Company to the Advertising Department at
+14	R.J. Reynolds Tobacco and it references advertisement
+15	for Camel brand cigarettes in several foreign
+16	newspapers, including in Cuba as well as Puerto Rico.
+17	Do you see that?
+18	MR. COTTON: Object to form, lack of
+19	foundation, the document speaks for itself.
+20	A. Earlier you asked me to "let's assume." I'm
+21	taking your word rather than assuming.
+22	BY MR. PORTAL:
+23	Q. Sure, that's fine.
+24	MR. COTTON: The document says what it
+107
+1	BY MR. PORTAL:
+2	Q. This document, Exhibit 18, as referenced
+3	here -- Doctor, as it's stated here -- it pertains to
+4	ads that are for Camel brand cigarettes to be
+5	published in foreign newspapers, including those in
+6	Cuba and Puerto Rico.
+7	MR. COTTON: Object to form, lack of
+8	foundation, document speaks for itself.
+9	A. That is the subject.
+10	BY MR. PORTAL:
+11	Q. Right. In fact, in the second paragraph, it
+12	also references certain ad numbers, where it says, for
+13	example, 1-5255, as well as 1-5259, both of which are
+14	attached to this composite exhibit. I'll ask you to
+15	take a quick look at those.
+16	MR. COTTON: Object to the form, lack of
+17	foundation.
+18	BY MR. PORTAL:
+19	Q. And you see that these ads that are
+20	referenced in the letter, some of those are attached
+21	to this composite exhibit, correct, as referenced
+22	there?
+23	A. Documents with the same numbers ?
+24	Q. Yes, sir.
+1	Q. And those documents are copies of what appear
+2	to be ads for Camel brand cigarettes in the Spanish
+3	language, right?
+4	A. That's what they appear to be.
+5	Q. And it references the Roberts Tobacco
+6	Company, Havana, Cuba?
+7	A. Let me take back what I said and clarify.
+8	I'm not sure whether they're ads or proofs of ads.
+9	Q. Understood. But certainly they're from --
+10	they reference Camel brand cigarettes. That's an RJ.
+11	Reynolds product, correct?
+12	MR. COTTON: Object to form.
+13	A. Yes, they're Camel ads.
+14	BY MR. PORTAL:
+15	Q. And it lists Roberts Tobacco Company on each
+16	of these documents, whether they're proofs or ads.
+17	Right?
+18	A. The name Roberts Tobacco Company appears.
+19	I'm not sure whether it's part of the ad itself or it
+20	relates to the information below.
+21	Q. And underneath there, where it says ad number
+22	1-5255, it reads, "This advertisement appears in:" --
+23	and it has a list of publications all in Cuba. Right?
+24	A. Yes.
+109
+1	Marina in Havana, Cuba?
+2	A. It includes that, yes.
+3	Q. And it also includes Bohemia magazine
+4	published in Havana, Cuba?
+5	A. Yes.
+6	Q. So when you said earlier, "I don't know if
+7	these are proofs or ads," it certainly appears that,
+8	whether it's a proof or an ad, this is the depiction
+9	that was published, as referenced here, the
+10	advertisement that appears in these Cuban newspapers
+11	and magazines. Right?
+12	MR. COTTON: Object to form, lack of
+13	foundation, calls for speculation.
+14	A. I can't say for sure whether it's the same.
+15	BY MR. PORTAL:
+16	Q. Now, you've reviewed in the course of
+17	preparing for your testimony in this case, as well as
+18	your general historical review of Cuban documents, the
+19	Diario de la Marina newspaper in Cuba. Correct?
+20	A. Correct.
+21	Q. And you also reviewed and seen the Bohemia
+22	magazine, correct?
+23	A. Correct.
+24	Q. And you've also seen Carteles magazine?
+1	Q. And in your review of those magazines, do you
+2	recall ever coming across cigarette advertisements for
+3	RJ. Reynolds' Camel brand cigarettes as those that
+4	are depicted in this document?
+5	MR. COTTON: Object to form.
+6	A. Not these in particular. These are quite
+7	early, from '47.
+8	BY MR. PORTAL:
+9	Q. Let me show you then what we'll mark as
+10	Exhibit 19.
+11	(Plaintiffs' Exhibit 19 was marked for
+12	identification.)
+13	MR. COTTON: Did you intend it to be the
+14	black-and-white and the color?
+15	MR. PORTAL: Yes. We'll go ahead and
+16	just mark these also.
+17	(Plaintiffs' Exhibits 20, 21 and 22 were
+18	marked for identification.)
+19	MR. COTTON: Did you look at Exhibit 19?
+20	THE WITNESS: 19,1 looked at.
+21	BY MR. PORTAL:
+22	Q. And you have 20 and 21 and 22. Why don't you
+23	take a look at those too?
+24	Ready?
+1	Q. Dr. Martinez-Fernandez, we have attached now
+2	to your deposition as Exhibits 19, 20 and 21 what are
+3	exemplars of advertisements for Cuban -- strike that.
+4	We have attached as Exhibits 19, 20 and 21 what are
+5	exemplars of advertisements for RJ. Reynolds' Camel
+6	brand cigarettes in Cuban magazines in the 1940s and
+7	'50s, and particularly in the Bohemia magazine.
+8	Have you seen those?
+9	MR. COTTON: Object to form. Are you
+10	asking if he's seen them before today?
+11	BY MR. PORTAL:
+12	Q. I'm just telling you that that's an exemplar
+13	set that's been produced to you. You've had an
+14	opportunity to look at those now, right?
+15	A. When you say exemplar set, I want to make
+16	sure I understand what you mean.
+17	Q. Meaning, we haven't obviously attached every
+18	single advertisement. This is a sample set of ads
+19	that appeared in some of the magazines, particularly
+20	in Bohemia, regarding Camel brand cigarettes.
+21	A. Which is not reflective of the diversity of
+22	ads that appeared in this magazine?
+23	Q. It's not reflective of all the advertisement
+24	that R.J. Reynolds conducted in Cuba regarding its
+112
+1	are some of the ads and I just want to ask you some
+2	questions. All I'm telling you is, what I provided to
+3	you, that's what it appears to represent. Right?
+4	MR. COTTON: Object to form,
+5	mischaracterizes testimony.
+6	A. It's not reflective of the universe of ads
+7	that appear in Bohemia pertaining to cigarettes.
+8	BY MR. PORTAL:
+9	Q. Correct.
+10	A. Yeah.
+11	Q. So you're certainly aware that Camel
+12	cigarettes, R.J. Reynolds' product, were advertised in
+13	Bohemia magazine, just like the type of exemplar set
+14	that's been produced and marked here today. Right?
+15	MR. COTTON: Object to form.
+16	A. I would feel more comfortable with the word
+17	"example" than the word "exemplar."
+18	BY MR. PORTAL:
+19	Q. That's fine. You feel more comfortable with
+20	examples than exemplars?
+21	A. They're examples.
+22	Q. And certainly you see that, in each of these
+23	magazine advertisements for the Camel brand
+24	cigarettes, there's a reference to the distributor
+1	A. In all three, yes.
+2	Q. And, additionally, we've attached as
+3	Exhibit 22 to your deposition a printout, I'll
+4	represent to you, from the R.J. Reynolds public
+5	document website at www.rjrtdocs.com, where the search
+6	term -- if you look at the top of the page -- see
+7	where it says "Roberts Tobacco" right here?
+8	A. It says "Roberts Tobacco."
+9	Q. In fact, based on that search query and as
+10	reflective here right underneath Roberts Tobacco, it
+11	says it produced some 76 results.
+12	MR. COTTON: Object to form, lack of
+13	foundation.
+14	BY MR. PORTAL:
+15	Q. Correct, that's what it says?
+16	A. It says 76. I do have an issue with this
+17	list, however.
+18	Q. Well, first of all, answer my question. It
+19	does list, in terms of documents produced, that there
+20	are 76 records. And each one of those 76 are what's
+21	actually attached and part of this composite as listed
+22	here?
+23	MR. COTTON: Object to form, lack of
+24	foundation.
+114
+1	BY MR. PORTAL:
+2	Q. It's numbered. You don't have to count them.
+3	You can just read them. It's 1 through 20; and it
+4	continues 21 through 40 and 41 through 76.
+5	MR. COTTON: Objection, lack of
+6	foundation, the document speaks for itself.
+7	BY MR. PORTAL:
+8	Q. Is that right?
+9	MR. COTTON: Same objection, form, lack
+10	of foundation.
+11	A. This is a very incomplete list which includes
+12	76 examples.
+13	BY MR. PORTAL:
+14	Q. But certainly you agree that, at least as it
+15	pertains to the R.J. Reynolds website -- and obviously
+16	I'm not asking you to testify as an IT expert as to
+17	how they scanned in their documents and how they OCR'd
+18	the document, so when you put in the words "Roberts
+19	Tobacco," which documents come up or don't. I'm not
+20	asking you all that.
+21	All I'm simply asking you is, if you put the
+22	term "Roberts Tobacco" into their website, you get a
+23	result of 76 records and that's at least what's
+24	reflected here?
+115
+1	foundation.
+2	A. I can't say that one way or another.
+3	BY MR. PORTAL:
+4	Q. All right. Bottom line,
+5	Dr. Martinez-Fernandez, what you do as a historian is
+6	you go back in time and you look at documents, you
+7	research documents and you try to put them in
+8	historical perspective. Correct? It's part of what
+9	you do?
+10	A. That's right.
+11	Q. That's part of what you call a historical
+12	method -- one of the steps that you perform, right?
+13	A. That's correct.
+14	Q. In doing that, in going back and looking at
+15	these documents now before you, where you have the
+16	reference to Roberts Tobacco as a distributor, your
+17	understanding of Roberts Tobacco as an exporter of
+18	foreign cigarettes in Cuba, and now the reference to
+19	each of these Camel ads referencing Roberts Tobacco
+20	Company, as well as the William Esty Company ad proofs
+21	and approvals -- using that historical method, what,
+22	if anything, do you, as a historian, conclude from
+23	that?
+24	MR. COTTON: Object to form, lack of
+1	A. Well, it would take me some time to really
+2	digest these documents. But one thing that I would
+3	not do, as a professional historian, is limit the
+4	sampling to a few dates which are way back in the
+5	past, including '47 and '48. So I don't know what
+6	range -- what they were looking for when they did
+7	this. But the latest one is 1950.
+8	So that, in and of itself, is problematic and
+9	I would be very critical of that. I don't know
+10	whether it's a complete list; I don't know if there
+11	were other dates available. But this is very
+12	incomplete as far as the whole record of Bohemia
+13	during the lifetime of Suarez.
+14	BY MR. PORTA:
+15	Q. You would agree then that, beyond 1947,
+16	you've seen ads for Camel cigarettes in Bohemia dating
+17	into the late '50s -- '59, for example, correct?
+18	A. In Bohemia, as late as 1959.
+19	Q. Okay.
+20	A. But I must add something.
+21	Q. Please.
+22	A. They don't have this kind of wording that
+23	appears in the late '40s up to 1950. The ads are
+24	very, very different.
+117
+1	cigarettes, including Roberts Tobacco -- same Roberts
+2	Tobacco you see in the 1940s -- that are then again
+3	listed in the 1950s, including up to 1959. Right?
+4	MR. COTTON: Object to form.
+5	A. As far as this document goes, up to 1950.
+6	BY MR. PORTAL:
+7	Q. Right.
+8	A. There --
+9	MR. COTTON: What is the question? I
+10	didn't quite follow that question.
+11	MR. PORTAL: You know, you're
+12	interrupting the witness from answering.
+13	You've done this a couple times. He clearly
+14	understood because he was answering the
+15	question. Let him answer, please.
+16	MR. COTTON: Go ahead and read the
+17	question.
+18	MR. PORTAL: Let the witness finish his
+19	answer first and then you can have it read
+20	back.
+21	MR. COTTON: Please read back the
+22	question.
+23	THE REPORTER: Well, what do I do?
+24	MR. COTTON: Would you like the question
+1	MR. PORTAL: No, no, no. With all due
+2	respect, you've been doing this time and time
+3	again. It's a blatant attempt to coach this
+4	witness. With all due respect, please stop.
+5	MR. COTTON: All I asked was to have the
+6	question repeated.
+7	MR. PORTAL: There's no reason for it
+8	when you're interrupting the witness from
+9	answering. If he has a problem with the
+10	question --
+11	BY MR. PORTAL:
+12	Q. You understood my instructions at the
+13	beginning of the depo, right,
+14	Dr. Martinez-Fernandez -- if you don't understand the
+15	question, don't answer it. Ask me and I'll be happy
+16	to re-ask it to you.
+17	A. I remember that, yes.
+18	Q. And you didn't ask me to re-ask the question.
+19	You understood my question when I asked it, right?
+20	A. I understood it, but now I don't know what it
+21	is.
+22	MR. PORTAL: Of course, of course. So...
+23	MR. COTTON: Would you like her to read
+24	back the question?
+119
+1	THE REPORTER: "But, certainly, ads for
+2	Camel brand cigarettes, including Roberts
+3	Tobacco -- same Roberts Tobacco you see in
+4	the 1940s -- that are then again listed in
+5	the 1950s, including up to 1959. Right?"
+6	MR. COTTON: Object to form.
+7	THE WITNESS: It's the same name, Roberts
+8	Tobacco. I see that for ads in the 1950s --
+9	sorry -- in 1950 and late '40s. And if I
+10	look at this whole set, this is also from
+11	1950. That is Exhibit 19. Exhibit 20 is for
+12	1959. And this one I don't believe has a
+13	date. I'm referring to Exhibit 21.
+14	BY MR. PORTAL:
+15	Q. I'll represent to you that it's 1959. Be
+16	that as it may, all of those reference the Roberts
+17	Tobacco Company for the Camel ad, right?
+18	A. Excuse me. I actually just read in hand. It
+19	says 1958.
+20	Q. All right. Dr. Martinez-Fernandez, you're
+21	aware that, in addition to the print ads for these
+22	American brand cigarettes in Cuba, there was also a
+23	radio advertisement in Cuba for American brand
+24	cigarettes. Correct?
+120
+1	A. I don't know that for a fact. What I can
+2	tell you is that Cuban cigarettes dominated the
+3	airwaves as sponsors of major programs and I've never
+4	read or heard anything to that effect relating to US
+5	brands.
+6	MR. PORTAL: We'll go ahead and mark
+7	Exhibit 23 and 24 to your deposition and ask
+8	you some questions about that.
+9	(Plaintiffs' Exhibits 23 and 24 were
+10	marked for identification.)
+11	BY MR. PORTAL:
+12	Q. While Mr. Cotton is looking at these, I'll
+13	just put into the record that Exhibit 23 is
+14	Bates-stamped 50016333 and Exhibit 24 is Bates-stamped
+15	500228053.
+16	A. I'm done with 23.
+17	Q. Okay. First of all, Exhibit 23 has been
+18	attached to your deposition. It appears to be radio
+19	ads from December of 1951. This is from the William
+20	Esty Company regarding R.J. Reynolds Tobacco Company
+21	and Camel radio ads, as I indicated.
+22	First of all, you've had an opportunity now
+23	to review Exhibit 23, correct?
+24	A. Yes, I have.
+121
+1	what purports to be radio advertisements for Camel
+2	cigarettes and announced in different foreign radio
+3	stations, including radio stations in Cuba -- CMBF and
+4	CMQ.
+5	Do you see that?
+6	MR. COTTON: Object to form, lack of
+7	foundation.
+8	A. I see that, but I don't agree with the
+9	statement that you made that these are ads that were
+10	actually heard or planned. I don't see anywhere
+11	explaining what the reality is.
+12	Certainly, the date typed doesn't tell me
+13	much about when they were -- if they were actually
+14	read on the radio.
+15	BY MR. PORTAL:
+16	Q. Well, as you sit here today, whether
+17	reviewing this document or based on any other
+18	document, do you have information that there was no
+19	radio advertisement for any cigarettes in Cuba during
+20	this timeframe?
+21	MR. COTTON: Object to form.
+22	A. I can't say one way or another.
+23	BY MR. PORTAL:
+24	Q. Fair enough. As you sit today, you just
+122
+1	A. That's correct.
+2	Q. Fair enough. Moving on. Exhibit 24, take a
+3	look at that.
+4	A. I've looked at the document.
+5	Q. Exhibit 24 is a document entitled,
+6	"Advertising Costs for 1956." And then it appears to
+7	be a list of costs of advertising Camels in 1956 with
+8	the different line items for where those costs were
+9	spent.
+10	MR. COTTON: Object to form, lack of
+11	foundation, calls for speculation.
+12	A. Honestly, I don't know the origin of this
+13	document. I don't know where it was found. I don't
+14	know who to attribute it to. There's no way of me
+15	attributing this document. So that does not really
+16	allow me to speak to this document the way I should.
+17	BY MR. PORTAL:
+18	Q. On page three of this document where it says,
+19	"Costs of advertising Camels-1956," do you see that?
+20	A. Yes.
+21	Q. In there is a line item for advertising in
+22	Cuba. Do you see that?
+23	MR. COTTON: Object to form, document
+24	speaks for itself.
+123
+1	is has an amount connected to it.
+2	BY MR. PORTAL:
+3	Q. What is that amount?
+4	A. I'm not aware of what currency this is. It's
+5	18 million --18 million, 336 and 70.
+6	MR. COTTON: Object to form,
+7	mischaracterizes -- the number is what it is.
+8	It's not 18 million. We all know it's not
+9	18 million.
+10	THE WITNESS: I'm very sorry. My glasses
+11	are not working well after all these hours.
+12	It's 18,336.70.
+13	BY MR. PORTAL:
+14	Q. Again, this document would suggest that, in
+15	fact, RJ. Reynolds was advertising its Camel
+16	cigarettes in Cuba during this timeframe?
+17	MR. COTTON: Object to form, lack of
+18	foundation.
+19	A. I can't tell that from this document to be
+20	honest with you. I don't know the origin. There's no
+21	explanation to what this is. There's an item which I
+22	just read the amount of 18,336.70. I don't know what
+23	the currency is. Based on what I have here, I can't
+24	agree with what you said.
+1	Q. When was it, to your knowledge, that R.J.
+2	Reynolds stopped exporting its Camel brand cigarettes
+3	to Cuba?
+4	MR. COTTON: Object to form, lack of
+5	foundation.
+6	A. I can't tell you exactly when they ended
+7	exporting them to Cuba.
+8	BY MR. PORTAL:
+9	Q. Now, you're familiar with the history of Cuba
+10	and the Cuban Revolution and the current Cuban
+11	government, correct?
+12	A. I just finished a book on that subject.
+13	Q. So you have a lot of knowledge about that,
+14	correct?
+15	A. I'm an expert in that area.
+16	Q. So let's talk about the Cuban Revolution and
+17	the embargo. First of all, under President
+18	Eisenhower, is it fair to say that there was initially
+19	a partial embargo that was put into place in 1960?
+20	A. That is correct.
+21	Q. What was the partial embargo and when did
+22	that start specifically in 1960?
+23	A. (No response.)
+24	Q. Does October 19, 1960 sound familiar?
+125
+1	Q. The partial embargo initiated by President
+2	Eisenhower in 1960, did that include a prohibition of
+3	the exportation of American brand cigarettes to Cuba
+4	to your knowledge?
+5	A. I don't remember that specific item.
+6	Q. In February of 1962, now John F. Kennedy is
+7	President of the United States?
+8	A. Correct.
+9	Q. On February 7th of 1962, there is additional
+10	movement in terms of implementation of the embargo.
+11	And then in March and October of 1962, there's further
+12	restrictions placed by the embargo. Correct?
+13	A. That is correct.
+14	Q. To your knowledge, did any of those
+15	restrictions as part of the embargo prevent or stop
+16	the exportation of RJR's Camel brand cigarettes to
+17	Cuba?
+18	MR. COTTON: Object to form.
+19	A. Yes.
+20	BY MR. PORTAL:
+21	Q. So when along that timeline do you believe
+22	that the embargo would have limited the exportation of
+23	the Camel brand cigarettes to Cuba?
+24	MR. COTTON: Object to form, lack of
+1	A. As I said, I'm not sure about the one during
+2	Eisenhower. I would have to check on that. But I'm
+3	certain that, by the second one under Kennedy, that
+4	that was not allowed --US exports of cigarettes to
+5	Cuba.
+6	BY MR. PORTAL:
+7	Q. And President Kennedy's embargo, so to
+8	speak -- the full embargo -- that would have taken
+9	place somewhere along -- that continued between
+10	February and October of 1962?
+11	MR. COTTON: Objection to form,
+12	mischaracterizes.
+13	A. I believe it was 1962, the early one.
+14	BY MR. PORTAL:
+15	Q. Now, when did American companies, including
+16	companies like R.J. Reynolds and Philip Morris, stop
+17	advertising in Cuban print media and newspapers?
+18	MR. COTTON: Object to form, lack of
+19	foundation.
+20	A. I can give you a ballpark figure.
+21	BY MR. PORTAL:
+22	Q. Please.
+23	A. I have not seen any ads beyond late 1959.
+24	Q. Do you know whether the Cuban government put
+25	a ban preventing American companies from advertising
+111
+1	in Cuba, in its print media and newspapers, such as
+2	Diario de la Marina and Bohemia?
+3	A. These publications were nationalized. As far
+4	as a ban, per se, I have no information on that.
+5	Q. Would you agree that none of the RJ.
+6	Reynolds Camel brand cigarette packs that were
+7	exported to Cuba in the 1950s, let's just say right up
+8	before the implementation of the full embargo in
+9	1962 -- you would agree none of those had any warnings
+10	on the packs?
+11	MR. COTTON: Object to form.
+12	A. I have not seen any, which was the same as in
+13	the United States at that point.
+14	BY MR. PORTAL:
+15	Q. On that end, going back to Composite
+16	Exhibit 23, in terms of the radio advertisement for
+17	Camel cigarettes -- first of all, based on your
+18	testimony in other litigation, you're familiar with
+19	the type of radio advertisement for American brand
+20	cigarettes, particularly Camel, that was aired in the
+21	United States. Correct?
+22	MR. COTTON: Object to form.
+23	BY MR. PORTAL:
+24	Q. Let me re-ask the question. Are you aware of
+128
+1	cigarettes in the United States at around that time of
+2	the early '50s and mid 1950s?
+3	A. Not at all.
+4	Q. So you can't offer an opinion one way or the
+5	other, as you sit here today, as to whether or not the
+6	radio ads reflected on Composite Exhibit 23 are
+7	consistent with the radio ads for Camel brand
+8	cigarettes in the United States?
+9	MR. COTTON: Object to form, lack of
+10	foundation.
+11	A. Well, first of all, I already raised a
+12	question about this document -- its accuracy, who
+13	produced it, the date and all of that. I read the
+14	text. I am not familiar with the type of ads in radio
+15	produced in the United States during this time.
+16	BY MR. PORTAL:
+17	Q. Fair enough. That's what I wanted to know.
+18	Otherwise, you don't intend to offer an opinion that
+19	the text of the radio ads in the United States for
+20	Camel brand cigarettes would be different or
+21	inconsistent with the text as reflected in Composite
+22	Exhibit 23 because you just don't know one way or the
+23	other. Is that fair?
+24	A. I don't know one way or the other.
+129
+1	Castro and the relationship between Cuba and the
+2	United States, did there come a time where the Cuban
+3	government put a blackout or media restrictions in
+4	terms of propaganda -- what the Cuban government
+5	termed propaganda -- coming from the United States to
+6	Cuba in the early 1960s?
+7	MR. COTTON: Object to form.
+8	A. I don't have specific data about the
+9	propaganda.
+10	BY MR. PORTAL:
+11	Q. When was the Bay of Pigs Invasion?
+12	A. April 1961.
+13	Q. When was the famous standoff, so to speak, of
+14	the Cuba Missile Crisis?
+15	A. October 1962.
+16	Q. After the October 1962 Cuban Missile Crisis,
+17	do you know if the Cuban government put any
+18	restrictions on the type of communications that were
+19	being broadcast in Cuba originating from the United
+20	States?
+21	A. Can you repeat the question?
+22	Q. Sure. I guess what I want to find out -- to
+23	your knowledge, did the Cuban government put any type
+24	of media ban or restrictions from information,
+130
+1	originated in the United States entering the island?
+2	A. What I can tell you is that I have seen in
+3	Cuban publications -- Bohemia in particular -- stories
+4	about health issues related to smoking in the United
+5	States which are included in Cuban-printed articles.
+6	Q. That would've been for what timeframe?
+7	A. I can't pinpoint it at this point.
+8	Q. Fair to say that, by 1964 and continuing
+9	through the late 1960s, tensions were very high
+10	between the United States and Cuba politically?
+11	A. In'64?
+12	Q. Yes.
+13	A. I wouldn't say beginning in '64.
+14	Q. No. I'm just saying during that timeframe
+15	that tensions were very high.
+16	A. Between '64 and --
+17	Q. End of 1960s, say '69.
+18	A. Tensions were high certainly, but they were
+19	not as high as they had been before.
+20	Q. When did the first United States Surgeon
+21	General's Report come out?
+22	A. The first?
+23	MR. COTTON: Object to form.
+24	BY MR. PORTAL:
+1	A. As far as tobacco?
+2	Q. As far as tobacco.
+3	A. 1964.
+4	Q. Was there a subsequent report or
+5	recommendations that came out in the 1960s after the
+6	'64 report?
+7	A. Yes, I believe so. I've seen several, yes.
+8	Q. As you sit here today, do you intend to offer
+9	any opinions that the United States Surgeon General's
+10	Report from 1964, and the subsequent material
+11	pertaining to that report, were disseminated in Cuba
+12	during that timeframe?
+13	A. My recollection is that, at the very least in
+14	one instance, there was information on either the
+15	Surgeon General's Report or similar reports being
+16	produced at that time.
+17	Q. What evidence do you have of that?
+18	A. Because I saw it.
+19	Q. What are you talking about? What did you
+20	see?
+21	A. I saw reference to studies. And, again, I'm
+22	not 100 percent sure whether it was specifically on
+23	the '64 report or whether it had to do with actions by
+24	the government after 1964.
+132
+1	to offer opinions that Cuban citizens in Cuba,
+2	including Mr. Suarez, were aware of the United States
+3	1964 Surgeon General's Report in 1964 and continuing
+4	into the late 1960s?
+5	A. Whether they were aware or not?
+6	Q. Correct.
+7	A. I don't have one opinion one way or the other
+8	on that.
+9	Q. That's what I want to find out. You have
+10	opinions regarding public awareness of the health
+11	effects of smoking, right?
+12	A. Yeah.
+13	Q. I just want to make sure that, at trial,
+14	you're not going to offer -- intend to offer any
+15	opinions that Cuban citizens living in Cuba, like
+16	Mr. Suarez, that the U.S. Surgeon General's Report was
+17	part of the general awareness.
+18	MR. COTTON: Object to form,
+19	mischaracterizes.
+20	A. I said previously that, in the Cuba media, I
+21	saw at least one instance in which these studies --
+22	and I'm not sure whether it was exactly the 1964
+23	report --1 would have to go back to my notes -- in
+24	which that coverage appeared in Cuban publications.
+1	Q. When did those publications appear? Are you
+2	talking about publications in 1970s that refer back to
+3	the 1964 report? Are you talking about in 1964?
+4	Specifically what are you talking about and what
+5	document?
+6	A. I'm talking about a publication -- it was
+7	either Bohemia or Granma -- that alluded to studies in
+8	the United States pointing to the fact that smoking
+9	tobacco could lead to a variety of diseases. That I
+10	remember.
+11	Now, you will understand that I have looked
+12	at thousands of documents and I really want to give
+13	you an accurate answer. At this point, I can't give
+14	you an answer as to whether it was in '66 or '69 or
+15	'71 or any other date. I would have to go back to my
+16	materials.
+17	Q. And based on all the materials you reviewed,
+18	you can recall just one instance where such an event
+19	occurred?
+20	A. One printed instance.
+21	Q. So as you sit here today -- you've already
+22	told us this, but I want to make sure -- you don't
+23	intend to offer an opinion that Mr. Suarez, while
+24	living in Cuba, before leaving in 1967, was made aware
+25	of the United States Surgeon General's Report from
+134
+1	1964?
+2	MR. COTTON: Object to form.
+3	A. I don't have a way at this point of making
+4	that kind of statement.
+5	BY MR. PORTAL:
+6	Q. Fair enough. Quickly, do you intend to offer
+7	any opinions regarding the rationing of cigarettes in
+8	Cuba and whether or not that had any impact on
+9	Mr. Suarez?
+10	A. I've read on that topic. I will be ready to
+11	speak to that effect if I'm asked to speak to that
+12	effect.
+13	Q. Here's my opportunity to ask you all the
+14	questions you intend to offer at the time. This is
+15	the one opportunity I have. So what are your opinions
+16	as it pertains to rationing of cigarettes in Cuba as
+17	it pertains to Mr. Suarez?
+18	A. There was rationing of cigarettes beginning
+19	in 1962 when la libreta was established.
+20	Q. Do you know what month?
+21	A. I don't know what month off the top of my
+22	head.
+23	Q. But it started in 1962?
+24	A. That's my best recollection.
+1	A. And I know it rationed cigarettes, as many
+2	other products, and prices were raised, and fewer and
+3	fewer cigarettes were available as provided by the
+4	Cuban government through the rationing system. So the
+5	numbers fell, but prices went up.
+6	Q. Fair to say then that it became more
+7	difficult for Cuban citizens, like Mr. Suarez, to
+8	obtain or access cigarettes?
+9	A. I would say that every family household --
+10	and, of course, it depended on the ages -- was
+11	entitled to purchase cigarettes every month according
+12	to the rationing system.
+13	Q. But, overall, the net effect of the rationing
+14	system was to decrease the access to cigarettes?
+15	A. I don't know if it was a net effect or not.
+16	I know that consumption dropped.
+17	Q. Okay. Do you intend to offer any opinions as
+18	to whether or not American brand cigarettes were still
+19	accessible to Cuban citizens in Cuba post the 1962
+20	embargo and continuing up to the time that Mr. Suarez
+21	left in 1967?
+22	A. Yes, I'm ready to speak to that.
+23	Q. What is your opinion in that regard?
+24	A. My opinion is that -- for a variety of
+136
+1	that smoking, quote, unquote, the enemy's product was
+2	something that was looked very badly upon and it was
+3	even considered treason -- and I read to that effect,
+4	actually, even before that -- beginning in the 1950s.
+5	So there were no --
+6	Q. Did you say 1950s?
+7	A. Yeah, in 1959 begins the campaign -- I'm
+8	sorry -- 1959, there's a campaign, very aggressive, of
+9	"consume Cuban, don't buy US."
+10	Now, they were not accessible at that point
+11	to the Cuban public. And I'm talking about the
+12	embargo. That's my general answer. They were not
+13	accessible to the public.
+14	Q. Do you have an opinion that they were
+15	accessible to Cuban smokers, like Mr. Suarez, either
+16	through the barter system or through the black market
+17	in Cuba?
+18	A. What I can say is that, given all that I know
+19	about the atmosphere, given what I know about the
+20	Committees For the Defense of the Revolution, that
+21	were watchdog organizations controlled by the state,
+22	that it's extremely unlikely that somebody like
+23	Mr. Suarez, who, as I understand from the depositions,
+24	did not have a good relation with the state, would
+137
+1	Q. Why do you say that?
+2	A. For one thing, they were not coming into the
+3	island. It was banned. It was banned not just by the
+4	US embargo, but also Cuban authorities.
+5	Q. What happened to the inventory of American
+6	brand cigarettes that were already existing on the
+7	island before the implementation of the embargo?
+8	A. I'm not sure what happened to it.
+9	Q. Isn't it possible that there was an inventory
+10	of American brand cigarettes prior to the embargo?
+11	For decades, you would agree, American brand
+12	cigarettes were freely sold and distributed in Cuba.
+13	Correct?
+14	MR. COTTON: Object to form, lack of
+15	foundation.
+16	A. American cigarettes were sold in Cuba.
+17	BY MR. PORTAL:
+18	Q. Certainly, even though there was the
+19	implementation of the embargo in 1962 and restrictions
+20	and bans by the Cuban government, there was still
+21	inventory of American products -- not just American
+22	brand cigarettes -- other American products on the
+23	island. Correct?
+24	A. Well, let me go back to what I said earlier.
+138
+1	specifically occurred in 1962 or 1960. I would have
+2	to look at that in detail. Now, the other question is
+3	-- well, I don't know about an inventory to be honest
+4	with you. I don't know how large they were, how long
+5	they would last, if there were any. I can't speak to
+6	an inventory.
+7	Q. So as you sit here today, you just don't know
+8	one way or the other in terms of any inventory of
+9	American cigarettes in Cuba post the 1960 or 1962
+10	embargo for that timeframe. Right?
+11	A. I can't speak to that, no.
+12	Q. Let's switch gears. Oh, wait. Before we do
+13	that -- because I know you're a big polls guy. Do you
+14	intend to offer any opinions regarding polls conducted
+15	of any Cuban smokers in Cuba in the 1950s and 1960s
+16	regarding public awareness about the effects of
+17	smoking?
+18	MR. COTTON: Object to form.
+19	A. At this point, what I can tell you is that
+20	I'm not aware of any of those. I may have seen them,
+21	but at this point, honestly, I don't have --1 can't
+22	tell you whether I have or not.
+23	BY MR. PORTAL:
+24	Q. And, certainly, you haven't formulated any
+139
+1	in Cuba in the 1950s and '60s regarding public
+2	awareness of the effects of smoking?
+3	A. I can't answer that because I'm not sure
+4	whether I've seen them or not.
+5	Q. I understand, Dr. Martinez-Fernandez, but
+6	this is my one time to take your deposition before
+7	trial, so I need to know the opinions that you
+8	formulated and that you intend to offer.
+9	So as you sit today, have you formulated any
+10	opinions based on polls of Cuban smokers in Cuba in
+11	the 1950s and '60s regarding public awareness of the
+12	effects of smoking?
+13	MR. COTTON: Object to form.
+14	A. Let me be as clear as I can. I don't know
+15	whether I've seen them or not. If, for any reason, I
+16	saw them, they're part of the universe of materials
+17	and information that would allow me to reach some
+18	conclusion. But, honestly, I don't know whether I've
+19	seen them or not.
+20	BY MR. PORTAL:
+21	Q. As you sit here today, there's not an opinion
+22	that you specifically formulated based on a particular
+23	poll that you intend to discuss?
+24	MR. COTTON: You're talking about Cuba
+1	MR. PORTAL: Right.
+2	A. Again, the answer is the same. If I've
+3	looked at it, that becomes part of the universe of
+4	information that allows me to reach conclusions. But
+5	I can't make a connection because I don't know for a
+6	fact that I've seen polls of that nature in Cuba.
+7	BY MR. PORTAL:
+8	Q. I understand and appreciate that. What I
+9	don't want is to arrive at trial and be surprised by
+10	testimony from you directly on the stand saying,
+11	"There's a Cuban poll that I've reviewed and I'm
+12	relying on and this is what it says regarding Cuban
+13	smokers and public awareness and health effects in the
+14	1950s and '60s."
+15	If you haven't formulated that opinion as of
+16	today, I can move on. If you have, I need to explore
+17	it. This is my opportunity to do so.
+18	A. As of today, specifically about information
+19	from Cuban polls, I can't tell you one way or another.
+20	About the future, I don't know.
+21	BY MR. PORTAL:
+22	Q. Perfect. Understood. Now we can switch
+23	gears to the United States.
+24	MR. COTTON: We've been going about an
+1	MR. PORTAL: Let's take a quick five.
+2	That's fine.
+3	(Brief recess.)
+4	BY MR. PORTAL:
+5	Q. Dr. Martinez-Fernandez, I want to talk to you
+6	a little bit about the warnings on cigarette packs and
+7	cigarette ads in the United States. Okay?
+8	A. Yes.
+9	Q. To your understanding, when did the first
+10	Surgeon General warnings appear on cigarette packs in
+11	the United States ?
+12	A. They officially came out in January of 1966.
+13	Q. And what happened in 1970 regarding the
+14	warning on cigarette packs in the United States?
+15	A. The warning was changed and it was
+16	strengthened.
+17	Q. Do you agree that the warning in 1970 said,
+18	"The Surgeon General has determined that cigarette
+19	smoking is dangerous to your health"?
+20	A. I recall that to be the text.
+21	Q. When were warnings placed on cigarette
+22	advertisements in print media in the United States?
+23	A. I believe that was in 1971 or '73.
+24	Q. I represent to you that it appears, from the
+142
+1	documents that the warnings appeared on the print ads
+2	in 1972.
+3	Does that refresh your recollection at all?
+4	A. It does. It's between '71 and '73.
+5	Q. Okay. The warnings that came out on the
+6	cigarette packs in 1966 and then it was changed in
+7	1970 up until 1972 -- so during that timeframe -- are
+8	you with me?
+9	A. Yes.
+10	Q. All of those warnings on the cigarette packs
+11	were in the English language, correct?
+12	A. The warnings were in English.
+13	Q. When was it that the warnings on cigarette
+14	packs were first made in the Spanish language in the
+15	United States?
+16	A. I don't have that information.
+17	Q. When was it, to your knowledge, that the
+18	warnings on the print cigarette advertisements were
+19	made in the Spanish language version?
+20	A. I'm not aware of that fact.
+21	Q. You are aware that Mr. Suarez came to the
+22	United States in 1967, correct?
+23	A. '67, yes.
+24	Q. When he came to the United States, he
+25	initially lived in New Jersey, where he resided until
+143
+1	sometime approximately in 1973?
+2	A. Correct.
+3	Q. Then, in 1973, Mr. Suarez relocated to Miami,
+4	Florida, where he remained living with his family up
+5	until the time of his untimely death in January 1996.
+6	Correct?
+7	A. Correct.
+8	Q. So from the time that Mr. Suarez first
+9	arrived in the United States in 1967, and let's just
+10	say up until 1972 or '73, when he was in New Jersey,
+11	to your knowledge -- first of all, he was smoking
+12	Winston brand cigarettes during that timeframe.
+13	Right?
+14	MR. COTTON: Object to form, lack of
+15	foundation.
+16	A. Winston? I recall that was the case.
+17	BY MR. PORTAL:
+18	Q. So assuming that he was smoking Winston brand
+19	cigarettes during that timeframe, each of those
+20	cigarettes packs that he would have purchased and
+21	consumed, none of the warnings would've been in the
+22	Spanish language?
+23	MR. COTTON: Object to form.
+24	A. The warnings may have not been in Spanish,
+144
+1	about those warnings. And, if I recall correctly,
+2	there was information in the depositions that his wife
+3	and he saw information on those warnings on TV and
+4	they discussed them. That's my recollection.
+5	As far as the language of the signs -- I'm
+6	sorry -- the warnings -- at that time, they were in
+7	English.
+8	BY MR. PORTAL:
+9	Q. Thank you for that answer. But specifically
+10	as to my question, during that timeframe, the
+11	cigarette packs that Mr. Suarez would have purchased
+12	and consumed in the United States in that earlier
+13	portion of 1967 to '72 would not have been in the
+14	Spanish language. Correct?
+15	MR. COTTON: Object to form.
+16	A. Not in the Spanish language.
+17	BY MR. PORTAL:
+18	Q. Now, you've had an opportunity to look at
+19	various Spanish language newspapers and magazines in
+20	the United States from the late 1960s through the
+21	1970s, 1980s and through the 1990s. Correct?
+22	A. I believe in some cases it goes back to the
+23	'50s. Yes.
+24	Q. My questions to you are -- since we know
+145
+1	1967,1 want to kind of just limit it to the timeframe
+2	that he would've been living in the United States --
+3	1967 to 1996. Okay?
+4	A. Okay.
+5	Q. So during that timeframe, are you aware that
+6	there were cigarette advertisements in Spanish
+7	language in both magazines and newspapers in
+8	New Jersey and in Miami, Florida, where Mr. Suarez had
+9	lived -- correct -- for American brand cigarettes?
+10	A. Where Mr. Suarez had lived?
+11	Q. He's no longer with us today. He's deceased.
+12	A. My question is about the timeframe. Because
+13	originally you asked about New Jersey, but now the
+14	question includes all the way up until '96.
+15	Q. Fair enough. Let me break it down for you.
+16	Were you aware of cigarette advertisements in Spanish
+17	language newspapers in the New Jersey market where
+18	Mr. Suarez resided between '67 and '73?
+19	A. Spanish language advertising, I don't recall
+20	having seen that in actual newspapers, so the answer
+21	is no.
+22	Q. Were you aware of any advertising in Cuban
+23	magazines -- strike that. Were you aware of any
+24	advertising in Spanish language magazines in the
+146
+1	A. '67 to'73?
+2	Q. Yes.
+3	A. I'm not sure for that specific period that
+4	you're talking about.
+5	Q. Okay. Fair enough.
+6	(Plaintiffs' Exhibit 25 was marked for
+7	identification.)
+8	BY MR. PORTAL:
+9	Q. I will represent to you these are cigarette
+10	advertisements for RJ. Reynolds' Winston cigarettes
+11	in the Spanish language that were produced by Christy
+12	Garner, R.J. Reynolds' corporate representative,
+13	during the course of her deposition taken in this
+14	case. These are examples of ads from 1967 through
+15	'75.
+16	A. I'm sorry. I have a question about the
+17	markings at the very top -- what they mean. APP, I
+18	think--
+19	Q. Approved January 30, 1967, if I'm reading --
+20	I don't know if it's 30 or 31. I believe it's 30.
+21	Then received, looks like, 3/7/67. For purposes of
+22	the record, I'll just represent to you that these were
+23	produced by Ms. Garner and authenticated as R.J.
+24	Reynolds approved cigarette ads that were in the
+1	A. So they were printed?
+2	Q. Correct.
+3	MR. COTTON: Object to form, lack of
+4	foundation.
+5	A. I don't know whether this is an actual ad or
+6	a proof because there's some information at the
+7	bottom.
+8	BY MR. PORTAL:
+9	Q. Again, I'll ask you -- for the purposes of my
+10	questions, I'll represent to you that these were ads
+11	produced to us at the deposition of a corporate
+12	representative for RJ. Reynolds as actual approved
+13	advertisements that were actually distributed, went
+14	into print in the United States during that
+15	timeframe -- during the referenced timeframe.
+16	A. But my question is: Is the full document
+17	what was printed? Because there's some information at
+18	the bottom that I don't think would've been printed.
+19	Q. The information that's provided on the bottom
+20	is an indication of who the advertisement was prepared
+21	by, which, in this case, is William Esty Company. Do
+22	you recall I asked you questions about that before
+23	about the advertising company? Do you see that?
+24	A. Yes.
+148
+1	indicates the media in which it was printed. In this
+2	case, the first one you're looking at is El Diario la
+3	Prensa, 1967.
+4	A. Again, my point is -- and I understand what
+5	you're saying -- my point is that I can't view this
+6	whole thing as an ad, because my understanding would
+7	be that the bottom -- certainly what's at the very
+8	bottom -- would not appear in an ad.
+9	Q. Certainly.
+10	A. So it's a proof.
+11	Q. It's a proof of what was ultimately sent to
+12	print in the media.
+13	MR. COTTON: Object to form, lack of
+14	foundation. It is what it is. Whatever the
+15	evidence shows, it shows. Maybe it would
+16	help if you gave him an idea of what you're
+17	going to ask him and we can move on.
+18	MR. PORTAL: Sure.
+19	BY MR. PORTAL:
+20	Q. The point being, Dr. Martinez-Fernandez, is
+21	that you're aware, are you not, that during that
+22	timeframe in the late '60s and 1970s, R.J. Reynolds
+23	was advertising to Spanish-speaking Hispanic smokers
+24	in the United States?
+149
+1	A. I have not seen ads like this or similar ads
+2	for that period in the Spanish language press. Of
+3	course, I've seen for later periods in El Herald, for
+4	example. So these proofs are the first evidence to
+5	that effect that I have seen.
+6	BY MR. PORTAL:
+7	Q. For example, you can turn to page four of
+8	Composite Exhibit 25.
+9	A. Page four.
+10	Q. There you go. And you see, handwritten on
+11	the bottom, it says, "Miami, Florida, Diario Las
+12	Americas, it's got a number and then it says March 8,
+13	1971 and April 5, 1971. Do you see that?
+14	A. I'm sorry. I don't see that. It says
+15	Spanish language newspapers --
+16	Q. Right here.
+17	A. Oh, by hand -- Los Angeles City, El Diario La
+18	Prensa --1 see those notes in writing -- which are
+19	not part of the ad -- for the proof.
+20	Q. So certainly you're aware and recognize
+21	Diario Las Americas was a Spanish language newspaper
+22	published in Miami, Florida. Correct? And still is.
+23	A. Yes.
+24	Q. And you've had the opportunity to look at and
+150
+1	it changed names to El Nuevo Herald in Miami, Florida.
+2	Correct?
+3	A. Yes.
+4	MR. COTTON: Object to form.
+5	BY MR. PORTAL:
+6	Q. As was Diario Las Americas, the Spanish
+7	language newspaper in Miami, Florida, for this period
+8	of time in the 70s and '80s, as well as the 1990s.
+9	Correct?
+10	A. Yes.
+11	Q. And certainly you're aware, during this early
+12	time in the early '70s, that there were in fact
+13	Winston cigarette advertisements in these Spanish
+14	language newspapers. Correct?
+15	A. I don't recall having seen them. What you're
+16	showing me is what I have as far as those ads. What I
+17	can tell you is that, of course, if these ads
+18	appeared, they appeared in a context of a newspaper
+19	that carried a lot of stories and many stories
+20	pertaining to the health consequences of smoking and
+21	some other ads for smoking cessation. So I would like
+22	to place these proofs in the context of that.
+23	(Plaintiffs' Exhibit 26 was marked for
+24	identification.)
+1	Q. Let me then attach the next numbered exhibit,
+2	which will be Exhibit 26, to your deposition. Now, as
+3	reflected on Exhibit 26 to your deposition, I'll
+4	represent to you that this is another cigarette ad for
+5	Winston and Winston Light cigarettes, and, as
+6	reflected on page two, prepared by the William Esty
+7	Company for R.J. Reynolds, and that this appeared in
+8	both the El Miami Herald on March 1, 1982, and Diario
+9	Las Americas on March 1, 1982.
+10	Do you see that?
+11	MR. COTTON: Object to form. The
+12	document speaks for itself.
+13	A. I see that.
+14	BY MR. PORTAL:
+15	Q. And this is a Spanish language advertisement
+16	for Winston, right?
+17	A. The advertising is in Spanish and so is the
+18	warning from the Surgeon General.
+19	Q. Now, is this the type of ad that you would
+20	have seen in your review of El Miami Herald and Diario
+21	Las Americas during this timeframe in the early 1980s?
+22	MR. COTTON: Object to form, lack of
+23	foundation.
+24	A. I have seen similar ads in El Miami Herald.
+1	Q. Have you also seen ads for Philip Morris's
+2	Marlboro brand cigarettes in Spanish language both in
+3	El Miami Herald or El Nuevo Herald, Diario Las
+4	Americas and other Spanish print media in the Miami
+5	market?
+6	MR. COTTON: Object to form.
+7	A. I believe I have.
+8	(Plaintiffs' Exhibit 27 was marked for
+9	identification.)
+10	BY MR. PORTAL:
+11	Q. Now, what's been attached as composite
+12	Exhibit 27 to your deposition, is this examples of the
+13	type of Philip Morris cigarette advertisement for its
+14	Marlboro brand products for the Hispanic market in the
+15	United States?
+16	MR. COTTON: Object to form.
+17	A. The first thing that I would like to say is
+18	that, what appears at the very top, it is illegible
+19	and I would have liked to be able to tell what it
+20	says. The second thing is that it's hard to judge,
+21	because this is an illustration of the ad itself, and
+22	it's hard to tell the size and the placement and if it
+23	actually appeared in any newspaper at all. There's no
+24	information about that, so I wanted to put that first.
+1	Q. I'll represent to you that these are ads that
+2	were produced at the time of Jeanne Bonhomme's
+3	deposition, who's the corporate representative for
+4	advertising for Philip Morris USA regarding Spanish
+5	marketing in the United States, and specifically
+6	advertising in the Miami market from the 1980s to
+7	1996.
+8	With that predicate in mind, my question
+9	simply is: Is this the type of example of ads that
+10	you would have seen in the Spanish newspapers or
+11	magazines, particularly in magazines, in the Spanish
+12	market in Miami?
+13	MR. COTTON: Object to form.
+14	A. I don't recall magazines. I have seen
+15	something similar to this in the Herald publications.
+16	BY MR. PORTAL:
+17	Q. Miami Herald?
+18	A. Miami Herald--El Miami Herald. That's my
+19	recollection that I've seen some things similar to
+20	this. Again, it's hard to tell because this is not
+21	the newspaper itself.
+22	But what I would like to underscore is the
+23	fact that, when I saw something along these lines, I
+24	saw that in a context of a newspaper that carried
+154
+1	smoking and also events by La Liga Contra el Cancer
+2	and also cessation clinics and also ads for a variety
+3	of products. So I want to place that in the context
+4	of the entire publication.
+5	Q. You've indicated -- now you've said it a
+6	couple of times, so let's just explore that -- that in
+7	the context of the newspaper and the print media that
+8	you saw, you saw, one, numerous articles to the health
+9	hazards about smoking, articles from La Liga Contra el
+10	Cancer and articles about smoking cessation. Correct?
+11	A. Smoking cessation, both articles and ads --
+12	could you repeat the list again?
+13	Q. Sure. From what I wrote down that you just
+14	told us -- and you said this numerous times throughout
+15	your deposition -- in order to put these ads in
+16	context, as you said, there was also numerous articles
+17	regarding the health hazards about smoking, articles
+18	or some reference to La Liga Contra el Cancer and
+19	smoking cessation articles and ads.
+20	Did I get that right?
+21	A. I included the word clinics, I believe.
+22	Q. Clinics, okay. Smoking cessation clinics.
+23	All right. And you're saying these are articles and
+24	ads that were in Spanish newspapers in Miami,
+155
+1	are we talking about?
+2	A. I'm talking '70s -- I'm talking about the
+3	articles.
+4	Q. Sure.
+5	A. They go as far as back as the '50s regarding
+6	the other Spanish language newspaper.
+7	Q. Understood, but Mr. Suarez wasn't here in the
+8	'50s. So let's just stick --
+9	A. From '73 on. Yeah, that's correct. Those
+10	kinds of articles and ads.
+11	Q. So in the 1980s?
+12	A. 1980s.
+13	Q. And 1990s, up to the time of Mr. Suarez's
+14	death in '96?
+15	A. That's correct.
+16	Q. To put it in context, Dr. Martinez-Fernandez,
+17	in all the articles, all the newspapers, all the
+18	magazines that you reviewed from the 1970s, 1980s,
+19	1990s, leading up to 1996, can you point me to one ad,
+20	article published by -- first let's start with R.J.
+21	Reynolds Tobacco Company regarding the health hazards
+22	of smoking its products?
+23	A. An article -- did you say article or ad?
+24	Q. Either.
+156
+1	and health?
+2	Q. On the health effects of smoking in Spanish
+3	language in any of these magazines or newspapers that
+4	you just referenced?
+5	MR. COTTON: Form.
+6	A. I do not recall seeing that at all.
+7	BY MR. PORTAL:
+8	Q. Do you recall ever seeing any ad, public
+9	statement, article, published or issued by R.J.
+10	Reynolds Tobacco Company during this timeframe, in any
+11	Spanish language media in the Miami metropolitan area
+12	stating that cigarette smoking is a leading cause of
+13	preventible death in the United States?
+14	A. A statement from?
+15	Q. From R.J. Reynolds.
+16	A. No.
+17	Q. Do you recall seeing in any Spanish print
+18	media published in the Miami metropolitan area from
+19	R.J. Reynolds that cigarette smoking significantly
+20	increases the risk of developing lung cancer?
+21	MR. COTTON: Object to form.
+22	A. I have seen ads for cigarettes that include
+23	those kinds of warnings, so that makes me rethink my
+24	answer to the previous questions, because the warnings
+157
+1	other companies.
+2	BY MR. PORTAL:
+3	Q. You understand that Reynolds Tobacco Company,
+4	as well as Philip Morris, from the 1960s, 70s, '80s,
+5	including up to the time that they testified before
+6	Congress in the 1990s, denied that smoking cigarettes
+7	caused lung cancer and that nicotine in tobacco
+8	products is addictive. Right?
+9	MR. COTTON: Object to form, lack of
+10	foundation.
+11	A. I would have to see a document to that
+12	effect. I do recall statements calling for further
+13	research. I do recall statements that are criticisms
+14	of the research and they're calling for more research,
+15	which, by the way, is the same thing that the actual
+16	researchers were also calling for, but I don't recall
+17	that wording.
+18	BY MR. PORTAL:
+19	Q. In fact, you can't point to any single
+20	document in any Spanish language print media that was
+21	issued by R.J. Reynolds Tobacco Company or Philip
+22	Morris Tobacco Company admitting that nicotine in
+23	tobacco products is addictive prior to Mr. Suarez's
+24	death in 1996. Correct?
+158
+I	Q. In fact, you cannot --
+2	A. Well, I should take that back, because, as I
+3	said earlier, in the ads, there are warning labels
+4	that speak to that.
+5	Q. And I'm not talking about the U.S. Surgeon
+6	General's warning labels that the tobacco companies
+7	were forced to put on their advertisements and
+8	cigarette packs. I'm talking about public statements
+9	and admissions by these two tobacco companies, Philip
+10	Morris and R.J. Reynolds, prior to Mr. Suarez's death
+II	in 1996, publically admitting that nicotine in tobacco
+12	products is addictive. You can't point to any such
+13	document, can you?
+14	MR. COTTON: Object to form, asked and
+15	answered.
+16	A. I don't recall having seen anything like
+17	that.
+18	BY MR. PORTAL:
+19	Q. Can you point us to any document in any
+20	Spanish language, print media, newspaper, including El
+21	Nuevo Herald, or Diario Las Americas or any other,
+22	where Philip Morris agreed with the overwhelming
+23	medical and scientific consensus that cigarette
+24	smoking causes lung cancer, heart disease, emphysema
+159
+1	Mr. Suarez's death in 1996?
+2	MR. COTTON: Object to form.
+3	A. I don't recall anything beyond the warning
+4	labels.
+5	BY MR. PORTAL:
+6	Q. Was there any public statement in any Spanish
+7	language media issued by Philip Morris admitting that
+8	there's no safe cigarette prior to Mr. Suarez's death
+9	in 1996?
+10	MR. COTTON: Object to form.
+11	A. I don't recall having seen that.
+12	BY MR. PORTAL:
+13	Q. Do you recall seeing any public statement
+14	issued by Philip Morris Tobacco Company, prior to
+15	Mr. Suarez's death in 1996, in any Spanish language
+16	media where they publically agreed with the
+17	overwhelming medical and scientific consensus that
+18	cigarette smoking is addictive?
+19	MR. COTTON: Object to form.
+20	A. I don't recall having seen that.
+21	BY MR. PORTAL:
+22	Q. Are you aware of any Hispanic marketing
+23	programs, first of all, that were initiated by R.J.
+24	Reynolds to target Hispanic smokers, in particular
+160
+1	MR. COTTON: Object to form.
+2	A. I'm not aware of any specific program, no.
+3	BY MR. PORTAL:
+4	Q. Were you aware of any specific advertising
+5	campaigns or programs by Philip Morris to target
+6	Hispanic smokers, particularly Cuban smokers in the
+7	Miami market?
+8	MR. COTTON: Object to form.
+9	A. I'm not aware of any specific programs.
+10	BY MR. PORTAL:
+11	Q. Were you aware of Philip Morris's sponsorship
+12	of Hispanic outdoor festivals and events, like the
+13	Calle Ocho in Miami, Florida, during the 1980s and
+14	early'90s?
+15	MR. COTTON: Object to form.
+16	A. I don't recall having seen that.
+17	BY MR. PORTAL:
+18	Q. Do you have any opinions regarding the public
+19	awareness of Philip Morris's Marlboro brand
+20	advertising in the Hispanic community in Miami during
+21	the 1980s and 1990s?
+22	MR. COTTON: Object to form.
+23	A. People's awareness?
+24	BY MR. PORTAL:
+1	A. Public awareness? I'm not aware of that at
+2	all.
+3	Q. Do you have any opinions regarding the public
+4	awareness of R.J. Reynolds' Winston brand cigarettes
+5	in the Hispanic community both in Elizabeth, New
+6	Jersey and Miami, Florida between 1967 to '73 and
+7	subsequently, '73 to '96?
+8	A. I'm not aware of that.
+9	MR. PORTAL: Let's mark these as Exhibits
+10	28, 29 and 30.
+11	(Plaintiffs' Exhibits 28, 29 and 30 were
+12	marked for identification.)
+13	THE WITNESS: Should I read all three of
+14	them?
+15	MR. PORTAL: Might as well so we can get
+16	through it.
+17	MR. COTTON: Each of those documents are
+18	relatively long. Maybe it makes sense to go
+19	one at a time.
+20	MR. PORTAL: Whatever you feel more
+21	comfortable with.
+22	THE WITNESS: My preference would be one
+23	at a time.
+24	BY MR. PORTAL:
+162
+1	seen this document before?
+2	A. Never.
+3	Q. So you've testified as an expert for the
+4	tobacco industry for approximately the last 12-plus
+5	years, correct?
+6	MR. COTTON: Object to form.
+7	A. Approximately.
+8	BY MR. PORTAL:
+9	Q. And what's been marked as Exhibit 28 is a
+10	document by R.J. Reynolds Tobacco Company stating,
+11	"Can we have an open debate about smoking?"
+12	Do you see that's what it's entitled?
+13	A. I can't see the date fully. Is it 1984?
+14	Q. Yes, sir.
+15	A. Okay.
+16	Q. And I'll represent to you that this document
+17	is a statement issued by R.J. Reynolds in response to
+18	the U.S. Surgeon General's Report of 1984.
+19	You're aware that there was a Surgeon
+20	General's Report that came out in that year, correct?
+21	MR. COTTON: Object to form.
+22	A. I remember that.
+23	BY MR. PORTAL:
+24	Q. For the record, Exhibit 28 is Bates-numbered
+1	A. Correct.
+2	Q. Earlier in your testimony, you talked about
+3	that you were aware of certain statements by the
+4	tobacco industry -- in particular, the defendants in
+5	this case -- about there being a debate about smoking
+6	and medicine and addiction and the health consequences
+7	of smoking. Do you recall that?
+8	MR. COTTON: Object to form,
+9	mischaracterizes prior testimony.
+10	A. I don't recall having used the word "debate,"
+11	so I'd like to be clear and hear from the record, if
+12	possible, what I said.
+13	BY MR. PORTAL:
+14	Q. Well, the record will speak for itself. Are
+15	you aware that the tobacco industry, particular R.J.
+16	Reynolds and Philip Morris, in the '70s, and even in
+17	the 1980s, continued to present an open question as to
+18	the health effects of smoking, in particular as it
+19	pertains to their health product. Correct?
+20	MR. COTTON: Object to form, lack of
+21	foundation.
+22	A. According to this document -- and I don't
+23	know if this was ever published or who it reached --
+24	so I'm not aware of the nature of this document. But
+164
+1	of the things that is stated is that the issue of
+2	tobacco and health is not a closed issue.
+3	BY MR. PORTAL:
+4	Q. You understand, based on your review as an
+5	expert testifying in this litigation over the past
+6	12 years and earning close to over $600,000, as you
+7	told us earlier, that the tobacco companies and the
+8	tobacco industry during this timeframe had continued
+9	to dispute the Surgeon General's Report findings and
+10	continued to debate whether or not smoking of its
+11	products caused health consequences and whether or not
+12	nicotine was addictive. Right?
+13	MR. COTTON: Object to form, lack of
+14	foundation.
+15	A. I never used the word "disputed" or anything
+16	along those lines.
+17	BY MR. PORTAL:
+18	Q. Pick the word you like. I don't want to put
+19	words in your mouth. Whatever you feel comfortable
+20	with. You were aware that that's what was going on,
+21	right?
+22	MR. COTTON: Object to form.
+23	A. I am aware that there were comments
+24	attributed to tobacco companies about research and
+1	BY MR. PORTAL:
+2	Q. And comments -- they weren't just closed-door
+3	comments -- there were open public statements made by
+4	tobacco companies to its consumers -- to the American
+5	public -- regarding an open question as to whether or
+6	not smoking cigarettes containing nicotine, A, caused
+7	deleterious health effects, and, B, was addictive.
+8	Right?
+9	MR. COTTON: Object to form and
+10	foundation.
+11	A. What I was referring to were stories in
+12	newspapers, for example, that included quotations of
+13	the industry's perspective.
+14	BY MR. PORTAL:
+15	Q. So from a historian's perspective, in the
+16	1970s and 1980s, what was the tobacco industry's
+17	position on the health effects of smoking and whether
+18	or not smoking cigarettes containing nicotine was
+19	addictive?
+20	MR. COTTON: Object to form, lack of
+21	foundation.
+22	A. Based on this document, they had been sort of
+23	silent and there are a couple of places where it says
+24	that they should have been more vocal. That's
+1	BY MR. PORTAL:
+2	Q. Vocal in what regard?
+3	A. Could I read it again?
+4	Q. Sure.
+5	MR. COTTON: It's unclear to me what the
+6	pending question is.
+7	BY MR. PORTAL:
+8	Q. I asked you as a predicate question,
+9	Dr. Martinez-Fernandez -- you reviewed literally
+10	hundreds, if not thousands, of pages of documents,
+11	magazines, newspapers, regarding the health effects of
+12	smoking in the United States, both in the '60s, '70s,
+13	'80s and '90s. Correct?
+14	A. Definitely thousands.
+15	Q. Right. Of all those thousands of pages that
+16	you reviewed during the '60s, '70s, '80s and 1990s,
+17	leading up to 1996, the date of Mr. Suarez's death,
+18	did you ever see any document issued by the tobacco
+19	companies in the public statements, like the one
+20	before you, where it -- meaning the tobacco company --
+21	admitted that smoking cigarettes containing nicotine
+22	resulted in deleterious health effects, like lung
+23	cancer, heart disease and emphysema?
+24	MR. COTTON: Object to form.
+1	Q. I'm not talking about the Surgeon General's
+2	Reports that they were required to put on their ads.
+3	I'm talking about public statements like the one in
+4	front of you.
+5	MR. COTTON: Object to form.
+6	A. Can you repeat the question one more time?
+7	BY MR. PORTAL:
+8	Q. Sure. Clearly, you're a historian and the
+9	scope of the areas that you testify about is public
+10	awareness of tobacco-related disease and smoking.
+11	Right?
+12	A. Yes.
+13	Q. All right. So you talk about all the stuff
+14	that was in the print media and the public domain
+15	about how smoking was bad, right? That's what you
+16	looked at. And what people knew about how smoking was
+17	not a good thing for you; that it had deleterious
+18	health effects. Right?
+19	A. I looked at everything.
+20	Q. So looking at everything, did you see any
+21	statements from any of the tobacco companies -- in
+22	particular, R.J. Reynolds and Philip Morris -- prior
+23	to 1996 conceding and admitting to the deleterious
+24	health effects of its cigarette products ?
+168
+1	answered.
+2	A. I don't recall seeing that.
+3	BY MR. PORTAL:
+4	Q. Now, further to that, did you see any
+5	affirmative statements by the tobacco companies -- in
+6	particular, R.J. Reynolds and Philip Morris --
+7	creating questions or doubts as to whether or not
+8	there was a consensus that smoking its cigarette
+9	products caused deleterious health effects and that
+10	nicotine in cigarettes was addictive prior to 1996?
+11	MR. COTTON: Object to form.
+12	A. I recall questions about the methods. I
+13	don't recall anything about a consensus, as you
+14	phrased the question.
+15	BY MR. PORTAL:
+16	Q. Now, this document, Exhibit 28, it's your
+17	testimony that prior to today, October 11, 2013, you
+18	have never seen this document. Correct?
+19	A. I don't recall having ever seen this
+20	document.
+21	Q. So is it fair to say then that you would have
+22	seen never seen a Spanish language version of this
+23	document prior to today?
+24	MR. COTTON: Object to form.
+169
+1	English or in Spanish.
+2	BY MR. PORTAL:
+3	Q. So now let's turn to Exhibits 29 and 30 and
+4	ask you to take a look at them and let me know if you
+5	had ever seen them prior to today.
+6	A. Okay, I read it.
+7	BY MR. PORTAL:
+8	Q. Great. So Exhibit 29, this is a May 16, 1988
+9	press release from the Tobacco Institute. First of
+10	all, are you familiar with this document? Have you
+11	seen this ?
+12	A. I've never seen this document.
+13	Q. Are you familiar with the Tobacco Institute?
+14	A. Yes.
+15	Q. What is the Tobacco Institute to your
+16	knowledge?
+17	A. Tobacco Institute is a trade organization for
+18	tobacco producers -- I'm sorry -- cigarette producers.
+19	Q. To your knowledge, the cigarette
+20	manufacturing companies in the United States -- in
+21	particular, Philip Morris and R.J. Reynolds -- for
+22	lack of a better term, supported or sponsored the
+23	Tobacco Institute. Correct?
+24	MR. COTTON: Object to form.
+170
+1	BY MR. PORTAL:
+2	Q. This release that's been marked as Exhibit 29
+3	to your deposition, I'll represent to you is a
+4	response from the tobacco industry to the Surgeon
+5	General's Report of 1988.
+6	First of all, are you aware that there was a
+7	subsequent Surgeon General's Report in 1988 regarding
+8	tobacco-related diseases and consequences of smoking?
+9	A. Yes.
+10	Q. Again, based on this document, it's a
+11	statement issued by the tobacco industry -- in
+12	particular, the defendants in this case -- indicating
+13	that claims by the United States Government,
+14	particularly the Surgeon General -- that cigarettes
+15	are addictive is irresponsible and scare tactics.
+16	Were you aware of that response by the
+17	tobacco industry to the 1988 Surgeon General's Report?
+18	A. I have some questions about the document that
+19	I'd like to address.
+20	Q. Go ahead.
+21	A. One of them is, I don't see who the author
+22	is. It says here "for release." You characterize it
+23	as a press release. I don't see anything to that
+24	effect. Then there's sort of a contradictory
+171
+1	document, I don't know who produced it, for what
+2	purpose and for what audience.
+3	Q. Well, Dr. Martinez-Fernandez, you're the
+4	expert on the public awareness of tobacco-related
+5	health effects in the United States, in particular,
+6	certainly, by 1988. You've researched it, you've
+7	testified to it. You're an expert in that area,
+8	correct?
+9	A. Yeah. First you said I'm the expert.
+10	Q. An expert.
+11	A. An expert, yes, that would be accurate.
+12	Q. That's what you hold yourself out to be -- an
+13	expert on what was the public awareness -- what
+14	statements and documents were in the public domain
+15	regarding the health consequences of smoking
+16	cigarettes in the United States. Correct?
+17	A. That's accurate.
+18	Q. So you're aware of the U.S. Surgeon General's
+19	Report from 1988 claiming that nicotine in cigarettes
+20	is addictive, right?
+21	A. Yeah. I believe it was Dr. Koop.
+22	Q. By the same token, are you aware of public
+23	statements made by the tobacco industry, including
+24	defendants R.J. Reynolds and Philip Morris, in and
+111
+1	General's claims where they denied that cigarettes
+2	containing nicotine were addictive?
+3	MR. COTTON: Object to form, lack of
+4	foundation.
+5	A. I don't recall having read anything to that
+6	effect.
+7	BY MR. PORTAL:
+8	Q. So you only recall articles and statements
+9	made by everyone else but the tobacco industry
+10	regarding the health effects of smoking?
+11	MR. COTTON: Object to form,
+12	mischaracterizes prior testimony.
+13	BY MR. PORTAL:
+14	Q. Is that what your testimony is?
+15	A. No, that's not what I'm saying. What I'm
+16	saying is -- and I think the record will reflect
+17	that -- that there were statements by the tobacco
+18	company that appeared as part of news stories and that
+19	was clearly there where I saw it. It was by far a
+20	minority of the stories that carried those messages
+21	from the tobacco companies.
+22	Now, anything along those lines, I don't
+23	recall having ever seen -- or a specific statement by
+24	the tobacco companies that appeared in any of the
+173
+1	like this.
+2	Q. Well, let's take a look at Exhibit 30. This
+3	is a statement from Philip Morris USA that's before
+4	you. It's Bates-numbered 500846023.
+5	A. Yes.
+6	Q. Do you see that? Take a look at it and I'm
+7	going to ask you some follow-up questions.
+8	A. I read it.
+9	Q. Dr. Martinez-Fernandez, prior to today, have
+10	you ever seen a copy of this document and what's
+11	contained in it published by Philip Morris in any of
+12	the public media that you reviewed as an expert in
+13	litigation?
+14	A. I have not.
+15	Q. Are you aware the the CEOs of the major
+16	tobacco companies testified before Congress in what
+17	was called the Waxman hearings?
+18	A. Yes.
+19	Q. You're aware that, during that testimony
+20	before Congress, each of the CEOs of the major tobacco
+21	companies -- in particular, the CEOs of R.J. Reynolds
+22	and Philip Morris, the defendants in this case --
+23	testified that they did not believe that cigarette
+24	smoking is addictive?
+174
+1	do remember that they stood up before Congress, I
+2	believe, and presented their perspective, but I don't
+3	recall that particular wording.
+4	Q. Do you recall the CEOs of each of the
+5	defendant companies -- in particular, the defendants
+6	R.J. Reynolds and Philip Morris -- testifying at the
+7	Waxman hearings where they denied any harmful effects
+8	as a result of smoking any of their cigarette
+9	products ?
+10	MR. COTTON: Object to form.
+11	A. I don't remember that they used that kind of
+12	language. I do know that these hearings happened and
+13	they were there in defense of their products. The
+14	language, I don't remember.
+15	BY MR. PORTAL:
+16	Q. All right. Well, let me ask it this way.
+17	Based on what you know of what the CEOs of R.J.
+18	Reynolds and Philip Morris testified to before the
+19	United States Congress during the Waxman hearings, did
+20	they ever admit or concede, under oath at that time,
+21	that smoking their cigarettes was harmful to smokers'
+22	health or that smoking cigarettes is addictive?
+23	MR. COTTON: Object to form, lack of
+24	foundation.
+1	BY MR. PORTAL:
+2	Q. Now, this document that's before you,
+3	Exhibit 30, do you see at the bottom that this is a
+4	statement by Philip Morris -- and it references other
+5	US tobacco manufacturers as well -- speaking before a
+6	congressional committee. Do you see that at the top
+7	of the page?
+8	A. Yes.
+9	Q. And what it says here is that, "Philip Morris
+10	and other US tobacco manufacturers helped to set the
+11	record straight." That's their statement, right?
+12	MR. COTTON: Object to form.
+13	A. Is that at the top?
+14	BY MR. PORTAL:
+15	Q. Second sentence, third line down.
+16	A. It says, "set the record straight." About
+17	what, it doesn't specify.
+18	Q. It's got a colon and then it lists
+19	underneath, "facts." Right?
+20	A. Yes.
+21	Q. And the last two facts, big and bold, it
+22	says, "Philip Morris does not believe cigarette
+23	smoking is addictive." Do you see that?
+24	MR. COTTON: Object to form. The
+1	A. That's what it says.
+2	BY MR. PORTAL:
+3	Q. And you understood, based on your review of
+4	the documents in the public domain in testifying as an
+5	expert in the tobacco litigation, that, prior to 1996,
+6	it was Philip Morris's public position that cigarette
+7	smoking is not addictive. Correct?
+8	MR. COTTON: Object to form, lack of
+9	foundation.
+10	A. I can only speak based on this statement,
+11	taking it within the context of everything else that
+12	it says, and not knowing when and where and if this
+13	was published at all, so I can't call it a public
+14	statement.
+15	BY MR. PORTAL:
+16	Q. Dr. Martinez-Fernandez, based on all the
+17	thousands of pages that you've reviewed in the United
+18	States regarding public awareness and statements in
+19	the public domain, do you agree that it was Philip
+20	Morris's public position that it did not believe
+21	cigarette smoking is addictive prior to 1996?
+22	MR. COTTON: Object to form, lack of
+23	foundation.
+24	A. I don't recall having seen that in the
+1	BY MR. PORTAL:
+2	Q. To your knowledge, at any time, did Philip
+3	Morris issue any public statements in the public
+4	domain stating that it believed that cigarette smoking
+5	is addictive prior to 1996?
+6	A. The same answer. I don't recall having seen
+7	that.
+8	Q. Same for R.J. Reynolds. Based on all of the
+9	thousands of documents that you reviewed, did you ever
+10	see any public statement by R.J. Reynolds prior to
+11	1996 saying that it believes cigarette smoking is
+12	addictive?
+13	A. I have not seen that.
+14	Q. So now let me show you then what we're going
+15	to mark as the last exhibit to your deposition,
+16	hopefully. Actually, it will be Exhibits 31 and 32.
+17	A. May I add something to this discussion?
+18	Q. You certainly may.
+19	A. Okay. That is, as a historian -- and you
+20	know this better than I do -- as a lawyer, you have to
+21	look at the document in its entirety.
+22	And, here, the issue that is being raised is
+23	the comparison of cigarette smoking as an addiction
+24	compared to drugs. So I think that's an important
+178
+1	Q. What do you mean by that?
+2	A. Well, the statement that you asked me to read
+3	or you read -- Philip Morris does not believe
+4	cigarette smoking is addictive -- needs to be
+5	understood within the broader document.
+6	Q. I got that part, but you mentioned within
+7	some reference toward a drug. What do you mean by
+8	that? What were you talking about?
+9	A. I am sorry. I confused what I just said with
+10	the previous document.
+11	Q. Okay. What document are you talking about?
+12	I'm not sure what you were referencing.
+13	A. I believe that would be Exhibit 28.
+14	Q. What was it about Exhibit 28 that you saw in
+15	reference to drugs?
+16	A. I need to see that again.
+17	Q. Isn't it right there in front of you?
+18	MR. COTTON: 28? Here's 28.
+19	THE WITNESS: I'm sorry. I meant 29. So
+20	my point is -- in order to understand this
+21	document, Exhibit 29, it's important to keep
+22	in mind that, whatever is said here is in the
+23	context of mentioning other drugs.
+24	BY MR. PORTAL:
+179
+1	from the defendant cigarette companies, including RJ.
+2	Reynolds, dating back to the early 70s where it had
+3	recognized that nicotine is a potent drug with a
+4	variety of physiological effects?
+5	MR. COTTON: Object to form.
+6	BY MR. PORTAL:
+7	Q. Are you aware of that?
+8	A. I am not aware of that. I have not seen that
+9	document. I did not look at internal documents
+10	because the focus of my research was public awareness
+11	based on what reached the public, not internal
+12	documents.
+13	Q. And part of looking at the public awareness
+14	of what reached the public would include public
+15	statements made by the tobacco companies denying that
+16	their products in fact cause any deleterious health
+17	effects or addiction. Right?
+18	MR. COTTON: Object to form, lack of
+19	foundation.
+20	A. Can you point to me one of those?
+21	BY MR. PORTAL:
+22	Q. One of what?
+23	A. One of those statements by the companies
+24	directly to the public.
+180
+1	Exhibit 29, Exhibit 28. And you also have -- we can
+2	go back to the 1950s -- part of your reliance is the
+3	Frank Statement. You're familiar with that, right?
+4	A. I remember The Frank Statement. Yes,
+5	which --1 remember The Frank Statement. But I have
+6	no foundation to say that these were ever public
+7	documents. I don't know whether they appeared in the
+8	media or not. So I can't comment on these three
+9	documents -- Exhibits 28, 29 and 30 -- as public
+10	statements to the public.
+11	(Plaintiffs' Exhibits 31 and 32 were
+12	marked for identification.)
+13	BY MR. PORTAL:
+14	Q. Let's then look at Exhibits 31 and 32.
+15	Exhibit 31, I'll represent is a printout from the
+16	Philip Morris USA website, printed as of yesterday,
+17	October 10, 2013, from their position on health issues
+18	related to cigarette smoking in the United States.
+19	And Exhibit 32 is from the R.J. Reynolds
+20	Tobacco Company website, their guiding principles and
+21	beliefs, including tobacco use and health, printed
+22	October 10, 2013.
+23	Dr. Martinez-Fernandez, first of all, have
+24	you ever been to Philip Morris's and R.J. Reynolds'
+181
+1	positions are on smoking and health issues?
+2	A. I have not.
+3	Q. Are these documents that I produced to you
+4	now, Exhibit 31 and Exhibit 32, the first time that
+5	you've seen both Philip Morris's and R.J. Reynolds'
+6	respectively public positions as it pertains to
+7	smoking and health issues ?
+8	A. As documents, yes.
+9	Q. In comparing Exhibit 30, that we just looked
+10	at -- if you could just pull that out, please?
+11	Particularly look at the last two facts as identified
+12	there at the bottom of the page. The position of
+13	Philip Morris at that time was that it did not believe
+14	cigarette smoking is addictive; whereas, its current
+15	position now is that, as you see on Exhibit 31, it
+16	agrees that the overwhelming medical and scientific
+17	consensus that cigarette smoking is addictive.
+18	Do you see that?
+19	MR. COTTON: Object to form-
+20	A. I see it.
+21	MR. COTTON: -- the documents speak for
+22	themselves.
+23	A. I saw them.
+24	BY MR. PORTAL:
+182
+1	positions, aren't they?
+2	MR. COTTON: Object to form, lack of
+3	foundation.
+4	A. First of all, I would like to know the date
+5	of this document.
+6	BY MR. PORTAL:
+7	Q. Well, you see it's in reference to --
+8	A. 30.
+9	Q. — response to the 1988 Surgeon General's
+10	Report and also the time that it testified before
+11	Congress.
+12	MR. COTTON: Again, the documents speak
+13	for themselves.
+14	BY MR. PORTAL:
+15	Q. So, certainly, before Mr. Suarez passed away
+16	in 1996?
+17	A. Yes.
+18	Q. When, to your knowledge -- being an expert on
+19	tobacco or health-related disease in the public
+20	domain -- when did the defendants, R.J. Reynolds and
+21	Philip Morris, finally publically admit, like is
+22	reflected here on Exhibit 31 and Exhibit 32 on their
+23	websites, that nicotine in tobacco and cigarette
+24	smoking is addictive?
+183
+1	A. I honestly don't know when that happened.
+2	BY MR. PORTAL:
+3	Q. You've been representing these defendants for
+4	over 12 years in this litigation, talking about public
+5	awareness in the public domain, about tobacco
+6	health-related diseases, and you've never bothered to
+7	find out when the companies that you're defending
+8	publically admitted that their cigarettes and their
+9	products caused deleterious health effects, including
+10	lung cancer, and that their product was addictive --
+11	you never bothered to find that out?
+12	MR. COTTON: Object to form.
+13	A. Let me tell you what happens. The vast
+14	majority of the cases don't reach that late in terms
+15	of chronology. I am aware that at one point --1
+16	can't tell you what year -- that there was a change in
+17	terms of the acceptance, if you will, of the issues
+18	that have been raised about health and the addictive
+19	nature. I don't know when that happened. It was not
+20	relevant time-wise for the cases that I was looking at
+21	and it is not a reflection of a lack of interest and
+22	work that is not comprehensive. My work is
+23	comprehensive.
+24	This change, which I don't know when it
+184
+1	been working with so far.
+2	BY MR. PORTAL:
+3	Q. Much later after Mr. Suarez's death in 1996,
+4	right?
+5	A. I'm not aware of that.
+6	MR. PORTAL: That's all the questions I
+7	have for you. Thank you.
+8	MR. COTTON: Let's take a break --
+9	MR. PORTAL: Wait, wait. I do have a
+10	follow-up. I lied.
+11	BY MR. PORTAL:
+12	Q. Polls. What, if any, polls have you reviewed
+13	regarding the public awareness of the deleterious
+14	effects of smoking amongst Hispanic males in the Miami
+15	metropolitan area, say, from the 1970s through the
+16	time Mr. Suarez died in 1996?
+17	MR. COTTON: Object to form.
+18	A. I don't recall having seen or read any polls
+19	specifically to Hispanics in Miami.
+20	BY MR. PORTAL:
+21	Q. Have you seen or do you intend to testify
+22	regarding any polls regarding public awareness of the
+23	deleterious effects of smoking among Hispanic males in
+24	the United States from the 1970s up until 1996?
+185
+1	A. Can you repeat the question?
+2	BY MR. PORTAL:
+3	Q. Sure. I just want to find out--are you
+4	going to testify based on any polls regarding public
+5	awareness of the deleterious health effects of smoking
+6	among Hispanic males in the United States during the
+7	relevant timeframe, 1970s to 1996?
+8	MR. COTTON: Object to form.
+9	A. At this point, I don't anticipate that.
+10	MR. PORTAL: Now I have no further
+11	questions.
+12	MR. COTTON: Let me compare notes with my
+13	colleague. Let's take a moment's break.
+14	(Brief recess.)
+15	CROSS EXAMINATION
+16	BY MR. COTTON:
+17	Q. Back on the record. Doctor, I just have a
+18	couple of follow-up questions for you, if I may.
+19	Do you have any expertise to offer opinions
+20	about the nicotine levels that were in cigarettes at
+21	any time?
+22	A. Not at all.
+23	Q. Do you have any opinions as to the nicotine
+24	levels of any cigarettes at any time?
+186
+1	A. I have no opinions.
+2	BY MR. COTTON:
+3	Q. You were asked at one point whether there
+4	were ever any cigarette ads in the United States that
+5	addressed the health effects of smoking. Do you
+6	recall that question or those series of questions?
+7	A. Yes.
+8	Q. Do you have any understanding as to whether
+9	there came a time that cigarette ads began to carry
+10	health warnings?
+11	A. Yes.
+12	Q. What's your understanding of that?
+13	A. It happened in 1972.
+14	Q. Do you have any understanding as to whether
+15	tobacco products advertised in the United States since
+16	1972 have carried the Surgeon General's warning?
+17	A. It is the law and they have, yes.
+18	Q. Doctor, over the course of the day, you've
+19	been shown a number of documents. I'm going to ask
+20	you a couple of questions about a handful of them.
+21	The first one is Exhibit 13. This may have
+22	been covered earlier with counsel. Have you seen,
+23	prior to today, Exhibit 13?
+24	A. I have never seen that until today.
+187
+1	A. I don't know the source.
+2	Q. Okay. Earlier today, you were shown
+3	Exhibit 17. Do you recall that?
+4	A. Yes, I saw that today.
+5	Q. Do you recall whether you've seen Exhibit 17
+6	before today?
+7	A. I am not sure whether I have seen that one in
+8	particular or not.
+9	Q. Earlier today, you were shown Exhibit 18.
+10	I'll hand that back to you. Before today, had you
+11	seen Exhibit 18?
+12	A. I have never seen this, no.
+13	Q. Do you know the source of Exhibit 18?
+14	A. I don't know.
+15	Q. Earlier today, you were shown Exhibit 22. Do
+16	you recall that?
+17	A. Yes, this was shown to me today and this is
+18	the first time I've seen anything like this.
+19	Q. So you don't know how Exhibit 22 was
+20	generated, correct?
+21	A. I have no idea.
+22	Q. Let me hand to you Exhibit 23. Prior to
+23	today, had you seen Exhibit 23?
+24	A. Never.
+188
+1	A. I don't know.
+2	Q. And I hand to you Exhibit 24. Prior to
+3	today, had you seen Exhibit 24?
+4	A. Never.
+5	Q. Do you know the source of Exhibit 24?
+6	A. I don't know the source.
+7	Q. I'm going to hand to you what's been marked
+8	as Exhibit 25, which is a composite exhibit. Do you
+9	recall seeing that earlier today?
+10	A. Yes, I saw it today.
+11	Q. Have you seen the material reflected in
+12	Exhibit 25 before today?
+13	MR. PORTAL: Objection, form, asked and
+14	answered.
+15	A. I've never seen these materials, no.
+16	Q. Do you know the source of Exhibit 25?
+17	MR. PORTAL: Objection, form.
+18	A. I don't know that for a fact. I think the
+19	lawyer mentioned where he received them from.
+20	BY MR. COTTON:
+21	Q. Other than what you heard from counsel for
+22	plaintiff -- when you talk about the lawyer, you're
+23	talking about counsel for plaintiff?
+24	A. Yes.
+189
+1	you have any information as to the source of
+2	Exhibit 25?
+3	A. Not at all.
+4	Q. Let me hand to you what was previously marked
+5	as Exhibit 26. Do you recall seeing that earlier
+6	today?
+7	A. Yes, I saw this today.
+8	Q. Prior to being shown Exhibit 26 today, have
+9	you ever seen that document or collection of materials
+10	before?
+11	A. I am not sure whether I've seen this one in
+12	particular before.
+13	Q. Do you know the source?
+14	A. I don't remember seeing it.
+15	Q. Do you know the source of material reflected
+16	in Exhibit 26?
+17	A. No, I don't know the source.
+18	Q. I hand to you what's previously marked as
+19	Exhibit 27. Do you recall being asked questions
+20	earlier today about Exhibit 27?
+21	A. Yes.
+22	Q. Do you know the source of materials reflected
+23	in Exhibit 27?
+24	A. No, I don't.
+190
+1	materials before today?
+2	A. I have never seen these materials.
+3	MR. COTTON: Doctor, I appreciate your
+4	time. I have no further questions.
+5	THE WITNESS: Thank you.
+6	MR. PORTAL: No questions.
+7	MR. COTTON: Dr. Martinez-Fernandez
+8	reserves the right to read and sign.
+9	THE REPORTER: Do you want this
+10	transcribed?
+11	MR. PORTAL: Yes. We'll order - we'll
+12	take regular delivery, mini, index.
+13	THE REPORTER: Copy?
+14	MR. COTTON: Yeah. If I say the usual,
+15	will that be fine?
+16	THE REPORTER: Sure. I'll find out what
+17	it is.
+18	(The reading and signing of the
+19	transcript was not waived and these
+20	proceedings concluded at 4:50 p.m.)
+2	CERTIFICATE OF OATH
+4	STATE OF FLORIDA
+5	COUNTY OF ORANGE
+8	I, Lisa Gerlach, the undersigned Notary
+9	Public, in and for the State of Florida, hereby
+10	certify that Luis Martinez-Fernandez, Ph.D, personally
+11	appeared before me and was duly sworn.
+13	WITNESS my hand and official seal this
+14	11th day of October, 2013.
+16	__________
+Lisa Gerlach, Court Reporter
+17	Commission #DD353538 Expires 9/8/2016
+18
+1	CERTIFICATE OF REPORTER
+2	STATE OF FLORIDA
+3	COUNTY OF ORANGE
+5	I, Lisa Gerlach, Court Reporter, do hereby
+6	certify that I was authorized to and did
+7	stenographically report the foregoing deposition; and
+8	that the transcript is a true and correct
+9	transcription of the testimony given by the witness.
+10	I further certify that I am not a relative,
+11	employee, attorney or counsel of any of the parties,
+12	nor am I a relative or employee of any of the parties'
+13	attorney or counsel connected with the action, nor am
+14	I financially interested in the action.
+15	Dated this 11th day of October, 2013.
+17	___________
+18	Lisa Gerlach, Court Reporter
+20	The foregoing certification of this transcript does
+21	not apply to any reproduction of the same by any means
+22	unless under the direct control and/or discretion of
+23	the certifying reporter.
+1	YERITEXT FLORIDA, LCC Suite 1020 Biscayne Building
+2	19 West Flagler Street Miami, Florida 33130
+3	305/371-1884 305/377-1100 (fax)
+4
+October 18, 2013
+5
+Luis Martinez-Fernandez, Ph.D
+6	c/o Christopher Y. Cotton, Esquire Shook Hardy & Bacon, LLP
+7	2555 Grand Boulevard Kansas City, MO 64108-2613
+8
+RE: Suarez vs. R.J. Reynolds, et al
+9	DEPO OF: Luis Martinez-Fernandez, Ph.D TAKEN: October 11, 2013
+10	Number of Pages: 194
+Available for reading until: November 18, 2013
+11
+Dear Dr. Martinez-Fernandez:
+12
+This letter is to advise you that the transcript of
+13	your deposition is completed and is available for reading and signing.
+14
+Please make arrangements to read and sign the
+15	transcript. Depending on the length of the transcript, you should allow yourself sufficient time
+16	for review.
+17	If the reading and signing has not been completed prior to the above-referenced date, we shall conclude
+18	that you have waived the reading and signing of the deposition transcript.
+19
+Your prompt attention to this matter is appreciated.
+20
+Sincerely,
+21
+LISA GERLACH, COURT REPORTER
+CC: JANPAUL PORTAL, ESQUIRE, The Ferraro Law Firm,
+23	PA, 4000 Ponce de Leon Boulevard, Suite 700,
+Miami, FL 33146
+ERRATA SHEET
+RE: Suarez vs. R.J. Reynolds, et al
+3	DEPO OF: Luis Martinez-Fernandez, Ph.D TAKEN: October 11, 2013
+5	DO NOT WRITE ON TRANSCRIPT, ENTER ANY CHANC
+7	Page# Line # Change	Reason
+17
+Under penalties of perjury, I declare that I have read
+18	the foregoing document and that the facts stated in it are true.
+20_________________
+DATE	LUIS MARTINEZ-FERNANDEZ, Ph.D
+22	Subscribed and sworn before me this__day of
+______,2013.
+23
+State of Florida )
+24	County of )_________
+NOTARY PUBLIC
+

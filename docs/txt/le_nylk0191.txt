@@ -1,0 +1,1251 @@
+﻿IN THE CIRCUIT COURT OF THE 11TH JUDICIAL CIRCUIT IN AND FOR MIAMI-DADE COUNTY, FLORIDA JULIE A. REESE	) GENERAL JURISDICTION DIV.
+)
+vs.	) CASE NO. 07-30296-CA-24
+)
+R.J. REYNOLDS TOBACCO	)
+COMPANY, et al	)
+ORAL DEPOSITION JAMES KIRBY MARTIN, Ph.D.
+January 19, 2011
+ORAL DEPOSITION OF JAMES KIRBY MARTIN, Ph.D., produced as a witness at the instance of the Defendants and duly sworn, was taken in the above-styled and numbered cause on January 19, 2011, from 9:30 a.m. to 10:45 a.m., before Susan T. Baker, CSR, RDR, Certified Shorthand Reporter in and for the State of Texas, reported by computerized stenotype machine at the offices of Jones Day, 717 Texas Avenue, Suite 3300, Houston, Texas, 77002.
+APPEARANCES
+FOR PLAINTIFF: (present via videoconference) Allan B. Kaiser Jeffrey H. Sloman Russell Koonin The Ferraro Law Firm, P.A.
+4000 Ponce de Leon Blvd., Suite 700 Miami, Florida 33146 Telephone: 305-375-0111 Fax: 305-379-6222
+FOR DEFENDANTS:
+Amy E. Furness Carlton Fields Miami Tower
+100 S.E. Second Street, Suite 4200 Miami, Florida 33131-2114 Telephone: 305-539-7253 Fax: 305-530-0055
+E-mail: afurness@carltonfieIds.com
+and
+Dawn E. McFadden Jones Day
+901 Lakeside Avenue North Point
+Cleveland, Ohio 44144-1190 Telephone: 216-586-3939 Fax: 216-579-0212 E-mail: demcfadden@jonesday.com
+PAGE
+JAMES KIRBY MARTIN, Ph.D.
+Examination by Mr. Kaiser .........................4
+Signature Page ..................................62
+Court Reporter's Certificate .....................64
+EXHIBITS (NONE)
+JAMES KIRBY MARTIN, Ph.D., having been first duly sworn, testified as follows:
+EXAMINATION
+BY MR. KAISER:
+Q. Would you state your name for the record, please?
+A. Yes. My name is James, middle name Kirby, last name Martin.
+Q. And good morning, Dr. Martin.
+A. Good morning.
+Q. I have before me a disclosure statement that has your area of expertise and other information about which you are going to testify. Have you had an opportunity to review that recently?
+A. Yes, I have. I have it before me, too.
+Q. Is it accurate?
+A. Yes, it is, so far as I know.
+Q. When was it prepared, do you know?
+A. I don't know whether it has a date on it or not. My copy does not have a date on it, but I am going to guess approximately two months ago.
+Q. Okay. And in that two-month period of time, have you testified in any other either court cases or depositions ?
+A. No, I have not.
+Q. Okay. And under the heading, "Other legal matters," it does include that you have testified in Oliva versus R.J. Reynolds, Alonso versus R.J. Reynolds and Vasko versus R.J. Reynolds during the last five years.
+Can you, as best you can remember, tell us how many times you've testified in a court of law as a witness, an expert witness?
+A. As an expert witness in a court of law, three times.
+Q. And where would those have been?
+A. The first case would have been in March of 1999, called the Ohio Iron Workers case. It was in March of 19 9 9.
+The second case was in late December of 2000 and early 2001, January of 2001. And that is called the Feliz case. Both of those were in Federal Court, one in Akron, Ohio, the second one in Brooklyn, New York.
+And then most recently, in the Vasko case, which was early November of last year, 2010, and that was in Ft. Lauderdale, Florida.
+Q. And the Alonso case was tried where?
+A. I did a deposition in the Alonso case. I don't believe it's been tried. I know it hasn't been tried.
+Q. Now, what about prior deposition testimony?
+How many times have you been deposed as an expert witness ?
+A. I would — I'm going to have to estimate I would say eight to ten times. I don't really have a specific count on the top of my head.
+Q. How long have you been active as an expert witness on behalf of R.J. Reynolds?
+A. I was first contacted in the late spring, approximately May of 1994.
+Q. Was it a particular law firm who contacted you?
+A. Yes, it was.
+Q. Do you remember the name of the lawyer who contacted you?
+A. Yes, I do.
+Q. What was the lawyer's name?
+A. The lawyer's name is Steve Kaczynski, and he was with a gentleman by the name of Paul Koethe.
+Q. Now, Dr. Martin, in preparation for the deposition today, can you tell me any documents you reviewed?
+A. Yes. I have — as indicated in my statement, I have reviewed really an enormous amount of material of the historical record with respect to public awareness having to do with the health effects of smoking and also public awareness issues having to do with the
+habituating or addictive nature of smoking, and of course, I've done that in historical perspective.
+Q. Now, in connection with your preparation for today's appearance, what have you looked at?
+A. Well, I've looked at a whole variety of documents. Are you — are you — do you mean yesterday or the day before or back two or three months when I first became involved with this case?
+If you can clarify, I'd be glad to — happy to answer for it either way.
+Q. Aside from the documents that you reviewed in connection with your historical research, what have you done specifically to prepare for today; for example, have you met with any attorneys?
+A. Yes, we met yesterday.
+Q. What did you discuss during your meeting with any attorney yesterday?
+A. We talked about the historical record, we reviewed my statement, and those were the kinds of things that we discussed.
+Q. How long was your meeting?
+A. I — I'm going to guess approximately three hours.
+Q. Did you review any of your prior testimony in preparation for today's deposition?
+A. No, I did not.
+Q. Have you been furnished with information about the Plaintiff in this case, Julie Reese?
+A. Yes, I have.
+Q. Can you tell us what information that you have been provided with?
+A. Yes, there were — there are two or three interrogatories. I have not looked at them for a while. And there was — or there, I should say, is a deposition, a two-part deposition that I have reviewed. And in addition, there is a third deposition by a Mr. — I believe his name is Berry, and I also reviewed that deposition.
+Q. And have you reviewed the Complaint that was filed in this case?
+A. Yes, I — one of the complaints, yes, and I think it was an Amended Complaint, but yes.
+Q. Any other documents you recall reviewing in connection with the deposition today as it relates to Plaintiff Julie Reese?
+A. No, I don't recall any other documents.
+Q. And when was the last time you reviewed her deposition?
+A. I would say that I finished reading it approximately a month ago.
+Q. And you have mentioned interrogatories. You're referring to Answers to Interrogatories that were completed by or on behalf of Julie Reese?
+A. Yes. That is correct.
+Q. Now, would you tell us, please, what opinions you expect to render at trial in this case?
+A. Yes. And again, this is reflected in my statement, the opinions that I render will be focused two-fold: First, that there's been widespread public awareness. A massive amount of information has been made available to the public over the years — in fact, over the centuries — about the health risks associated with smoking; and then secondly, that a massive amount of information has been made available over the years with respect to the habituating and/or addictive qualities of smoking.
+Q. Any other opinions?
+A. That — those are the focal point of my — of my testimony.
+Q. Any opinions specific to Julie Reese that you intend to offer at trial?
+A. Well, I've read her depositions, and — the two of them, and it was certainly clear to me that these kinds of information, the vast body of information was available to her in the various locations in which she
+lived.
+Q. And how about the time frame? Was this information, according to you, available in the 1940's?
+A. Yes. That would have been available to her through educational textbooks in school.
+Q. Through any other means?
+A. In — you're asking me for the 1940's?
+Q. Yes.
+A. Yes, there were other ways. There's lots of — there's lots of literature out there; and also, there are any number of slang expressions that would have been available to her. For instance, "coffin nail" would be an example of that kind of material. There were movies that were being made that talked about the — or suggested the health risks of smoking. Those were all available in the 1940's.
+Q. Now, are your opinions a result of your historical research that you conducted?
+A. Yes, they are a result of the historical research, yes.
+Q. In your disclosure, you make reference to an historical methodology. Can you briefly describe for us what that methodology entails?
+A. Yes. I can. That methodology begins with the definition of a topic of a historical nature, and then
+that requires, once the topic has been defined, to go about identifying a — a research base, the sources, the primary source material that would be available, various forms of which appear in my statement.
+Then the next step would be certainly the evaluation of that information once it has been collected. And once it has been collected and evaluated, then that would lead to conclusions and presentation in some format, whether that be in the form of a paper or testimony at trial or whatever.
+Q. This is the methodology that you used in connection with your opinions that you’re going to render in this case?
+A. Yes, and it's very standard historical methodology.
+Q. With respect to the first step that you just mentioned, and that was identifying or defining the topic, would you agree that that would entail searching all available sources?
+A. Yes, I — I would agree that would relate to all available sources that relate to my topic, yes.
+Q. In other words, all available sources coming in every shape or form?
+A. All available sources that were available to the public, which is what I have stressed already, those
+would be the sources that I would try to find and locate, wherever those sources might be.
+Q. And the next step in the methodology, you said would be to evaluate the material. Would you agree that the next step, evaluating the material, is the real key?
+A. The evaluation would follow the actual collection of the information and, yes, the evaluation of the information is — is certainly a very important key, and that's — that's what we historians do once we collect the information.
+Q. When I mention or you mention "evaluate the material," you're including the credibility and reliability of the sources of the information?
+A. That's all part of the evaluation process, that is correct.
+Q. Would you agree, Dr. Martin, that context is very important in historical research?
+A. Yes, context is absolutely critical in historical research. It's the foundational principle of what historians do to keep the material in as much context as is possible.
+Q. Why is it so important that context should be considered in historical research?
+A. Well, because context is the — the actual setting in which whatever is, is taking place. And so
+it's important to understand that, say, materials from the 1950's in the context of the 1950 's as compared to materials that might be in the 1990's or 2000's, which will be probably somewhat different in terms of context from what was available in the 1950's, so, yes, context is — is absolutely essential.
+Q. Have you ever or do you now teach graduate students any course where you discuss or you actually teach this type of historical methodology —
+A. Yes, I do.
+Q. — (inaudible)?
+A. Yes.
+Q. What is that source?
+A. Actually, it's more than one course. I teach — I did last semester, a course that is called Introduction to Research and Writing in United States History. That's an introductory graduate-level course.
+I teach that probably once a year, and one of the things that I do in that course is obviously talk about this kind of methodology.
+Last spring, I taught the advanced version of that course, which was simply called The Advanced — The Advanced Course in Research and Writing in U.S. History, and so, yes, I do. Those are the two primary ones that I do at the graduate level.
+Q. Before we get into the specifics of your disclosure, I just want to ask another question; and that is, do you distinguish on the one hand between public awareness and belief?
+A. Yes, there is a difference.
+Q. And your research analysis in connection with this case and others that you have done, is your focus on awareness solely or is it on awareness and belief?
+A. Well, the — the two are — the two are separate because, very briefly, you can't really believe something if you're not aware of it. So the two are interrelated, but — my focus is primarily on awareness, but sometimes awareness does fall into the — is an important part of the belief category and what people think about particular situations. So I don't necessarily completely exclude belief, but my primary focus is on public awareness.
+Q. Now, with respect to certain specific ways in which the dangers of smoking was communicated to the public, let's start with the mandatory school health classes that you have listed in your disclosure. My first question would be, did you become aware or did you learn where Miss Reese went to school?
+A. Yes, that information was available in her deposition, and I believe it was also stated in her
+interrogatory — in one of the interrogatories.
+Q. So you would have learned that Miss Reese went to school, at least junior high school in Connecticut?
+A. Yes, that is — that is my impression based on that information.
+Q. Do you know whether she went to a public school or a private school?
+A. The information indicated she went to a public school.
+Q. Where was that information found?
+A. Well, I believe it was in the deposition, but I also thought was in the interrogatory there was a description of a junior high school, so that — that's the best answer I can give you.
+Q. Do you recall the name of that high school being Norwich Free Academy?
+A. I — I do not recall that specifically, no, but that may well have been the case.
+Q. Did you research the name of that school, or once you learned the name of that school, to determine whether or not it was, indeed, a public school or a private school?
+A. No, I did not.
+Q. Would you have any disagreement with me if I told you that's been a private school since 1854?
+A. I — I can't — I can't answer that question.
+I don't know.
+Q. If, in fact, that Miss Reese did go to a private school in junior high school, would she have had the benefit of a mandatory school health class?
+A. Well, my assumption is, based on other research that I've done, is private schools, generally speaking, follow the state requirements in whatever — whatever the state is, and that I would assume that the same would be true for the State of Connecticut. And the State of Connecticut had very specific statements about what should be taught about the health risks of smoking.
+Q. That's an assumption on your part?
+A. Well, it's a — I think it's a fairly safe assumption.
+Q. How is it a safe assumption?
+A. Because the general pattern is, in terms of education, private schools follow the curricula requirements of particular states.
+Q. And in Connecticut, there was mandatory health education classes?
+A. Yes, there were mandatory health education classes that were specified back in the early 20th century.
+Q. So at the time Miss Reese was going to a
+private junior high school, which would have been in the late '30's, early '40's, it's your testimony that she would have had some type of or been taught some type of mandatory health class in school?
+MS. FURNESS: Objection to form.
+A. That could have been one source of the information available to her, yes.
+Q (By Mr. Kaiser) When you mention mandatory health classes, does that include smoking-related discussions on the dangers of smoking?
+A. Yes, invariably, that is the case.
+Q. Did you actually research the curriculum in Connecticut that was a part of the curriculum at that time, in the —
+A. Yes, I have.
+Q. I didn't hear your answer.
+A. Yes, I have.
+Q. And explain to me how you researched that, what you did.
+A. Well, I went to materials that were available to me thanks to a person who is the leading researcher in the history of health education in the United States, and — by the name of Richard Means, and I have obtained a copy of his study of the laws and the requirements in the State of Connecticut with respect to health
+education.
+I have reviewed those materials, and those materials indicate the State of Connecticut was very heavily involved about — teaching about the health risks of smoking, invariably described as alcohol and narcotics, other narcotics, but the textbooks themselves, of which I do have some copies, also indicate that narcotics invariably referred to smoking, and especially cigarettes.
+Q. Now, whether that was part of the curriculum was one thing, but you don't know whether Julie Reese was ever exposed to that curriculum, do you?
+A. I can't — I can't say she was actually exposed to it, but I assume by state law, that something was being taught.
+Q. Now, you also have listed in your disclosure the dangers of smoking being communicated to the public through anti-smoking organizations. Can you elaborate on that a little bit?
+A. Oh, yes. There are any number of anti-smoking organizations going back into the 19th century. The American Anti-Tobacco Society was actually a New England organization back into — back into the 1840's and the 1850's, and you can come forward in time through such groups as the Women's Christian Temperance Union — they
+pushed very hard for state-wide prohibition of the manufacture and sale of tobacco products, primarily cigarettes; and then you move — you can move into the 20th century and pass all of those state laws — and Connecticut, by the way, did get into the youth prohibition of tobacco quite early back, as I recall, in the 1880's. And various — various other kinds of organizations of various names who grew up in the 20th century, and obviously — and I'm skipping through a lot of history here — by the 1950's and 1960's, there are any number of organizations which are pushing very hard to encourage people to not smoke.
+Q. Did you research specifically to see the extent of the awareness of anti-smoking organizations in Connecticut in the '40's?
+A. In the 1940's in Connecticut?
+Q. Yes.
+A. No.
+Q. Now, how about government action; you have that listed in your disclosure?
+A. Yes, that's correct.
+Q. How did government action influence the ways in which the dangers of smoking were communicated to the public in the '40's?
+A. In the 1940's, in that particular decade, I
+don't think that was a particularly active decade except in the sense that the government of Connecticut, through its state education system, was requiring instruction in the health risks related to alcohol and narcotics; that is, cigarettes.
+Q. And that would relate to mandatory school health classes?
+A. Yes.
+Q. What about newspapers that you have listed in your disclosure?
+A. For the 1940's?
+Q. Yes.
+A. There were not many articles in the 1940's.
+Q. How about popular magazines in the 1940's?
+A. Readers Digest did definitely carry articles in the 1940's of various types and kinds that had to do with the health risks associated with smoking.
+Q. Would you agree with them that the most important or the most widespread article in terms of popularity was not written yet in the '40's?
+MS. FURNESS: Object to the form.
+A. The — I'm sorry, I didn't quite understand the question.
+Q (By Mr. Kaiser) Was there a — an article in Readers Digest that was written in 1952? I believe it
+was called "Cancer in a Carton"?
+A. Right. That was in 1952 called "Cancer by the Carton." It was in December of 1952. But there was a very important article written, I can't — I believe it was in 1940 or 1941 by Gene Tunney, and it's called — if I'm not mixing up titles, "Nicotine Knockout," and then the subtitle has something to do with the health risks of smoking, and it talked about all sorts of problems associated with tobacco products, and that was certainly a major article in the 1940's.
+Q. In your review of Julie Reese's Answers to Interrogatories and her deposition, did you become aware of her macular degeneration condition?
+A. Yes, I did.
+Q. You became aware that she's legally blind and has been throughout her life?
+MS. FURNESS: Object to form.
+A. No, that's not what it says in the deposition, so, no, I'm not aware of that.
+Q (By Mr. Kaiser) Were you aware of whether or not she read Readers Digest?
+A. She said that she did, and that she had a subscription at one point in her life.
+Q. Do you remember when she said she had a subscription to Readers Digest?
+A. She did not specify a date.
+Q. What about union publications you have in your disclosure? How would that relate to the knowledge communicated to the public in the 1 401 s?
+A. I have not reviewed union publications for the 1940's. I have reviewed them for a much later period, beginning in probably the late 1950 's through the 1980's.
+Q. What about "books" that you have listed? Just generally "books."
+A. Oh, there are all sorts of books that were being put out about the health risks of smoking. I'll go back to, just an example, Henry Ford in the 19-teens put out a book called The Little White Slaver, and every time you went in to look at a Ford automobile, you got a copy of that book.
+There were various kinds of anti-tobacco books published in the '20's, the '30's and the '40's. A gentleman by the name of Alton Ochsner, O-C-H-S-N-E-R, who's a famous physician, was all over the country, but I guess your — now that I think about it, his book, which got widespread national attention, did not come up until the early '50's, so I'll stand corrected on that.
+Q. Do you recognize Henry Ford as a leading authority in cigarette risks and dangers?
+A. The book — actually, his book is a collection of materials from leading authorities. It's not —
+Henry Ford did not write it. He simply offered it and published it, made it available to people. But the — but it's a collection of — it's a collection of writings of leading authorities.
+Q. Do you know if Julie Reese ever bought one of Henry Ford's automobiles at any of his dealerships?
+A. No, I — I don't have any idea.
+Q. Do you know if she ever was exposed to the book that Henry Ford put together?
+A. Well, there were other books out there, so I — that's the one that I recall off the top of my head. So I don't know what she was specifically exposed to. Obviously, textbooks, when she was in school, she would have been exposed to those books.
+Q. She would have been exposed to those books?
+Was that required reading in her junior high school in Connecticut, Henry Ford's compilation?
+MS. FURNESS: Object to the form.
+A. I didn't — there — I didn't refer to Henry Ford in that statement. I was referring to general textbooks by those who wrote very standard textbooks, various names of individuals who did that.
+Q (By Mr. Kaiser) Well, what names of textbooks
+can you give me that would have been part of the curriculum at the junior high school that Miss Reese went to in the '30's or '40's that she would have been exposed to about the dangers of cigarette smoking?
+A. I don't have the list in front of me. There are various standard names, and it would be inappropriate for me to guess.
+Q. What about "pamphlets" that you have listed in your disclosure? Do you know of any specific pamphlets —
+A. There would have —
+Q. — that —
+A. We're still talking about the 1940's?
+Q. Yes.
+A. Specific pamphlets, there were — various pamphlets were being made available through various kinds of sources that would have probably been used to supplement materials and teaching in school, but I can't give you a specific pamphlet at this point.
+Q. How about "articles" that you have listed, just general "articles"?
+A. That — that would have been — that would have been available only in the 1940's?
+Q. Yes.
+A. Articles in the 1940's, I'm not coming up with
+any articles of the 1940's.
+Q. Literature from medical and public health organizations ?
+A. Literature from medical and public health organizations, certainly the American Cancer Society is cranking up in the 1940 's, but it doesn't become active in this area until the 1950 's, but other kinds of literature we've already talked about, Readers Digest, magazines, that sort of thing, would have been available to the public.
+Q. How about television?
+A. Well, I doubt whether television was available, because television doesn't really come into its own until the 1950's.
+Q. There were televisions in the '40's, weren't there?
+A. Probably ten or twenty.
+Q. Was there television shows in the '40's?
+A. The networks don't really crank up until the early — well, let me correct that statement, because we had a television in our house in 1948, and you could watch the test pattern until about 4 o'clock in the afternoon, and then you would have children's shows like Kukla, Fran and Ollie and Pinky Lee, and then you would have the evening news that would be made available
+locally and nationally, and then you'd have various kinds of evening programs, but that's very rare to have television in a home in the late 19' — even in the late 1940's.
+Q. How about "movies"?
+A. Well, the movies were all over the place in the 1940's, "30 Seconds Over Tokyo," "Coffin Nails," all of those kinds of pictures that I've reviewed. Again, I don't have a list in front of me, but those pictures are out there and available.
+Q. How about "popular cultural sources"?
+A. Popular culture sources in terms of slang expressions, in terms of music, that information was out there and being made available to the general public.
+Q. How about public opinion polls in the '40's?
+A. Well, public opinions polls are just getting cranked up in the 1940's, but, yes, there are some polls which do indicate that there is some awareness about the health risks of smoking from the 1940's.
+Q. Now, these are examples that were in your disclosure, specific examples of the way in which information on smoking risks and addiction were communicated to the public?
+A. Yes, but I didn't just focus on the 1940's as you have.
+Q. Now — and I understand that, but would you agree that it's probably more relevant in terms of the '40's when Miss Reese made the choice to smoke —
+MS. FURNESS: Object to the form.
+Q (By Mr. Kaiser) — as opposed to any other time period when awareness would have been important?
+MS. FURNESS: Object to the form.
+A. No, I wouldn't agree to that.
+Q (By Mr. Kaiser) Why not?
+A. Well, because Miss Reese herself said in a deposition she was aware of the health risks of smoking in the 1940 ' s.
+Q. Can't hear you.
+A. Well, I'll repeat, then. Miss Reese said in her deposition that she was aware of the health risks of smoking back in the 1940's. She had to get that information somewhere.
+Q. Now, in your historical research, did you consider the effect that cigarette advertising had on awareness in the '30's and '40's?
+A. I've seen many cigarette advertisements over the years, yes.
+Q. Did you see cigarette advertisements in the '30's and '40's or from the period of the '30's and '40's that glamorized smoking?
+A. Well, yes, I've seen lots of ads and lots of different types that glamorized their products, including cigarettes.
+Q. Did you see cigarette ads in the '30's and '40's that had athletes sponsoring their products?
+A. Yes, I also saw statements by athletes saying that smoking is not good for you. That's actually a major theme in the textbooks.
+Q. Dr. Martin, I understand that, but could you try and be responsive to my question, please, and we'll go a lot faster?
+My question was, did you see the extent to which cigarettes were sponsored by athletes in the '30's and '40'?
+A. I've seen a whole variety of advertisements,
+yes .
+Q. Did you ever see ads where Ellsworth Vines was a spokesperson, tennis player, on behalf of cigarettes?
+A. No, I haven't.
+Q. Did you ever see cigarette ads where Joe DiMaggio was — represented a cigarette company?
+A. Yes, I — I believe I have, yes.
+Q. How about Ted Williams advertising for a particular cigarette company?
+A. Yes, I believe I have.
+Q. How about Lou Gehrig advertising for a particular cigarette company?
+A. No, I haven't.
+Q. How about Mickey Mantle advertising for a particular cigarette company?
+A. Well, I've seen Mickey Mantle also advertise for anti-tobacco products.
+Q. Again, my question was specifically for cigarette companies.
+A. Right. Well, my response was I've seen him advertise both ways.
+Q. That's responsive to my question, sir?
+MS. FURNESS: Object to the form.
+Q (By Mr. Kaiser) That's being responsive to my question whether you've seen an individual sponsoring cigarettes?
+A. I'm just trying to keep it in context.
+Q. Your answer is yes, that was responsive to my question?
+MS. FURNESS: Same objection.
+Q (By Mr. Kaiser) You may answer. Was that responsive to the question?
+A. I was attempting to respond to your question,
+yes .
+Q. Okay. So you believe that was responsive to my
+question, when I asked specifically about athletes that have sponsored cigarettes or advertised for cigarettes?
+MS. FURNESS: Object to the form.
+A. I believe I've said in a number of cases, yes, I've seen advertisements to that effect.
+Q (By Mr. Kaiser) Do you understand that counsel sitting next to you has the opportunity to ask you questions when I'm done?
+MS. FURNESS: Same objection.
+A. I — yes, I suppose that is the case.
+Q (By Mr. Kaiser) Do you understand that counsel could ask you questions so that everything can be put in context for you?
+A. Yes, I certainly understand that.
+Q. Did you consider the effect that radio programs had on awareness in the '30's and '40's?
+A. Unfortunately, most radio programs have simply disappeared, and I have not been able to do research of any consequence in that area.
+Q. Were you aware of radio shows at all being sponsored by cigarette companies?
+A. There probably were, yes. There probably were.
+Q. And have you ever read any historical information about radio programs in the '40's that were sponsored by cigarette companies?
+A. Specific historical information, I may have seen something along the line. I don't recall.
+Q. Have you seen historical information about sports events that were on the radio in the '30's or '40's that were sponsored by cigarette companies?
+A. Yes, I have.
+Q. Did you consider the effect of cigarette advertising on awareness of — on smoking on billboards in the '30's and '40's?
+A. No, I don't know anything about billboards in the '30's and the '40's.
+Q. That's something that you did not research?
+A. No, I did not research billboards in the '30's and the ' 40 ' s.
+Q. Did you consider the effect of cigarette advertising from doctors specifically recommending cigarettes as mild?
+A. I don't believe I would accept that characterization but, yes, I've seen cigarette ads in which doctors were making recommendations.
+Q. Did you see cigarette ads from the '30's and '40's where dentists were saying that cigarettes were good for teeth?
+A. No, I don't believe I've seen advertisements like that.
+Q. Did you consider the effect that movies had on awareness in the 1940's?
+A. Absolutely. Yes.
+Q. And did you see or — would you agree that actors and actresses — both leading actors and actresses were seen as — smoking in a positive light in movies ?
+A. No, I wouldn't agree with that.
+Q. So Humphrey Bogart was not seen smoking in a positive light?
+MS. FURNESS: Object to the form.
+A. I can't answer that question.
+Q (By Mr. Kaiser) Ever seen Joan Crawford smoking in movies?
+A. I'm not familiar with Joan Crawford movies.
+Q. Lauren Bacall smoking in movies?
+A. I've seen her smoke in movies, yes.
+Q. John Wayne smoking in movies?
+A. Yes, I've seen John Wayne smoke in movies.
+Q. Were you aware of the extent to which tobacco companies went to make sure that their product were utilized in movies during this time and paid a lot of money to have that done?
+A. I — I simply can't accept that characterization because I don't have any evidence that
+it's true or not true.
+Q. Have you ever asked or were you ever asked in previous deposition testimony about your knowledge of the tobacco industry spending large sums of money to make sure that their products were utilized in movies?
+A. Yes, I have been.
+MS. FURNESS: Allan, could I take a break for a moment to go to the ladies room, if this is the end of your line of questioning or if you want to wrap it up?
+MR. KAISER: That's fine.
+MS. FURNESS: Okay. Thank you. Five
+minutes ?
+MR. KAISER: Sure.
+(Short break 10:06 to 10:12 p.m.)
+Q (By Mr. Kaiser) Dr. Martin, would you agree that if Julie Reese went to a movie theater in the '40's in Connecticut, she had a — it was certainly exposed to her via the big screen, actors and actresses smoking?
+A. Yes, smoking was commonplace in the 1940's, even in movies.
+Q. And even before that, correct?
+A. You mean like in the 1930's, that area?
+Q. Sure.
+A. Yes.
+Q. Now, when Julie Reese started smoking cigarettes in 1941, actually more so in 1945, did the package that was being sold by the particular tobacco company warn her about the health risks and addictive nature of smoking?
+A. No, the package did not have a warning label.
+Q. Were you aware of the 1946 ad campaign, More Doctors Smoke Camels"?
+A. Yes, I've seen that information, yes.
+Q. Where it went on and said 113,000 doctors were asked the question, What Cigarette Do You Smoke? and most named Camels?
+A. I don't remember that specific line.
+Q. Was there any controversy in the '40's as to the health risks of smoking and its addictive nature?
+MS. FURNESS: Object to the form.
+A. Was there a controversy? Well, there certainly was disagreement, yes. There was disagreement about that issue.
+Q (By Mr. Kaiser) So your testimony is that, yes, there was a controversy in the '40's as to the health risks associated with smoking as well as its addictiveness ?
+MS. FURNESS: Object to the form.
+A. There — there was a disagreement about that,
+yes, but I'm not sure you would call that disagreement a controversy.
+Q (By Mr. Kaiser) What about in the '50's? Would you agree that there was a controversy in the '50's over the smoke risks?
+A. Yes, I would agree that there was certainly a disagreement over the health risks of smoking in the ' 50's, yes.
+Q. Would you coin it as a disagreement or a controversy?
+A. Well, there were certainly differences of opinion.
+Q. What I'd like is the phrase that you would call it. Would you say "disagreement" or "controversy"?
+A. I would say there were differences of opinion.
+I would call that a disagreement.
+Q. Okay. So if you were asked if there was a controversy in the '50's as to the smoking risks and addictive nature of the nicotine in cigarettes, your answer would be?
+A. There was certainly a disagreement, yes.
+Q. Okay. What was the extent of the tobacco industry's response to the public information that was available in the 1940 's, do you know?
+A. The — in the 1940's?
+Q. Yes.
+A. I have not — I'm — if there were statements, they'd be part of the public record, and I'm — I'm not aware of specific statements in terms of the 1940's.
+Q. So that in response to the information that was available to the public of the risks of smoking and the addictive nature that you've testified was out there in the '40's, you're not aware of any response by the tobacco industry?
+A. In the 1940's?
+Q. Yes.
+A. There may have been a difference of opinion, as I've tried to say, but I'm not aware of any statements that were emblazoned in the public record, no.
+Q. Are you aware of whether the industry hired Hill & Knowlton during that time in the '40's?
+A. They didn't hire Hill & Knowlton in the '40's.
+Q. Were you aware of any tobacco research groups that had been formed yet, like the TIRC?
+A. That group was not formed in the '40's.
+Q. Now, did you review any of the internal documents, the internal tobacco industry documents as part of your research into public awareness?
+A. The best way for me to answer that question is to say if those statements from those internal documents
+made it into the public record, then, yes, I probably have seen them in some way, but internal private documents are not a part of the public record, so, no, I have not specifically reviewed those as part of the public record since they are not a part of the public record.
+Q. So in connection with your historical research in this case and others, it's your testimony you have not reviewed any of the internal tobacco industry documents ?
+MS. FURNESS: Objection to the form.
+A. Well, yes, I've seen internal company documents, but if they did not become a part of the public record, they could not have had a impact on public awareness.
+Q (By Mr. Kaiser) Will there be any other reason for your having reviewed them even if they weren't part of the public record?
+A. Well, I've seen references to them in various books that I've looked at, and I also was aware, for instance, that there was internal polling that the companies did in the 1970's by — through the Roper organization, and I was very interested in those polls, and so I sought those polls out.
+Q. But in specific, what I'm trying to get to is,
+as an expert witness on behalf of R.J. Reynolds, have — and you worked as an expert for R.J. Reynolds for a number of years, correct?
+A. I've worked for the Jones Day law firm, that is correct.
+Q. Well, when you say you've worked for the Jones Day law firm, have they represented a tobacco company?
+A. Yes, they have.
+Q. Have you provided testimony on behalf of Jones Day or on behalf of the tobacco companies when you testified?
+A. Well, I work with Jones Day and I understand they represent R.J. Reynolds, yes.
+Q. So when you're testifying in a deposition or when you're testifying in a trial, when R.J. Reynolds is a Defendant, would you agree with me that you're testifying as an expert on behalf of the defendant, R.J. Reynolds, rather than Jones Day?
+A. Well, if you want to put it that way, yes.
+Q. Have you had access to any of the internal confidential documents that were made public as a result of certain litigation?
+A. I don't — in terms of certain litigation, I don't believe so.
+Q. For example, there was a litigation in
+Minnesota several years ago where hundreds of thousands of tobacco documents that were disclosed became a matter of public record. Were you aware of that?
+A. Yes. The — that was in the 1990's sometime, yes. Those documents became available in the 1990 's, yes .
+Q. Since the time that those documents became available as public records in the 1990 's, have you reviewed any of them?
+A. I haven't specifically sought them out, no.
+Q. Now, considering the documents you said that were available in the 1940's that you discussed today, can you say, based on your historical research, that you can conclude that only the deaf, dumb, halt and idiots would not have known about the addictiveness of cigarettes and possible health consequences of cigarettes during that time?
+MS. FURNESS: Object to the form.
+A. I don't quite understand that, but I would say there was a lot of information that was out there and available and been out there and available for a long time to the American public.
+Q (By Mr. Kaiser) But let me repeat my question and ask if you could, conclude, based on the evidence that you said was available in the public record of the
+risks of smoking and the addictiveness of smoking, whether you can conclude that only the deaf, dumb, halt and idiots would not have known about the addictiveness of cigarettes and possible health consequences of smoking during that time?
+MS. FURNESS: Object to the form.
+A. I would hope — I would hope not. I wouldn't want to phrase things like that.
+Q (By Mr. Kaiser) Do you recall submitting a presentation to Paul K-O-E-T-H-E and Steve Kaczynski in November 16th of 1995 about public awareness?
+A. No, I don't.
+Q. You do not?
+A. No.
+Q. And you don't recall ever typing onto a document that exact phraseology that I read, that only deaf, dumb, halt and idiots would not have known about the addictiveness of cigarettes and possible health consequences of smoking?
+A. Well, if I did, I certainly have changed my opinion.
+Q. When did you change that opinion, if, in fact, you did?
+A. Well, if I stated that, so be it. I don't recall that, but I would have changed that and said it
+would have been very, very difficult for people not to have that information available to them; that is, the gullible people and the American public.
+Q. Do you believe that Julie Reese's choice to smoke was based on her awareness of the public information of the health risks of smoking and its addictiveness ?
+MS. FURNESS: Object to the form. Please ask the question again. I'm not sure I followed you.
+Q (By Mr. Kaiser) Do you think — first of all, do you believe that a person's decision to smoke just — is a choice?
+A. Yes, I do.
+Q. Do you believe that the choice that Julie Reese made to smoke was based on her awareness of all of that public information that was available about the health risks of smoking and its addictiveness?
+MS. FURNESS: Object to the form.
+A. There was — there was certainly a lot of information available to her. I can't say specifically why she started smoking.
+Q (By Mr. Kaiser) Do you believe that at the time Julie Reese began smoking in 1945, she was aware of the health risks of smoking and of its addictiveness?
+A. She said she was aware — that's what she said
+in her deposition.
+Q. So to the extent that she might have said that, is that the only basis for your opining that she would have known about the health risks?
+A. Well, the information was out there and available and had been out there and available for a long time, so I don't find that particularly surprising that she would have said that.
+Q. Assuming she didn't say that. If the information in the public domain at that time that you spoke about that was out there happened to be not true at that time — do you understand? If the information that was out there wasn't true, would you still say that Julie Reese would have been aware of the health risks of smoking and its addictiveness at that time?
+MS. FURNESS: Object to the form.
+A. I don't — well, it's a hypothetical, and I'm not sure what you mean. What is not true? Sir, I'm sorry, I don't understand what's not true.
+Q (By Mr. Kaiser) Well, that the information about the risks of smoking was not accurate, wasn't true.
+A. Well, it's a hypothetical. I can't answer that question.
+Q. Can't answer hypotheticals?
+A. The first thing I do is — in my research class is tell students, "Don't get involved in hypotheticals."
+Q. Okay. So as an expert witness, you can't answer hypotheticals?
+MS. FURNESS: Object to the form.
+A. Well, it depends on the hypothetical, but I'm not sure what you're saying, so it's very difficult for me to respond.
+Q (By Mr. Kaiser) During the '40's, was there sufficient information in the public domain such that you can say the general public was aware of the link between smoking and lung cancer?
+A. That — not in the 1940's, no, that didn't become an issue until the 1950's.
+Q. So that you — you would agree that this became an issue in the '50's where there was a disagreement or the term I said, controversy?
+A. Yes, that — that issue starts to come to the fore in 1950 and goes forward from there.
+Q. Would you agree that by the time of Wynder & and Graham's study involving the mice painted with cancer in 1953, that there was a disagreement about cancer or health risk and addictiveness?
+A. Yes, I would agree.
+Q. You're aware — you're aware of that study,
+correct?
+A. Yes, I am.
+Q. And are you aware of how smoking sales were affected as a result of that study in 1953?
+A. My impression is, is that smoking sales did dip for a brief period of time in the early '50's.
+Q. You were — you've seen documents to that effect, that that study effectively caused smoking sales to drop for a while?
+A. Not that particular document, but smoking sales were — because that story became very widespread about the health risks of smoking in relation to lung cancer, there is a slight dip in sales for a while.
+Q. Were you — were you aware that within a year, sale levels resumed to normal, sales resumed to normal levels ?
+A. Well, the — the peak of prevalence, according to the Gallop organization; that is, the actual percentage of the public smoking, actually peaked in 1954. I'm aware of that.
+Q. Were you aware of a consumer report issue in 1957 that talked about the peak smoking and when it rebounded from the information about the risks in the ' 50's —
+A. Yes, I've seen that article, yes.
+Q. Do you think the tobacco industry had anything to do with the sales of cigarettes increasing after that study was publicized in 1953 and even before?
+A. Well, there was a dip and then the sales went back up, and in terms of prevalence, the height of prevalence; that is, percentage of population smoking, was in 1954, and prevalence goes down after 1954.
+Q. Do you know whether or not, in the time of this controversy or disagreement in the 1950's over the health risks of smoking and addiction, whether Julie Reese was addicted to the nicotine in cigarettes?
+MS. FURNESS: Object to the form.
+A. I can't answer that question.
+Q (By Mr. Kaiser) You don't intend to offer any opinion or testimony about Julie Reese's addiction in trial, are you?
+A. I'm not an addiction expert, no.
+Q. Do you intend to testify at all about addiction at trial?
+A. Yes, in terms of public awareness about the addictive qualities of smoking, yes, I do.
+Q. Did you review the 1964 Surgeon General's report?
+A. Yes, I have.
+Q. Have you read the document?
+A. Not every word, but I've read many portions of
+it.
+Q. Would you agree that the coverage of the '64 Surgeon General's report was massive?
+A. Absolutely, yes.
+Q. Would you agree that the '64 Surgeon General's report was one of the top news stories of the century?
+A. Yes, I would.
+Q. Were you aware of what effects, if any, the Surgeon General's report had on smoking purchases?
+A. Smoking purchases went down for approximately nine months to a year and then started to go back up.
+The prevalence, again, to go back to that, continued downward.
+Q. Do you think the increase in sales had anything to do with the responses in the public domain by the tobacco industry during that time?
+A. I have no way to evaluate that. There are lots of reasons why people start smoking.
+Q. When do you believe the debate about smoking being harmful was fundamentally over?
+MS. FURNESS: Object to the form.
+A. Well, the key word there is "fundamentally," so I know I testified at one point 1964, and then of course the person dropped the word "fundamentally." Debate was
+not over in 1964. So I want to make that clear. It's very unclear to me when the debate was over, but fundamentally over in terms of public awareness, I would say that 1964 is a critical point in time.
+Q (By Mr. Kaiser) Doctor, I'm going — could you move your microphone, because you're cutting off and —
+A. It's fixed in place. I'm trying to talk right into it.
+Q. All right. That's better. I hear you there.
+A. Well, I have to lean forward, then, I guess.
+Q. Okay. That's perfect right there. I can hear
+you.
+A. I can do that.
+Q. Okay. So, then, after 1964, would you agree that it was common knowledge that cigarette smoking was dangerous to your health and was addictive?
+MS. FURNESS: Object to the form.
+A. In — after 1964, in terms of public awareness, yes, I would say we're reaching a point of common knowledge that smoking is not good for one's health or dangerous to one's health, and is potentially addictive.
+Q (By Mr. Kaiser) And I'd mentioned the term and you've mentioned the term "public knowledge" or "common knowledge." What exactly is common knowledge? How do you define that?
+A. Common knowledge is — represents very high levels of public awareness with respect to a particular issue.
+Q. Did you review any of your responses in the public domain by the tobacco industry that cast doubt on the health risks of smoking?
+A. I've seen various statements in various places, yes, I've seen statements that indicate that more research is needed, those kinds of statements, yes.
+Q. One of those documents where they said research was needed would be the Frank statement, would you agree?
+A. Yes. That's — that is, in a general way, true.
+Q. You saw the Frank statement that was issued in 1953, I believe?
+A. It was January '54, but yes, I've seen that.
+Q. And you've seen other documents as well where the industry was saying that more research was needed?
+A. Yes, I have.
+Q. Do you know how long the tobacco industry continued with this — this idea that more research was needed on the dangers of smoking?
+A. I can't give you a specific date, but I would say into the 1970's, perhaps 1980's.
+Q. Did you review any responses in the public media about the tobacco industry that ridiculed the Surgeon General's report of 1964?
+A. I have not seen statements from all of those articles in 1964, January of 1964, where any ridiculing was going on. Specifically the statements that I've read were to the effect that, "We agree with the Surgeon General — we agree with the Surgeon General that more research is needed," because that's actually what Luther Terry, the Surgeon General, said.
+Q. In the 1964 report, was there a causal link that was determined between cigarette smoking and lung cancer?
+A. A causal link? In the 1964 report? Yes. Certainly.
+Q. And did you read any responses by the tobacco industry that agreed with that?
+A. That agreed with that statement?
+Q. Yes.
+A. I don't remember seeing any statements where they agreed with that statement, no.
+Q. Did you read any statements by the tobacco industry that said that that conclusion was irresponsible?
+A. That it was irresponsible? No, I didn't read
+any statements like that.
+Q. Did you ever see any public appearances on TV news shows by tobacco industry representatives, including R.J.R., denying that cigarettes were dangerous to health and not addictive?
+A. Well, I — yes, I've seen — I've seen television programs where statements were made, yes.
+Q. Did you see the appearance of tobacco industry executives before Congressman Waxman in 1994 where each one of them denied that cigarette smoking was addictive?
+A. Yes, I've seen that.
+Q. Have you reviewed, in your historical research, any letters from the tobacco industry to schoolchildren in response to letters whereby the tobacco industry said, "There's no cause for alarm, there's more research that needs to be done, nothing's definitive"?
+A. I have seen those letters in my research, yes.
+I wouldn't characterize them that way, but, yes, I've seen those letters.
+Q. How would you characterize them?
+A. The letters invariably said smoking is for adults, not for youngsters — and I'm paraphrasing — and that the conclusions are not yet in in terms of the health risks of smoking.
+Q. And from what years were these letters, do you
+recall?
+A. What years? I have a little bit of a problem hearing you, too, I'm sorry. What years?
+Q. Yes.
+A. I believe the first one that I saw was in the late '60's. I'm going to guess 1967, '68.
+Q. And did you ever see any letters after the '60's, like into the '70's?
+A. Yes, I believe I have. I've seen a few of them. Yes.
+Q. Are you aware of any public statements that R.J. Reynolds has made acknowledging that cigarette smoking causes lung cancer and other diseases?
+A. I haven't looked into that issue, no.
+Q. Have you ever seen any statements in the public domain by R.J. Reynolds to that effect?
+A. In the public domain, I don't believe so.
+Q. Have you ever seen a public statement by R.J. Reynolds in the public domain that cigarettes are addictive?
+A. Any public statements in the public domain?
+Q. Yes.
+A. Have I personally seen them? I don't believe
+so.
+Q. Are you aware of any such statements that have
+been made?
+A. I — I can't answer that question, no. I'm not aware of any.
+Q. And are you aware of any such statements that were made about smoking deemed dangerous to health and causing lung cancer by the tobacco industry?
+A. Statements to that effect, I would — I can't answer the question, no. I haven't seen any.
+Q. Now, Dr. Martin, did you ever smoke cigarettes?
+A. Yes, I did.
+Q. When did you start smoking?
+A. When I was in college in the 1960's.
+Q. Do you specifically remember what year you began smoking?
+A. I'd say around 1962, something like that.
+Q. What brand do you remember starting smoking?
+A. I honestly don't remember. Probably a Marlboro. Probably a Marlboro cigarette would have been the brand. I'm guessing, though, really. I don't remember, but I'll say probably Marlboro.
+Q. Did you stick with that brand or did you switch and smoke other brands?
+A. I switched around and smoked various brands.
+Q. Can you recall the various brands that you smoked over time before quitting?
+A. Yes, I — I smoked Kent cigarettes and then the last one I smoked was called something like a Kent Ultra Light.
+Q. Do you remember for how long you smoked?
+A. Well, on and off, I smoked until I quit in 1996, and I haven't smoked a cigarette since.
+Q. Do you know why you started smoking?
+A. Well, yes. If you want to know the truth, I was on the college soccer team, and I was one of the few people who didn't smoke. And we would go to away games, and I was being offered cigarettes all the time. I knew they weren't good for me because both of my parents quit in the 1950 's because of the cancer scare, but I was trying to be, I guess, part of the group, socially speaking.
+Q. And what was the level of smoking; I mean, were you a — smoking a pack a day or more or less?
+A. Well, in the beginning, probably two or three a day, something like that. At high tide in the — in the '70's — I didn't smoke much in the '80's — but in the high tide in the '70's, I might have been doing a pack, pack and a half a day, something like that.
+Q. And when you say starting off, two or three, you're talking about two or three cigarettes a day?
+A. Yes, that's correct.
+Q. At your peak, you say maybe a pack, pack and a half a day?
+A. Yes, that's correct.
+Q. Prior to quitting for good, did you have any other quit attempts and then you'd start smoking again?
+A. Well, yes, I quit — oh, probably two or three times, something like that.
+Q. Do you recall the longest period of time that you quit before you started smoking again?
+A. Probably a year.
+Q. And how many times did that happen where you quit and started again, do you recall?
+A. Well, I — I guess two or three, but the year was the longest.
+Q. When did you actually quit permanently?
+A. 1996, Great American Smokeout in November of 1996 .
+Q. What prompted you to finally quit in 1996?
+A. My daughter and my wife asked me to stop smoking, and I said, "Oh, sure I can do that." I quit for a day, and I kept going.
+Q. Did you have any quit aids that you used to help you quit?
+A. Well, I tried Nicorette, but it wiped me out so I put it away. I mean, it just was too strong. It was
+too strong, I couldn't take it. So I used it for a few days and just put it aside.
+Q. And you've never looked back since 1996?
+A. Never looked back. I have no desire whatsoever to have a cigarette.
+Q. Are you familiar with Theodore Wilson and his works ?
+A. I believe he is a historian and I believe he teaches at the University of Kansas, but I'm guessing about the latter.
+Q. Have you read any of his works?
+A. No, I haven't.
+Q. What about Peter English?
+A. Peter English is a name that's familiar to me.
+I don't want to guess, so I — I don't know whether I read anything by him or not. So I — I can't say.
+Q. And Dr. Martin, do you have — or do you intend to rely on any polls at trial in this case?
+A. Yes, I do.
+Q. What kind of polls are you going to be relying
+on?
+A. Well, there are a whole variety of polls that I've reviewed and studied over the years from the Gallup organization, from the — primarily from the Gallup organization and from the Roper organization. There are
+others. There are some Harris polls out there, not as many from the Harris organization. Those would be — those would be representative of the — of the whole.
+Q. Are there going to be any polls that you rely on that you will testify about at trial that were done in the 1 401s?
+A. Polling was in its infancy in the 1940's. I think that there was only really one poll that was relevant that I'm recalling off the top of my head right now.
+Q. Do you know that specific poll?
+A. Well, I don't have the — I don't have the information in front of me, but — so I really don't want to guess. But I —
+Q. How about —
+A. But go ahead.
+Q. The polls that you're primarily going to rely on were from the '50's?
+A. Well, from the '50's into the '80's, yes.
+Q. And the poll information on which you're going to be relying on, did your study include the awareness side of the equation? Did you include the belief side? Did you include both?
+A. I —
+MS. FURNESS: Object to the form.
+A. I've obviously seen both. Awareness is my primary focus, but certainly I've seen the belief side of that as well.
+Q (By Mr. Kaiser) Dr. Martin, have you ever been asked by the Surgeon General of the United States for your views on the history of smoking information and public awareness?
+A. No, I haven't.
+Q. Have you ever been asked by any state government body for your views on the history of smoking and public awareness?
+A. No, I haven't.
+Q. Have you ever published a peer-reviewed article on the history of smoking and public awareness?
+A. No, I've only published book reviews and refereed journals about the history of smoking.
+Q. Do you intend to publish a book on smoking in America anytime soon?
+A. Not anytime soon, no.
+Q. What's taking so long?
+A. Well, it's a good question.
+MS. FURNESS: Object to form.
+A. It's all the other commitments and projects that I have.
+Q (By Mr. Kaiser) Have you ever published any
+book or papers on cigarettes, tobacco or nicotine?
+A. Just — just book reviews, no books or papers.
+Q. Other than that, am I correct in saying that no one's asked you to give your views on the history of smoking and public awareness other than lawyers for the tobacco company?
+MS. FURNESS: Object to the form.
+A. I — I guess the way you frame that, the answer would be no one has asked me for my opinion, no.
+Q (By Mr. Kaiser) Do you have any formal training in polling?
+A. Yes, actually, I took graduate work in public polling when I was in graduate school at the University of Wisconsin. It was part of my minor program.
+Q. How many courses did you take in — where you were formally trained in polling?
+A. One.
+Q. What was the name of that course?
+A. Public Polling.
+Q. Have you ever taken a poll?
+A. No, I've never taken a poll.
+Q. Do you have an opinion as to whether or not tobacco companies in any way distorted the body of public knowledge about the risks, the health risks associated with smoking?
+A. I — do I have an opinion about that?
+Q. Yes.
+A. About distorting the public awareness?
+Q. Yes. Whether or not the tobacco companies in any way distorted the knowledge — or the body of public knowledge about the risks of smoking?
+MS. FURNESS: Object to the form.
+A. I would — my conclusion on that is that that public information has been throughout and available, and if there were attempts to distort it, it had no impact.
+Q (By Mr. Kaiser) My question was, do you have any opinion as to whether or not tobacco companies in any way distorted the body of public knowledge —
+A. In my — in my conclusion, they did not have a significant effect.
+MS. FURNESS: Same objection.
+Q (By Mr. Kaiser) Do you have an opinion as to whether or not the tobacco company distorted the body of public knowledge about the potential difficulty of quitting smoking?
+MS. FURNESS: Object to the form.
+A. Again, I'd have to say the same thing; and that is, that if there — if that was being — if that was being done, it had no significant impact.
+MR. KAISER: Thank you. That’s all the questions I have, Dr. Martin.
+THE WITNESS: Okay. Thank you.
+MS. FURNESS: Allan, before we go off the record, you were asking Dr. Martin about some formal presentation between Dr. Martin and Paul Koethe, and I do not recall producing that in this case. Was there a physical document that was produced in the Reese case that you were referring to?
+MR. KAISER: No, I was referring to a document in another case.
+MS. FURNESS: Can you tell me the date of that document? Because I'm not familiar with it.
+MR. KAISER: I think November 15th of
+1995.
+MS. FURNESS: Could you also tell me —
+MR. KAISER: November 16th.
+MS. FURNESS: Could you also tell me the name of the case, please?
+MR. KAISER: I think that's the Burton
+case.
+MS. FURNESS: I'm sorry, I didn't hear
+you. Burton?
+MR. KAISER: Burton, B-U-R-T-O-N.
+MS. FURNESS: Okay. Thank you. And also,
+Allan, I didn't want to interrupt you during your questions about Dr. Martin's smoking history, but I just wanted to note on the record one objection about his personal smoking history. I'm — I know you know he's an expert here on historical research and the history of tobacco and cigarettes, so I would just object to the questions and answers with respect to Dr. Martin's smoking history. Obviously, it's irrelevant to his opinions on the historical research of the history of tobacco and cigarettes.
+I have no questions for you, Dr. Martin. And Dr. Martin would like to read the deposition transcript.
+Anything further?
+MR. KAISER: Not on this end.
+MS. McFADDEN: Thank you. We're going to
+hang up now.
+MR. KAISER: Okay.
+(Off the record at 10:45 a.m.)
+CHANGES AND SIGNATURE PAGE LINE CHANGE	REASON
+I declare under penalty of perjury that the foregoing is true and correct.
+JAMES KIRBY MARTIN, Ph.D.
+SUBSCRIBED AND SWORN TO BEFORE ME, the undersigned authority, by the witness, JAMES KIRBY MARTIN, Ph.D., on this the _ day of _, _.
+NOTARY PUBLIC IN AND FOR
+THE STATE OF _
+My Commission Expires: _
+STATE OF TEXAS COUNTY OF HARRIS
+REPORTER’S CERTIFICATE ORAL DEPOSITION OF JAMES KIRBY MARTIN, Ph.D.
+January 19, 2011 I, the undersigned Certified Shorthand Reporter in and for the State of Texas, certify that the facts stated in the foregoing pages are true and correct.
+I further certify that I am neither attorney or counsel for, related to, nor employed by any parties to the action in which this testimony is taken and, further, that I am not a relative or employee of any counsel employed by the parties hereto or financially interested in the action.
+SUBSCRIBED AND SWORN TO under my hand and seal of office on this the 25th day of January, 2011.
+Susan T. Baker, RDR, Texas CSR #1561 Expiration: 12/31/11 Notary Public, State of Texas Commission Expires: 1/7/14
+&	1954 44:20 45:7,7	4 access 38:20
+fe 36:16,17 43:21	1957 44:22	4 3:4 25:22 accurate 4:16 42:21 --1960’s 19:10 52:12	2814 acknowledging
+--1962 52:15	17-219-1524 51:12
+>7-30296 1:4__1954 45:22 46:24	20-20 22-4 18 24-3 action 19:19’22
+_1____47:1,4,14,18 49:3,5	25:15,18 26:15 27:3 64:11,14
+/7/14 64*23	49:5,11,14	27-20 24 25 28-5 active 6:6 20:1 25.6
+00	2:11	1967 51:6	30'16 24 31'5 9 11 actors 32:5,5 33:19
+0:06 33-15	1970’s 37:22 48:25	31* 14*22 33*17? actresses 32:5,6
+0:12 33:15	1980's 22:8 48:25	34:14,21 36:8,16,17 33:19
+0:45 1:17 61:18	1990’s 13:3 39:4,5,8	36:20 43:9 56:6 actual 12:6,24 44:18
+13,000 34:10	1994 6:950:9	4000 2:6 ad 34:7
+i-i	1995 40:11 60:15	^00 2-11 addicted 45:11
+2/31/11 64 22	1996 53:6 54:16,17	44144-1190 2 17 addiction 26:22
+561 64:22	54:18 55:3	-!- 45:10,15,17,18
+5th 60-14	I"9 5:13,14	-?- addictive 7:1 9:15
+6th 40-1160-17	19th 18:21	50’s 22:23 35:3,4,8 34:4,15 35:19 36:7
+840’s 18:23	2	35:18 43:16 44:6,24 45:21 47:16,21 50:5
+orAI 10-*/i	- 56:18,19	50-10 51-20
+■850 s 18:24	20’s 22:18	A’ au.iuzu.zu
+or i Ar	54 4o.l7	addictiveness 34*23
+854 15:25	2000 5:15	-
+880’s 19:7	2000’s 13:3	_-_ 39:15 40:1,3,18
+9 1:10,16 22:13	2001 5:16,16	60's 51:6,8 41:7,17,24 42:15
+26:3 64:5	2010 5:20	62 3:4 43.23
+930's 33:23	2011 1 10 16 645	64 3:5 46:3,6 addition 8:11
+940	21:5	64:16' ’ '	68 51:6_ «*» 28:1,4,17,20
+940's 10:3,7,16	20th 16:23 19:4,8	7 31:19,21
+19:16,25 20:11,13	216-579-0212 2:18	70's 51-8 53-20 21 j I '
+20:14,16 21:10 22:6	216-586-3939 2:17	700 2-6 ’ advanced 13:21,22
+24:13,23,25 25:1,6	24 1:4	717 V7n 13:23
+26:4,7,17,19,24	25th 64:16	77^2,21 advcrtisc. 2^6'J1
+27:12,16 32:2 33:20	-.--- advertised 30:2
+35 24 25 36 4 10	___8_ advertisements
+39:12 43:13 56:7	2^'7	80’s 53:20 56:19 27:21,23 28:15 30:5
+941	21*5 34*2	30 s 17:2 22:18 24:3	^ 31:24
+945 34-2 41-23	27:20,24,24 28:4,13 ————-- advertising 27:19
+04* W7 '	30:16 31:4,9,11,13	901 2:16 28:23 29:1,4 31:8
+^1 *91	9:30 1:16
+948 25:21	3LZl	- 31-16
+950 43-19	305-375-0111 2:7 _a_ afternoon 25:23
+950’s 13-2,2,5	305-379-6222 2:7	a.m. 1:16,17 61:18 afurness 2:13
+19-10 22-7 25-7 14	305-530-0055 2:12	able 30:18 ago 4:21 8:25 39:1
+43-1445-953-13	305-539-7253 2:12	absolutely 12:18 agree 11:18,20 12:4
+952	20*25 21*2 3	3300 1:20	13:6 32:3 46:5 12:16 20:18 27:2,8
+953	43-22 44-4	33131-2114 2:11	academy 15:16 32:4,8 33:16 35:4,6 45-3 48-16	33146 2:6	accePt 31:18 32:24 38:16 43:15,20,24
+’ ’	46:3,6 47:14 48:12
+49:7,8	aside 7:1155:2	awareness 6:23,25	bit 18:19 51:2
+igreed 49:17,18,21	asked 30:1 33:2,2	9:10 14:4,8,8,12,13	blind 21:15
+ihead 56:16	34:11 35:17 54:19	14:17 19:14 26:18	blvd 2:6
+lids 54:22	57:5,9 58:4,9	27:6,20 30:16 31:8	body 9:24 57:10
+ikron 5:18	asking 10:7 60:5	32:2 36:23 37:15	58:23 59:5,14,19
+il 1:5	associated 9:12	40:11 41:5,15 45:20	bogart 32:9
+ilarm 50:15	20:17 21:9 34:22	47:3,18 48:2 56:21	book 22:14,16,21
+ilcohol 18:5 20:4	58:25	57:1,7,11,14 58:5	23:1,1,10 57:15,17
+illan 2:4 33:7 60:4	assume 16:9 18:14	59:3__58:1,2
+61:1	assuming 42:9	fo	books 22:9,10,11,17
+ilonso 5:3,22,23	assumption 16:6,13	“T 9 4 60 24	23:12,16,17 37:20
+,lton 22:19	16:15,16	j	58:2
+imended 8:17	athletes 28:5,6,13	back 7*7 16*23	bought 23:7
+imerica 57:18	30:1	18*21 23 23 19*6	brand 52:16,19,21
+imerican 18:22	attempting 29:23	22 13 27*16 45*5	brands 52:22,23,24
+25:5 39:22 41:3	attempts 54:5 59:10	46*12 13 55*3 4	break 33:7,15
+54:16	attention 22:22	baker 1*17 64*22	brief 44:6
+imount 6:22 9:10	attorney 7:17 64:9	bas^ll^	briefly 10:22 14:10
+9:13	attorneys 7:14	based 15*4 16*6	brooklyn 5:18
+imy 2:9	authorities 23:2,6	39*n'’'Ml-V‘15	burton 60:20,23,24
+inalysis 14:6	authority 22:25	bas-s ^ ’	c
+inswer 7:10 15:14	63:10	,	in
+_ , ^ ^ ^	^ ^	began 41:23 52:14	c 22:19
+16:1 17:16 29:18,21	automobile 22:15	, . . „	, ,
+...	«	beginning 22:7	ca 1:4
+32:12 35:20 36:24	automobiles 23:8	53-18	11 35*113 16
+42:23,25 43:4 45:13	available 9:11,14,25 ,	mo/i	a cnunu
+57-7 8 5X-X	10-3 4 12 16 11-3	beg,nS 10:24	Called 5:13’16 13:15
+’ , ,,	’ ,1°';:,	behalf 6:7 9:3 28:18	13:22 21:1,2,5
+inswers 9:2 21:11	1:19 21 22 24 24	38:1>9>10,17	22:14 53:2
+,„ti 18:18,20,22	2 * 2*1 ,2 2*	^ “t*8*14*16	“'S
+_ , ___’ ’ „ _____ ’ _ „ „	56:22 57:2	campaign 34:7
+19:14 22:17 29:7	25:12,25 26:10,14	, r	oi i oc
+•	^ 0 ^	believe 5:24 8:12	cancer 21:1,2 25:5
+my time 57.18,19	35.24 36.639.5,8	izL,in9S 1S’11	zL'v 19 99 9^ aa - 19
+iPPear	20;25 21:4 28:22,25	4*13 5 m3 52:6
+ippearance 7:4 50:8	41:16,20 42:6,6	29*25 30*4 31*18 24	53*13
+ppearances 2:1	59:9	38:24 41:4,11,14,22	carlton 2:10
+' .	avenue ■ •	46:20 48:16 51:5,9	earltonfields.com
+ipproximately 4:21	aware 14:11,22	si-17 SS-R R	9*n
+6:9 7:22 8:25 46:11	21:12,15,19,20	,
+„___^	« ’ ’ ’__.	benefit 16:5	carry 20:15
+irea 4:12 25:7 30:19	27:11,15 30:20	, Q 10	/ 01 1 a
+____’ „ „ ^ _	berry 8:12	carton 21:1,3
+33:23	32:20 34:7 36:4,8	, / c ^ i c i. o/i	u;nnK
+___best 5:6 15:14 36:24	case 1:4 5:12,13,15
+irticle 20:19,24 21:4	36:13,15,18 37:20	better47.o	5-17 19 22 23 7-8
+21:1044:25 57:13	39:3 41:23,25 42:14 .. ,, ’	15 9 6 11 13
+billboards 31:8,10	14:7 15:18 17:11
+24.20,21,25 25.1	44.20,2146.9 51.11	31;13	30:10 37:8 55:18
+49:5	51:25 52:3,4	60:7,8,11,19,21
+ases 4:23 30:4	45:2,11 50:4 51:19	conclude 39:14,24	count 6:5
+:ast 48:5	52:9 53:1,11,24 40:2	country 22:20
+ategory 14:14	58:1 61:6,10	conclusion 49:23	county 1:2 64:2
+ausal 49:11,14	circuit 1:1,1 59:8,15	course 7:2 13:8,14
+ause 1:16 50:15	clarify 7:9	conclusions 11:8	13:15,17,19,22,23
+aused 44:8	class 16:5 17:4 43:1 50:23	46:24 58:18
+auses 51:13	classes 14:21 16:21	condition 21:13	courses 58:15
+ausing 52:6	16:23 17:9 20:7	conducted 10:18	court 1:13:5 4:23
+enturies 9:12	clear 9:23 47:1	confidential 38:21	5:7,9,17
+entury 16:24 18:21	Cleveland 2:17	congressman 50:9	coverage 46:3
+19:4,9 46:7	coffin 10:12 26:7	Connecticut 15:3	crank 25:19
+ertain 14:18 38:22	coin 35:9 16:10,11,20 17:13	cranked 26:17
+38:23	collect 12:10 17:25 18:3 19:5,15	cranking 25:6
+ertainly 9:23 11:5	collected 11:7,7 19:16 20:2 23:19	crawford 32:13,15
+12:8 21:10 25:5	collection 12:7 23:1 33:18	credibility 12:12
+30:14 33:18 34:17	23:5,5	connection 7:3,12	critical 12:18 47:4
+35:6,11,21 40:20	college 52:12 53:9 8:19 11:12 14:6	csr 1:17 64:22
+41:19 49:15 57:2	come 18:24 22:22 37:7	cultural 26:11
+ertificate 3:5 64:3	25:13 43:18	consequence 30:19	culture 26:12
+ertified 1:17 64:6	coming 11:22 24:25	consequences 39:16	curricula 16:18
+ertify 64:7,9	commission 63:17 40:4,19	curriculum 17:12
+hange 40:22 62:2	64:23	consider 27:19	17:13 18:10,12 24:2
+hanged 40:20,25	commitments 57:23 30:15 31:7,15 32:1	cutting 47:6
+hanges 62:1	common 47:15,19	considered 12:23	d
+haracterization	47:23,24 48:1	considering 39:11	dade
+31:19 32:25	commonplace 33:20	consumer 44:21	erous 47 16 21
+haracterize 50:18	communicated	contacted 6:8,10,13	50*4 52*5
+50:20	14:19 18:17 19:23	context 12:16,18,21	, ' ’ 14-19 17-1C
+hildren’s 25:23	22:4 26:23 12:22,24 13:2,4,5	^i7i9-23 22*25
+hoice 27:3 41:4,12	companies 29:9 29:17 30:13	24*4 48*23
+41:14	30:21,25 31:5 32:21	continued 46:13	, * 4-19 20 22*1
+hristian 18:25	37:22 38:10 58:23 48:22	*48*24 60*12
+igarette 22:25 24:4	59:4,13	controversy 34:14	, * 54.19
+27:19,21,23 28:4,20	company 1:5 28:21 34:17,21 35:2,4,10	Z™8 ** ’
+28:21,24 29:2,5,9	28:24 29:2,5 34:4 35:14,18 43:17 45:9	2>1- 7.?
+30:21,25 31:5,7,15	37:12 38:7 58:6	copies 18:7	Tr*4 7 10 12 18
+31:19,21 34:11	59:19	copy 4:20 17:24	*’ ’ ’ ’ -
+47:15 49:12 50:10	compared 13:2 22:16	54^1 63* 11 64* 16
+51:12 52:18 53:6	compilation 23:19	correct 9:4 12:15	, ’
+55:5	complaint 8:14,17 19:21 25:20 33:22	^2^ ’
+igarettes 18:9 19:3	complaints 8:16 38:3,5 44:1 53:25	d6 f 39*14 40*2 17
+20:5 28:3,13,18	completed 9:3 54:3 58:3 63:3 64:8	,ea,
+29:16 30:2,2 31:17	completely 14:16	corrected 22:23	,6f ^ ^2025
+31:22 34:2 35:19	computerized 1:19	counsel 30:6,11	?
+39:16,17 40:4,18 64:10,13	'
+lecade 19:25 20:1	dip 44:5,13 45:4	dropped 46:25	evening 25:25 26:2
+lecember 5:15 21:3	disagreement 15:24	duly 1:15 4:2	events 31:4
+lecision 41:11	34:18,18,25 35:1,7	dumb 39:14 40:2,17	evidence 32:25
+leclare 63:2	35:9,14,16,21 43:16	e	39:24
+leemed 52:5	43:22 45:9	e 2-9 13 15 18 22-19	exac* 40:16
+lefendant 38:16,17	disappeared 30:18	4010 10	exactly 47:24
+lefendants 1:14 2:8	disclosed 39:2	earj 5 16 20 16 23	examination 3:4 4:3
+lefine 47:25	disclosure 4:11	^17^2 19-6 22-23	example 7:13 10:13
+lefined 11:1	10:21 14:2,21 18:16	25-2044’6	22:13 38:25
+lefining 11:17	19:20 20:10 22:3	, ’ . 1^.1091	examples 26:20,21
+lefinitely 20:15	24:9 26:21	6 16C22°i7-22 181	exclude 14:16
+lefinition 10:25	discuss 7:16 13:8	29-3	executives 50:9
+lefinitive 50:16	discussed 7:20	, , 1AC	exhibits 3:7
+. . ^	_	educational 10:5	^
+legeneration 21:13	39:12	effect 27-19 30-5 15	exPec* 9:6
+lemcfadden 2:18	discussions 17:10	31*7 15 32*1 44*8	exPert 5:8,9 6:1,6
+lenied 50:10	diseases 51:13	49-7 51-16 52-7	38:1,2,17 43:3
+lentists 31:22	distinguish 14:3	59-16	45:17 61:5
+lenying 50:4	distort 59:10	effectivel 44 8	expertise 4:12
+lepends 43:6	distorted 58:23 59:5	f	expiration 64:22
+leposed 6:1	59:14,19	eiht^	expires 63:17 64:23
+leposition 1:8,13	distorting 59:3	... 4-9^ 7-m	explain 17:18
+5:23,25 6:19 7:25	div 1:3	6j ,6r ’ 10.10	exposed 18:12,13
+8:10,10,11,13,19,23	doctor 47:5	'	23:10,14,16,17 24:4
+14:25 15:1121:12	doctors 31:16,20	w , ' 1y1	33:18
+~ ~	emblazoned 36:14	.	_ ,
+21:18 27:11,15 33:3	34:8,10	j , 64-10 13	expressions 10:11
+38:14 42:1 61:12	document 40:16	emp oye . ,	26:13
+64:4	44:10 45:25 60:8,11	enlP °yee •	extent 19:13 28:12
+lepositions 4:24	60:13	entand^lS^i	32:20 35:22 42:2
+9:22	documents 6:19 7:6	55.13 14	f
+lescribe 10:22	7:11 8:18,21 36:22	8 ' ’	„ . „ ,,
+, ^ _____ ’ „ _ _	enormous 6:22	fact 9:11 16:3 40:22
+escribed 18:5	36:22,25 37:3,10,13	entajl n.18	fads 64;?
+escription 15:13	38:21 39:2,5 7,11	entai|s 10;23	fair, l&l4
+lesire 55:4	44:7 48:10,18	„ 1A ia
+, •	^	equation 56:22	fall 14:13
+leternnne 15:20	doing 53:21	. „ 1on	« o->iccc^
+, . .	especially 18:9	familiar 32:15 55:6
+leternnned 49:12	domain 42:10 43:10	, 1<3,	cciAtnn
+^	, ,, ,, ,	essential 13:6	55:1460:13
+lifference 14:5	46:16 48:5 51:16,17	. ( ?	famous 22-20
+36:12	51:19,21	“te 63	far 4 17
+[iffereuces 35:1115	doubt 25.12 48:5	evaluate 12:4>11	faster'28:11
+lifferent 13:4 28:2	downward 46:14	zL6-ir	f ?-7 1? 18
+lifficult 41:143:7	dr 4:96:18 12:16	* , 11Q	’ ’
+^	„	evaluated 11:8	federal 5:17
+lifficulty 59:20	28:9 33:16 52:9	, .. 10	~
+^ ^	M ^ ~ ^ ^	evaluating 12:5	feliz 5:17
+oc-c’o	evaluation 11:6 12:6	ferraro 2:5
+21:21,25 25:8	61:2,7 11,12	12:7,14	fields 2:10
+limaggio 28:21	drop 44:9
+iled 8:15	foundational 12:19	glamorized 27:25	heading 5:1
+inally 54:18	frame 10:2 58:8	28:2	health 6:24 9:12
+inancially 64:13	fran 25:24	go 11:1 16:3 22:13	10:15 14:20 16:5,12
+ind 12:142:7	frank 48:11,15	28:11 33:8 46:12,13	16:20,22 17:4,9,22
+ine 33:11	free 15:16	53:10 56:16 60:4	17:25 18:4 20:4,7
+inished 8:24	front 24:5 26:9	goes 43:19 45:7	20:17 21:7 22:12
+irm 2:5 6:10 38:4,7	56:13	going 4:13,20 6:3	25:2,4 26:19 27:11
+irst 4:2 5:12 6:8 7:8	ft 5:21	7:22 11:12 16:25	27:15 34:4,15,21
+9:9 11:16 14:22	fundamentally	18:21 47:5 49:6	35:7 39:16 40:4,18
+41:10 43:1 51:5	46:21,23,25 47:3	51:6 54:21 55:20	41:6,16,24 42:4,14
+ive 5:4 33:12	furness 2:9 17:5	56:4,17,20 61:15	43:23 44:12 45:10
+ixed 47:7	20:21 21:17 23:20	good 4:9,10 28:7	47:16,20,21 48:6
+lorida 1:2 2:6,11	27:4,7 29:13,20	31:23 47:20 53:12	50:5,24 52:5 58:24
+5:21	30:3,9 32:11 33:7	54:4 57:21	hear 17:16 27:13
+ocal 9:18	33:12 34:16,24	government 19:19	47:9,11 60:22
+ocus 14:7,12,17	37:11 39:18 40:6	19:22 20:2 57:10	hearing 51:3
+26:24 57:2	41:8,18 42:16 43:5	graduate 13:7,17,25	heavily 18:4
+ocused 9:8	45:12 46:22 47:17	58:12,13	height 45:5
+old 9:9	56:25 57:22 58:7	graham's 43:21	help 54:23
+ollow 12:6 16:8,18	59:7,17,22 60:4,12	great 54:16	henry 22:13,24 23:3
+ollowed 41:9	60:16,18,22,25	grew 19:8	23:8,11,19,21
+ollows 4:2	furnished 8:2	group 36:20 53:14	hereto 64:13
+ord 22:13,15,24	further 61:13 64:9	groups 18:25 36:18	high 15:3,13,15 16:z
+23:3,11,22	64:12	guess 4:21 7:22	17:1 23:18 24:2
+ord's 23:8,19	g	22:21 24:7 47:10	48:1 53:19,21
+ore 43:19 —n-777©- 51:6 53:14 54:13	hill 36:16,17
+gallop 44:18
+oregoing 63:3 64:8	„ 55-93 24	55:15 56:14 58:8	hire 36:17
+orm 11:9,23 17:5	8&	guessing 52:19 55:9	hired 36:15
+20:21 21:17 23:20	ga™es .	gullible 41:3	historian 55:8
+27:4,7 29:13 30:3	^ene^ZlV	^	historians 12:9,20
+32:11 34:16,24	86116 1 ’ a ^ ~T 0 /i 00 m /m m	historical 6:23 7:2
+T7-ii ^o.ia/irw;	general 1:3 16:17	h 2:4 22:19 40:10	7inifiinil81Q1.
+23:22 24:21 26:14	habituating 7:19:15	'I-'},},'},'} ’
+43:11 48:13 49:8,8	half 53:22 54:2	q n o-T.o
+49:1057:5	halt 39:1440:2,17	1'a^-I
+general's 45:22 46:4	hand 14:3 64:15	n J
+59:7,22	v.	£1	39:13 50:12 61:5,9
+i ™ ^ ^	46:6,10 49:3	hang 61:16	, .
+ormal 58:10 60:5	„ -urnm-in	u a (1	history 13:17,23
+„	generally 16:7 22:10	happen 54:11	,
+ormally 58:16	^	,,	17:22 19:10 57:6,10
+^	gentleman 6:17	happened 42:11	„ *„M
+ormat 11:9	10	,	57:14,16 58:4 61:2
+.	22:19	happy 7:9	_ , ’ ^
+ormed 36:19,20	...	, loni	61:4,5,8,9
+,, ,	getting 26:16	hard 19:1,11	,
+orms 11:4	gjve 15:14 24:1,19	harmful 46:21	home 26:3
+, ;	48:24 58:4	harris 56:1,2 64:2	honestly 52:17
+43:19 47:10	, , „ n	, ,	hope 40:7,7
+,	glad 7:9	head 6:5 23:13 56:9	, v ’
+ound 15:10	s	hours 7:23
+louse 25:21	12:13 14:24 15:5,8	64:5,16	kirby 1:9,13 3:3 4:1
+louston 1:21	15:10 17:7 26:13,22	jeffrey 2:4	4:7 63:6,10 64:4
+lumphrey 32:9	27:17 30:24 31:1,3	joan 32:13,15	knew 53:11
+tundreds 39:1	34:9 35:23 36:5	joe 28:20	knockout 21:6
+lypothetical 42:17	39:20 41:2,6,16,20	john 32:18,19	know 4:17,18,19
+42:23 43:6	42:5,10,12,20 43:10	jones 1:20 2:15 38:4	5:24 15:6 16:2
+lypotheticals 42:25	44:23 56:13,20 57:6	38:6,9,12,18	18:11 23:7,10,14
+43:2,4_ 59:9	jonesday.com 2:18	24:9 31:10 35:24
+i	instance 1:14 10:12	journals 57:16	45:8 46:24 48:21
+dea 23-9 48-22	37:21	judicial 1:1	53:7,8 55:15 56:11
+dentif in 112 17	instruction 20:3	julie 1:3 8:3,20 9:3	61:4,4
+dH;1 ^39^14 40-3 17	intend 9:21 45:14	9:20 18:11 21:11	knowledge 22:3
+10 i/i ’ii	45:18 55:17 57:17	23:7 33:17 34:1	33:3 47:15,20,23,24
+mpact 37:14 59:11	’
+Jq.25	interested 37:23	41:4,14,23 42:14	47:24 48:1 58:24
+' , ioqi'v	64:14	45:10,15	59:5,6,14,20 mportant 12:8,17
+12-22 13-1 14-14	internal 36:21,22,25	junior 15:3,13 16:4	knowlton 36:16,17
+20-19 21-4 27-6	37:2,9,12,21 38:20	17:1 23:18 24:2	known 39:15 40:3
+. 1C,	interrelated 14:12	jurisdiction 1:3	40:1742:4
+mpression 15:4	. .	-
+interrogatories 8:8	k	koethe 6:17 60:6
+’ . 4 n	9:1,2 15:1 21:12 ~ Ar. in	koonin 2:5
+nappropnate 24:7	. ’ ^ „	k 40:10	,
+1011	interrogatory 15:1	, £	kukla 25:24
+naudible 13:11	6 J	kaczynski 6:16	-
+nclude 5:2 17:9	. 15:12	40:10	_1_
+56:21,22,23	!nter™P.	kaiser 2:4 3:4 4:4	label 34:6
+ncluding 12:12	introduction 13:16	17:8 20:24 21:20	ladies 33:8
+28:3 50:4	introductory 13:17	23:25 27:5,9 29:14	lakeside 2:16 ncrease 46:15	^	29:21 30:6,11 32:13	large 33:4
+1 O.C O CO-91
+ncreasing 45:2	. , H 4 R1o.	33:11,14,16 34:20	late 5:15 6:8 17:2
+ndex 3:1	in™]l^ed 7:8 18:4	35:3 37:16 39:23	22:7 26:3,3 51:6
+ndicate 18:3,8	. 1.	40:9 41:10,22 42:20	lauderdale 5:21
+26:18 48:8	involving,43:21	43:9 45:14 47:5,22	lauren 32:16
+ndicated 6:2115:8	!ron 5: 3	57:4,25 58:10 59:12	law 2:5 5:7,9 6:10
+ndividual 29:15	irrelevant 61:8	59;18 60:1,10,14,17	18:14 38:4,7
+ndividuals 23:24	irresponsible 49:24	60:20,24 61:14,17	laws 17:24 19:4
+49-25
+ndustry 33:4 36:9	. '	kansas 55:9	lawyer 6:12
+issnp 34*19 43*14 16
+36:15,22 37:9 45:1	“	keep 12:20 29:17	lawyer’s 6:15,16
+zn-1 R 44-21 4R-^
+46:17 48:5,19,21	' ' '	kent 53:1,2	lawyers 58:5
+49:2,17,23 50:3,8	. 5 :1‘4	kept 54:21	lead 11:8
+50:13,14 52:6	!ssued ^:15	key 12:5,9 46:23	leading 17:2122:24
+ndustry's 35:23	issues 6:25-kind 10:13 13:20	23:2,6 32:5
+nfancy 56:7 _j__55:20	lean 47:10
+nfluence 19:22	james 1:9,13 3:3 4:1	kinds 7:19 9:24 19:7	learn 14:23
+nformation 4:12	4:7 63:6,10 64:4	20:16 22:17 24:17	learned 15:2,20
+8:2,5 9:10,14,24,24	january 1:10,16	25:7 26:2,8 48:9	lee 25:24
+10:3 11:6 12:7,8,10	5:16 48:17 49:5
+egal 5:1	macular 21:13	12:3 13:9,20	needs 50:16
+egally 21:15	magazines 20:14	miami 1:2 2:6,10,11	neither 64:9
+eon 2:6	25:9	mice 43:21	networks 25:19
+etters 50:13,14,17	mail 2:13,18	mickey 29:4,6	never 55:3,4 58:21
+50:19,21,25 51:7	major 21:10 28:8	microphone 47:6	new 5:18 18:22
+evel 13:17,25 53:16	making 31:20	middle 4:7	news 25:25 46:7
+evels 44:15,16 48:2	mandatory 14:20	mild 31:17	50:3
+ife 21:16,23	16:5,20,22 17:4,8	minnesota 39:1	newspapers 20:9
+ight 32:6,10 53:3	20:6	minor 58:14	nicorette 54:24
+ine 31:2 33:9 34:13	mantle 29:4,6	minutes 33:13	nicotine 21:6 35:19
+62:2	manufacture 19:2	mixing 21:6	45:11 58:1
+ink 43:11 49:11,14	march 5:12,14	moment 33:8	nine 46:12
+ist 24:5 26:9	marlboro 52:18,18	money 32:23 33:4	normal 44:15,15
+isted 14:21 18:16	52:20	month 4:22 8:25	north 2:16
+19:20 20:9 22:9	martin 1:9,13 3:3	months 4:217:7	norwich 15:16
+24:8,20	4:1,8,9 6:18 12:16	46:12	notary 63:14 64:23
+iterature 10:10	28:9 33:16 52:9	morning 4:9,10	note 61:3
+25:2,4,8	55:17 57:4 60:2,5,6	move 19:3,3 47:6	nothing’s 50:16
+itigation 38:22,23	61:11,12 63:6,10	movie 33:17	november 5:20
+38:25	64:4	movies 10:13 26:5,6	40:11 54:16 60:14
+ittle 18:19 22:14	martin’s 61:2,7	32:1,7,14,15,16,17	60:17
+51:2	massive 9:10,13	32:18,19,22 33:5,21	number 10:11 18:2C
+ived 10:1	46:4	music 26:13__19:11 30:4 38:3
+Dcally 26:1	material 6:22 10:13	n	numbered 1:16
+□cate 12:2	11:3 12:4,5,12,20	n 22-19 60-24	0
+orations 9:25	materials 13:13	^ |():|2'	o 22:1940:1060:24
+Bl??-7/IO ia !	17.20 18.2,3 23.2	nai]s 26.?	o'clock 25:22
+£ *	name 4:5,7,7,8 6:12	object 20:2121:17
+matter 39:2	6:15,16,17 8:12	23:20 27:4,7 29:13
+Bll,geS^t	\ ,c	15:15,19,20 17:23	30:3 32:11 34:16,24
+^ i i,!L00	“cfadden 2:15	22:19 55:14 58:18	39:18 40:6 41:8,18
+Doked 7:4,5 8:8	61:15	,n,Q	A^,e- Ae-,^
+„ 0 . A a	60:19	42:16 43:5 45:12
+37:20 51:14 55:3,4	mean 7:6 33:23	,	^ m c/: «
+named 34:12	46:2247:1756:25
+ot 19:9 28:11 32:22	42:18 53:16 54:25
+™ ™ ^	names 19:8 23:24,25	57:22 58:7 59:7,22
+39:20 41:19	means 10:6 17:23	24>6	6V6
+°*s 10:9,1028:1,1	media 49:2 ^ ^	narcotics 18:6,6,8	objection 17:5 29:2(
+46:18	medical 25:2,4	20;4	30:9 37:11 59:17
+ou 29:1	meeting 7:16,21	~
+a* a a	national 22:22	61:3
+Ling 43:12 44:12	mention 12:11,11	.. n
+Aq..~ ,,.,0	17.o	nationally 26:1	obtamed 17:23
+I	, nl	nature 7:110:25	obviously 13:19
+r 49.9--mentioned 9.1	34:5,15 35:19 36:7	19:9 23:15 57:1
+_111__1 2 J: ’	necessarily 14:16	61:8
+nachine 1:19	me\ ' ’	needed 48:9,11,19	ochsner 22:19
+methodology 10:22	,Q.Q
+10:23,24 11:11,15	'	'
+iffer 9:2145:14	paid 32:22	ph.d. 1:9,13 3:3 4:1	previous 33:3
+iffered 23:3 53:11	painted 43:21	63:6,10 64:4	primarily 14:12
+iffice 64:16	pamphlet 24:19	phrase 35:13 40:8 19:2 55:24 56:17
+iffices 1:20	pamphlets 24:8,10	phraseology 40:16	primary 11:3 13:24
+ih 18:20 22:11 54:6	24:15,16	physical 60:8	14:1657:2
+54:20	paper 11:10	physician 22:20	principle 12:19
+ihio 2:17 5:13,18	papers 58:1,2	pictures 26:8,9	prior 5:25 7:24 54:4
+ikay 4:22 5:1 29:25	paraphrasing 50:22	pinky 25:24	private 15:7,22,25
+33:12 35:17,22 43:3	parents 53:12	place 12:25 26:6	16:4,7,18 17:1 37:2
+47:11,14 60:3,25	part 8:10 12:14	47:7	probably 13:4,18
+61:17	14:14 16:13 17:13	places 48:7	22:7 24:17 25:17
+iliva 5:3	18:10 24:1 36:3,23	plaintiff 2:3 8:3,20 27:2 30:22,22 37:1
+illie 25:24	37:3,4,5,13,17	player 28:18	52:17,18,20 53:18
+•nee 11:1,6,7 12:9	53:14 58:14	please 4:6 9:5 28:10 54:6,10
+13:18 15:20	particular 6:10	41:8 60:19	problem 51:2
+>ne’s 47:20,21 58:4	14:15 16:19 19:25	point 2:16 9:18	problems 21:9
+ines 13:24	28:24 29:2,5 34:3 21:23 24:19 46:24	process 12:14
+ipining 42:3	44:10 48:2	47:4,19	produced 1:14 60:8
+ipinion 26:15 35:12	particularly 20:1	poll 56:8,11,20	producing 60:7
+35:15 36:12 40:21	42:7 58:20,21	product 32:21
+40:22 45:15 58:9,22	parties 64:10,13	polling 37:21 56:7	products 19:2 21:9
+59:1,13,18	pass 19:4	58:11,13,16,19	28:2,5 29:7 33:5
+•pinions 9:5,8,17,20	pattern 16:17 25:22	polls 26:15,16,17	program 58:14
+10:17 11:12 26:16	paul 6:17 40:10 60:6 37:23,24 55:18,20	programs 26:2
+61:9	peak 44:17,22 54:1 55:22 56:1,4,17	30:15,17,24 50:7
+ipportunity 4:14	peaked 44:19	ponce 2:6	prohibition 19:1,6
+30:7	peer 57:13	popular 20:14 26:11	projects 57:23
+ipposed 27:5	penalty 63:2	26:12	prompted 54:18
+iral 1:8,13 64:4	people 14:14 19:12	popularity 20:20	provided 8:6 38:9
+•rganization 18:23	23:4 41:1,3 46:19	population 45:6	public 6:23,25 9:9
+37:23 44:18 55:24	53:10	portions 46:1	9:11 11:25 14:4,17
+55:25,25 56:2	percentage 44:19	positive 32:6,10	14:20 15:6,8,21
+•rganizations 18:18	45:6	possible 12:21 39:16 18:17 19:24 22:4
+18:2119:8,11,14	perfect 47:11	40:4,18	25:2,4,10 26:14,15
+25:3,5	period 4:22 22:6	potential 59:20	26:16,23 35:23 36:3
+p	27:6,24 44:6 54:8	potentially 47:21 36:6,14,23 37:1,3,5
+~ 2^5	perjury 63:2	preparation 6:18 37:5,14,15,18 38:21
+ini 33-15	permanently 54:15 7:3,25	39:3,8,22,25 40:11
+lack 53-17 21 22	person 17:21 46:25	prepare 7:13	41:3,5,16 42:10
+^54-11 ’ ’	person’s 41:11	prepared 4:18	43:10,11 44:19
+lacka e 34-3 6	personal 61:4	present 2:3	45:20 46:16 47:3,18
+^^3 2 4 62-2	personally 51:23	presentation 11:9 47:23 48:2,5 49:1
+- 64-8	perspective 7:2	40:10 60:6	50:2 51:11,15,17,18
+>a^0S ’	peter 55:13,14	prevalence 44:17 51:19,21,21 57:7,11
+45:5,6,7 46:13	57:14 58:5,12,19,24
+59:3,5,9,14,20	read 9:22 21:21	reflected 9:7	researcher 17:21
+63:14 64:23	30:23 40:16 45:25	relate 11:20,21 20:6	respect 6:23 9:15
+publications 22:2,5	46:1 49:7,16,22,25	22:3	11:16 14:18 17:25
+publicized 45:3	55:11,16 61:12	related 17:9 20:4	48:2 61:7
+publish 57:17	readers 20:15,25	64:10	respond 29:23 43:8
+published 22:18	21:21,25 25:8	relates 8:19	response 29:10
+23:4 57:13,15,25	reading 8:24 23:18	relation 44:12	35:23 36:5,8 50:14
+purchases 46:10,11	real 12:5	relative 64:12	responses 46:16
+pushed 19:1	really 6:4,22 14:10	relevant 27:2 56:9	48:4 49:1,16
+pushing 19:11	25:13,19 52:19 56:8	reliability 12:13	responsive 28:10
+put 22:12,14 23:11	56:13	rely 55:18 56:4,17	29:12,14,18,22,25
+30:12 38:19 54:25	reason 37:16 62:2	relying 55:20 56:21	result 10:17,19
+55:2	reasons 46:19	remember 5:6 6:12	38:21 44:4
+q	rebounded 44:23	21:24 34:13 49:20	resumed 44:15,15
+jjjj 9.i6 45.91	recall 8:18,21 15:15	52:13,16,17,20 53:4	review 4:14 7:24
+lUai*-16S um'	15:17 19:6 23:13	render 9:6,8 11:13	21:11 36:21 45:22
+luestion 14:2,22	’
+16’1 20-23 28-10 12	31:2 40:9,15,25	repeat 27:14 39:23	48:4 49:1
+9Q-R 19*1 S 1Q 99	51:1 52:24 54:8,12	report 44:21 45:23	reviewed 6:20,22
+30*1 32-12 34*11	60:7	46:4,7,10 49:3,11	7:11,19 8:10,12,14
+36-24 39-23 41-9	recalling 56:9	49:14	8:22 18:2 22:5,6
+42-24 45-13 52-2 8	recognize 22:24	reported 1:19	26:8 37:4,9,17 39:9
+57-21 59-12 ?	recommendations	reporter 1:18 64:6	50:12 55:23 57:13
+n	31:20	reporter’s 3:5 64:3	reviewing 8:18
+[uestionmg 33:9	.	^	-
+uestions 30 8 12	recommending	represent 38:13	reviews 57:15 58:2
+60*2 61*2 7 11*	31:16	representative 56:3	reynolds 1:5 5:3,3,4
+uit 53*5 12 54*5 6	record 4:5 6:23 7:18	representatives 50:3	6:7 38:1,2,13,15,18
+^54*9 12 15 18 20 22	36:3,14 37:1,3,5,6	represented 28:21	51:12,16,19
+54;23 ’ ’ ’ ’	37:14,18 39:3,25	38:7	richard 17:23
+uite 19-6 20-22	60:5 61:3,18	represents 48:1	ridiculed 49:2
+39.^9	records 39:8	required 23:18	ridiculing 49:5
+ittin 52*25 54*4	reese 1:3 8:3,20 9:3	requirements 16:8	right 21:2 29:10
+” ' '	9:20 14:23 15:2	16:19 17:24	47:7,9,11 56:9
+-!--16:3,25 18:11 23:7	requires 11:1	risk 43:23
+_-____24:2 27:3,10,14	requiring 20:3	risks 9:12 10:15
+22:19 60:24	33:17 34:141:14,23	research 7:12 10:18	16:12 18:5 20:4,17
+j. 1:5 5:3,3,4 6:7	42:14 45:11 60:8	10:20 11:2 12:17,19	21:8 22:12,25 26:19
+38:1,2,13,15,17	reese's 21:11 41:4	12:23 13:16,23 14:6	26:22 27:11,15 34:4
+51:12,16,18	45:15	15:19 16:6 17:12	34:15,22 35:5,7,18
+j.r. 50:4	refer 23:21	19:13 27:18 30:18	36:6 40:1 41:6,17
+adio 30:15,17,20	refereed 57:16	31:12,13 36:18,23	41:24 42:4,14,21
+30:24 31:4	reference 10:21	37:7 39:13 43:1	44:12,23 45:10 48:6
+are 26:2	references 37:19	48:9,10,19,22 49:9	50:24 58:24,24 59:6
+dr 1:17 64:22	referred 18:8	50:12,15,17 61:5,9	room 33:8
+caching 47:19	referring 9:2 23:22	researched 17:18	roper 37:22 55:25
+60:9,10
+ussell 2:5__separate 14:10	52:11,14,16 53:7,16	spring 6:8 13:21
+s	setting 12:25	53:17 54:5,9,20	stand 22:23
+22* jo	shape 11:23	57:6,10,14,16,17	standard 11:14
+2-11	short 33:15	58:5,25 59:6,21	23:23 24:6
+afe 16* 14 16	shorthand 1:18 64:6	61:2,4,8	start 14:20 46:19
+ale 19*2 44*15	shows 25:18,23	soccer 53:9	52:11 54:5
+^ 44-3 5 8 10 13	30:20 50:3	socially 53:14	started 34:141:21
+*44*15 45-2 4 46*15	side 56:22’22 57:2	society 18:22 25:5	46:12 53:7 54:9,12
+aw" 28*6 48*15 51*5	signature 3:4 62:1	sold 34:3	starting 52:16 53:23
+a in 28*6 31*22	significant 59:16,25	solely 14:8	starts 43:18
+48*19 58*3	simply 13:22 23:3	somewhat 13:4	state 1:18 4:5 16:8,9
+*01iQ '	30:17 32:24	soon 57:18,19	16:10,11 17:25 18:3 ays 21:18
+J	sir 29:12 42:18	sorry 20:22 42:19	18:14 19:1,4 20:3
+care 53:13	J
+rhnnl 10-5 14-70?^	sitting 30:7	51:3 60:22	57:9 63:15 64:1,7
+15*3 3 67 9 13 15	situations 14:15	sort 25:9	64:23
+15*19 20 21 2225	skipping 19:9	sorts 21:8 22:11	stated 14:25 40:24
+16*4 4 5 17*1 4 20*6	s^an§ 10:1126:12	sought 37:24 39:10	64:8
+23*15 18 24*2 18	slaver 22:14	source 11:3 13:13	statement 4:116:21
+58;13’ *’	slight 44:13	17:6	7:19 9:8 11:4 23:22
+u i u.1A	sloman 2:4	sources 11:2,19,21	25:20 48:11,15 choolchildren
+50.13	smoke 19:12 27:3	11:22,24 12:1,2,13	49:18,21 51:18
+h i 16*7 18	32:17,19 34:8,11	24:17 26:11,12	statements 16:11
+W 33*19	35:5 41:5,11,15	speaking 16:7 53:15	28:6 36:2,4,13,25
+^64 15	52:9,22 53:10,20	specific 6:5 9:20	48:7,8,9 49:4,6,20
+6ar Wn 1M8	smoked 52:23,25	14:18 16:11 24:9,15	49:22 50:1,7 51:11
+econdm2:ll 5:15 18	53:U,4,5,6	24:19 26:21 31:1	51:15,21,25 52:4,7
+n ia ’	smokeout 54:16	34:13 36:4 37:25	states 13:16 16:19 econdly 9:13
+A	smoking 6:24 7:1	48:24 56:11	17:22 57:5
+econds 26:7	b
+19*13 27*23 28*4	9:13,16 10:15 14:19	specifically 7:13	stenotype 1:19
+628*12 17 2 0 31*21	16:12 17:9’10 18:5	15:17 19:13 23:14	steP 11:5>16 12:3,5
+32*4 50*2 8 51*7	18:8,17,18,20 19:14	29:8 30:1 31:16	steve 6:16 40:10
+*	’ '	19:23 20:17 21:8	37:4 39:10 41:20	stick 52:21 eeing 49:20
+%„010Q11_	22:12 24:4 26:19,22	49:652:13	stop 54:19
+een 27:21 28:1,15	^
+29*6 10 15 30*5	27:11,16,25 28:7	specifics 14:1	stories 46:7
+31*2 3 19 24 32*6 9	31:8 32:6,9,14,16	specified 16:23	story 44:11
+32*13 17 19 34*9?	32:18 33:19,20 34:1	specify 22:1	street 2:11
+37*2 12 19 44*7 25	34:5,15,22 35:7,18	spending 33:4	stressed 11:25
+48*7 8 17 18 49*4	36:6 40:1,1,5,19	spoke 42:11	strong 54:25 55:1
+50-66 11 17 19	41:6,17,21,23,24	spokesperson 28:18	students 13:8 43:2
+51*9 15 18 23 52*8	42:15,21 43:12 44:3	sponsored 28:13	studied 55:23
+’ '	44:5,8,10,12,19,22	30:2,21,25 31:5	study 17:24 43:21
+m tr 13*15	45:6,10,21 46:10,11	sponsoring 28:5	43:25 44:4,8 45:3
+’	46:19,20 47:15,20	29:15	56:21
+ense 20*2
+’	48:6,23 49:12 50:10	sports 31:4	styled 1:15 50:21,24 51:13 52:5
+ubmitting 40:9	teeth 31:23	56:8 60:14,20	tried 5:22,24,24
+ubscribed 63:9	telephone 2:7,12,17	third 8:11	36:13 54:24
+64:15	television 25:11,12	thought 15:12	true 16:10 33:1,1
+ubscription 21:23	25:13,18,21 26:3	thousands 39:1	42:11,13,18,19,22
+21:25	50:7	three 5:9 7:7,22 8:7	48:14 63:3 64:8
+ubtitle 21:7	televisions 25:15	53:18,23,24 54:6,13	truth 53:8
+ufficient 43:10	tell 5:6 6:19 8:5 9:5	tide 53:19,21	try 12:128:10
+uggested 10:15	43:2 60:12,16,18	time 4:22 8:22 10:2	trying 29:17 37:25
+uite 1:20 2:6,11	temperance 18:25	16:25 17:14 18:24	47:7 53:14
+urns 33:4	ten 6:4 25:17	22:15 27:5 32:22	tunney 21:5
+upplement 24:18	tennis 28:18	36:16 39:7,17,22	tv 50:2
+uppose 30:10	term 43:17 47:22,23	40:5 41:22 42:7,10	twenty 25:17
+ure 32:21 33:5,14	terms 13:4 16:17	42:12,15 43:20 44:6	two 4:21,22 7:7 8:7
+33:24 35:1 41:9	20:19 26:12,13 27:2	45:8 46:17 47:4	8:10 9:9,22 13:24
+42:18 43:7 54:20	36:4 38:23 45:5,20	52:25 53:11 54:8	14:9,9,11 53:18,23
+urgeon 45:22 46:4	47:3,18 50:23	times 5:7,10 6:1,4	53:24 54:6,13
+46:6,10 49:3,7,8,10	terry 49:10	54:7,11	type 13:9 17:3,3
+57:5	test 25:22	tire 36:19	types 20:16 28:2
+urprising 42:7	testified 4:2,23 5:2,7	titles 21:6	typing 40:15
+usan 1:17 64:22	36:7 38:11 46:24	tobacco 1:5 18:22	u
+witch 52:21	testify 4:13 45:18	19:2,6 21:9 22:17 -TTZl-
+witched 52:23	56:5	29:7 32:20 33:4	“ j3.23
+worn 1:15 4:2 63:9	testifying 38:14,15	34:3 35:22 36:9,18	U|^’
+64:15	38:17	36:22 37:9 38:7,10	'4?.2
+ystem 20:3	testimony 5:25 7:24	39:2 45:1 46:17	uncear '
+-1--9:19 11:10 17:2	48:5,21 49:2,16,22	63:9
+1:17 40:10 60:24	understand 13:1
+64:22	38:9 45:15 64:11	58:1,6,23 59:4,13	20:22 27:1 28:9
+ake 33:7 55:1 58:15	te^S,	59:19 61:6,!0	30:6>11>14 38:12
+aken 1:15 58:20,21	64:1,7,22,23	today 6:19 7:13 8:19	39:i942:12,19
+rA n	textbooks 10:5 18:6	39:12	f ^
+64:11	_ _ _ _ _ _ „	, , „ _	unfortunately 30:1 /
+n n m/n-7	23:15,23,23,25 28:8	today s 7:4,25	. ioocoooc
+alk 13:19 47:7	1 1	union 18:2522:2,5
+alked 7:18 10:14	t0!j °, } 'l	united 13:16 17:22
+21:8 25:8 44:22	60:25 61:15	told 15:25	5?.5
+li- o/i 1 a ca o/i	thanks 17:21	top 6:5 23:13 46:7	. n
+alking 24:13 53:24	**	university 55:9
+n 01 1^	theater 33:17	56:9	co 10
+aught 13:2116:12	, ^ n	58:13
+noioic	theme 28:8	topic 10:25 11:1,18	.... , c
+17:3 18:15	, ,	^	utilized 32:22 33:5
+u 10-701C10	theodore 55:6	11:21	-
+each 13:7,9,15,18	v
+u 0	thing 18:1125:9	tower 2:10	__
+parhps	°
+iq/i o/i iq	43:1 59:23	trained 58:16	variety 7:5 28:15
+eaching 18:4 24:18	*
+things 7:20 13:18	training 58:11	55:22
+40:8	transcript 61:12	various 9:25 11:3
+6 ' n	think 8:17 14:15	trial 9:6,21 11:10	19:7,7,8 20:16
+06118	16:14 20:1 22:21	38:15 45:16,19	22:17 23:24 24:6,15
+41:10 45:1 46:15	55:18 56:5	24:16 26:1 37:19
+48:7,7 52:23,24	women’s 18:25
+asko 5:4,19	word 46:1,23,25
+ast 9:24	words 11:22
+ersion 13:21	work 38:12 58:12
+ersus 5:3,3,4	worked 38:2,4,6
+ideoconference	2:3 workers 5:13 lews 57:6,10 58:4 works 55:7,11
+ines 28:17	wrap 33:9
+rs 1:4	write 23:3
+w	writing 13:16,23
+vant 14:2 33:9 writings 23:6 38:19 40:8 47:1 written 20:20,25
+53:8 55:15 56:14 21:4 „„ „
+wrote 23:23
+ranted 61:3	43^_
+warn 34:4	_Z_
+warning 34:6	year 5:20 13:18
+watch 25:22	44:14 46:12 52:13
+waxman 50:9	54:10,13
+way 7:10 19:5 26:21 years 5:5 9:11,14 36:24 37:2 38:19 27:22 38:3 39:1 46:18 48:13 50:18 50:25 51:2,3 55:23 58:8,23 59:5,14 yesterday 7:6,15,17 wayne 32:18,19 york 5:18 ways 10:9 14:18 youngsters 50:22 19:22 29:11	youth 19:5
+ye’ve 25:8 went 14:23 15:2,6,8 17:20 22:15 24:3 32:21 33:17 34:10 45:4 46:11 whatsoever 55:4 white 22:14 wide 19:1 widespread 9:9 20:19 22:22 44:11 wife 54:19 williams 28:23 wilson 55:6 wiped 54:24 Wisconsin 58:14 witness 1:14 5:8,8,9 6:2,7 38:1 43:3 60:3 63:10

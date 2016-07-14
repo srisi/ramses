@@ -1,0 +1,3579 @@
+﻿1	IN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL CIRCUIT
+OF FLORIDA, IN AND FOR BROWARD COUNTY
+2
+4	IN RE: ENGLE PROGENY CASES TOBACCO LITIGATION
+5
+Pertains to: Naugle
+6	CV-036736C19)	Case No.: 08-80000
+(19)
+7
+9	VIDEOTAPED DEPOSITION OF LOUIS KYRIAKOUDES, Ph.D.
+10	(Volume 1)
+11	(Pages 1 -138)
+12	Taken on Behalf of the Defendant
+14	DATE TAKEN:	Wednesday, October 21, 2009
+15	TIME:	11:00 a.m. - 7:00 p.m.
+16	PLACE:	Keane, Reese, vesely &
+Gerdes, P.A.
+17	770 Second Avenue South
+St. Petersburg, Florida
+18
+STENOGRAPHICALLY REPORTED BY:
+23	NORA KELLY-MEOLA
+1	APPEARANCES:
+228388
+2	Counsel for Plaintiff:
+3	Todd McPharlin, Esquire Kelley, Uustal, P.L.C.
+4	700 S.E. 3rd Avenue Suite 300
+5	Ft. Lauderdale, Florida 33316 (954) 522-6601
+6
+8	Counsel for Defendant Philip Morris USA, Inc.:
+9	Jennifer L. Brown, Esquire Peter M. Henk, Esquire
+10	Shook, Hardy & Bacon, l.l.p.
+333 Bush Street
+11	Suite 600
+San Francisco, California 94104-2828
+12	(415) 544-1900
+14	Counsel for Defendant R.J. Reynolds:
+15	Ashley E. Case, Esquire Jones, Day
+16	901 Lakeside Avenue Cleveland, Ohio 44114
+17	(216) 586-3939
+19	Counsel for Louis Kyriakoudes, Ph.D.:
+20	Michael Keane, Esquire
+Keane, Reese, vesely & Gerdes, P.A.
+21	770 second Avenue South
+St. Petersburg, Florida 33701
+22	(727) 823-5000
+24	ALSO PRESENT:
+Jamie Hollingsworth, videographer
+25
+3
+1	INDEX
+2	WITNESS:	PAGE:
+3	LOUIS KYRIAKOUDES, Ph.D.
+4	Called by the Defendant:
+5	Direct Examination by Ms. Brown	4
+6	STIPULATIONS	134
+7	INSTRUCTIONS TO DEPONENT	135
+8	ERRATA SHEET	136
+9	CERTIFICATE OF OATH	137
+10	REPORTER'S DEPOSITION CERTIFICATE 138
+14	EXHIBITS
+15	No. 1 Notice to take deposition	24
+16	No. 2 E-mail dated 5/18/09	38
+17	No. 9 E-mail dated 5/23/09	41
+18	No. 10 E-mail dated 6/8/09	71
+19	**Exhibits marked out of order**
+4
+1	PROCEEDINGS
+2	THE VIDEOGRAPHER: Today's date is
+3	October the 21st, 2009. The time is approximately
+4	11:03 a.m. My name is James Hollingsworth, I'm the
+5	videographer. The court reporter is Nora Meola.
+228388
+6	We are present at the Law Offices Keane and
+7	Rease, et al . , in St. Petersburg, Florida, we are
+8	here for the purpose of taking the deposition of
+9	Louis Kyriakoudes, Ph.D. The case is instituted in
+10	the Circuit Court for the 17th Judicial Circuit in
+11	and for Broward County, Florida. The short style of
+12	the case is in Re Engle Progeny cases as it pertains
+13	to Naugle.
+14	I will now ask the attorneys to introduce
+15	themselves, beginning with the plaintiff's attorney.
+16	MR. McPHARLlN: Todd McPharlin on behalf of the
+17	plaintiff.
+18	MR. KEANE: My name is Michael Keane. I
+19	represent the witness.
+20	MS. BROWN: Jenny Brown, Philip Morris USA.
+21	MR. HENK: Pete Henk, Phillip Morris USA.
+22	MS. CASE: Ashlie Case, R.J. Reynolds.
+23	THE VIDEOGRAPHER: will the court reporter
+24	kindly swear in the witness.
+25	LOUIS KYRIAKOUDES, Ph.D., called as a witness
+1	by the Defendant, having been first duly sworn,
+2	testified as follows:
+3	THE WITNESS: I do.
+4	DIRECT EXAMINATION
+5	BY MS. BROWN:
+6	Q. Good morning, Dr. Kyriakoudes.
+7	A. Good morning.
+8	Q. For the record, could you, please, state your
+9	name and your work address.
+10	A. My name is Louis Michael Kyriakoudes. Do you
+11	need that spelling? My work address is the Center for
+12	Oral History and Cultural Heritage, Box 5175, University
+13	of Southern Mississippi, Hattiesburg, Mississippi 39406.
+14	And actually I should qualify or clarify that. The
+15	address should read, 118 College Drive, No. 5175,
+16	University of Southern Mississippi, Hattiesburg,
+17	Mississippi.
+18	Q. And, Dr. Kyriakoudes, we've met before. You
+19	know my name is Jenny Brown.
+20	A. That's correct.
+21	Q. Now, this is certainly not your first
+22	deposition; right?
+228388
+23	A. That's correct.
+24	Q. You have been through this several times
+25	before; correct?
+6
+1	A. That's correct. Yes.
+2	Q. So you understand that if at any point today I
+3	ask you a question and you don't understand it, you
+4	should let me know. And I will try to rephrase the
+5	question so that you do understand it; correct?
+6	A. That's right. I will do that.
+7	Q. And you also understand that if for some reason
+8	you need to take a break, just let me know. And
+9	assuming there's no question pending, that is a good
+10	point to take a break, we can take a break; correct?
+11	A. Okay. I will let you know.
+12	MR. mcpharlin: Let's get the agreement we
+13	discussed off the record on the record. This first
+14	part of the deposition is going to be limited to the
+15	subject matter of the motion to compel that was
+16	brought before Judge Streitfeld at the last CMC.
+Page 6
+17	And the order was that you would have two hours to
+18	talk to Professor Kyriakoudes about the university
+19	of Florida matter. And that -- that's how the first
+20	part of the deposition is going to proceed, when
+21	you concluded that, whether it's two hours or the
+22	end of your questioning, then we'll move on to the
+23	case specific. Okay?
+24	MS. BROWN: That's fine.
+25	MR. KEANE: Let me just make a -- introduce
+7
+1	myself on the record, but I'm Mike Keane. I'm
+2	representing the witness in this aspect of the
+3	matter. And I want to say for the record now, he
+4	will read the deposition at the end of the -- of its
+5	conclusion, reserve that right. He will not waive
+6	that. I perceive that because the motion that is to
+7	be heard is -- will have far-reaching impacts on
+8	this gentleman, that he is sole positioned as a
+9	quasi-party because of that, and I may have some
+10	questions of him when you conclude your examination
+11	at the end.
+12	MS. BROWN: So just so I'm clear, Mr. Keane,
+13	it's your position that because of a pending motion
+14	to strike Dr. Kyriakoudes with the Naugle case, he's
+15	now become a party to the Naugle case?
+16	MR. KEANE: No. That's not what I said. I
+17	said that your -- the motion has pretty far-reaching
+18	ramifications. I'm sure you understand that. And
+19	that there's going to be, as I understand it, a
+20	hearing very shortly on that. And if it becomes
+21	necessary, I reserve the right to ask some
+22	questions.
+23	MS. BROWN: Now, Mr. Keane, am I correct that
+24	you have not otherwise entered any kind of a general
+25	appearance in the Naugle matter?
+8
+1	MR. KEANE: I checked the rule and there is no
+2	rule that applies to this situation in the rules of
+3	judicial administration. I am not appearing as a
+4	lawyer in the case for a party. I don't believe he
+5	is a party. I called him a quasi-party because of
+6	the nature of the relief that's being sought, it's
+7	a little bit unusual. I'm sure you understand.
+8	BY MS. BROWN:
+9	Q. And, Dr. Kyriakoudes, as Mr. Keane said, he's
+10	here today as your lawyer. Is that your understanding?
+11	A. Yes.
+12	Q. And you retained Mr. Keane?
+13	A. Yes.
+14	Q. When did you retain Mr. Keane?
+15	MR. MCPHARLIN: That's -- that's completely
+16	irrelevant and not the subject of your -- the
+17	limitations that are the scope of this first part of
+18	the examination. So you need to ask him about the
+19	matters related to the university of Florida, not
+20	about his retention of his private counsel. That's
+21	not what you were given permission to do.
+22	MS. BROWN: Mr. McPharlin, Mr. Keane is here,
+23	as he's already stated, because of the motion that
+24	is pending which all relates to the University of
+228388
+25	Florida and the Proctor matter.
+1	MR. McPHARLlN: uh-hum.
+2	MS. BROWN: So anything related to Mr. Keane's
+3	presence here and any questions that Mr. Keane has
+4	to ask, I assume, pertains to this matter. So you
+5	can state your objections. I think objection to
+6	form is appropriate under Florida Law and we'll keep
+7	moving. I will tell you, if you insist or making
+8	speeches throughout, that will be detected from the
+9	two hours. I am not spending my two hours listening
+10	to long objections or speaking objections.
+11	MR. McPHARLlN: Right. And if I think you're
+12	asking an area that goes outside of what the judge
+13	ordered or if I think you're asking a question that
+14	a motion for protective order would be required,
+15	then I am going to make that objection and that
+16	instruction to the witness. Because you have -- you
+17	have your guidelines as to what you can ask in the
+18	subject matter of this portion of the deposition.
+Page 10
+19	And that his retention of Mr. Keane is not part of
+20	the subject matter.
+21	MS. BROWN: I understand that's your position,
+22	Mr. McPharlin. I disagree with you. So if you want
+23	to instruct the witness not to answer, you can do
+24	that, but there is a question pending.
+25	BY MS. BROWN:
+10
+1	Q. And the question is, when did you retain
+2	Mr. Keane, Dr. Kyriakoudes?
+3	MR. MCPHARLIN: And I am going to instruct him
+4	not to answer. That is not part of what this
+5	deposition is about, it has absolutely no relevance
+6	to what you are here to ask him about.
+7	BY MS. BROWN:
+8	Q. Dr. Kyriakoudes, have you worked with Mr. Keane
+9	before?
+10	MR. MCPHARLIN: You can answer that.
+11	A. No. I have never worked with him.
+12	BY MS. BROWN:
+13	Q. You've never testified as an expert witness in
+14	any of Mr. Keane's cases?
+15	A. No.
+16	Q. Now, Dr. Kyriakoudes, you understand that Judge
+17	Streitfeld has given us two hours to depose you on your
+18	involvement in, and/or knowledge, of Dr. Proctor's
+19	actions with respect to university of Florida research
+20	assistants and your testimony on these issues. Is that
+21	your understanding?
+22	MR. MCPHARLIN: Objection to the form.
+23	A. Well, I understand that you've been -- I mean,
+24	yes. And I understand that you've been restricted,
+25	although, I'm not privy to all of the knowledge of that.
+11
+1	I haven't read any documents related to this.
+2	BY MS. BROWN:
+3	Q. Okay. But you do understand that Judge
+4	Streitfeld has permitted us to question you regarding
+5	your knowledge and testimony about Dr. Proctor's actions
+6	in relation to the university of Florida grad students;
+7	correct?
+8	A. That's correct.
+9	MR. MCPHARLIN: Object to the form.
+10	BY MS. BROWN:
+11	Q. Now, given the fact that we have two hours,
+12	will you cooperate with me this morning in using that
+13	time efficiently?
+14	MR. MCPHARLIN: Objection to the form.
+15	Argumentative.
+16	A. I will do as I've always done, which is try to
+17	be as helpful as possible.
+18	BY MS. BROWN:
+19	Q. And so when it's possible to do so, will you
+20	give me a yes or no answer?
+21	MR. MCPHARLIN: Objection to the form.
+22	A. Yes.
+23	BY MS. BROWN:
+24	Q. Will you do your best to limit your answers to
+25	testimony that's responsive to my questions?
+1	MR. McPHARLlN: Objection to the form.
+2	Argumentative.
+3	A. I will do my best to answer the questions as
+4	best I can.
+5	BY MS. BROWN:
+6	Q. Now, Dr. Kyriakoudes, you know you're under
+7	oath today; correct?
+8	A. That's correct.
+9	Q. And it's the same oath that you've taken in
+10	prior depositions; correct?
+11	A. That's correct.
+12	Q. To tell the truth, the whole truth -- excuse
+13	me -- and nothing but the truth; correct?
+14	A. That's correct.
+15	Q. what did you do to prepare for today's
+16	deposition?
+17	MR. McPHARLlN: Hold on, Professor Kyriakoudes.
+18	You are not to discuss anything that you did to
+19	prepare that would in any way reveal conversations
+20	or discussions that you had with Mr. Keane or in any
+Page 14
+21	way reveal discussions that you had of any trial
+22	strategy nature. That would be protected by work
+23	product. Do you understand?
+24	THE WITNESS: Yes.
+25	BY MS. BROWN:
+13
+1	Q. Go ahead and answer that question. And the
+2	question was, what did you do to prepare for your
+3	deposition today?
+4	MR. MCPHARLIN: And he's answering it with
+5	that -- with that instruction.
+6	MS. BROWN: And, Mr. McPharlin, I mean, we can
+7	talk at another point about your assertion of some
+8	work product privilege that protects conversations
+9	regarding trial strategy with Dr. Kyriakoudes.
+10	BY MS. BROWN:
+11	Q. But first, subject to those limitations, might
+12	you answer my question and then we can probe further?
+13	MR. MCPHARLIN: He is answering it with the
+228388
+14	instruction that I gave him to not reveal work
+15	product or attorney-client privilege matters, just
+16	so the record is clear.
+17	MS. BROWN: Mr. McPharlin, I think the record
+18	is incredibly clear. Now, if you would let
+19	Dr. Kyriakoudes answer the question, we can move
+20	this along.
+21	MR. MCPHARLIN: Go ahead.
+22	A. To prepare for this deposition, I pulled
+23	together some materials that were responsive to the
+24	schedule A, which I brought together. I inquired of
+25	Mr. McPharlin, prior to today, some questions I had
+14
+1	about -- about the -- about the smoker, the plaintiff.
+2	I don't know if it's technically the plaintiff, but
+3	Ms. Naugle. And those questions were really relating to
+4	when she was born, where she was born, you know, her
+5	position in time and space as that kind of just vocal
+6	context. That's what I did.
+7	BY MS. BROWN:
+8	Q. Did you meet with Mr. Keane in preparation for
+9	your deposition today?
+10	A. well --
+11	MR. McPHARLlN: She asked you if you met with
+12	him.
+13	A. Yeah, I did. I met with him.
+14	BY MS. BROWN:
+15	Q. When did you meet with Mr. Keane?
+16	A. This morning.
+17	Q. Was that the first time you met with Mr. Keane?
+18	A. Yes.
+19	Q. And how long did you meet this morning?
+20	A. I think I got here about 9:00, 9:30, 9:40. And
+21	it's 11:20 now. We met for that period before.
+22	Q. Was there anyone else in attendance at your
+23	meeting with Mr. Keane?
+24	A. Not when I met with him. No.
+25	Q. Did you meet with Mr. McPharlin this morning?
+1	A. Just briefly as he walked into the building, in
+Page 17
+2	the hallway and exchanged pleasantries and greetings.
+3	Q. in preparation for today's deposition, did you
+4	meet with anyone else from Mr. McPharlin's office?
+5	A. No.
+6	Q. We talked about whether you had met Mr. Keane
+7	before in preparation for today's deposition. Had you
+8	talked to Mr. Keane before this morning?
+9	A. I had a phone call. Yes.
+10	Q. And when was that?
+11	A. I had a phone call with him to initially --
+12	MR. MCPHARLIN: Dr. -- Professor, don't discuss
+13	why you called him or what you discussed.
+14	THE WITNESS: Okay.
+15	MR. MCPHARLIN: She wants to know when.
+16	A. I think I've had two brief phone calls with
+17	Mr. Keane prior to today.
+18	MS. BROWN: One thing I'd like to seek some
+19	clarification on is, are you asserting
+20	Dr. Kyriakoudes' attorney-client privilege, Todd?
+21	MR. MCPHARLIN: I'm an officer of the court.
+22	So if he is going to reveal --
+Page 18
+23	MR. KEANE: I will be glad to do that, if we
+24	want to -- if you want to put that burden on me, I
+25	will do that.
+16
+1	MS. BROWN: Okay. I just assume that's why you
+2	were here, Mr. Keane, was to protect his personal
+3	rights.
+4	MR. McPHARLlN: Right. He's also a witness in
+5	this case. So if I feel like you're asking an
+6	improper question or if you're asking a question
+7	that would require him to do something he is not
+8	supposed to be doing, then I will instruct him.
+9	MS. BROWN: So my question to you, though, is
+10	are you asserting his attorney-client privilege? is
+11	that what you're doing?
+12	MR. McPHARLlN: I am giving him -- I'm telling
+13	him not to discuss matters that are confidential and
+14	protected by attorney-client privilege. I think
+15	that's pretty clear. So I think your question is
+16	unnecessary.
+17	BY MS. BROWN:
+18	Q. Dr. Kyriakoudes, when was your first call with
+19	Mr. Keane related to preparing for this deposition?
+20	A. I'm sorry, could you -- I couldn't hear you.
+21	Q. Let me rephrase. When was your first phone
+22	call with Mr. Keane?
+23	A. Oh, when? I just couldn't make out that first
+24	word. About, I would guess about -- approximately two
+25	weeks ago.
+17
+1	Q. And how long did that call last?
+2	A. Probably no more than a half hour. Probably
+3	considerably less. I don't recall exactly.
+4	Q. Did you talk to Mr. Keane again between then
+5	and this morning?
+6	A. Yes.
+7	Q. When was your second conversation with
+8	Mr. Keane?
+9	A. it would have been last week.
+228388
+10	Q. And how long did that conversation last?
+11	A. It was very brief. Maybe five minutes.
+12	Q. Was that a telephone call?
+13	A. it was a telephone call.
+14	Q. And, I'm sorry, how many minutes?
+15	A. Maybe five minutes.
+16	Q. Any other occasions in which you've talked to
+17	Mr. Keane?
+18	A. I had a brief call this week.
+19	Q. And when was that?
+20	A. Today is Wednesday. I think it might have been
+21	Monday.
+22	Q. And how long did that call last?
+23	A. Less than five minutes.
+24	Q. Any other phone calls with Mr. Keane?
+25	A. I don't think so. No.
+18
+1	Q. Now, of the phone calls we've just discussed,
+2	the one two weeks ago, the one last week and the one on
+3	Monday, did anyone else participate in that phone
+Page 21
+4	conversation? Was there anyone else on the phone?
+5	A. No. No. it was just me and Mr. Keane.
+6	Q. And, Dr. Kyriakoudes, are you asserting an
+7	attorney-client privilege of your conversations with
+8	Mr. Keane?
+9	MR. KEANE: Yes, he is.
+10	A. Yes.
+11	BY MS. BROWN:
+12	Q. Did you review any materials in preparation for
+13	your deposition today?
+14	A. Aside from what I mentioned earlier in my
+15	earlier question, no.
+16	Q. Did you review any of your prior depositions in
+17	preparation for today's deposition?
+18	A. No, I did not.
+19	Q. Now, you were deposed four times in Engle
+20	Progeny cases from June 25th to August 24, 2009;
+21	correct?
+22	A. That's probably right. That sounds about
+23	right. Yeah.
+24	Q. Just so we're clear, you were deposed in
+Page 22
+25	Barbanell on June 25th; correct?
+1	A. That's right.
+2	Q. And then you were deposed in Grossman?
+3	A. Grossman was next. That's right.
+4	Q. And then in August you were deposed in Willis
+5	and in Evers; correct?
+6	MR. MCPHARLIN: Counsel, these questions have
+7	all been asked in the prior deposition. You've
+8	asked all of those questions, every single question
+9	you just asked in the prior deposition. So given
+10	the limitations of the court about not re-asking the
+11	questions, you're not -- you're not abiding by that.
+12	So you've just asked three questions previously
+13	asked.
+14	MS. BROWN: Is that an objection, Todd? Are
+15	you objecting?
+16	MR. MCPHARLIN: I am stating -- I am stating an
+17	objection. Yes. So you asked him, but I am going
+18	to limit you, again, to the judge's instructions.
+19	MR. KEANE: Do you have the order?
+20	MS. BROWN: Why don't you limit me to the
+21	judge's order, Mr. McPharlin, which indicates that
+22	the subject matter of these two hours --
+23	MR. HENK: Do you have an objection to me
+24	handing you the order?
+25	MR. KEANE: I will take the order. Thank you.
+20
+1	MR. HENK: You ought to read it.
+2	MS. BROWN: I will read -- I will read the
+3	order to you, Mr. McPharlin. Defendant may question
+4	Dr. Kyriakoudes for two hours on the specific issues
+5	of his knowledge of and/or involvement with any
+6	alleged inappropriate conduct by Dr. Robert Proctor
+7	in connection with research assistants employed by
+8	defense expert historian, Dr. Greg Michel, and
+9	Dr. Kyriakoudes' prior testimony on these issues.
+10	BY MS. BROWN:
+11	Q. So the question to you was, then Willis and
+228388
+12	Evers you were deposed in in August; correct?
+13	A. That's right.
+14	Q. And then finally on August 24th, you were
+15	deposed in the Koballa case; right?
+16	A. That is right.
+17	MR. MCPHARLIN: Objection. Also previously
+18	asked in the prior deposition.
+19	BY MS. BROWN:
+20	Q. Now, as to each of those depositions, just as
+21	you did today, you reserved the right to read and sign
+22	the deposition transcripts; correct?
+23	A. That's correct.
+24	MR. MCPHARLIN: Objection. Previously asked in
+25	prior depositions. Counsel, you're doing it again.
+21
+1	You're asking all questions that have been
+2	previously asked. You haven't asked a single
+3	question that hasn't already been asked.
+4	MS. BROWN: Mr. McPharlin, because I am
+5	entitled by the judge's order to question
+Page 25
+6	Dr. Kyriakoudes about his prior testimony on these
+7	issues, there's going to be some need to lay some
+8	foundation about that prior testimony.
+9	MR. McPHARLlN: You told the judge that you
+10	would not ask him a single question that had already
+11	been asked. You've already asked him -- every
+12	single question you've asked so far related to this
+13	matter is a question that has already been asked.
+14	The judge granted your motion based on your
+15	representation, as an officer of the court, that you
+16	would not ask him a question that has already been
+17	asked. Each one of these questions has already been
+18	asked.
+19	MS. BROWN: Okay. Well, Mr. McPharlin, you can
+20	continue to make an objection. I would ask you to
+21	just confine yourself to an objection so that we can
+22	continue to expeditiously move this along.
+23	MR. McPHARLlN: I am not going to allow you to
+24	continue this. So if you keep doing it, keep asking
+25	questions over and over again that have already been
+1	asked, I am going -- I am going to instruct him not
+2	to answer.
+3	MS. BROWN: Madam court reporter, as you go
+4	today, are you keeping -- does it keep log of a
+5	running time entry?
+6	COURT REPORTER: Yes.
+7	BY MS. BROWN:
+8	Q. Again, Dr. Kyriakoudes, just as you did this
+9	morning, you reserved in those other depositions your
+10	right to read and sign the deposition transcript;
+11	correct?
+12	A. That's correct.
+13	MR. MCPHARLIN: Previously asked.
+14	BY MS. BROWN:
+15	Q. And you understood that you have 30 days to
+16	review the transcript and then you can make whatever
+17	corrections you need to on an Errata sheet; correct?
+18	MR. MCPHARLIN: Also previously asked.
+19	A. That's correct.
+20	BY MS. BROWN:
+21	Q. Now, you do not intend to testify today that
+22	any of the transcripts, Barbanell, Grossman, Willis,
+23	Evers or Koballa, contain any inaccurate recording in
+24	your testimony; is that correct?
+25	MR. MCPHARLIN: Objection to form.
+23
+1	A. Ask -- I'm sorry, I am not following -- sure if
+2	I'm following you. Just run that by me again.
+3	BY MS. BROWN:
+4	Q. Okay. Do you intend today to testify that any
+5	of the transcripts in those cases: Barbanell, Grossman,
+6	Willis, Evers or Koballa, contain any transcription
+7	errors?
+8	A. I mean, I haven't -- I haven't read those. So
+9	I can't say either way.
+10	Q. Well, you have read -- you have read those
+11	transcripts, haven't you, Dr. Kyriakoudes?
+12	A. Not -- not all of them. No.
+13	Q. which of those transcripts have you read?
+228388
+14	A. I read portions of the Koballa.
+15	Q. Now -- I'm sorry, I did not mean to interrupt
+16	you.
+17	A. That's okay. I read portions of the Koballa
+18	transcript. That's -- those are the -- that's the one
+19	I've read.
+20	Q. And you did not submit an Errata sheet in the
+21	Koballa case; is that correct?
+22	MR. McPHARLlN: Previously asked in prior
+23	deposition, I think, two times.
+24	A. No. I didn't submit an Errata sheet.
+25	BY MS. BROWN:
+24
+1	Q. Now, Dr. Kyriakoudes, are you taking any
+2	medications today that you believe might affect your
+3	ability to remember things?
+4	A. No.
+5	Q. Are you taking any medications today that you
+6	believe might affect your ability to give truthful and
+7	accurate testimony?
+8	A. No.
+9	MS. BROWN: I'd like to go ahead and mark as
+10	Deposition Exhibit 1 the second re-notice of taking
+11	videotape deposition and duces tecum.
+12	(Exhibit No. 1 marked for identification.)
+13	BY MS. BROWN:
+14	Q. Thank you. Dr. Kyriakoudes, I am handing you
+15	what's been marked Deposition Exhibit 1. That's the
+16	second re-notice of taking video deposition duces tecum;
+17	correct?
+18	A. Yes. That's right.
+19	Q. And it shows your name and today's date and the
+20	location of the deposition; correct?
+21	A. That's correct.
+22	Q. You've seen this before?
+23	A. I have. Yes.
+24	Q. And you mentioned earlier that you have
+25	reviewed the schedule A; is that correct?
+228388
+1	A. That's correct.
+2	Q. Did you bring with you today any documents that
+3	are responsive to the request in schedule A?
+4	A. I did.
+5	Q. And what documents are those?
+6	A. I brought a copy of my curriculum vitae, which
+7	is here. I've given this to you before, but I brought
+8	another copy. And then I brought some photographs that
+9	are, you know, part of my reliance documents.
+10	Q. So you brought some photographs that are part
+11	of your materials that go to your opinions in the Naugle
+12	case; is that correct?
+13	A. That's correct.
+14	Q. Okay, we'll get to those later today. Now,
+15	the date -- well, wait. Let's just take a look at the
+16	schedule A for a second, if we could, if you turn,
+17	Dr. Kyriakoudes, to page five, number 22: All written
+18	communications of any form including, but not limited to
+19	correspondence, e-mails and faxes, between you and your
+20	assistants -- or your assistants and Robert Proctor
+21	and/or his assistants pertaining to Engle Progeny
+22	litigation.
+23	MR. McPHARLlN: We filed an objection to that
+24	request, that it was overly broad, harassing and
+25	relevance as well.
+26
+1	BY MS. BROWN:
+2	Q. Dr. Kyriakoudes, did you bring any documents
+3	responsive to request number 22?
+4	A. I did not.
+5	Q. Do you have any correspondence or
+6	communications, written communications, that would fall
+7	within request number 22 that you had not previously
+8	produced to defendants in this litigation?
+9	A. Well, as I -- as I read this, I mean, yes, I
+10	have communications between myself and Robert Proctor.
+11	And as I understand number 22, this is basically asking
+12	for all my communications with him. And I do have
+13	communications with him, but I did not bring them.
+14	Q. And when you read 22 to ask you for all your
+15	communications, you consider all your communications
+16	with Dr. Proctor to pertain to Engle Progeny litigation?
+17	A. Oh, I see. I see. I missed that last phrase.
+18	No. No. I have -- thank you for clarifying that. I
+19	need to take my time and read these more carefully.
+20	I -- I have an e-mail or I have some communications that
+21	pertain to Engle Progeny litigation that I did not bring
+22	with me.
+23	Q. Okay, what are the dates of those
+24	communications?
+25	A. I don't know. I don't have -- I think I've got
+27
+1	one from sometime in the winter.
+2	Q. And what was the subject matter of that
+3	communication?
+4	A. I think it was just a discussion of, you know,
+5	what cases are coming out. I -- I don't have it with
+6	me, so I can't recall exactly.
+7	Q. That's an e-mail you could produce to us?
+8	A. Yes. in the sense that it's -- yes. I mean, I
+9	have it. Is that what you mean when you say produce?
+Page 33
+10	Q. Yeah. How come you did not bring that e-mail
+11	with you to produce in response to request number 22?
+12	MR. McPHARLlN: Because we objected to the --
+13	to that particular request, as I said, as being
+14	overly broad, harassing and asking for documents
+15	that are not relevant to this deposition. Just as
+16	you would, a witness who is obtained by the defense,
+17	you object to requests all the time.
+18	BY MS. BROWN:
+19	Q. So, Dr. Kyriakoudes, do I understand that
+20	Mr. McPharlin instructed you not to bring that e-mail
+21	with you to this deposition today?
+22	A. Yes. He explained to me that they -- as he
+23	just mentioned, that they filed an objection against
+24	that.
+25	Q. Okay. Let's move on to number 23, which is:
+28
+1	All written communications in any form between you
+2	and/or your assistants and Robert Proctor and/or his
+3	assistants regarding the use of research assistants by
+4	any defense witness in connection with Engle Progeny
+5	litigation. Do you have any such written communications
+6	that you have not previously produced to defendants in
+7	the Engle Progeny litigation?
+8	A. No. I've produced that to you.
+9	Q. And so the universe of those materials would be
+10	what? what's the universe of materials?
+11	A. Oh, responsive to number 23?
+12	Q. Yeah.
+13	A. Well, that would be an e-mail attached to the
+14	forwarding of the Greg Michel deposition, which I
+15	produced. And then the two copy e-mails, which I
+16	produced at the Koballa deposition.
+17	Q. Other than those three e-mails, is it your
+18	testimony that you do not have any additional
+19	communications, written communications, with Dr. Proctor
+20	related to the use of research assistants by any defense
+21	witness --
+22	MR. MCPHARLIN: Objection.
+23	BY MS. BROWN:
+228388
+24	Q. --in connection with this litigation?
+25	MR. MCPHARLIN: Objection. Previously asked in
+29
+1	multiple depositions multiple times.
+2	BY MS. BROWN:
+3	Q. You can answer, Dr. Kyriakoudes. He's going to
+4	do that all day. So you can always answer when he's
+5	done giving his speech.
+6	A. Okay. Just trying to --
+7	MR. MCPHARLIN: It's not a speech.
+8	BY MS. BROWN:
+9	Q. Unless he instructs you not to answer?
+10	MR. mcpharlin: it's not a speech, Counsel. So
+11	that's an inappropriate comment, it's an objection
+12	and it's a statement that you're asking questions
+13	outside the guidelines the court gave you.
+14	A. Since we've had a bit of a --
+15	MS. BROWN: Right. Madam court reporter, would
+16	you mind reading back my last question.
+17	(The question was read by the reporter.)
+228388
+18	A. That's correct.
+19	BY MS. BROWN:
+20	Q. Okay. And, Dr. Kyriakoudes, if you looked at
+21	number 24, which asks you about written communications
+22	between you, Robert Proctor, Dr. Betty Smocovitis and/or
+23	any of your research -- or any of your assistants, other
+24	than what we've just discussed you produced already, do
+25	you have any additional written correspondence that
+30
+1	would satisfy request number 24?
+2	A. No, I don't.
+3	Q. Now, the date of the last e-mail you produced
+4	from Dr. Proctor was dated June 8th; correct?
+5	A. That sounds about right. I don't have it in
+6	front of me, but that sounds about right.
+7	MR. McPHARLlN: Objection. Previously asked.
+8	BY MS. BROWN:
+9	Q. And that would be one of the e-mails you
+10	referenced just a minute ago that Dr. Proctor forwarded
+11	to you; correct, or copied you on?
+Page 37
+12	A. That's correct.
+13	Q. Now, have you had any e-mail communications
+14	with Dr. Proctor since June 8th?
+15	A. Yes.
+16	Q. Have you had any e-mail communications with
+17	Dr. Proctor since June 8th that relate to the Engle
+18	Progeny litigation?
+19	A. No.
+20	MR. MCPHARLIN: Objection. Previously asked.
+21	You haven't asked maybe a handful -- a couple of
+22	questions that were not previously asked. So go
+23	ahead.
+24	BY MS. BROWN:
+25	Q. How many e-mail communications have you had
+31
+1	with Dr. Proctor since June 8th?
+2	MR. MCPHARLIN: Previously asked in prior
+3	depositions multiple times.
+4	A. One.
+5	BY MS. BROWN:
+6	Q. And what was the subject matter of that e-mail?
+7	MR. MCPHARLIN: No. Dr. Proctor -- I mean,
+8	Dr. Kyriakoudes, that's it. That question has been
+9	asked in multiple depositions and you know it. Are
+10	you saying -- are you representing on the record
+11	that that question has never been asked?
+12	MS. BROWN: What e-mail he's exchanged? I do
+13	not recall.
+14	MR. MCPHARLIN: The subject of the e-mail.
+15	That --
+16	MS. BROWN: I do not recall that. But, Todd,
+17	we are not having this back and forth. I mean, I am
+18	going to have my two hours. We're going to subtract
+19	your lengthy objections from that time and then
+20	we'll have to take this up with Judge Streitfeld.
+21	And unfortunately we'll have to bring
+22	Dr. Kyriakoudes back.
+23	MR. MCPHARLIN: You represented to the judge --
+24	MS. BROWN: That I would not re-plow old
+25	ground.
+1	MR. MCPHARLIN: No. That you would not ask
+2	questions that have already been asked. That
+3	question has already been asked. So, Professor, I
+4	am going to instruct you not to answer that
+5	question. I am going to ask you to stick within the
+6	guidelines of the representations that you made to
+7	the court.
+8	BY MS. BROWN:
+9	Q. Dr. Kyriakoudes, what is the date of the e-mail
+10	you're thinking of that you have with Dr. Proctor since
+11	June 8th?
+12	A. I don't know the exact date, but it's been
+13	within the last week.
+14	Q. Dr. Kyriakoudes, have you been deposed in the
+15	last week?
+16	A. No.
+17	Q. Okay. So back to my earlier question,
+18	Dr. Kyriakoudes. what was the subject matter of the
+19	e-mail that you received from Dr. Proctor within the
+20	last week?
+21	A. The subject matter was related to our -- our
+22	common research interest on the history of smoking and
+23	the history of the tobacco industry.
+24	Q. And was this an e-mail related to your upcoming
+25	conference that you're presenting at together?
+33
+1	A. No. it wasn't relevant to that. No.
+2	Q. In this e-mail, did you discuss your testimony
+3	in any of the Engle Progeny litigation?
+4	A. No.
+5	Q. in this e-mail, did Dr. Proctor -- well, first
+6	of all, was this an e-mail from Dr. Proctor to you?
+7	A. That's correct.
+8	Q. Did you respond to his e-mail?
+9	A. No.
+10	Q. In the e-mail from Dr. Proctor, did he make any
+11	reference to any issues related to the university of
+12	Florida matter?
+13	A. No.
+14	Q. Did he make any reference to any of his recent
+15	testimony related to the University of Florida matter?
+16	A. None whatsoever.
+17	Q. And, Dr. Kyriakoudes, when I say the University
+18	of Florida matter, do you understand that to be
+19	referring to Dr. Proctor's contact with Professor
+20	Smocovitis related to the research assistants that were
+21	being employed by Greg Michel?
+22	A. Yes. That's how I understand it.
+23	Q. Now, you've previously testified about a
+24	telephone conversation you had with Dr. Proctor on
+25	August 21st; correct?
+34
+1	A. Prior, yes. Yeah. That is right.
+2	MR. MCPHARLIN: Previously asked.
+3	BY MS. BROWN:
+4	Q. Have you had any communications with
+5	Dr. Proctor, phone call? we talked about this e-mail.
+6	So putting aside this e-mail, any other form of
+228388
+7	communications with Dr. Proctor since that date,
+8	August 21st?
+9	A. Yeah, we talked on the phone.
+10	Q. And when did you talk to Dr. Proctor on the
+11	phone?
+12	A. Last week.
+13	Q. what was the date of that?
+14	A. I don't remember the exact date, but you could
+15	discover the date because I spoke to him the day that he
+16	was written up in a -- in a newspaper called the
+17	Chronicle of Higher Education.
+18	Q. And who initiated that call?
+19	A. He called me. And then I returned his call
+20	because I didn't get the initial call.
+21	Q. And what was the subject matter of that call?
+22	A. He said that he was in the paper and he wanted
+23	to alert me to that fact.
+24	Q. How long was that call?
+25	A. Maybe -- maybe 15 minutes, 20 minutes. Not
+1	long.
+2	Q. During that call, did you discuss your
+3	testimony or his testimony in the Engle Progeny
+4	litigation?
+5	A. No.
+6	Q. Did you discuss any issues related to the
+7	University of Florida matter?
+8	A. No.
+9	Q. Okay. Other than the e-mail in the last week
+10	and the phone call last week, any other communications
+11	you've had with Dr. Proctor since August 21st?
+12	A. None.
+13	Q. Now, you were last deposed on October 1st in
+14	the Hibner case; is that correct?
+15	A. That's correct.
+16	Q. Since that date, have you communicated, in any
+17	manner, with plaintiff's counsel in the Engel Progeny
+18	cases about your knowledge of or involvement in
+19	Dr. Proctor's contact with the University of Florida
+20	regarding graduate students working for Dr. Michel?
+21	A. If you count a phone -- well, the one phone
+22	call I had was after that deposition, that evening, I
+23	spoke with the attorney that defended that deposition, a
+24	Mr. Michael Quinn. That would be it.
+25	Q. And what was your conversation with Mr. Quinn?
+36
+1	A. it was about -- about that deposition.
+2	Q. And what about that deposition?
+3	A. Well, as you know, it was an intimidating
+4	experience and I ended that deposition. So it was about
+5	that process.
+6	Q. it was about the process of ending the
+7	deposition?
+8	A. Well, he called me to tell me that that -- that
+9	he thought that the behavior of the attorneys in that
+10	deposition was outrageous and that I did the right thing
+11	in ending the deposition after I had been accused of
+12	lying by one of the attorneys that were asking me
+13	questions.
+14	Q. Now, this would be questions related to whether
+15	answers you had given in response to questions in the
+Page 45
+16	Koballa deposition were false?
+17	MR. MCPHARLIN: Object to the form.
+18	A. Well, the questions were the questions. I
+19	mean, I don't have that -- that -- I don't have that
+20	testimony before me. I mean, the questions are the
+21	questions that they were asking me.
+22	BY MS. BROWN:
+23	Q. And, Dr. Kyriakoudes, at that deposition nobody
+24	called you a liar; correct?
+25	MR. MCPHARLIN: Object to the form.
+37
+1	A. They didn't use exactly that language. They
+2	said that I was lying. I also overheard, while I was
+3	out of the room, coming back from the bathroom, one of
+4	the attorneys tell Mr. Quinn that -- that he thought I
+5	was lying. I heard that as I was coming in just as I
+6	stood outside the door.
+7	BY MS. BROWN:
+8	Q. And was this when you ended your deposition?
+9	A. Well, I came back in -- I mean, you can read
+10	the record. That's going to be a much more accurate
+11	reflection of what happened than -- than my memory of
+12	that very stressful period of time. But my recollection
+13	is, I came back in, we answered more questions and then
+14	when I felt that I was being harassed, intimidated and
+15	accused of lying, that -- that I made the decision to
+16	stop the deposition.
+17	Q. And you made this decision to stop the
+18	deposition when you were asked whether a question and
+19	answer you gave to a question in the deposition was
+20	false; correct?
+21	MR. McPHARLlN: Objection to form.
+22	A. I'd have to, you know -- I mean, you can read
+23	the record. The record is going to be more accurate
+24	than my recollection. But, you know, so that says what
+25	it says. I recall what I just answered a minute ago.
+38
+1	BY MS. BROWN:
+2	Q. Now, earlier when we were talking about e-mail
+228388
+3	correspondence with Dr. Proctor, you referenced your
+4	e-mail transmitting Dr. Michelle's transcript to
+5	Dr. Proctor; correct?
+6	A. That's correct.
+7	Q. And just so the record is complete, let me make
+8	sure we're talking about the same e-mail.
+9	MS. BROWN: Let's mark this as the next
+10	deposition exhibit.
+11	(Exhibit No. 2 marked for identification.)
+12	BY MS. BROWN:
+13	Q. That is Deposition Exhibit No. 2; is that
+14	correct, Dr. Kyriakoudes?
+15	A. Yes. That's correct.
+16	Q. Could you identify what that is.
+17	A. This is an e-mail that I forwarded that I
+18	received from an attorney named David Sales and I
+19	forwarded it to Dr. Proctor.
+20	Q. Now, did Mr. Sales, at any point in time, ask
+21	you to forward that transcript on to Dr. Proctor?
+22	MR. MCPHARLIN: That's been asked in previous
+23	depositions.
+228388
+24	A. No, he did not.
+25	BY MS. BROWN:
+39
+1	Q. And had Dr. Proctor made any requests to you to
+2	forward him that transcript upon your receipt?
+3	MR. MCPHARLIN: Previously asked in prior
+4	deposition.
+5	A. No. He didn't ask for me to send it.
+6	BY MS. BROWN:
+7	Q. And did you receive a response from Dr. Proctor
+8	to that e-mail?
+9	MR. MCPHARLIN: Previously asked in prior
+10	depositions.
+11	A. No, I did not.
+12	MR. MCPHARLIN: You agree these questions have
+13	been asked previously; right?
+14	BY MS. BROWN:
+15	Q. But you did eventually hear from Dr. Proctor as
+16	a result of your forwarding that transcript to him;
+17	correct?
+18	MR. McPHARLlN: Objection. Objection to
+19	previously asked in prior depositions. You are
+20	rehashing all ground that has been covered before,
+21	Ms. Brown. Are you telling -- are you making a
+22	representation that that question has never been
+23	asked? He's never been asked if Dr. Proctor
+24	responded to that -- to that e-mail? is that the
+25	representation you're making, because those were the
+40
+1	guidelines that you were given. And you told the
+2	judge that you wouldn't ask a question that's
+3	already been asked. So if you're representing on
+4	the record that that question has never been asked,
+5	go ahead and ask it. is that what you're doing?
+6	BY MS. BROWN:
+7	Q. There came a time, Dr. Kyriakoudes, when
+8	Dr. Proctor did send you an e-mail related to
+9	Dr. Michelle's transcript; correct?
+10	MR. McPHARLlN: Previously asked in prior
+228388
+11	depositions. You agree with that, too; right?
+12	BY MS. BROWN:
+13	Q. You can answer the question that's pending,
+14	Dr. Kyriakoudes.
+15	A. And just so that you're clear, I'm just making
+16	sure that everybody, you know -- you know, takes care of
+17	what they need to say. Yes. I did receive
+18	communications subsequent to this e-mail.
+19	Q. From Dr. Proctor; correct?
+20	A. Yeah. From Dr. Proctor. That's right.
+21	MR. MCPHARLIN: Previously asked in prior
+22	depositions.
+23	MS. BROWN: And, again, so the record is
+24	complete and we all know what e-mail we're talking
+25	about, let's mark this -- let's mark this just so
+41
+1	it's consistent with the prior transcripts. I think
+2	you talked about this e-mail. Let's mark this as
+3	Exhibit 9 to the deposition.
+4	(Exhibit No. 9 marked for identification.)
+5	BY MS. BROWN:
+6	Q. And, Dr. Kyriakoudes, I am handing you what's
+7	been marked as Exhibit 9 to this deposition; correct?
+8	A. That's correct.
+9	Q. And can you identify, for the record, what this
+10	is.
+11	A. This is an e-mail that was forwarded to me by
+12	Robert Proctor.
+13	Q. And when you received this e-mail, you reviewed
+14	it; correct?
+15	MR. MCPHARLIN: Previously asked in prior
+16	depositions. Professor Kyriakoudes, don't answer
+17	that question. You're asking him -- you're just
+18	repeating the depositions that have already been
+19	taken.
+20	MS. BROWN: Mr. McPharlin, I don't understand
+21	the need to continue to explain this to you, but I
+22	will take the time to do it one more time, although
+23	we can excise this from the two hours. And that is,
+24	there are questions I am going to need to ask
+25	Dr. Kyriakoudes that relate to his prior testimony.
+1	in fact, it's memorialized in the judge's order
+2	that, in fact, I can take this two hours to inquire
+3	about Dr. Kyriakoudes's prior testimony.
+4	in order to do that, I need to lay some
+5	foundation leading up to the questions I need to ask
+6	him. I'm going to do it on this e-mail. I'm going
+7	to do it on the next e-mail. Because in order to
+8	ask him about prior testimony, it should come as no
+9	surprise that I am going to need to reference the
+10	prior testimony.
+11	MR. McPHARLlN: You don't need to lay a
+12	foundation. You can ask him your questions. You
+13	told the judge that you wouldn't ask him a question
+14	that's already been asked. He granted your motion,
+15	and specifically stated on the record based on your
+16	representation as an officer of the court, that you
+17	won't ask a question that's already been asked, I am
+18	going to go ahead and grant it. That's what he
+19	said. So you don't need to lay a foundation. Ask
+Page 53
+20	him your questions.
+21	MS. BROWN: I need to lay a foundation. And,
+22	Mr. McPharlin, this is my deposition. I will lay
+23	the foundation I think is necessary.
+24	MR. MCPHARLIN: Well, I've instructed him not
+25	to answer that question because that question has
+43
+1	been asked multiple times. So you can move on to
+2	the next question so we are not wasting time.
+3	BY MS. BROWN:
+4	Q. Dr. Kyriakoudes, when you read this e-mail on
+5	May 23rd, what parts of this e-mail did you read?
+6	MR. MCPHARLIN: Previously asked in prior
+7	depositions. Don't answer that.
+8	MS. BROWN: You're instructing him not to
+9	answer that question?
+10	MR. mcpharlin: You've asked him, ad nauseam,
+11	about this e-mail. And you're just -- correct? How
+12	many depositions have been taken on that e-mail?
+13	MS. BROWN: Mr. McPharlin, I am lost. Are you
+14	objecting to something or are you questioning me
+15	now?
+16	MR. MCPHARLIN: I am objecting to you telling
+17	the judge that you won't ask him questions that have
+18	already been asked and then you coming in here today
+19	and doing exactly what you told the judge you
+20	wouldn't do.
+21	BY MS. BROWN:
+22	Q. Dr. Kyriakoudes --
+23	MR. MCPHARLIN: That is what I have an
+24	objection to.
+25	BY MS. BROWN:
+44
+1	Q. Dr. Kyriakoudes, when you reviewed this e-mail
+2	on May 23rd, what was your understanding of what
+3	Dr. Proctor was doing with respect to the research
+4	assistants that worked for Dr. Michel?
+5	A. I didn't get that far into the e-mail. I -- it
+6	didn't seem to require -- I read the opening line and
+228388
+7	didn't seem to require any action on my part, so I
+8	skipped it. I did not review it any farther -- any
+9	further.
+10	Q. So you read the line that says: FYI, my recent
+11	exchange with Professor Betty Smocovitis at the UF
+12	Florida -- University of Florida, a history of silence
+13	colleague, note her astonishment. That's what you read?
+14	A. Well, no. I read the subject line, spreading
+15	the word. I probably looked at that first sentence, but
+16	then -- then moved on. Because it clearly didn't
+17	require any -- it was not an actionable e-mail that
+18	required me to do something. And so it didn't seem to
+19	be of any interest to me.
+20	Q. And what was your understanding of -- or what
+21	is your understanding of what Dr. Proctor hoped to
+22	accomplish by contacting the University of Florida about
+23	the research assistants being employed by Dr. Michel?
+24	MR. McPHARLlN: Professor, don't answer that
+25	question. You're -- you're doing exactly what was
+1	done in several prior depositions, what did Proctor
+2	understand? what did Dr. Proctor understand? what
+3	was Proctor trying to do? What was Dr. Proctor
+4	trying to accomplish? You're not -- you're
+5	re-plowing ground exactly like you said you wouldn't
+6	do.
+7	MS. BROWN: Mr. McPharlin, I disagree with you.
+8	And if you can point to me in a transcript where
+9	that precise question was asked, and Dr. Kyriakoudes
+10	answered it, then perhaps we can move on. But
+11	unless you can do that, we're going to continue with
+12	the questioning that I'm asking.
+13	MR. MCPHARLIN: Okay. Continue. But I've
+14	already instructed him on that question. That
+15	question has been asked.
+16	MS. BROWN: Okay. Mr. McPharlin, you do
+17	understand that we're going to end up in front of
+18	Judge Streitfeld on another motion to compel.
+19	MR. MCPHARLIN: I understand. I understand
+20	what you told the judge. I understand what you said
+21	to the judge.
+22	MS. BROWN: I understand what I told the judge,
+23	too, Mr. McPharlin, which is that it was not my
+24	intent to re-plow old ground. Now, I mean, one of
+25	the situations we have is that, depending on which
+46
+1	transcript and which deposition Dr. Kyriakoudes is
+2	sitting for, the answers tend to change. So there
+3	are some things I'm going to have to ask him about.
+4	MR. MCPHARLIN: I already gave him my
+5	instruction. Because I -- I can see from your line
+6	of questioning that you intend to abuse this process
+7	by asking him repeatedly questions that have already
+8	been asked despite what you told the judge. So
+9	that's what's happening here. So go ahead.
+10	BY MS. BROWN:
+11	Q. Did you respond to Dr. Proctor, whether in
+12	writing or verbally, with respect to Exhibit 9, this
+13	e-mail that was received on May 23rd?
+14	MR. MCPHARLIN: Previously asked in prior
+228388
+15	depositions. But go ahead, Professor.
+16	A. No, I didn't.
+17	BY MS. BROWN:
+18	Q. And at any point have you discussed with
+19	Dr. Proctor your feelings about the appropriateness of
+20	his contact with Betty Smocovitis related to the grad
+21	assistants used by Dr. Michel or employed by Dr. Michel?
+22	MR. MCPHARLIN: Previously asked. Go ahead,
+23	Professor.
+24	A. No.
+25	BY MS. BROWN:
+47
+1	Q. But you have told us that you don't approve of
+2	what he did; correct?
+3	MR. MCPHARLIN: Previously asked in multiple
+4	depositions.
+5	A. That's not accurate. A number of hypotheticals
+6	were represented to me in the Barbanell deposition. I
+7	don't know if those things have happened or not, but I
+8	responded to those hypotheticals. I believe it was
+228388
+9	Ms. Case over the phone that was asking me the
+10	questions. And you can go back to my testimony. My
+11	position is still the same on that.
+12	BY MS. BROWN:
+13	Q. Dr. Kyriakoudes, are you telling us that even
+14	as you sit here today, you don't know what Dr. Proctor
+15	did in relation to contacting Betty Smocovitis in
+16	relation to the grad students employed by Dr. Michel?
+17	MR. McPHARLlN: Objection to form.
+18	A. What I'm saying is that you -- and I mean you
+19	collectively -- discussed a series of representations or
+20	hypothetical representations of activities. I don't
+21	know that any of those activities either were intended
+22	to be accomplished or actually happened. So I don't
+23	know about that.
+24	BY MS. BROWN:
+25	Q. So, Dr. Kyriakoudes, we did not have your
+48
+1	e-mails at the time of your Barbanell deposition;
+2	correct?
+3	MR. MCPHARLIN: Objection.
+4	A. That's correct.
+5	MR. MCPHARLIN: Objection to form. Hold on.
+6	BY MS. BROWN:
+7	Q. You had not produced those to us; correct?
+8	MR. McPharlin: Listen, as a professional
+9	courtesy, if I am going to make an objection, I'd
+10	like for you to stop so I can make my objection for
+11	the record, so we're not talking over each other
+12	because that is discourteous to the court reporter
+13	and it's not going to sound very good on the video.
+14	Okay. So I am going object. That's been previously
+15	asked in prior depositions. But go ahead,
+16	Professor.
+17	MS. BROWN: Madam court reporter, could you
+18	read back my question, please.
+19	(The question was read by the reporter.)
+20	A. That's right. You did not have these e-mails
+21	at that time.
+22	BY MS. BROWN:
+23	Q. And that was because you had not produced those
+Page 61
+24	to us; is that correct?
+25	MR. MCPHARLIN: Previously asked in prior
+49
+1	depositions. Professor, don't answer that question.
+2	That's been asked in just about three depositions
+3	multiple times.
+4	BY MS. BROWN:
+5	Q. Dr. Kyriakoudes, we're no longer talking about
+6	hypotheticals; correct?
+7	MR. MCPHARLIN: Objection to the form. Vague.
+8	A. Well, I don't know what -- tell me what you're
+9	talking about and then I can respond.
+10	BY MS. BROWN:
+11	Q. well, we now know, based on the e-mails that
+12	you produced two months after the Barbanell deposition,
+13	that Dr. Proctor did, in fact, contact Betty Smocovitis
+14	at the University of Florida; correct?
+15	MR. MCPHARLIN: Objection. Previously asked in
+16	prior depositions. Don't answer that.
+17	MS. BROWN: You're advising him not to answer
+18	that question?
+19	MR. McPHARLlN: Are you representing -- read
+20	the question back, please, madam court reporter.
+21	(The question was read by the reporter.)
+22	MR. McPHARLlN: Are you representing on this
+23	record that he's never been asked whether he knows
+24	that Dr. Proctor contacted Professor Smocovitis at
+25	the University of Florida? Is that what you're
+50
+1	representing on the record?
+2	MS. BROWN: Mr. McPharlin, the way we started
+3	down this road was that Dr. Kyriakoudes took us back
+4	to hypotheticals being posed in the Barbanell
+5	deposition.
+6	MR. MCPHARLIN: Listen --
+7	MS. BROWN: This is another foundational
+8	question that we're not talking about hypotheticals.
+9	We are now talking about what Dr. Kyriakoudes
+10	actually knows based on the e-mails he's received.
+11	MR. MCPHARLIN: You can call them foundational
+12	questions. They are questions that have been
+13	previously asked multiple times in multiple
+14	depositions. And I am holding you to your
+15	representations to the court and what -- and the
+16	guidelines you were given. So if you're making --
+17	if you're making a representation as an officer of
+18	the court that he's never been asked that question
+19	and answered that question, then go ahead and ask
+20	him. But you're going to make the representation as
+21	an officer of the court on the record.
+22	MS. BROWN: I told you it's a foundational
+23	question.
+24	MR. MCPHARLIN: I'm not -- but I'm -- listen.
+25	MS. BROWN: We're not going to continue to
+51
+1	dispute this, Mr. McPharlin.
+2	MR. MCPHARLIN: Okay.
+3	MR. KEANE: Show my objection to the form also.
+4	BY MS. BROWN:
+5	Q. Prior to your deposition in the Koballa case,
+6	how many times had you reviewed the e-mail that's been
+7	marked as Exhibit No. 9?
+8	A. Once.
+9	Q. And when did you review that e-mail that one
+10	time?
+11	A. I don't know exactly when. I don't know -- I
+12	don't know exactly when I reviewed it. I mean, I just
+13	don't recollect that. But it would have been whenever I
+14	initially clicked on it, looked at the header and made
+15	the decision that it wasn't anything that was important
+16	for me.
+17	Q. Now, prior to your August 24, 2009 deposition
+18	in the Koballa case, it's your testimony that you didn't
+19	re-review that e-mail?
+20	MR. MCPHARLIN: Objection to form.
+21	A. Well, I later found it when I was searching. I
+22	mean, I've -- I've described this process. I later
+23	discovered it in looking for the e-mail that is marked
+24	Exhibit No. 2 here today, and I found that one and
+25	another one. And those are the ones that I produced at
+Page 65
+1	the Koballa deposition. So, I mean, that would have
+2	been the second time that I looked at it.
+3	BY MS. BROWN:
+4	Q. How did you go about conducting your search for
+5	those e-mails?
+6	MR. McPHARLlN: Previously asked in prior
+7	depositions. Go ahead, Professor.
+8	A. I searched on I think -- I think -- I don't
+9	even recall exactly, but I think what was searched on
+10	Proctor, you know, in my Google window.
+11	BY MS. BROWN:
+12	Q. And do you have a sent box where e-mails that
+13	you send are stored in your e-mail?
+14	A. Yes.
+15	Q. And then you have an inbox where e-mails that
+16	you receive are stored; is that correct?
+17	A. Well, that's not exactly how Google mail works.
+18	Google mail lists conversations in groups. So you
+228388
+19	actually don't have to use a sent -- or it doesn't
+20	divide the mail into inbox or outbox, but rather it
+21	keeps it together in a string.
+22	Q. What if you receive no reply to your e-mail.
+23	Does it still show up as some part of the string?
+24	A. Well, then it -- if you send out an e-mail to
+25	which you receive no reply, it's a string of one.
+53
+1	Q. And it all shows up in the same box?
+2	A. That's correct.
+3	Q. Now, you said that you received other e-mails
+4	from Dr. Proctor; correct?
+5	A. Yes.
+6	Q. And there are occasions where you received
+7	several e-mails in a month, depending on what's going on
+8	with your relationship with Dr. Proctor; correct?
+9	A. On a variety of subjects.
+10	Q. So when you went to search for Proctor in your
+11	e-mail box, how many e-mails came up?
+12	A. Not many. And I don't recall exactly how many,
+13	but not many.
+14	Q. And did you go through each e-mail that came up
+15	to see if, in fact, those e-mails related in any way to
+16	this issue of the university of Florida grad students?
+17	A. Well, these were the ones that came up right --
+18	right initially in the search. And so that's -- so they
+19	did -- they came right up at the top.
+20	Q. is that because these were the most recent
+21	e-mails you had received or sent related to Dr. Proctor?
+22	MR. MCPHARLIN: Objection to form.
+23	A. That may have been the case. I can't say for
+24	sure. I mean -- but that -- that may well have been the
+25	case. Yes.
+54
+1	BY MS. BROWN:
+2	Q. Did you scroll through all the e-mails that
+3	showed up with Dr. Proctor to see if there was anything
+4	else related to these issues?
+5	A. Yes.
+6	Q. Now, you were looking for the e-mail that you
+Page 68
+7	sent to Dr. Proctor forwarding Dr. Michelle's
+8	transcript; correct?
+9	A. That's right.
+10	Q. And why were you doing that?
+11	MR. McPHARLlN: Objection. Previously asked in
+12	prior depositions multiple times.
+13	A. I was asked by a defense attorney to do that.
+14	BY MS. BROWN:
+15	Q. Was that at the Grossman deposition?
+16	A. That's correct.
+17	MR. McPHARLlN: Previously asked in prior
+18	depositions.
+19	BY MS. BROWN:
+20	Q. So a defense attorney at the Grossman
+21	deposition asked you if you would produce to them in
+22	Grossman a copy of your e-mail transmitting
+23	Dr. Michelle's transcript to Dr. Proctor; correct?
+24	MR. McPHARLlN: Objection. Previously asked in
+25	prior depositions.
+1	A. That's correct. And, you know, as I sit here,
+2	you know, you asked me about searching and I'm looking
+3	at the spelling of Dr. Michelle's name, which is, you
+4	know, an uncommon spelling. To be honest with you, I
+5	may have -- I may have searched on Michel in looking for
+6	those e-mails. I really don't recall either way. But
+7	it is quite possible that I put in Michel into the
+8	search box. So I'd have to, you know, clarify that --
+9	that prior answer in that regard.
+10	BY MS. BROWN:
+11	Q. So it's possible that you've received
+12	additional e-mails from Dr. Proctor related to this
+13	issue that didn't specifically reference Dr. Michel;
+14	correct?
+15	MR. MCPHARLIN: Objection to form. Assumes
+16	facts not in evidence.
+17	A. No. I don't have any other e-mails related to
+18	this issue from Dr. Proctor.
+19	BY MS. BROWN:
+20	Q. Well, if you've only searched on Dr. Michelle's
+228388
+21	name, how can you be sure of that?
+22	MR. MCPHARLIN: Objection to form.
+23	Mischaracterization.
+24	A. I'm just -- you had asked me about my initial
+25	search for this. I've looked -- these are the only ones
+56
+1	that I have -- that I have that related to this issue.
+2	And I gave them to you.
+3	BY MS. BROWN:
+4	Q. And I'm asking you how you can be sure of that.
+5	MR. mcpharlin: Objection to form. Asked and
+6	answered.
+7	A. Well, I mean, I searched my e-mail.
+8	BY MS. BROWN:
+9	Q. Did you run another search using Proctor's
+10	name?
+11	A. I may have. You know, I just don't recall.
+12	it's -- it's been a few months. I just don't recall.
+13	Q. So it's possible that you only picked up
+14	e-mails that had Dr. Michelle's name referenced in
+15	them --
+16	MR. McPHARLlN: Objection to form.
+17	BY MS. BROWN:
+18	Q. -- related to this issue; correct?
+19	MR. McPHARLlN: Objection to the form. Asked
+20	and answered. Mischaracterization.
+21	A. No. I'm -- I'm confident that I searched for
+22	everything and given you everything related to this
+23	issue.
+24	BY MS. BROWN:
+25	Q. Other than that one search where you may have
+57
+1	used Dr. Michelle's name as your search term, have you
+2	conducted any other searches of your e-mail to see what
+3	you have related to these issues?
+4	A. Yeah. I mean, yes, I have. And I've given you
+5	what I have.
+6	Q. when did you do your second search for these
+7	e-mails?
+8	MR. McPHARLlN: Objection to form.
+Page 72
+9	A. It would have been certainly sometime prior to
+10	the Koballa deposition.
+11	BY MS. BROWN:
+12	Q. Remind me when you did the first search with
+13	Michel as your search term.
+14	A. Well, let's be clear. I'm not recalling
+15	exactly, you know, how I did it. I may have done both.
+16	I just -- I'm just telling you that I don't have a hard
+17	and fast recollection of that. So you've taken that and
+18	you're kind of running with that. But be careful of
+19	what I actually said.
+20	Q. Well, Dr. Kyriakoudes, you said you may have
+21	used Michel instead of Proctor; correct?
+22	MR. MCPHARLIN: Objection to form. Asked and
+23	answered.
+24	A. Right. I am not exactly recalling, but --
+25	BY MS. BROWN:
+1	Q. Right.
+2	A. -- I feel confident that I've given you what I
+3	had --
+4	Q. Right.
+5	A. -- in my e-mail box related to this issue.
+6	Q. Okay. To go back to my question, when is it
+7	that you ran your first search for these e-mails?
+8	MR. MCPHARLIN: That was previously asked in
+9	prior depositions multiple times. Professor, don't
+10	answer that.
+11	A. He's right.
+12	BY MS. BROWN:
+13	Q. And you said that you did that search in order
+14	to produce the transmittal e-mail in the Grossman case;
+15	correct?
+16	MR. MCPHARLIN: Previously asked in prior
+17	depositions. Professor, don't answer that.
+18	BY MS. BROWN:
+19	Q. Did you, in fact, produce the e-mail
+20	transmitting Dr. Michelle's transcript to Dr. Proctor to
+21	the attorneys in the Grossman case?
+22	MR. MCPHARLIN: Previously asked in prior
+23	depositions.
+24	A. Did I ever actually forward it to them? I may
+25	not have. I can't recall. I think I did -- I did
+59
+1	produce it at a -- at a subsequent deposition.
+2	BY MS. BROWN:
+3	Q. Did you produce it to Mr. Hammer and
+4	Mr. Udanski, the attorneys representing the plaintiff in
+5	the Grossman case?
+6	A. No.
+7	MR. McPHARLlN: Previously asked in prior
+8	depositions.
+9	BY MS. BROWN:
+10	Q. Did you produce it to -- let me see if I can
+11	pull up the name of the attorney from R.J. Reynolds who
+12	questioned you about it at the Grossman case.
+13	A. You want me to help you?
+14	Q. Yeah. If you recall his name, that would be
+15	very helpful. Mr. Carter, is that it?
+16	A. Oh, well, I guess I can't be helpful. That's
+17	not the one I recall.
+18	Q. I believe Ed Carter questioned you about that
+19	at the Grossman deposition. He represented R.J.
+20	Reynolds.
+21	A. Did he appear over the telephone? That's
+22	probably why I don't remember.
+23	Q. He may have. I can't tell you that.
+24	A. No. I didn't -- I didn't give it to him.
+25	Q. But you did your search with the intent to find
+60
+1	that e-mail to produce in the Grossman case; correct?
+2	A. Yes. It -- I remembered in -- you know, after
+3	I had come back from vacation sometime in July that they
+4	had mentioned that. I looked for it. I've described
+5	that process previously and assumed that, you know, if
+6	they really wanted it, they would have asked -- you
+7	know, asked for it or, you know, made an attempt to
+8	follow up or something like that.
+9	Q. Well, they did ask you for it at the Grossman
+10	deposition; correct?
+11	MR. mcpharlin: Asked and answered multiple
+12	times and in previous depositions.
+13	A. Yes. They did ask for it.
+14	BY MS. BROWN:
+15	Q. And you went looking for it in order to produce
+16	it in Grossman?
+17	MR. MCPHARLIN: Professor, don't answer that.
+18	That's been asked and answered, not only in this
+19	deposition, but in others as well.
+20	BY MS. BROWN:
+21	Q. So, Dr. Kyriakoudes, why did you not, once you
+22	located these e-mails, produce them to counsel in the
+23	Grossman case?
+24	MR. MCPHARLIN: Professor, don't answer that.
+25	That has been previously asked in prior depositions.
+61
+1	Ms. Brown, are you representing on the record that
+2	that has never been asked in any prior deposition?
+3	MS. BROWN: Why after doing a search in the --
+4	for purposes of the Grossman case he did not produce
+5	them in the Grossman case?
+6	MR. McPHARLlN: why he didn't produce?
+7	MS. BROWN: That is the question that is being
+8	asked and that is the question I want an answer to.
+9	MR. MCPHARLIN: Okay. Go ahead.
+10	BY MS. BROWN:
+11	Q. So, Dr. Kyriakoudes, just --
+12	MR. McPHARLlN: it's been previously asked, but
+13	go ahead.
+14	BY MS. BROWN:
+15	Q. -- just to be clear, after doing a search for
+16	purposes of locating the e-mail requested of you in the
+17	Grossman case, why did you not then produce the e-mails
+18	you located in the Grossman case?
+19	MR. McPHARLlN: Previously asked. But go
+20	ahead.
+21	A. I just didn't think to do it. I was very busy,
+22	a lot going on. it didn't seem to be a big deal to me.
+23	So it didn't seem to be important, you know, and not
+24	something that I needed to follow up on.
+25	BY MS. BROWN:
+1	Q. You didn't think these e-mails from Dr. Proctor
+2	to Professor Smocovitis at the University of Florida
+3	encouraging her to out these graduate students as
+4	working for the tobacco industry was a big deal?
+5	MR. MCPHARLIN: Objection to form.
+6	MR. KEANE: Objection to the form of the
+7	question.
+8	A. Well, you asked me -- you know, we're talking
+9	about a different e-mail, we're talking about this
+10	forwarding e-mail that was asked for in the Grossman
+11	case. I just didn't think that was a big deal.
+12	BY MS. BROWN:
+13	Q. Well, maybe I misunderstood you,
+14	Dr. Kyriakoudes. Clarify for me, when you searched for
+15	this e-mail, this transmittal e-mail, was it as part of
+16	that search that you turned up the other two e-mails?
+17	A. That's correct.
+18	Q. And so my question to you was, why didn't you
+19	produce all three e-mails to counsel in the Grossman
+20	case?
+21	A. I just didn't think to do it. I don't, you
+22	know -- I just didn't think to do it. I didn't think it
+23	was a big deal.
+24	Q. And, again, back to my prior question. You
+25	didn't think it was a big deal that Dr. Proctor was
+63
+1	contacting Professor Smocovitis at the university of
+2	Florida in an effort to get her to talk to the faculty
+3	or the advisors of these graduate students related to
+4	the research they're doing?
+5	MR. MCPHARLIN: Objection to form.
+6	A. Well, now that's -- you know, that's a
+7	different situation than what was represented to me in
+8	the first Barbanell case, which I testified. Based on
+9	what I know now from this -- this e-mail, I don't see
+10	anything -- I don't see anything wrong with this. You
+11	know, you're asking me a question about Dr. Proctor's
+12	behavior, there's nothing wrong with discussing this
+Page 80
+13	issue. Academia operates on openness. I mean, that's
+14	how -- that's how we operate.
+15	BY MS. BROWN:
+16	Q. So, Dr. Kyriakoudes, do you approve of
+17	Dr. Proctor's conduct in contacting the University of
+18	Florida Professor?
+19	MR. McPHARLlN: Objection. Previously asked in
+20	prior depositions. Don't answer that, Professor.
+21	MS. BROWN: Mr. McPharlin, I think
+22	Dr. Kyriakoudes has taken a position very different
+23	than one he's taken in prior depositions, which is
+24	exactly the reason why we need to ask these
+25	questions. So I'm entitled to clarify his position
+64
+1	is different than it's been in prior depositions.
+2	MR. McPHARLlN: You just asked him if he
+3	approves of what he did. That has been covered, ad
+4	nauseam, to a ridiculous level in prior depositions.
+5	So if you're telling me that that question has never
+6	been asked, whether he approves it or not, that's
+7	the representation you're making on the record,
+8	fine.
+9	MS. BROWN: Mr. McPharlin, this is the first
+10	time Dr. Kyriakoudes has said he doesn't think this
+11	is any big deal. I mean, like you, I read the prior
+12	deposition testimony that suggests Dr. Kyriakoudes
+13	thought this was a significant deal, and frankly,
+14	didn't approve of Dr. Proctor's conduct. But if now
+15	Dr. Kyriakoudes feels differently, we're entitled to
+16	know that. So I would like my question read back to
+17	Dr. Kyriakoudes. Nora, would you mind reading back
+18	my question.
+19	(The question was read by the reporter.)
+20	MR. KEANE: Object to the form of the question.
+21	MR. MCPHARLIN: Previously asked multiple
+22	times.
+23	A. First of all, let's be clear about conduct,
+24	what you mean, because I think we have different
+25	definitions of what that word indicates and the actions
+1	that lay behind it. Many -- and my opinion has not
+2	changed since I was asked about this in Barbanell. I
+3	was very clear in that -- in that case in pointing out
+4	that graduate assistants who are simply trying to make
+5	some extra money and doing low-level research, reading
+6	microfilm or photocopying articles for professors,
+7	there's nothing -- there's no problem with that. I have
+8	no problem with that. And I was quite explicit about
+9	that in the Barbanell.
+10	But I did say in the Barbanell case that -- I
+11	am paraphrasing because I don't have the exact words in
+12	front of me -- but if it's the case that the students
+13	were not fully informed of the larger context of what
+14	they were doing -- I didn't use exactly those word in
+15	the Barbanell case, but that was my meaning -- that is a
+16	problem.
+17	There's nothing secret about this process.
+18	Everything is written down and these depositions are
+19	available. They're public documents. And if a -- if a
+20	graduate student isn't fully informed -- and I don't
+21	know what the situation is, because I don't know. All I
+22	know is from this limited piece of information here.
+23	But if -- if any student is not fully informed of the
+24	full context of what they're doing, whom they're working
+25	for, that there is a problem with that.
+66
+1	And so simply contacting a colleague about this
+2	issue, there's nothing wrong with this. I mean, he
+3	contacts a colleague and he gives his view as to the
+4	content of the experts and their testimony, which he has
+5	published and which I have published, so those are not
+6	unknown opinions.
+7	BY MS. BROWN:
+8	Q. Dr. Kyriakoudes, if I could direct your
+9	attention to Exhibit No. 9, the opinion after the third
+10	or fourth paragraph that begins: The only faculty
+11	member I know about from your department. Do you see
+12	that?
+13	A. Yes.
+14	Q. Now, toward the end of that paragraph, he says:
+Page 84
+15	In my view, this is historical malpractice; correct?
+16	A. Yes.
+17	Q. And this is referencing what comes earlier in
+18	that paragraph; correct: Dr. Michelle's assignment to
+19	read all Pensacola papers from the 1950's and succeeding
+20	decades to find examples of smoking and health stories
+21	which smokers have been exposed.
+22	A. Yes.
+23	MR. MCPHARLIN: Objection to form.
+24	BY MS. BROWN:
+25	Q. So you would characterize that,
+67
+1	Dr. Kyriakoudes, as Dr. Proctor merely contacting a
+2	colleague to raise that issue?
+3	MR. MCPHARLIN: Objection. Argumentative.
+4	A. Well, now, let's read this fairly and
+5	accurately. He goes on to say: The argument -- the
+6	argument is then made in court that only an ostrich or a
+7	moron could have failed to realize that cigarettes cause
+228388
+8	death and injury, so plaintiffs don't deserve
+9	compensation. Then he goes on to say: In my view this
+10	is historical malpractice.
+11	And then he says: I would be very interested
+12	to know if the advisors of these students know what they
+13	have been doing. The historical malpractice meaning,
+14	that is attached to the opinions that the defense
+15	experts give in court. That's what Mr. Proctor is -- is
+16	saying. And I think you misrepresented when you leave
+17	out that critical -- you skip over that sentence as you
+18	read this into the record. That's -- that's what he's
+19	referring to. He's published on this in peer-review
+20	journals. There's nothing secret about that.
+21	BY MS. BROWN:
+22	Q. Well, Dr. Kyriakoudes, let's cut to the chase.
+23	Are you telling me you don't read these e-mails to
+24	suggest that Dr. Proctor was disparaging the conduct of
+25	graduate students in history who would perform this kind
+1	of research?
+228388
+2	MR. McPHARLlN: Objection. Argumentative.
+3	Speculation.
+4	A. That judgment is not supported by this e-mail.
+5	That characterization of what you just said is not
+6	supported by this e-mail. That's all I can say about
+7	that.
+8	BY MS. BROWN:
+9	Q. So you read this e-mail, Dr. Proctor was merely
+10	raising an issue to Professor Smocovitis and, what?
+11	Encouraging the grad students to keep up the good work?
+12	MR. McPHARLlN: Objection to form.
+13	Argumentative. Speculation.
+14	MR. KEANE: Objection to the form of the
+15	question.
+16	A. He says right here: I would be very interested
+17	to know if the advisors of these students know what they
+18	have been doing. And that is indicating a sense of
+19	openness. Now, I was very -- you know, you're asking me
+20	questions which you've basically asked me before. I was
+21	quite explicit in Barbanell when you asked me about
+22	this. And I -- and to summarize that, I talked about
+23	the special position of trust between graduate students
+24	and their advisors, the desire for students engaged in
+25	this activity, for which I see no -- and still agree
+69
+1	that there's nothing wrong with this.
+2	BY MS. BROWN:
+3	Q. And this being the research assistants'
+4	activity; correct?
+5	A. Yes. Absolutely. I myself use research
+6	assistants. There's nothing -- nothing wrong with that.
+7	But issues of openness and trust, which I described in
+8	Barbanell, again, totally in this hypothetical
+9	discussion, are relevant within -- in this context.
+10	Q. And I assume that you abide by your prior
+11	testimony after the Barbanell deposition, that you
+12	believe graduate students should be left alone; correct?
+13	MR. MCPHARLIN: Objection to form.
+14	A. Yes. Yes. I personally, for me, see nothing
+15	to be gained from -- I mean, my interest is not in
+16	graduate students, it is in the methods, the materials,
+Page 88
+17	you know, the historical arguments that are put together
+18	by defense experts as I've written about in my published
+19	research.
+20	BY MS. BROWN:
+21	Q. Now, you've brought up several times this
+22	morning the Barbanell deposition; correct?
+23	MR. MCPHARLIN: Objection to form.
+24	A. Well, you were asking me -- it's because you
+25	were the person asking or you were at the Barbanell
+70
+1	deposition. That's correct. You were there.
+2	BY MS. BROWN:
+3	Q. I was at that deposition. And at that
+4	deposition, we've already agreed, we didn't have these
+5	e-mails; right?
+6	A. That's correct.
+7	MR. mcpharlin: Objection to form. Asked and
+8	answered.
+9	BY MS. BROWN:
+10	Q. But there's no question that you had already
+11	reviewed the May -- at least the May 23rd e-mail from
+12	Dr. Proctor; correct?
+13	MR. McPHARLlN: As of the -- that's your
+14	question? Did he see the e-mail before the
+15	Barbanell deposition? That's your question, right?
+16	BY MS. BROWN:
+17	Q. As of the Barbanell deposition, there is no
+18	dispute that you saw the May -- you had already reviewed
+19	the May 23rd e-mail; correct?
+20	MR. McPHARLlN: That's been previously asked in
+21	every single deposition, I think, on this matter.
+22	Maybe not every one, but certainly him, certainly
+23	Koballa multiple times, multiple different ways.
+24	BY MS. BROWN:
+25	Q. And, again, Dr. Kyriakoudes, there's no
+71
+1	dispute --
+2	MR. McPHARLlN: Professor, don't answer that.
+3	A. If you're moving on to another question, I just
+228388
+4	want to top off my water glass.
+5	MS. BROWN: Let's take a break.
+6	THE VIDEOGRAPHER: We're off the video record.
+7	(Discussion held off the record.)
+8	THE VIDEOGRAPHER: We are back on the video
+9	record.
+10	MS. BROWN: Let's go ahead and mark this as the
+11	next exhibit.
+12	(Exhibit No. 10 marked for identification.)
+13	BY MS. BROWN:
+14	Q. Now, Dr. Kyriakoudes, can you identify what
+15	Exhibit 10 is?
+16	A. This is one of the e-mails that I produced at
+17	the Koballa deposition.
+18	Q. This is another e-mail. This is one on which
+19	you were copied from Dr. Proctor to Professor Smocovitis
+20	at the University of Florida; correct?
+21	A. That's correct.
+22	MR. MCPHARLIN: Previously asked at prior
+23	depositions.
+24	BY MS. BROWN:
+228388
+25	Q. I just want to make sure we had all your
+1	e-mails in front of you. Again, these -- none of the
+2	e-mails that we've been talking about this morning, your
+3	transmittal e-mail or the two e-mails from Dr. Proctor
+4	were produced prior to the Koballa deposition on
+5	August 24th; correct?
+6	MR. MCPHARLIN: Previously asked in prior
+7	depositions. Professor, don't answer that.
+8	BY MS. BROWN:
+9	Q. Now, July 9th, you were deposed in the Grossman
+10	case; right?
+11	A. Yes. I think that's the date.
+12	Q. And we talked about the fact that you were
+13	asked questions by Mr. Carter for R.J. Reynolds;
+14	correct?
+15	MR. MCPHARLIN: Asked and answered.
+16	A. I was asked questions by an R.J. Reynolds
+17	attorney. That's true.
+18	BY MS. BROWN:
+19	Q. And do you recall that he asked you questions
+20	about what you knew, if anything, about Dr. Proctor's
+21	contacts with Professor Smocovitis regarding the
+22	involvement of University of Florida grad students in
+23	research with Dr. Michel?
+24	MR. McPHARLlN: Previously asked in prior
+25	depositions.
+73
+1	A. it came up I recall. I don't recall the exact
+2	wording of it. But, yes, it came up. Yeah.
+3	BY MS. BROWN:
+4	Q. You remember that subject matter being
+5	addressed?
+6	A. Yes. That was addressed.
+7	Q. And did you tell Mr. Carter that the questions
+8	in Barbanell were the first time you had heard anything
+9	about the contact that Dr. Proctor had with anyone at
+10	the University of Florida regarding research assistants
+11	or grad students?
+12	MR. MCPHARLIN: Are you referring to a specific
+13	portion of the deposition? Because I think it's
+14	unfair to ask him about a deposition without
+15	directing him to the deposition and giving him an
+16	opportunity to review it. So if you have the
+17	deposition and then a specific reference in the
+18	deposition, you should have him look at it instead
+19	of asking him from memory back months ago. So can
+20	we get the deposition.
+21	MS. BROWN: Well, at this point I am asking
+22	Dr. Kyriakoudes if he recalls, Todd, if he has a
+23	problem recalling. We can go from there, but --
+24	MR. MCPHARLIN: I think we should give him the
+25	deposition.
+74
+1	MS. BROWN: Please read back my question, Nora.
+2	I'd appreciate it.
+3	MR. MCPHARLIN: So we don't talk over each
+4	other, I think he should have the deposition in
+5	front of him so that he can refer to it if he needs
+228388
+6	to. So if you're going to ask him about it,
+7	let's -- we should get the deposition out.
+8	MS. BROWN: Nora, would you mind reading back
+9	my question.
+10	(The question was read by the reporter.)
+11	A. I'd like to read --
+12	MR. KEANE: Are you going to show him the
+13	deposition?
+14	MS. BROWN: if he needs to see it, Mr. Keane.
+15	I am still waiting for Dr. Kyriakoudes' answer.
+16	MR. KEANE: You know how to use depositions.
+17	If you're going to refer someone to something they
+18	said in a deposition and you want to ask about
+19	specific questions and answers that were given, show
+20	him the deposition.
+21	BY MS. BROWN:
+22	Q. Dr. Kyriakoudes, do you recall telling
+23	Mr. Carter that the questions in Barbanell were the
+24	first you had heard about anything related to contact
+25	between Dr. Proctor and any professor at the University
+1	of Florida?
+2	MR. McPHARLlN: Just so the record is clear,
+3	Counsel has been requested to provide Professor
+4	Kyriakoudes with the deposition and she is refusing
+5	to do so.
+6	MS. BROWN: I'm not refusing to do so. I am
+7	asking for an answer to my question. If
+8	Dr. Kyriakoudes needs to see the transcript, then at
+9	that point we can pull the transcript. But I'm
+10	entitled to ask him if he recalls. And that's what
+11	I am asking him.
+12	MR. KEANE: As his counsel, in this serious
+13	proceeding, in which time has been reserved for you
+14	to explore the subject matter of serious motions, if
+15	you're going to ask him about depositions, I'm going
+16	to ask you respectfully provide him with the
+17	deposition and be fair about it. That's what I am
+18	going to ask you to do.
+19	MS. BROWN: And your request has been made,
+20	Mr. Keane.
+21	MR. KEANE: And I understand it's being denied;
+22	is that right?
+23	MS. BROWN: Until my question is answered,
+24	which is: Do you recall that testimony?
+25	MR. KEANE: You're asking him to recall
+76
+1	portions of a deposition taken months ago that he
+2	does not have in front of him and that's
+3	fundamentally unfair. And I'm renewing my request
+4	that you provide him with the deposition and the
+5	page and line number, and if you want to ask him
+6	about that, you can ask him about that.
+7	BY MS. BROWN:
+8	Q. Dr. Kyriakoudes, I will provide you a copy of
+9	the transcript.
+10	MR. KEANE: Then let's just do it.
+11	BY MS. BROWN:
+12	Q. But I'm asking you whether you recall giving
+13	that testimony.
+14	MR. MCPHARLIN: Professor, I think you need to
+15	listen to your counsel. So, Professor, hold on. I
+16	think you need to listen to your attorney so --
+17	BY MS. BROWN:
+18	Q. Mr. McPharlin's pointing out to you Mr. Keane
+19	has made a speaking objection and he would like you to
+20	follow that direction.
+21	MR. MCPHARLIN: You just said that you would
+22	provide him with the deposition.
+23	MS. BROWN: As soon as my question is answered,
+24	Mr. Keane.
+25	MR. KEANE: Just do it. You know, I don't want
+77
+1	to become a player in this. I'm trying to guide
+2	this gentleman through a difficult situation. But
+3	this is taking on an abusive nature and there's not
+4	much I can do about it except move to terminate the
+5	deposition. So if you're planning on giving him the
+6	deposition, give him the deposition. That's fair.
+7	That's honest. Give him the deposition.
+228388
+8	MR. henk: Take a break.
+9	MS. BROWN: Well, there is a question pending,
+10	now. And I've made it clear, as soon as the
+11	question is answered --
+12	MR. HENK: I think he is getting ready to
+13	terminate the deposition unless you provide the
+14	transcript.
+15	MR. McPHARLlN: Listen, you're not a party to
+16	this deposition.
+17	MR. KEANE: I will take the action that I
+18	believe is appropriate. But you're very correct.
+19	I'm very concerned about the manner in which this
+20	deposition is being conducted. And when you start
+21	asking about prior deposition testimony and you
+22	don't show him the deposition, I believe what you're
+23	trying to do is trip him up on some faulty
+24	recollection of what was said and you need to show
+25	him the deposition. That's only fair. You wouldn't
+1	be allowed to do it in a courtroom. You wouldn't be
+Page 99
+2	allowed to do it in impeachment. You wouldn't be
+3	allowed to ask questions about a deposition, a prior
+4	deposition in any context in a court proceeding
+5	without giving him the deposition. And the rule on
+6	taking depositions is that examination shall be
+7	conducted as that trial. And so I'm asking you
+8	respectfully, once again, to please give him the
+9	deposition.
+10	MS. BROWN: To move this along, I am going to
+11	provide the deposition. But I do not believe
+12	there's any rule that says you cannot ask a witness
+13	if they recall testimony. If Dr. Kyriakoudes needs
+14	to see it, he can always ask to take a look at it.
+15	MR. KEANE: Do you have a copy? Thank you.
+16	BY MS. BROWN:
+17	Q. Okay. Dr. Kyriakoudes, if you would please
+18	turn to page 148 -- well, first, just look at the cover
+19	Dr. Kyriakoudes. Is this the transcript from your
+20	Grossman deposition taken on July 9th in New Orleans?
+21	A. Yes.
+22	Q. Okay. If you would turn with me to page 148.
+Page 100
+23	MR. mcpharlin: You had a page and line ready
+24	to ask him and you refused to give him the
+25	deposition?
+79
+1	BY MS. BROWN:
+2	Q. If you would turn to page 148, Dr. Kyriakoudes,
+3	lines 10 to 15. Question: But those hypotheticals --
+4	and by those hypotheticals, you understand he's
+5	referring to Barbanell?
+6	A. That's correct.
+7	Q. Okay. But those hypotheticals, that was the
+8	first you heard in any of the contacts that he may have
+9	had -- and you understand he there is Dr. Proctor;
+10	correct?
+11	A. Yes. That's correct.
+12	Q. Okay. But those hypotheticals asked at the
+13	Barbanell deposition, that was the first you heard of
+14	any of the contacts that he, that Dr. Proctor, may have
+15	had with the University of Florida regarding research
+16	assistants? And your answer was: That's right. And I
+17	made my position clear on that. Did I read that
+18	correctly?
+19	A. Yes, you did.
+20	Q. That was your answer to that question on
+21	July 9th at the Grossman deposition; correct?
+22	A. That's correct.
+23	Q. But that wasn't accurate testimony, was it,
+24	Dr. Kyriakoudes?
+25	MR. McPHARLlN: Objection to form.
+80
+1	A. Well, when I gave it, it was accurate. I --
+2	I've explained this many times. These were not e-mails
+3	that I read -- in one case, read at all, or reviewed
+4	and/or recollected. This is not anything that I pursued
+5	or interested in or, you know, engaged myself in.
+6	BY MS. BROWN:
+7	Q. Well, earlier you agree, that there is no
+8	question that you had reviewed the May 23rd e-mail
+9	before your Barbanell deposition. So I assume we can
+228388
+10	agree that that would be before your Grossman
+11	deposition; correct?
+12	MR. MCPHARLIN: Professor, don't answer that
+13	question. That's been previously asked in multiple
+14	depositions, including this one.
+15	BY MS. BROWN:
+16	Q. So, Dr. Kyriakoudes, it is your position that
+17	the answer you gave on page 148 of your Grossman
+18	deposition to that question, that that was accurate
+19	testimony?
+20	MR. McPharlin: Objection. Hold on a second.
+21	That has -- you have asked him whether he gave
+22	accurate testimony in these cases about those
+23	e-mails multiple times, multiple times: Hibner,
+24	Koballa, hundreds of pages. So I'm going to
+25	instruct him not to answer because you are doing
+81
+1	exactly what you said you wouldn't do.
+2	MS. BROWN: So, Mr. McPharlin, it is your
+3	position when we go in front of Judge Streitfeld,
+Page 103
+4	you will be able to point out to him, page and line
+5	in a transcript where Dr. Kyriakoudes was asked
+6	whether his answer to that question on page 148 of
+7	his Grossman deposition was accurate testimony? Is
+8	that your position?
+9	MR. MCPHARLIN: Are you saying -- are you
+10	representing that he's never been asked if -- let's
+11	go to the question again. Can you pull it up.
+12	MR. KEANE: 148.
+13	MS. BROWN: Let's take a break while you look
+14	through the transcript.
+15	MR. mcpharlin: what was the page again?
+16	MS. BROWN: 148. We're off the record.
+17	THE VIDEOGRAPHER: Off the video record.
+18	(Discussion off the record.)
+19	THE VIDEOGRAPHER: We are back on the video
+20	record.
+21	BY MS. BROWN:
+22	Q. I believe there was a question pending when we
+23	took a break.
+24	MS. BROWN: Nora, could you read back my
+Page 104
+25	question.
+1	(The question was read by the reporter.)
+2	A. At the time that I gave that, yes. it was
+3	accurate.
+4	BY MS. BROWN:
+5	Q. Dr. Kyriakoudes, you say that is accurate,
+6	while not disputing; correct, that you had received and
+7	reviewed an e-mail from Dr. Proctor on May 23rd that
+8	laid out his contact with Professor Smocovitis and
+9	disclosed the names of Dr. Michelle's research
+10	assistants at the university of Florida; correct?
+11	MR. McPHARLlN: Objection. Argumentative.
+12	A. Yes. And I just want to point out that when
+13	you say reviewed, to clarify, as I've testified many
+14	times, that I took the briefest glance at the e-mail and
+15	skipped over it and did not read the entire thing and
+16	did not recollect that e-mail.
+17	BY MS. BROWN:
+18	Q. But, Dr. Kyriakoudes, you do admit that you
+19	read at least the beginning of the e-mail that refers to
+20	Professor Smocovitis; correct?
+21	MR. McPharlin: Objection. Asked and answered.
+22	A. I skimmed through the very, you know, initial
+23	part of the e-mail and didn't think it was anything that
+24	required any action on my part, did not read the whole
+25	thing and skipped over it. And that's -- I've said that
+83
+1	many times. You've asked me about that a number of
+2	times here and at previous depositions. And at the
+3	Barbanell trial, I did not -- I did not recall that.
+4	BY MS. BROWN:
+5	Q. Didn't Mr. Carter's question concerning
+6	Dr. Proctor's contact with Professor Smocovitis
+7	regarding these graduate students trigger any memory for
+8	you?
+9	MR. MCPHARLIN: Objection to form.
+10	MR. KEANE: Object to the form.
+11	A. Are you talking about the -- no. No. They
+12	didn't.
+13	BY MS. BROWN:
+14	Q. Hearing Professor Smocovitis' name and in
+15	reference to Dr. Michelle's research assistants didn't
+16	ring a bell at all for you?
+17	A. Well, her name was known to me because it had
+18	come up in the Barbanell deposition. That's when her
+19	name was introduced to me.
+20	Q. And at the Barbanell deposition when you were
+21	questioned at length about whether you had any knowledge
+22	of Professor Proctor's contact with Professor
+23	Smocovitis, none of these questions rung any bells for
+24	you, as far as the fact you had received and reviewed an
+25	e-mail from Dr. Proctor reporting on his contact with
+84
+1	Professor Smocovitis?
+2	A. No. I had never heard of her.
+3	MR. MCPHARLIN: Objection to form. Previously
+4	asked in prior depositions.
+5	BY MS. BROWN:
+6	Q. You've never heard of her besides that e-mail
+7	from May 23rd; correct?
+8	A. Well, my recollection of the Barbanell
+9	testimony was -- when I testified in Barbanell, I had
+10	never heard of her until that point. I did not recall
+11	that prior e-mail which I, you know, did not completely
+12	review. I've testified on this quite a bit.
+13	Q. Now, you know Dr. Proctor was retained as an
+14	expert in the Barbanell case; correct?
+15	A. Well, I -- I don't know that. I didn't know
+16	that, or if I did, you know -- I don't keep up on, you
+17	know, who the other experts are.
+18	Q. Prior to the e-mail that you received from
+19	Dr. Proctor that you did not produce today that set out
+20	a list of trials that you have -- the two of you have
+21	upcoming in the Engle litigation, have you exchanged
+22	e-mails like that at any time before?
+23	A. Okay. Now, run that by me again. Are you
+24	referring to the e-mail that I referred to when you were
+25	going over the schedule A?
+1	Q. Yes.
+2	A. Okay. So that was a -- you know, that was an
+3	e-mail. And so then your question is?
+4	Q. That was an e-mail from the winter; correct?
+5	A. Yes. Yes.
+6	Q. And you set out a list of cases that you had
+7	coming up -8	A. Yeah.
+9	Q. -- or that Dr. Proctor had coming up.
+10	A. Or discussed -- discussed cases. Yeah.
+11	Q. was either Barbanell or Grossman discussed in
+12	that e-mail?
+13	A. No. No. To be precise, it had discussed a
+14	case that had already happened in that e-mail.
+15	Q. what case was that?
+16	A. You're asking me the name, the names run
+17	together. But it was the one in Broward County where
+18	Gary Paige was the plaintiff's attorney. And that -- it
+19	might be Sherman, it might be Hess, it was that first
+20	one after the -- after the new year. I'm forgetting the
+21	exact name of the case. But I think I've given you
+22	enough information that you can identify the case tried
+23	in Broward County, you know, after the new year where
+24	Gary Paige was the lead attorney.
+25	Q. And what was the nature of your discussion in
+86
+1	that e-mail with Dr. Proctor?
+2	A. Just about -- just stuff about the testimony.
+3	Q. Was this the case where Dr. Proctor's testimony
+4	resulted in mistrial?
+5	A. Yes. it was that case.
+6	Q. The Hess case?
+7	A. That -- thank you. I was not remembering the
+8	exact name of it.
+9	Q. And did the e-mail discuss the mistrial?
+10	A. No.
+11	Q. Did it discuss Dr. Proctor's testimony that
+12	resulted in the mistrial?
+13	A. No.
+228388
+14	Q. Now, after your Barbanell deposition, you
+15	talked to Dr. Proctor and told him about the questions
+16	you had been asked at the Barbanell deposition; right?
+17	A. I don't think so. No. I don't think I did
+18	that.
+19	Q. So when you think back to your Barbanell
+20	testimony, can you recall a conversation you had with
+21	Dr. Proctor at any point about the types of questions
+22	you were being asked at the Barbanell deposition related
+23	to the University of Florida grad students?
+24	MR. KEANE: Object to the form of the question.
+25	A. No. I did not talk to him about that issue.
+87
+1	BY MS. BROWN
+2	Q. You didn't give Dr. Proctor a heads-up that
+3	defense counsel were asking questions about his contact
+4	with Professor Smocovitis at the University of Florida?
+5	MR. McPHARLlN: Objection. Asked and answered.
+6	A. No, I didn't. I did not do that.
+7	BY MS. BROWN:
+8	Q. Well, you've looked at your Koballa deposition
+9	fairly recently; correct?
+10	A. Yes. in a deposition. Yes.
+11	Q. In fact, you were reading it during -- or had
+12	it in front of you during your deposition on
+13	October 1st; correct, in the Hibner case?
+14	A. That's correct. Yeah. Refresh my memory.
+15	Q. I'm handing you, Dr. Kyriakoudes, the Koballa
+16	deposition. Doctor, if you could turn with me to page
+17	228, line nine.
+18	A. Let me get there. Just give me a second to get
+19	where you are.
+20	Q. Are you there, Doctor, 228, line nine?
+21	A. Uh-hum.
+22	Q. Okay. You were asked: Have you ever spoken
+23	with Dr. Proctor about this situation that led to the
+24	subpoenaing of the documents? And you answered: After
+25	I was asked in that, you know, it came up in a
+1	deposition called Barbanell, which I'm sure you're aware
+2	of. And I asked him about it just in general way. I
+3	told him that I was asked about this. That's all. I
+4	just left him -- I informed him. I've tried, you know,
+5	because of this, you know, we are not really spoken a
+6	lot -- we've not really spoken a lot, only in a kind of
+7	necessity basis to handle the logistics of the history
+8	of science conference. So I've kind of kept my
+9	distance.
+10	Was that the question that was asked of you and
+11	the answer you gave at your Koballa deposition on
+12	August 24, 2009?
+13	MR. MCPHARLIN: Take your time to read it.
+14	A. And repeat your question 'cause I was reading
+15	while you asked that.
+16	BY MS. BROWN:
+17	Q. Did I read that correctly? was that the
+18	question that you were asked and the answer you gave at
+19	the Koballa deposition on August 24, 2009?
+20	A. That's correct. And -- and this is all
+21	accurate. I did not give him a heads-up after the
+22	Barbanell trial which is -- or deposition, which is what
+23	you asked me about.
+24	Q. But I also asked you if you had a conversation
+25	with Dr. Proctor. You, in fact, did have a conversation
+89
+1	with Dr. Proctor about the questions you were asked
+2	related to this issue with the Barbanell deposition;
+3	correct?
+4	A. Yes. But this was much later.
+5	Q. When did this conversation with Dr. Proctor
+6	take place?
+7	A. Significantly after the Barbanell deposition.
+8	Q. when did the conversation take place,
+9	Dr. Kyriakoudes?
+10	MR. McPHARLlN: Objection. Asked and answered.
+11	A. I'm not exactly recalling the exact date. But
+12	it was not right after the Barbanell deposition.
+13	BY MS. BROWN:
+14	Q. was it two weeks later?
+15	MR. McPHARLlN: Objection. Asked and answered.
+16	A. No more than that I would think. I would -- I
+17	would -- this is -- this is much later. Probably in
+18	July.
+19	BY MS. BROWN:
+20	Q. In July you had this conversation with
+21	Dr. Proctor?
+22	A. Well, I'm not recalling exactly when I had it,
+23	but I didn't have it at any time close to the Barbanell
+24	deposition. I can say that with certainty.
+25	Q. Did you have this conversation with Dr. Proctor
+90
+1	prior to July 9th?
+2	MR. MCPHARLIN: Objection to form.
+3	A. No. Must have been after that.
+4	BY MS. BROWN:
+5	Q. Why must it have been after that?
+6	A. Well, it was -- it was after the Barbanell
+7	deposition, significantly later than the Barbanell
+8	deposition, it may well have been after that, but I
+9	don't recall the exact date.
+Page 115
+10	Q. So it could have been before July 9th?
+11	MR. mcpharlin: Objection. Asked and answered.
+12	Speculation.
+13	A. I couldn't say either way.
+14	BY MS. BROWN:
+15	Q. And tell me what exactly you discussed with
+16	Dr. Proctor during that phone conversation.
+17	MR. MCPHARLIN: Asked and answered in the
+18	previous deposition obviously. Correct, Counsel?
+19	A. I just told him that I was asked about this
+20	general issue and did not go into detail because it was
+21	just -- just as a general, you know, that I had been
+22	asked about this. That's all.
+23	BY MS. BROWN:
+24	Q. Did this conversation take place before or
+25	after you searched for e-mails and found three related
+91
+1	to this issue on your computer?
+2	MR. mcpharlin: Objection to form. Asked and
+228388
+3	answered multiple times.
+4	A. I can't recall exactly, precisely when they may
+5	have all been. So I just can't recall. I mean, months
+6	ago. So I don't know.
+7	BY MS. BROWN:
+8	Q. who initiated that phone call?
+9	MR. McPHARLlN: Objection. Asked and answered
+10	in the prior deposition.
+11	A. I'm not sure.
+12	BY MS. BROWN:
+13	Q. Did you disclose to counsel that you had this
+14	call with Dr. Proctor at your Grossman deposition?
+15	MR. McPHARLlN: Objection to form.
+16	A. I don't think I had this prior to the Grossman
+17	deposition, if I had it, I probably would have
+18	disclosed it. I was probably asked and I don't recall
+19	what I testified in Grossman. But my recollection of
+20	these phone calls in Grossman would have been accurate.
+21	BY MS. BROWN:
+22	Q. So whatever you said in Grossman you think is
+23	accurate?
+228388
+24	MR. MCPHARLIN: Objection to form.
+25	A. Yes. At the time that I gave it. Yes.
+92
+1	BY MS. BROWN:
+2	Q. Did you disclose these conversations to defense
+3	counsel in your Evers deposition?
+4	A. I'd -- I'd have to re-read that testimony. I
+5	don't recal1.
+6	Q. How about in your Willis deposition?
+7	A. Well, those basically happened at the same
+8	time. So same answer. They were essentially coincident
+9	depositions. I was asked questions the same day about
+10	each of those.
+11	Q. You had this conversation with Dr. Proctor --
+12	A. I'm sorry, I was -- let me finish. I was asked
+13	questions about those two cases on the same day. So I
+14	don't have a distinct recollection of one versus the
+15	other.
+16	Q. In your conversation with Dr. Proctor, you told
+17	him that you were asked questions related to his contact
+18	with Professor Smocovitis at the Barbanell deposition;
+19	is that correct?
+20	A. I'm sorry, say that again?
+21	Q. You told Dr. Proctor in that conversation that
+22	you had been asked questions about his contact with
+23	Professor Smocovitis during your Barbanell deposition;
+24	is that right?
+25	MR. MCPHARLIN: Ms. Brown, these question
+93
+1	questions have been asked. You asked -- you asked
+2	him to read a deposition where he was asked about
+3	that conversation. So can we agree that that
+4	question has already been asked, Ms. Brown?
+5	A. Yeah. My answer --
+6	MR. MCPHARLIN: Louis -- Mr. -- Professor
+7	Kyriakoudes. Can we agree that you're asking him
+8	something that has already been asked very clearly?
+9	You won't even make that recognition?
+10	MS. BROWN: Mr. McPharlin, I'm asking the
+11	questions here.
+12	MR. McPHARLlN: I understand that. But you're
+13	not abiding with what you told the judge. You're
+14	asking him about a conversation that has been --
+15	he's been questioned about and you're actually -- we
+16	know that because you're pointing him to a
+17	deposition where he was asked about it.
+18	BY MS. BROWN:
+19	Q. In addition to -- or during your conversation
+20	with Dr. Proctor, you did tell him about the questions
+21	that you had been asked related to his contact with
+22	Professor Smocovitis at the Barbanell deposition;
+23	correct?
+24	MR. McPHARLlN: Previously asked in prior
+25	depositions. Are you going to refer him to some
+94
+1	portion of the deposition?
+2	MS. BROWN: You know, what is dragging this out
+3	is, these are perfunctory questions.
+4	MR. MCPHARLIN: They're not.
+228388
+5	MS. BROWN: Yes or no, you did talk to
+6	Dr. Proctor in that conversation about the fact that
+7	you had been asked questions in your Barbanell
+8	deposition related to his contact with Professor
+9	Smocovitis; correct?
+10	MR. McPharlin: That has been previously asked
+11	and answered and has been previously discussed in
+12	prior depositions.
+13	MS. BROWN: Right. We just read it --
+14	MR. MCPHARLIN: Hold on. Please don't
+15	interrupt me. Please don't interrupt me. There is
+16	nothing perfunctory about any of the questions
+17	you're asking him. Trust me. I understand that.
+18	Professor Kyriakoudes understands that. Mr. Keane
+19	understands that. You're not asking a perfunctory
+20	question. Every question has some intent behind it.
+21	So there is nothing ministerial about what you're
+22	doing.
+23	MS. BROWN: Mr. McPharlin, is it your intent to
+24	eat up as much time as you can with these
+25	long-speaking objections? Is that your intent?
+1	MR. MCPHARLIN: You're asking him questions
+2	that have obviously been asked in prior depositions
+3	despite what the judge instructed you to do.
+4	BY MS. BROWN:
+5	Q. In addition to discussing with Dr. Proctor the
+6	fact that you had been asked questions about his contact
+7	with Professor Smocovitis during your Barbanell
+8	deposition, did you talk to him about similar
+9	questioning at any other depositions?
+10	A. No.
+11	MR. KEANE: Object to the form of that
+12	question.
+13	BY MS. BROWN:
+14	Q. Why not?
+15	A. We didn't talk about it that much.
+16	Q. And why did you raise with him on the telephone
+17	the fact that you had been questioned on that issue at
+18	your Barbanell deposition?
+19	MR. MCPHARLIN: Objection to form.
+20	A. You know, I was asked about things that, at
+21	that time, I didn't have a knowledge of related to his
+22	behavior. So I just -- it came up in a conversation and
+23	I just made mention of it. But I recall it was not
+24	after the Barbanell testimony and that it was -- it was
+25	sometime after that. And I didn't go into detail.
+96
+1	BY MS. BROWN:
+2	Q. Did you ask him any questions about what
+3	exactly he was doing through his contact with Professor
+4	Smocovitis?
+5	A. I didn't. No. I didn't -- I didn't ask him
+6	those questions.
+7	Q. Did you ask him why he was in contact with
+8	Professor Smocovitis?
+9	A. No, I didn't. I didn't.
+10	Q. Did you discuss with him the e-mail that he had
+11	sent you on May 23rd?
+12	A. No.
+13	Q. Why not?
+14	A. Because we didn't have a deep conversation
+15	about this. I just made him aware that I had been asked
+16	questions, that his name had come up in a deposition
+17	that had not really -- from my recollection -- happened
+18	before. So in that conversation, that's all I did.
+19	MR. MCPHARLIN: Hang on one second. Hang on
+20	one second, what time did we go on the record?
+21	Nora, what time did we go on the record?
+22	COURT REPORTER: About five after 11:00.
+23	MR. MCPHARLIN: Okay.
+24	BY MS. BROWN:
+25	Q. Now, subsequent to this conversation you had a
+97
+1	conversation with Dr. Proctor on August 21st; correct?
+2	A. Yeah. That's correct.
+3	Q. Okay. During that conversation --
+4	MR. MCPHARLIN: Hold on. Hold on. That
+5	question has been previously asked in prior
+6	depositions.
+228388
+7	MS. BROWN: How do I get one place to the
+8	other, Todd, without bringing up the date?
+9	MR. MCPHARLIN: I am just making a record. I'm
+10	not instructing him.
+11	MS. BROWN: Okay.
+12	BY MS. BROWN:
+13	Q. On August 21st, you discussed with Dr. Proctor
+14	the fact that his e-mails had been subpoenaed in a case
+15	in Volusia County; correct?
+16	MR. MCPHARLIN: Hold on, Professor. Don't
+17	answer that question. That has been asked and
+18	answered. Are you representing that that question
+19	has never been asked and answered?
+20	MS. BROWN: I am representing that I need to
+21	ask that question to lay context for my following
+22	questions, Todd. I need you to quit interfering
+23	with the deposition.
+24	MR. MCPHARLIN: I'm not. why don't you just
+25	ask your question. You don't need your foundation.
+1	You don't need your -- your perfunctory questions,
+2	as you call them. Just ask your question.
+3	BY MS. BROWN:
+4	Q. That was my question, Dr. Kyriakoudes. On
+5	August 21st, you discussed with Dr. Proctor the fact
+6	that some of his -- or that his e-mails had been
+7	subpoenaed in a case in Volusia County; correct?
+8	A. That's correct.
+9	MR. McPHARLlN: Previously asked.
+10	BY MS. BROWN:
+11	Q. And that was the first time that you had heard
+12	that documents had -- were being subpoenaed; correct?
+13	MR. McPHARLlN: Previously asked in prior
+14	depositions multiple times.
+15	BY MS. BROWN:
+16	Q. Correct?
+17	A. Okay. I'm just waiting for the air to clear.
+18	That's correct.
+19	Q. Do you recall in the Koballa case -- in the
+20	Koballa deposition, rather, on August 24th testifying
+21	that you did not talk to Dr. Proctor on August 21st
+22	about anything related to any of the smoking and health
+23	lawsuits?
+24	MR. MCPHARLIN: Okay. Hold on. Let's direct
+25	him to the deposition. If you're going to ask him
+99
+1	about his testimony, you need to tell him what
+2	you're referring to. He should have an opportunity
+3	to look at it.
+4	MS. BROWN: And I will direct him to that as
+5	soon as he answers the question of whether he
+6	recalls.
+7	MR. MCPHARLIN: Hold on. Hold on. That is a
+8	fundamentally unfair way to take a deposition and
+9	you know it. So if you're asking him about what he
+10	testified in the deposition, show him the
+11	deposition.
+12	MS. BROWN: We're going to treat that, because
+13	we've got to get this moving, we are going to treat
+14	that as an instruction not to answer that question.
+15	And I will move to my next question to expedite
+Page 127
+16	things.
+17	MR. MCPHARLIN: You can do what you want.
+18	BY MS. BROWN:
+19	Q. Okay. Doctor, if you would turn with me in
+20	your Koballa deposition --
+21	A. Is it more or less than 167?
+22	Q. Less. 163. If you could turn with me to 163.
+23	MR. MCPHARLIN: You hit your two hours.
+24	MS. BROWN: But we did take some breaks in
+25	there, Todd.
+100
+1	MR. MCPHARLIN: You hit your two hours. We
+2	haven't taken any breaks of any substance.
+3	MR. KEANE: You're counting breaks in the two
+4	hours?
+5	MS. BROWN: There is a question pending anyway,
+6	Todd.
+7	MR. MCPHARLIN: I'm just letting you know you
+8	hit your two hours, though.
+9	BY MS. BROWN:
+10	Q. Dr. Proctor, if you'd look at page 163.
+11	A. Uh-hum.
+12	Q. Okay. If you start at line 13: Have you
+13	spoken with him recently? And you understand him to be
+14	Dr. Proctor; correct?
+15	A. Yes.
+16	Q. Your answer was: Yes. I talked with Robert.
+17	Question: Okay. When did you last talk to him?
+18	Answer: I talked with him this weekend on the phone.
+19	Question: What did you-all discuss? Answer: We are --
+20	I am on a panel with the history of science society. We
+21	talk about that. It's coming up in November. Question:
+22	Okay. Did you talk about anything related to any of
+23	these smoking and health lawsuits? No. No. I didn't
+24	talk to him about that. Did I read that correctly,
+25	Doctor?
+101
+1	A. Yes.
+2	Q. And then if we jump, Doctor, to page 165, line
+3	11. Question: Okay. Have you spoken with Dr. Proctor
+4	at all about his contacts with this professor at the
+5	University of Florida? Answer: No, I haven't. Did I
+6	read those correctly?
+7	A. Yes.
+8	Q. That answer was incorrect, inaccurate when you
+9	gave it on August 24, 2009 in your Koballa deposition,
+10	wasn't it?
+11	MR. MCPHARLIN: Objection to form.
+12	A. No. I mean, this is -- when I gave the answer,
+13	I was answering truthfully to the best of my abilities.
+14	I know you -- these are all conversations that happened
+15	much later for which, you know, I don't keep notes on my
+16	phone calls, for which I, you know -- when you asked me
+17	the question, I give you the best answer that I can on
+18	my knowledge at that time.
+19	BY MS. BROWN:
+20	Q. Doctor, you're -- the conversation with
+21	Dr. Proctor that's being discussed here, this was a
+22	conversation that you had with Dr. Proctor on
+23	August 21st; correct?
+24	A. Yes.
+25	Q. And your deposition, this deposition in Koballa
+102
+1	was taken on August 24th; correct?
+2	A. Yes.
+3	Q. That would be three days later; correct?
+4	A. That's correct.
+5	Q. So when you testified that in your August 21st
+6	deposition that you did not talk about anything related
+7	to any of these smoking and health lawsuits and you
+8	said: No. No. I didn't talk to him about that, that
+9	was inaccurate, wasn't it?
+10	MR. MCPHARLIN: Objection to form.
+11	A. You know, at the time that -- again, you know,
+12	I can't -- I don't keep all of this straight. I gave
+13	you the best answer I can at the time, when I gave the
+14	answer, I believe that I was answering accurately and
+15	truthfully.
+16	BY MS. BROWN:
+17	Q. So your testimony three days after the
+Page 131
+18	conversation is worse than your memory a month after the
+19	conversation?
+20	MR. McPHARLlN: Objection to form.
+21	A. No. What I'm saying is, you know, you've
+22	asked -- asked me questions about this at great length
+23	at many different times. And, you know, sometimes
+24	I get -- you know, sometimes I get some of the details
+25	incorrectly, or when I give -- when I give the testimony
+103
+1	at that time, I'm doing my best to recall as accurately
+2	as possible. But, you know, I can't keep all of this --
+3	I mean, it doesn't all, you know, come right to mind at
+4	once. There's a lot going on in -- in my day. And this
+5	is only a small part of it. And so, you know, I do my
+6	best to answer truthfully when you ask me the questions.
+7	BY MS. BROWN:
+8	Q. Given the fact that you now admit that you
+9	talked to Dr. Proctor about the documents being
+10	subpoenaed in this smoking and health litigation and his
+11	contact with Professor Smocovitis, there's no question
+12	that this testimony is inaccurate; correct --
+13	MR. MCPHARLIN: Objection to form.
+14	BY MS. BROWN:
+15	Q. -- at the Koballa deposition?
+16	MR. MCPHARLIN: Objection to form.
+17	Mischaracterization. Asked and answered.
+18	A. Well, you know, you've asked me about this and
+19	I'm going to give the same answer, which is, you know,
+20	when I gave this testimony, I was giving the most
+21	accurate testimony I could give. You know, I've been
+22	deposed on average about once every other week on these
+23	issues since the summer. And to be honest with you, you
+24	know, I can't completely recall all the specific details
+25	of all the specific points that you've asked me about
+104
+1	that relate to conversations and other things. So, you
+2	know, my testimony is what it is. And, you know, I am
+3	not possessed of a perfect recollection of all of the
+4	phone calls. I mean, when I gave this testimony, I was
+228388
+5	doing my best to give accurate testimony.
+6	BY MS. BROWN:
+7	Q. But, Dr. Kyriakoudes, my question is, this
+8	answer to this question, whether on August 21st you
+9	talked to Dr. Proctor about any of these issues and you
+10	answered: No, no, I didn't talk to him about that, that
+11	was inaccurate?
+12	MR. MCPHARLIN: Objection to form.
+13	Mischaracterization. Asked and answered.
+14	A. Well, to be honest with you, I can't really say
+15	because what I've got is conflicting testimony and I'm
+16	not recalling, you know, specific dates. I'd have to
+17	review all of this and take it into consideration. I
+18	agree, it conflicts a bit, but, you know, I'm possessed
+19	of imperfect memory.
+20	BY MS. BROWN:
+21	Q. Do you remember in your Koballa deposition
+22	saying that you don't need a good memory if you are
+23	telling the truth?
+24	MR. MCPHARLIN: Objection to form.
+25	A. Yes.
+1	MR. McPHARLlN: Argumentative.
+2	A. That's true.
+3	MR. McPHARLlN: Asked and answered.
+4	A. I'm not --
+5	BY MS. BROWN:
+6	Q. And on August 24th when you said you had not
+7	talked to Dr. Proctor on August 21st about any of these
+8	smoking and health suits, and that you had not spoken
+9	with him about his contacts with the Professor at the
+10	University of Florida, and you said you hadn't, both of
+11	those things were untrue, weren't they?
+12	MR. McPHARLlN: Objection to form.
+13	Mischaracterization. Asked and answered multiple
+14	times. Argumentative.
+15	A. Well, I'm not sure which one is the most
+16	accurate, to be honest with you. So I can't say.
+17	MR. McPHARLlN: All right. We've hit our two
+18	hours.
+19	BY MS. BROWN:
+20	Q. So --
+21	MR. MCPHARLIN: Hold on. Hold on. No. We've
+22	gone over it's now 2:15 -- 1:15; right? We're over
+23	the two hours. Ten minutes over the two hours. So
+24	that's it. We're done with this line of
+25	questioning.
+106
+1	BY MS. BROWN:
+2	Q. So, Dr. Kyriakoudes --
+3	MR. MCPHARLIN: No. Ms. Brown, we're done,
+4	just so you know.
+5	MS. BROWN: You know, if we take out all of
+6	your speaking objections, Todd, you probably got
+7	another hour.
+8	MR. McPharlin: Like I said, we are done with
+9	this line of questioning. I'm following the court's
+10	instructions. Okay. I would ask you to do the
+11	same.
+12	MS. BROWN: Okay. Mr. Keane, Dr. Kyriakoudes,
+13	Mr. McPharlin, I just want to make sure everybody
+14	around the table understands that given the way this
+15	deposition has gone this morning, the numerous
+16	long-speaking objections that were made and the
+17	numerous instructions not to answer questions, we
+18	are going to have to seek relief from the court and
+19	the likelihood is that we're going to be back here
+20	for another deposition.
+21	Now, the way I see it, we have other options,
+22	which is we can complete questioning on these
+23	issues. Mr. McPharlin, as you well know, we have a
+24	trial coming up, or we can risk delay of that trial
+25	while we sort these issues out in front of the court
+107
+1	and have to schedule yet another deposition of
+2	Dr. Kyriakoudes on these issues.
+3	MR. MCPHARLIN: I am abiding with what the
+4	court instructed us. You had two hours to ask him
+5	questions, the questions that you had not asked
+6	previously. You have not abided with that. I have
+7	given you until ten minutes over the two-hour mark.
+8	I've given you more leeway than I should given what
+9	you've put Professor Kyriakoudes through. And
+10	that's it. So, you know, you could have asked more
+11	questions if you had chose to ask questions that
+12	hadn't previously been asked. But you chose to ask
+13	multiple questions that I let go, as well as the
+14	ones that I objected to. And that was your choice.
+15	So we're done with this line of questioning as
+16	instructed by the judge. Okay, why don't we take a
+17	break.
+18	MR. KEANE: Just so the record is clear, how
+19	much more time do you think you need?
+20	MS. BROWN: You know, we could probably wrap
+21	this up in another half hour, assuming every
+22	question isn't instructed not to be answered or
+23	there aren't 15 minutes of objections made during
+24	the questioning.
+25	MR. KEANE: Again, my view of this is from up
+1	high. I'm not in the trees. I've watched you time
+2	and time again ask questions that are right in the
+3	depositions, we had a skirmish about whether you'd
+4	give him a deposition to read when you wanted to ask
+5	him about a line and page number. You are sitting
+6	there with highlighted depositions that you have to
+7	look at that you didn't want to share with him.
+8	That ate some time. But the breaks were miniscule
+9	and nothing changed.
+10	After things were called to your attention, you
+11	continued to ask questions that have already been
+12	asked. I've read the transcript. You did make that
+13	promise. And for you to -- for you to blame
+14	Mr. McPharlin for holding your feet to the fire, it
+15	just seems unfair to me that, you know, we had a
+16	page and line number of the exact question that you
+17	continued to insist on asking again. That's how you
+18	chose to use your time.
+19	MS. BROWN: Mr. Keane, and, again, I understand
+20	that you're up high and so you're not as familiar
+21	with the issues --
+Page 139
+22	MR. KEANE: And I only mean that in the sense
+23	of the example versus being in the trees.
+24	MS. BROWN: I understand. Please understand.
+25	I was not trying to mischaracterize your analogy.
+109
+1	MR. KEANE: The Hubble be exalted and I'm --
+2	MS. BROWN: That was not my intent at all. I
+3	understand that you're not intimately involved in
+4	these issues, that you've been brought in by
+5	Dr. Kyriakoudes to defend him or represent him in
+6	this deposition. I understand that.
+7	Part of the problem we have here is that one of
+8	the issues is the depositions contain different
+9	answers. And there's really no way to get at that
+10	without going back over some of the questions that
+11	are being asked to determine what is the answer.
+12	One day -- now Mr. Keane, one day I had a
+13	conversation with Dr. Proctor in which we didn't
+14	discuss that. A month later I had a conversation
+228388
+15	with Dr. Proctor where we did discuss that.
+16	MR. KEANE: The -- the essence of what you are
+17	saying about doctor -- to the court, as I understand
+18	it, is that this is part of some conspiracy to
+19	frustrate your ability to hire people to work for
+20	the -- for the defense team. And you haven't
+21	touched a single fact that suggests that. You
+22	haven't asked a question about what his activities
+23	were.
+24	I fully expected, having read the lead up to
+25	this, that this deposition would be about: what did
+110
+1	you do? Not about trying to reconcile depositions
+2	that are already of record, already on paper,
+3	already sworn to. And you haven't asked a single
+4	question about what did he do to block somebody's
+5	efforts.
+6	In fact, he told you numerous times that he was
+7	in favor of research aids finding a way to eat some
+8	meat once a week, I think was his -- was his
+9	testimony. And for whatever reason you elected not
+10	to go near that and that speaks volumes. So I've
+11	been invited to go discuss this with counsel for a
+12	minute and let us do that 'cause I don't want to
+13	make my client have to go through this again. So
+14	let's see if we can figure something out.
+15	MS. BROWN: Okay.
+16	THE VIDEOGRAPHER: Off the video record.
+17	(Discussion off the record.)
+18	THE VIDEOGRAPHER: We are back on the video
+19	record.
+20	BY MS. BROWN:
+21	Q. Now, Dr. Kyriakoudes, on August 22, 2009, which
+22	was two days before your Koballa deposition, you had a
+23	phone call with a plaintiff's counsel in the Engle
+24	Progeny cases; correct?
+25	A. That's correct.
+Ill
+1	THE VIDEOGRAPHER: Ms. Brown, your mic.
+2	MR. KEANE: Before -- before you ask another
+Page 142
+3	question, that didn't get on the record, I would
+4	like it on the record that we have had a discussion.
+5	Counsel has represented that she needs an additional
+6	30 minutes to conclude. After much angst, we are
+7	agreeable to allowing her that so that we can finish
+8	this because of the great expense and distance and
+9	all that is involved and for no other reason. So go
+10	ahead.
+11	MS. BROWN: Now, one thing I want to make sure
+12	is clear on the record as well though, is that is
+13	without prejudice to our raising with the court the
+14	number of times Dr. Kyriakoudes was instructed not
+15	to answer a question.
+16	MR. KEANE: And I'm quite sure to our side to
+17	point out to the court that notwithstanding your
+18	promise not to ask the same questions again, you
+19	did, over and over and over. So let's go.
+20	BY MS. BROWN:
+21	Q. During your conversation with Mr. Shultz -- I'm
+22	sorry, first of all, the plaintiff's lawyer with whom
+23	you had a conversation on August 22nd was Matt Schultz;
+Page 143
+24	correct?
+25	A. That's correct.
+112
+1	MR. McPHARLlN: Previously asked in prior
+2	depositions.
+3	BY MS. BROWN:
+4	Q. During your conversation with Mr. Shultz, you
+5	discussed the fact that documents had been subpoenaed
+6	related to the university of Florida issue; correct?
+7	MR. McPHARLlN: Previously asked in prior
+8	depositions.
+9	A. That general issue came up, yes. You asked
+10	me -- I testified about this in the Koballa extensively.
+11	BY MS. BROWN:
+12	Q. And you also told us in your Hibner deposition
+13	on October 1st, Dr. Kyriakoudes, that in response to
+14	Mr. Shultz telling you about the documents being
+15	subpoenaed, you did tell Mr. Shultz about the e-mails
+16	that we have attached here as Exhibits 9 and 10;
+17	correct?
+18	MR. MCPHARLIN: Previously asked in prior
+19	depositions.
+20	A. I think so. Yeah. I mean, I mentioned that in
+21	a general way. I didn't go into detail. But I just
+22	mentioned that I had those e-mails.
+23	BY MS. BROWN:
+24	Q. And in your Koballa deposition, before you
+25	disclosed Exhibits 9 and 10, you told something
+113
+1	different about your conversation with Mr. Shultz;
+2	correct?
+3	MR. MCPHARLIN: Objection to form.
+4	A. I don't recall what I said. I would have to
+5	reflect -- I'm sorry, refresh my memory in the
+6	deposition.
+7	BY MS. BROWN:
+8	Q. Okay, well, let's do that, if you pull out
+9	your Koballa deposition, if you look at page 164, line
+10	16 through page 165, line one, you were asked: When did
+228388
+11	you talk to Matt about it? And again, it being the
+12	documents being subpoenaed; correct?
+13	A. Yes.
+14	Q. He called me this weekend, what did you tell
+15	him -- or what did he tell you, I'm sorry? Answer: He
+16	said that they had had a hearing on Friday and that
+17	certain documents were being subpoenaed from
+18	Mr. Proctor. Question: Okay. Did you say anything to
+19	Mr. Shultz about that? Answer: I told him that, you
+20	know, I don't really have any response. It doesn't
+21	involve me. Were those the questions and the answers
+22	that were asked and given in your deposition in Koballa
+23	on August 24th?
+24	A. That's correct. And that's an accurate
+25	statement.
+114
+1	Q. Well, Dr. Kyriakoudes, the answer you gave from
+2	line 24 page 164 to line one of page 165, I mean, that
+3	wasn't the truth, the whole truth and nothing but the
+4	truth; correct?
+5	MR. McPHARLlN: Objection to form. Asked and
+6	answered. Argumentative.
+7	A. No. That's accurate.
+8	BY MS. BROWN:
+9	Q. Well, you did, in fact, respond to Mr. Shultz;
+10	right? You just told us that you told him about your
+11	e-mails; correct?
+12	MR. McPHARLlN: Objection to form.
+13	A. Right. But I made it clear to him that I had
+14	not contacted anyone at the University of Florida.
+15	BY MS. BROWN:
+16	Q. Right. But that's not my question,
+17	Dr. Kyriakoudes. My question to you is, when you were
+18	asked at your Koballa deposition whether you said
+19	anything to Mr. Shultz in response to his telling you
+20	about the subpoenas, you said you didn't really have any
+21	response. But, in fact, what you told Mr. Shultz is
+22	that you had two e-mails that were directly responsive
+23	to the University of Florida issue; correct?
+24	A. Well, we're talking --
+25	MR. McPHARLlN: Hold on. Objection. All of
+Page 147
+1	these questions were previously asked in prior
+2	depositions. All of them. All about this subject
+3	matter.
+4	MR. KEANE: And I object to the form of the
+5	question.
+6	MR. MCPHARLIN: Can we have the question read
+7	back, please.
+8	(The question was read by the reporter.)
+9	A. Right. But what -- what's being referred to in
+10	here is the real issue, which was contacts with the
+11	university of Florida graduate students, which I had no
+12	activity in that area. And that's what I'm referring to
+13	here.
+14	BY MS. BROWN:
+15	Q. At this point in your deposition in Koballa,
+16	you had not yet produced your e-mails to defense
+17	counsel; correct?
+18	A. That's correct.
+228388
+19	Q. At this point in the deposition, defense
+20	counsel had no idea those e-mails even existed; correct?
+21	MR. KEANE: Object to the form of the question.
+22	MR. MCPHARLIN: Previously asked. Objection.
+23	A. Well I, can't speak to the state of mind of
+24	your attorneys. So I don't know either way.
+25	BY MS. BROWN:
+116
+1	Q. As far as you know, they didn't know about your
+2	e-mails; correct?
+3	MR. MCPHARLIN: Objection to form.
+4	Speculation. Previously discussed.
+5	A. Well, I had not yet -- I mean, I had not given
+6	up those e-mails. That's true.
+7	BY MS. BROWN:
+8	Q. And so at the point that you were being
+9	questioned about your conversation with Mr. Shultz
+10	saying that you told him that you didn't really have a
+11	response 'cause it didn't involve you, it wasn't really
+12	the whole truth, was it?
+228388
+13	MR. McPHARLlN: Objection. Argumentative.
+14	A. Yes, it was.
+15	BY MS. BROWN:
+16	Q. Because, in fact, you are involved. You have
+17	two e-mails directly related to these issues involving
+18	Dr. Proctor, Professor Smocovitis and the university of
+19	Florida; correct?
+20	MR. McPHARLlN: Objection. Argumentative.
+21	A. Well, I'm not involved in any of the
+22	accusations that -- that your law firm is making related
+23	to any untoward or unethical or whatever term one might
+24	want to use, contacts with research assistants. Or to
+25	put it more accurately, I'm not involved in any activity
+117
+1	that in any way has impaired the ability of research
+2	assistants at the university of Florida to conduct
+3	activities for you as you guys do your research in
+4	whatever capacity that may or -- may be. And so in that
+5	regard, it doesn't involve me.
+6	BY MS. BROWN:
+7	Q. And at this point in the deposition when you
+8	were being questioned by Ms. Lawson and she was asking
+9	you about your conversation with Mr. Shultz, you did not
+10	disclose to her that one of the things you talked to
+11	Mr. Shultz about were the two e-mails you had received
+12	from Dr. Proctor; correct?
+13	MR. MCPHARLIN: Objection.
+14	Mischaracterization. Argumentative.
+15	A. Well, I said what I said. And that's what I
+16	sai d.
+17	BY MS. BROWN:
+18	Q. And so if you did not disclose to her at that
+19	point in response to that question, that part of what
+20	you discussed with Mr. Shultz were the e-mails you had
+21	received to Dr. Proctor related to this matter, that
+22	would not have been the whole truth, was it?
+23	MR. MCPHARLIN: Objection.
+24	Mischaracterization. Asked and answered.
+25	Argumentative.
+1	A. No. I gave an accurate accounting of -- I gave
+2	an accurate accounting. That's -- that's correct.
+3	BY MS. BROWN:
+4	Q. By leaving out the fact that you had discussed
+5	those e-mails -- e-mails with Mr. Shultz, you believe
+6	that was an accurate accounting of your conversation
+7	with Mr. Shultz?
+8	MR. MCPHARLIN: Objection. Argumentative.
+9	Asked and answered. Mischaracterization of the
+10	deposition testimony.
+11	A. At the time as you were asking me these
+12	questions -- not you, but the attorney that was asking
+13	me these questions -- this is accurate. And I explained
+14	why it was accurate just a moment ago. I mean, you can
+15	keep asking me over and over again, but I refer to my
+16	prior answer, which was, that didn't involve me in the
+17	sense that I did not conduct any of these actions for
+18	which; one, I don't know that anything actually
+19	happened. And; two, for which you have made accusations
+20	relating to interference with graduate students at the
+228388
+21	University of Florida.
+22	BY MS. BROWN:
+23	Q. You were asked by Ms. Lawson: Did you say
+24	anything to Mr. Shultz about that, that being certain
+25	documents being subpoenaed for Mr. Proctor? And you
+119
+1	said: I told them that, you know, I don't really have
+2	any response. It doesn't involve me. Correct?
+3	MR. MCPHARLIN: Objection.
+4	Mischaracterization. Asked and answered.
+5	BY MS. BROWN:
+6	Q. is that what -- is that how that reads?
+7	A. You read it correctly.
+8	Q. And nowhere in here did you say: And I also
+9	said that I received two e-mails from Mr. Proctor that
+10	relate directly to these issues; is that correct?
+11	MR. McPHARLlN: Objection. Argumentative. A
+12	mischaracterization of the deposition testimony.
+13	A. Well, I would -- I would -- I mean, there's
+14	a -- that's a loaded question, it is true that I didn't
+15	identify these e-mails. But in my mind, as I read this
+16	text, it seems what doesn't involve me refers to
+17	anything at the university actually happening at the
+18	University of Florida, any act on my part. So that's
+19	how I understood it. And that's how I answered it.
+20	Q. And that wasn't the whole truth, was it, as it
+21	relates to your conversation with Mr. Schultz?
+22	MR. KEANE: At this point, you've asked that
+23	question five times.
+24	MS. BROWN: He hasn't answered it.
+25	MR. KEANE: That is enough. That is enough.
+120
+1	Move on.
+2	MS. BROWN: Are you instructing him not to
+3	answer the question?
+4	MR. KEANE: I'm telling you to -- you know, we
+5	gave you this extra time and you're doing exactly
+6	what you were doing before. You're re-plowing old
+7	ground, as you used the term. You're asking
+8	questions that have been asked. And that's enough.
+Page 154
+9	And you're doing it repeatedly. He gave you his
+10	answer. You may not like it. Move on.
+11	MS. BROWN: Well, I will take that as an
+12	instruction not to answer and we'll move to the next
+13	question.
+14	MR. KEANE: You could take it any way you like.
+15	I'm asking you to move on.
+16	BY MS. BROWN:
+17	Q. Dr. Kyriakoudes, at any time before, on, or
+18	after August 22nd, did you provide copies of Exhibits 9
+19	and 10, the e-mails from Dr. Proctor to you, to
+20	Mr. Shultz or any other plaintiff's counsel involved in
+21	Engle Progeny litigation?
+22	MR. McPHARLlN: Previously asked in prior
+23	depositions, just so it's clear.
+24	A. That was a valid form. Could you ask it or
+25	maybe read it back to me, please. I just -- I just want
+1	to have it -Page 155
+2	BY MS. BROWN:
+3	Q. Let me shorten it up a little bit so it's
+4	easier.
+5	A. Okay.
+6	Q. We talked about -- you had this conversation
+7	with Mr. Shultz on August 22nd; correct?
+8	A. Yes.
+9	Q. At any time before that date, on that date or
+10	after that date, did you give copies of these e-mails,
+11	Exhibits 9 and 10, to any plaintiff's counsel involved
+12	in the Engle Progeny litigation?
+13	MR. mcpharlin: That's been asked in prior
+14	depositions. Hold on, Professor. Asked in prior
+15	depositions unquestionably. But go ahead. She
+16	knows it.
+17	A. I believe that -- well, after I gave it to
+18	Mr. Henk, maybe sometime after that I -- I think I got
+19	an e-mail from somebody asking me for the documents that
+20	I had delivered at -- at the deposition.
+21	BY MS. BROWN:
+22	Q. who contacted you and asked for the e-mails
+228388
+23	that you produced at your Koballa deposition?
+24	A. I'm not recalling, but I seem to recall
+25	forwarding it to somebody. It might have been Mr. Ogle,
+122
+1	but I can 11 recal1.
+2	Q. And that somebody was a plaintiff's counsel in
+3	the Engle Progeny litigation?
+4	A. Well, Mr. Ogle was the person at this
+5	particular deposition. But of course that had already
+6	been given to you. You, meaning, the defense attorneys.
+7	Q. And the production of those e-mails at the
+8	Koballa deposition was the first time you had provided
+9	copies of those e-mails to anyone; is that correct?
+10	A. Yes. That's correct.
+11	MR. McPharlin: Objection to form. Asked and
+12	answered.
+13	BY MS. BROWN:
+14	Q. When Mr. Shultz was talking to you on
+15	August 22nd, did he ask you to forward him copies of
+16	those e-mails?
+17	A. NO.
+18	Q. Did you, during that conversation, volunteer to
+19	send him copies of those e-mails?
+20	A. No.
+21	Q. At any point in time before May 23, 2009, had
+22	you ever communicated with Dr. Proctor in any way about
+23	the use of research assistants by any expert
+24	associated -- or working on tobacco litigation?
+25	A. Me making an overture or me myself sending a
+123
+1	communication as distinct from the Exhibit No. 9 which
+2	I've received?
+3	Q. Right. Prior to May 23rd when you got that
+4	e-mail, had you ever communicated in any way with
+5	Dr. Proctor about the use of research assistants by
+6	experts retained by cigarette manufacturers in
+7	litigation?
+8	A. I had not communicated with him about -- about
+9	anything at the University of Florida before that date.
+10	Of course we had talked about expert witnesses generally
+Page 158
+11	as part of our research, you know, in the published
+12	articles that we have. But, no, nothing related to the
+13	University of Florida.
+14	Q. Okay. Putting aside the University of Florida,
+15	have you had any discussions with Dr. Proctor, either
+16	before you received that e-mail on May 23rd or after,
+17	about the use of research assistants by any expert
+18	retained in tobacco litigation?
+19	A. I'm sorry, research assistants --
+20	MR. MCPHARLIN: Objection. That is a compound
+21	question. So at least half of it's already been
+22	asked. She's referring to after the first e-mail,
+23	the May 23rd e-mail; right? Why don't you break it
+24	up.
+25	BY MS. BROWN:
+124
+1	Q. I will break it into two questions. Let's go
+2	before.
+3	A. And it's just a lot to follow. I mean, I'm
+228388
+4	trying to hang with you. I really am.
+5	Q. I appreciate that. Before May 23, 2009 -- and,
+6	again, Dr. Kyriakoudes, you understand the significance
+7	of that date; correct?
+8	A. Right. That's the date of the e-mail he sent
+9	me.
+10	Q. Okay. So before you received the first e-mail
+11	from Dr. Proctor, had you and Dr. Proctor ever discussed
+12	the use of research assistants outside the university of
+13	Florida employed by defense experts in this litigation?
+14	A. No. Never.
+15	Q. After receipt of this e-mail on May 23, 2009,
+16	did you have any communications with Dr. Proctor -- and
+17	when I say any communications, I mean, from you or to
+18	you -- related to the use of research assistants by
+19	defense experts outside the university of Florida?
+20	A. No.
+21	Q. And just to make sure, when I previously asked
+22	you the question about before you received this e-mail
+23	whether you had engaged in any communications, you
+24	understand that that means either to Dr. Proctor or from
+25	Dr. Proctor; correct?
+1	A. That's correct.
+2	Q. So you've had zero communications with
+3	Dr. Proctor prior to this e-mail about research
+4	assistants from any university in the United States?
+5	A. Yeah. That's accurate, we focused on the
+6	historians.
+7	Q. At any point before May 23, 2009, had you
+8	communicated with any lawyer -- that means you
+9	initiating it or they initiating it -- with any lawyer
+10	representing an Engle Progeny plaintiff about the use of
+11	research assistants by any expert retained by a
+12	cigarette manufacturer in this litigation?
+13	A. None whatsoever. No.
+14	Q. And that's true of research assistants outside
+15	the University of Florida as well as research assistants
+16	attending the University of Florida?
+17	A. That's true. Yes.
+18	Q. Okay. After the date of this e-mail, have you
+228388
+19	had any conversations with plaintiff's counsel
+20	representing an Engle Progeny plaintiff about the use of
+21	research assistants by defense experts?
+22	A. No.
+23	Q. Dr. Kyriakoudes, you could have chosen not to
+24	forward the transcript of Dr. Michelle's deposition to
+25	Dr. Proctor; correct?
+126
+1	A. That's true, it was -- you know, it was an
+2	affirm -- an act on my part. That's true in theory.
+3	Q. I'm sorry, what do you mean in theory?
+4	A. Well, I had the choice of either doing it or
+5	not doing it.
+6	Q. And you had the choice not to do it; correct?
+7	A. That's true. Yes.
+8	Q. Now, if you had not forwarded that transcript
+9	to Dr. Proctor, he might not have made contact with
+10	Professor Smocovitis at the university of Florida about
+11	the research assistants employed by Dr. Michel; correct?
+12	MR. MCPHARLIN: Objection to form.
+Page 162
+13	A. I can't answer that question. I mean, because
+14	folded into that question is the implication that merely
+15	by forwarding a deposition by a publicly identified
+16	expert witness in recorded testimony, that somehow I was
+17	responsible for subsequent actions, which I'm not, I
+18	can't answer that question. I mean, there's no way for
+19	me to provide you an answer to that hypothetical. Too
+20	many variables.
+21	BY MS. BROWN:
+22	Q. Once you received the e-mail from Dr. Proctor
+23	on May 23rd, you could have told Dr. Proctor that the
+24	work Dr. Michelle's research assistants were doing was
+25	not inappropriate; correct?
+127
+1	A. Well, folded into that question is the
+2	assumption that in, what, approximately the half hour
+3	between I received that e-mail and send it on, that I
+4	had thrown myself into reading that testimony, which I
+5	didn't and that I would have pulled that out of there.
+6	I didn't even read the testimony. I simply forwarded it
+7	on as an example of another historian working as an
+8	expert for the tobacco attorneys.
+9	Q. I think you misunderstood my question,
+10	Dr. Kyriakoudes. My question is, once you received the
+11	e-mail from Dr. Proctor on May 23, 2009, you could have,
+12	at that point, told Dr. Proctor that you believed what
+13	Dr. Michelle's research assistants were doing was not
+14	inappropriate; correct?
+15	A. I didn't -- well, again, that's assuming that I
+16	had completely read and digested this very long multiple
+17	exchange, which was forwarded to me, which I did not do.
+18	And so I -- you know, the answer would be no. I
+19	wouldn't have done that because I didn't know about this
+20	research assistant issue.
+21	Q. But you could have responded to that e-mail;
+22	correct?
+23	MR. McPHARLlN: Objection to form. Asked and
+24	answered. Speculation.
+25	A. Well, I mean, in theory. But the practical
+1	matter is, I didn't respond to that e-mail because I
+2	didn't see anything in that e-mail that was -- in my
+3	very brief review of it, it didn't seem to require any
+4	action on my part. So I skipped over it very quickly
+5	without digesting its meaning, making, you know --
+6	unaware of -- of what it says. So in that regard, no, I
+7	wouldn't have responded because it wasn't anything that
+8	I considered, thought about so --
+9	BY MS. BROWN:
+10	Q. Once you had read the e-mails that are attached
+11	to this deposition as Exhibits 9 and 10 from
+12	Dr. Proctor, you could have communicated to him that you
+13	didn't think Dr. Michelle's research assistants were
+14	doing anything inappropriate; correct?
+15	MR. mcpharlin: Objection to form. Asked and
+16	answered.
+17	A. Well, I've been asked that question many times.
+18	You know, when I really reviewed these e-mails, when I
+19	found them in my e-mail box -- I mean, I hold to the
+20	position that research assistants are not engaging in
+21	any, you know, problem behavior. I mean, I made that
+22	clear. But, nor do I see anything in these e-mails that
+23	is really any -- any problem. So what you're forgetting
+24	is that I was presented with a series of hypothetical
+25	situations by Ms. Case, who is in this room here, in the
+129
+1	Barbanell testimony which is not supported, at least on
+2	the basis of these e-mails. So all of this is within
+3	the realm of speculation and fantasy.
+4	BY MS. BROWN:
+5	Q. Dr. Kyriakoudes, you keep taking us back to the
+6	Barbanell deposition. But by the time of your
+7	depositions in Koballa and Hibner, you had fully read
+8	these e-mails; had you not?
+9	MR. MCPHARLIN: Objection to form.
+10	A. In Koballa, yes. When I surrendered them or
+11	when I gave them to you in Koballa. Yes.
+12	BY MS. BROWN:
+13	Q. And Hibner came after Koballa; right?
+14	A. Yes.
+15	Q. So if you had fully read them by Koballa, you
+16	had fully read them by Hibner; correct?
+17	A. Yes. But, again, there's no conduct in here
+18	described in these e-mails that is any problem. I mean,
+19	I don't -- based on this, this does not support -- I
+20	mean, I mention Barbanell because that's when it first
+21	came up to me. But the things represented to me in
+22	Barbanell, you know, are not supported by these e-mails.
+23	When I say things, I mean actions of Dr. Proctor.
+24	Q. Now, prior to your deposition in the Barbanell
+25	case, you could have performed a search of your e-mails
+130
+1	for e-mails from Dr. Proctor; correct?
+2	MR. McPHARLlN: Objection. Speculation.
+3	A. In theory I guess I could have. Sure.
+4	BY MS. BROWN:
+5	Q. And you could have conducted that same search
+6	before your Grossman deposition; correct?
+7	MR. McPHARLlN: Object to the form.
+228388
+8	A. I didn't see any point to.
+9	BY MS. BROWN:
+10	Q. But you could have?
+11	A. In theory, yes.
+12	MR. MCPHARLIN: Object to the form.
+13	BY MS. BROWN:
+14	Q. And once you located these three e-mails, the
+15	two from Dr. Proctor and the one transmitting
+16	Dr. Michelle's transcript to Dr. Proctor, you could have
+17	immediately produced those to defendants; correct?
+18	MR. mcpharlin: Objection. Asked and answered
+19	multiple times in multiple depositions.
+20	A. In theory, yes. But I explained that
+21	previously.
+22	BY MS. BROWN:
+23	Q. Now, on October 1, 2009, you ended the
+24	deposition of you in the Hibner case; correct?
+25	MR. MCPHARLIN: Objection to form.
+1	A. That's correct. Yes.
+2	BY MS. BROWN:
+3	Q. And you did so in part to determine whether you
+4	should hire your own lawyer; correct?
+5	MR. MCPHARLIN: Objection.
+6	Mischaracterization. And if we're going to talk
+7	about the deposition, I think we should give him the
+8	deposition to review, just as we previously
+9	established. That would be the fair thing to do.
+10	So I'm asking you do that.
+11	BY MS. BROWN:
+12	Q. Dr. Kyriakoudes, I am not asking you about your
+13	testimony.
+14	MR. MCPHARLIN: You sure are.
+15	BY MS. BROWN:
+16	Q. Do you understand that?
+17	MR. MCPHARLIN: Of course you are.
+18	BY MS. BROWN:
+19	Q. I'm asking you when you ended the deposition in
+20	Hibner, were you doing so in part to determine whether
+21	you should retain your own lawyer?
+22	MR. MCPHARLIN: Are you going to show him the
+23	deposition because -- I mean, if you're not, just
+24	say I am not going to show it to him. I'm going to
+25	conduct it the way I want and I am not going to show
+132
+1	him the deposition.
+2	MS. BROWN: Okay. I am going to conduct it the
+3	way I want. I am not going to show him the
+4	deposition because I'm not referring to any specific
+5	page and line deposition testimony.
+6	BY MS. BROWN:
+7	Q. Dr. Kyriakoudes, my question is fairly simple.
+8	when you ended the deposition in the Hibner case, did
+9	you do so in part because you wanted to determine
+10	whether you should hire your own attorney?
+11	A. I ended it because I was accused of lying by
+12	this gentleman sitting here, Mr. Henk. And given the
+13	way that that deposition was going, it seemed to be
+14	coming -- it seemed to be becoming a very serious
+15	affair. And the defense attorney was making -- I'm
+16	sorry, let me rephrase that.
+Page 170
+17	The plaintiff's attorney that was defending the
+18	deposition was, I seem to recall -- and this might have
+19	been on the record, it might have been off the record --
+20	that this was untoward conduct and that this was no way
+21	to conduct a deposition. That there were -- that the
+22	defense attorneys were treating me very badly, and
+23	indeed, the suggestion was unethically. And I was in a
+24	very difficult situation. I'm not an attorney. I
+25	don't -- you know, I know my area of expertise and my
+133
+1	professional opinions, but I don't have the picture of
+2	the full context of what goes on in a trial, having
+3	never sat through one and don't -- I'm not trained in
+4	any way to interpret or understand those things. And so
+5	I thought the best thing for me to do was to stop it
+6	there, particularly after my character had been called
+7	into question by Mr. Henk, both me overhearing his
+8	conversations with Mr. Quinn, the attorney defending the
+9	deposition on behalf of the plaintiff's and then on the
+228388
+10	record. So I ended it. And that's the answer.
+11	MS. BROWN: Move to strike as non responsive.
+12	BY MS. BROWN:
+13	Q. My question, which is a yes or no question is,
+14	did you end it in part because you wanted to determine
+15	whether you needed your own lawyer?
+16	MR. McPharlin: Objection. Asked and answered.
+17	A. Yes. And for the reasons which I'm sorry that
+18	you think it's nonresponsive, but for the reasons from
+19	which I just outlined in my prior answer.
+20	BY MS. BROWN:
+21	Q. Now, what did you determine --
+22	MR. KEANE: Excuse me, it's 30 minutes. That's
+23	it. We're done. I'd just like to observe that
+24	largely the 30 minutes was spent on the same stuff.
+25	And you need a break before we move to phase two?
+134
+1	THE VIDEOGRAPHER: Off the video record.
+2	(Discussion off the record.)
+3	(Adjourned at 2:10 p.m.)
+4	***
+Page 172
+5	STIPULATIONS
+7	IT WAS stipulated AMONG counsel for the
+8	respective parties, with the consent of the witness,
+9	that reading and signing of the foregoing deposition by
+10	the witness be reserved.
+12	THEREUPON, the deposition of LOUIS KYRIAKOUDES,
+13	Ph.D., taken at the instance of the Defendant, was
+14	concluded at 2:10 p.m.
+16	NOTE: The original and one copy of the
+17	foregoing deposition will be held by Ms. Brown, copy to
+18	Ms. Case.
+135
+1	DEPONENT'S ERRATA SHEET AND SIGNATURE INSTRUCTIONS
+3	The original of the Errata Sheet has been
+4	delivered to Louis Kyriakoudes, Ph.D.
+6	when the Errata Sheet has been completed by the
+7	deponent and signed, a copy thereof should be delivered
+Page 173
+8	to each party of record and the ORIGINAL delivered to
+9	Ms. Brown, Counsel for Defendant, to whom the original
+10	deposition transcript was delivered.
+12	INSTRUCTIONS TO DEPONENT
+14	After reading this volume of your deposition,
+15	indicate any corrections or changes to your testimony
+16	and the reasons therefor on the Errata Sheet supplied to
+17	you and sign it. DO NOT make marks or notations on the
+18	transcript volume itself.
+20	*** REPLACE THIS PAGE OF THE TRANSCRIPT WITH THE
+21	COMPLETED AND SIGNED ERRATA SHEET WHEN RECEIVED.
+136
+1	ATTACH TO THE DEPOSITION OF LOUIS KYRIAKOUDES, Ph.D.
+CASE: In re: Engle Progeny Naugle
+2	CASE NO.: 08-80000 (19)
+4	ERRATA SHEET
+5	I, LOUIS KYRIAKOUDES, Ph.D., have read the
+6	foregoing deposition given by me on Wednesday,
+7	October 21, 2009, in St. Petersburg, Florida, and the
+8	following corrections, if any, should be made in the
+9	transcript:
+10	PAGE LINE	CORRECTION AND REASON THEREFOR
+Page 174
+18	Subject to the above corrections, if any, my
+19	testimony reads as given by me in the foregoing
+20	deposition.
+21	SIGNED at_________Florida, this
+2	2___day of_______, 20__.
+24	___________
+25	LOUIS KYRIAKOUDES, Ph.D.
+137
+1	CERTIFICATE OF REPORTER OATH
+3	STATE OF FLORIDA
+4	COUNTY OF POLK
+6	I, the undersigned authority, hereby certify
+7	that the witness named herein personally appeared before
+8	me and was duly sworn.
+10	WITNESS my hand and official seal this 23rd day
+11	of October 2009.
+17	NORA KELLY-MEOLA
+18	NOTARY PUBLIC - STATE OF FLORIDA
+19	MY COMMISSION NO. DD 074848
+20	EXPIRES: NOVEMBER 27, 2009
+21	SCLAFANI WILLIAMS COURT REPORTERS, INC.
+138
+1	REPORTER'S DEPOSITION CERTIFICATE
+3	STATE OF FLORIDA
+4	COUNTY OF POLK
+6	I, Nora Kelly-Meola, Shorthand Reporter and
+7	Notary Public in and for the State of Florida at large,
+8	hereby certify that the witness appeared before me for
+9	the taking of the foregoing deposition, and that I was
+10	authorized to and did stenographically and
+11	electronically report the deposition, and that the
+12	transcript is a true and complete record of my
+13	stenographic notes and recordings thereof.
+14	I FURTHER CERTIFY that I am neither an attorney,
+15	nor counsel for the parties to this cause, nor a
+16	relative or employee of any attorney or party connected
+Page 176
+17	with this litigation, nor am I financially interested in
+18	the outcome of this action.
+19	DATED THIS 23rd day of October 2009 at Lakeland,
+20	Polk County, Florida.
+23	_______________
+Nora Kelly-Meola
+24	SCLAFANI WILLIAMS COURT REPORTERS, INC.

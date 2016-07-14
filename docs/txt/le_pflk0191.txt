@@ -1,0 +1,2879 @@
+﻿1	IN THE CIRCUIT COURT OF THE 17TH
+2	JUDICIAL CIRCUIT IN AND FOR
+3	BROWARD COUNTY, FLORIDA
+4	COMPLEX CIVIL DIVISION
+5	CASE NO 09-80000(19)
+6
+7	JUDGE JEFFREY E. STREITFELD
+8	------------------------x
+9	IN RE: ENGLE PROGENY CASES TOBACCO LITIGATION
+11	Pertains to: PAMELA CICCONE, as personal
+12	Representative of the Estate of George Ciccone,
+13	Deceased, Broward County, Case No. 03-13258
+14	------------------------x
+15	VIDEO TELECONFERENCE DEPOSITION OF JANETTE
+16	THOMAS GREENWOOD, Ph.D., a witness called on
+17	behalf of the Plaintiffs, taken pursuant to Rule
+18	1,310, Fla. R. Civ. P., before Daria L. Romano,
+19	RPR, CRR and Notary Public in and for the
+20	Commonwealth of Massachusetts, at Goodwin
+21	Procter, LLP, 53 State Street, Boston,
+22	Massachusetts, on March 31, 2011, commencing at
+23	10:08 a.m. to 12:40 p.m.
+24
+0002
+1	APPEARANCES:
+2	JONES DAY
+3	(by L. Christine Lawson, Esq.)
+4	1420 Peachtree Street, N.E.
+5	Suite 800
+6	Atlanta, Georgia 30309
+7	(404) 521-3939
+8	clawson@jonesday.com
+9	for R.J. Reynolds Tobacco Company.
+10
+11	VIA VIDEO TELECONFERENCE
+12	WILLIAM J. WICHMANN, P.A.
+13	(by William J. Wichmann, Esq.)
+14	1600 W. Commercial Street, Suite 200
+15	Fort Lauderdale, Florida 33309
+16	(954) 772-6552
+17	wwichmann@me.com
+18	for the Plaintiff.
+0003
+1	VIA TELECONFERENCE
+2	ENGSTROM, LIPSCOMB & LACK
+3	(by Brian D. Depew, Esq.)
+4	10100 Santa Monica Boulevard
+5	12th Floor
+6	Los Angeles, California 90067
+7	(310) 552-3800
+8	bdepew@elllaw.com
+9	for the Plaintiff.
+11	VIA TELECONFERENCE
+12	KASOWITZ, BENSON, TORRES &
+13	FRIEDMAN, LLP
+14	(by Julie Fischer, Esq.)
+15	1441 Brickell Avenue, Suite 1420
+16	Miami, Florida 33131
+17	(305) 377-1666
+18	for Liggett Group, LLC.
+19
+0004
+1	INDEX
+2	Deposition of:	Page
+3	JANETTE THOMAS GREENWOOD
+4	By Mr. Wichmann	5
+5
+9	EXHIBITS
+10	No.	Page
+11	1	Resource list	5
+12	2 Curriculum vitae	5
+13	3 Expert disclosure	5
+14
+0005
+1	PROCEEDINGS
+3	(Exhibits 1 to 3 marked
+4	for identification)
+5
+6	JANETTE THOMAS GREENWOOD
+7
+8	a witness called for examination by counsel for
+9	the Plaintiff, being first duly sworn, was
+10	examined and testified as follows:
+12	DIRECT EXAMINATION
+13	BY MR. WICHMANN:
+14	Q. Please tell us your name.
+15	A. My name is Janette Thomas Greenwood.
+16	Q. And what is your current business
+17	address?
+18	A. I teach at Clark University,
+19	Department of History, 950 Main Street,
+20	Worcester, Massachusetts 01610.
+21	Q. Doctor, I know you have had your
+22	deposition taken before, correct?
+23	A. Yes.
+24	Q. Have you ever had your deposition
+0006
+1	taken by VTC, the manner in which we are doing
+2	it now?
+3	A. No, I have not.
+4	Q. The rules are simple but a bit
+5	different.
+6	There may be a lag between my question
+7	and your answer because of the technology.
+8	Could you bear with us if that's the case?
+9	A. Yes.
+10	Q. Please, the rules in a VTC deposition
+11	are the same as the other depositions that you
+12	gave, and that is if I ask a question that you
+13	do not understand, please let us know so that we
+14	can rephrase it. Okay?
+15	A. Okay. Sure.
+16	Q. Ma'am, have you been hired as an
+17	expert witness in the case of Pamela Ciccone
+18	versus R.J. Reynolds?
+19	A. Yes.
+20	Q. Have you received a copy of the notice
+21	of deposition that was filed to bring you here
+22	today?
+23	A. Yes, I have.
+24	Q. Now, I received in my office a large
+0007
+1	box of material courtesy of the R.J. Reynolds
+2	lawyer that included tapes, disks and a hard
+3	drive.
+4	Are you aware of that?
+5	MS. LAWSON: Object to form.
+6	Go ahead and answer.
+7	A. I'm aware that you had asked for the
+8	basis of some -- the materials that I used as
+9	the base of my report. That's about all I know.
+10	Q. Did you provide that information that
+11	I received in the box to the lawyers for R.J.
+12	Reynolds?
+13	MS. LAWSON: Object to the form.
+14	BY MR. WICHMANN:
+15	Q. To the best of your knowledge?
+16	MS. LAWSON: Object to form.
+17	A. Again, I know that you asked for the
+18	materials, and I was told that they were being
+19	given to you, so that's about all I know.
+20	Q. Well, you do know that you produced a
+21	Janette T. Greenwood resource list that is
+22	marked as an exhibit to this deposition,
+23	correct?
+24	MS. LAWSON: Object to form.
+0008
+1	You can answer.
+2	A. I know I have a resource list that
+3	contains the materials that I have researched
+4	and used as a basis for my conclusions.
+5	Q. Is that document marked as an exhibit
+6	to this deposition?
+7	A. Yes. It is marked as Exhibit Number
+8	1.
+9	Q. Does that document list all of the
+10	material that you have relied upon to reach your
+11	opinions in this case?
+12	A. As far as I know, yes.
+13	Q. Have you reached your final opinions
+14	in this case?
+15	A. Yes, I have.
+16	Q. Have you written those opinions down
+17	in the form of a report?
+18	A. No, I have not.
+19	Q. Do you have any notes that you have
+20	written that went into the formulation of your
+21	final opinion in this case?
+22	MS. LAWSON: Object to form.
+23	Mr. Wichmann, we're getting some noise
+24	on the line, and could we ask whoever's talking
+0009
+1	to put the mute button on so we don't hear it on
+2	the conference.
+3	MR. WICHMANN: I'm all alone, it's
+4	not happening on my end.
+5	MS. LAWSON: It's happening
+6	somewhere else. It's here. Someone else is on
+7	the line that's apparently making noise, and
+8	we're hearing that here, and it's making it
+9	difficult to understand you.
+10	BY MR. WICHMANN:
+11	Q. Did you understand my last question,
+12	ma'am?
+13	A. I'd like you to repeat it, please.
+14	MR. WICHMANN: I'd like the court
+15	reporter to read it back, please.
+16	(Record read)
+17	MS. LAWSON: Object to form.
+18	A. As I understand it, any notes that I
+19	have I've already given to my attorneys, and
+20	they've passed on to you.
+21	I had a few notes regarding the
+22	chronology of Mr. Ciccone's residency, and I
+23	think that's pretty much it.
+24	Q. When you say "my attorneys," you mean
+0010
+1	the attorneys for RJ. Reynolds Tobacco Company,
+2	correct?
+3	A. Yes, that's what I meant.
+4	Q. When you say "residency," ma'am, you
+5	are not going to testify at trial as to whether
+6	or not George Ciccone was a Florida resident
+7	during the Engle class membership period, are
+8	you?
+9	MS. LAWSON: Object to form.
+10	A. I've been asked to determine a very
+11	specific question, which was public awareness
+12	regarding issues of smoking and health as well
+13	as addiction, and so that is what I will be
+14	testifying to.
+15	Q. So the answer to my previous question
+16	is no?
+17	MS. LAWSON: Same objection.
+18	A. Again, I'm testifying as a historian,
+19	as an expert witness regarding public awareness.
+20	MR. WICHMANN: Madam court
+21	reporter, would you please read back that
+22	question that I asked the doctor about
+23	residency, her opinions regarding Engle class
+24	membership, please.
+0011
+1	(Record read)
+2	MS. LAWSON: Object to form.
+3	BY MR. WICHMANN:
+4	Q. Simple answer, can you give me a
+5	yes-or-no answer?
+6	A. No, I'm not talking about his specific
+7	residency. I'm talking about public awareness.
+8	Q. Thank you, Doctor.
+9	Again, if my questions are not clear,
+10	please feel free to let me know that, and I will
+11	try my best to rephrase them.
+12	A. Okay.
+13	Q. Are you ready to proceed?
+14	A. Yes.
+15	Q. Did you play any part in preparing the
+16	expert witness disclosure that was filed in this
+17	case?
+18	MS. LAWSON: Object to form.
+19	A. I guess I would just like to ask what
+20	you mean by "play a part." Could you define
+21	that for me, please?
+22	Q. Sure.
+23	Is there a document marked as an
+24	exhibit to this deposition provided to you by
+0012
+1	R.J. Reynolds' lawyers that is a disclosure of
+2	your opinions?
+3	MS. LAWSON: Object to form.
+4	A. I have an exhibit in front of me
+5	that's marked Exhibit 3 that talks about my
+6	background and what I'm expected to testify.
+7	Q. Have you seen that document before
+8	coming down for this deposition today?
+9	A. Yes, I have.
+10	Q. When did you first see that document?
+11	A. I don't recall exactly.
+12	Q. Was it prepared by the law firm that
+13	retained you as an expert in this case?
+14	A. I don't know.
+15	Q. Do you know which law firm retained
+16	you as an expert in this case?
+17	A. Chook, Hardy & Bacon were the first
+18	people who contacted me about getting involved
+19	in this case.
+20	Q. They are no longer involved in this
+21	case, are they, Doctor?
+22	MS. LAWSON: Object to form.
+23	A. I'm not sure.
+24	Q. What part, if any, did you play in
+0013
+1	providing the information that is contained in
+2	the expert witness disclosure marked as
+3	Exhibit 3 to this deposition?
+4	MS. LAWSON: Object to form.
+5	A. Well, I certainly would have provided
+6	information regarding my background, my degrees,
+7	my teaching awards.
+8	And in terms of my conclusions
+9	regarding public awareness, I certainly would
+10	have passed on that information to them for this
+11	particular report.
+12	Q. Okay. Directing your attention to
+13	Exhibit 3, Doctor, the expert witness
+14	disclosure. Would you look, please, at the
+15	first paragraph.
+16	A. Okay.
+17	Q. Would you give us briefly the benefit
+18	of your educational background?
+19	MS. LAWSON: Object to form.
+20	A. I'm sorry, I'm not sure what you mean
+21	by "benefit." I'm not sure what you're asking.
+22	Q. Ma'am, let me ask it to you in simple
+23	terms.
+24	A. Thank you.
+0014
+1	Q. Is paragraph one of the expert witness
+2	disclosure marked Exhibit Number 3 accurate in
+3	terms of your educational background?
+4	A. Okay. Well, I understand that
+5	question.
+6	Just give me a moment here to read it
+7	just to make sure it's accurate.
+8	(Pause)
+9	A. Yes, it seems accurate to me.
+10	Q. Do you in addition to that information
+11	have a current CV ?
+12	A. Yes, I do.
+13	Q. Is your most current CV marked as an
+14	exhibit for this deposition?
+15	A. It is marked as Exhibit Number 2.
+16	Q. Is that your most current version?
+17	A. Let me just look at it again to make
+18	sure.
+19	(Pause)
+20	A. Yes, this is my most current version.
+21	Q. Moving right along, Doctor, these
+22	should be pretty simple questions, but if they
+23	come at you too fast, let me know.
+24	Is it fair to say that you're working
+0015
+1	now as a professor at Clark College?
+2	A. No, I'm a professor at Clark
+3	University.
+4	Q. I stand corrected. Thank you.
+5	I reviewed your CV, and it says you
+6	are affiliated with the women's studies and race
+7	and ethnic studies programs, correct?
+8	A. That's correct.
+9	Q. You would agree, would you not, that
+10	George Ciccone was a man?
+11	A. As far as I know, yes.
+12	Q. Okay. What, if anything, do women's
+13	studies have to do with your opinions in this
+14	case?
+15	MS. LAWSON: Object to form.
+16	A. Sir, I've been asked to research a
+17	particular question regarding public awareness.
+18	I'm trained as a social historian. I have a
+19	Ph.D. in US social history is my major field. I
+20	teach historical methods. My research is,
+21	again, largely in social history.
+22	Most historians have specializations.
+23	Mine happens to be in the history of the
+24	American South, as part of that study issues of
+0016
+1	race.
+2	Women and gender studies, I should
+3	point out, includes men as well as women, and
+4	it's one particular way of looking at the past.
+5	I would say, again, my training as a
+6	social historian, again, with a doctorate in
+7	that particular field of study is what I believe
+8	best prepares me as an expert witness in this
+9	case.
+10	MR. WICHMANN: Madam court
+11	reporter, could you read back my question,
+12	please?
+13	(Record read)
+14	MS. LAWSON: Object to form.
+15	BY MR. WICHMANN:
+16	Q. That question is meant to be specific,
+17	not general.
+18	Specifically as to the George Ciccone
+19	case, could you tell me what effect, if any,
+20	women's studies and race and ethnic studies had
+21	on your final opinions in the case?
+22	MS. LAWSON: Object to form.
+23	A. Again, those are particular subfields
+24	in this larger field of history as a discipline.
+0017
+1	I would say, though, that both of
+2	those subfields of historical study still adhere
+3	to the same rules of historical inquiry as any
+4	other study of history, whether it be diplomatic
+5	history, presidential history, military history.
+6	They also go by, they meaning women
+7	and gender studies, as well as race and ethnic
+8	studies, adhere to the same standards of
+9	historical inquiry in terms of framing a
+10	question, in terms of the way one proceeds with
+11	research in terms of the way one weighs
+12	evidence, in terms of the way one draws
+13	conclusions.
+14	So in that sense it is related as the
+15	practice of historical method.
+16	Q. I'm sorry, I don't mean to talk over
+17	you. Are you finished?
+18	A. Yes, I am.
+19	Q. Okay. My simple question to you is is
+20	that the only relation that women's studies,
+21	race and ethnic studies have to your opinions in
+22	the Ciccone case?
+23	MS. LAWSON: Object to form.
+24	A. Again, only -- you know, certainly my
+0018
+1	general knowledge of history that I may have
+2	developed through looking at some of those
+3	subfields, my general understanding of
+4	chronology of American history were probably
+5	influenced by readings that I've done in these
+6	particular fields.
+7	So, again, I stand by my original
+8	answer that it's a subfield of history and
+9	historical knowledge.
+10	Q. Well, we lawyers always try to be
+11	specific.
+12	I read over your CV. It's always
+13	difficult to characterize someone's professional
+14	specialty, but would you agree that the focus of
+15	your teaching, articles, books, and
+16	presentations has been the American South and
+17	race and ethnicity in the American South? Is
+18	that a fair statement?
+19	MS. LAWSON: Object to form.
+20	A. I don't think it is quite a fair
+21	statement, sir.
+22	If you look at my teaching fields,
+23	again, US social history is first. The
+24	historical discipline, like every other
+0019
+1	profession, requires specialization.
+2	In terms of my own -- much of my
+3	research and writing, the focus has been on the
+4	American South and race relations. But, again,
+5	one can't teach or write about that particular
+6	field without having a much larger kind of
+7	specialization in American history, and in my
+8	case, US social history.
+9	If you look at the courses I teach,
+10	which, again, is on page one of Exhibit 2, you
+11	can see that I teach at a university. We have a
+12	reasonably small sized department. We don't
+13	teach in our specialty alone. I teach a number
+14	of broad courses in US history, including US
+15	history since 1865, a course I'm teaching this
+16	semester. I teach graduate courses that are
+17	much broader. I teach other areas in fields.
+18	Baseball in American society, for example, is
+19	another one of my courses.
+20	So I do teach quite broadly, and so I
+21	don't accept your characterization of me as only
+22	being someone who knows about race and ethnic
+23	relations or southern history.
+24	Q. Have you ever taught a course
+0020
+1	regarding historical smoking behavior?
+2	MS. LAWSON: Object to form.
+3	A. No, I haven't.
+4	Q. Ma'am, I looked at many of your
+5	publications here. You wrote a book called
+6	first Fruits of Freedom: The Migration of
+7	Former Slaves and Their Search For Equality in
+8	Worcester, Massachusetts, correct?
+9	A. Yes, I have written that book.
+10	Q. Did I pronounce Worcester correct?
+11	A. You did a very good job with that.
+12	Thank you. Most people don't.
+13	Q. You're welcome.
+14	And your first book was called the
+15	Bittersweet Legacy, and it concerned the
+16	interaction of black and white middle class ina
+17	new south city, is that fair to say?
+18	A. Yeah. Actually, I prefer the term
+19	better classes rather than middle class, but,
+20	yeah, you're close.
+21	Q. Okay. You also wrote a book called
+22	Southern Black Migration and Community Building
+23	in the Era of the Civil War. Or I should say
+24	you authored a publication, correct?
+0021
+1	A. Yes. That was a chapter, an article
+2	in a book.
+3	Q. Okay. How about this Gilded Age: A
+4	History in Documents, where did that come from?
+5	MS. LAWSON: Object to form.
+6	A. I'm sorry, where did it come from?
+7	Could you explain, please, what you're asking
+8	exactly.
+9	Q. Was that a chapter in a book, a book?
+10	What was it?
+11	A. It's a book. It's a documents book.
+12	It's an edited documents book where I chose
+13	primary sources from The Gilded Age, a variety
+14	of sources, and introduced each one of them for
+15	Oxford.
+16	Q. Were all those publications peer
+17	reviewed?
+18	A. Certainly First Fruits of Freedom,
+19	Bittersweet Legacy and Gilded Age was peer
+20	reviewed. I'm not sure about -- well, all of
+21	the ones that you mention, yes, they were.
+22	Q. And what in your field does peer
+23	reviewed mean?
+24	A. It means that your publications,
+0022
+1	something you submitted for publication is given
+2	out to some other person in your field, an
+3	expert in your field.
+4	It's usually what we call a blind
+5	review. You don't know who's doing the
+6	reviewing for either the press or the
+7	publications that you submitted the particular
+8	manuscript to.
+9	And then they give their particular
+10	feedback on the manuscript, whether they feel it
+11	should be published or not.
+12	Q. Is that important to have publications
+13	peer reviewed in your field of expertise?
+14	A. Yes, it is.
+15	The expectation for one to get tenure
+16	and promotion is certainly related to one's
+17	peer-reviewed publications.
+18	Q. So to your credit, ma'am, you have
+19	authored publications that have been published
+20	and they have been peer reviewed, correct?
+21	A. Yes.
+22	Q. Can you tell me one -- can you give me
+23	one book, one article or one publication that
+24	you have authored that deals with the subiect of
+0023
+1	tobacco?
+2	A. Well, now that I think about it,
+3	Bittersweet Legacy, it's about North Carolina.
+4	I think there is maybe -- as I recall, I wrote
+5	the book in 1994. There is some discussion
+6	about tobacco culture. Charlotte was in the
+7	midst of the textile cotton belt. There may be
+8	some reference there to tobacco.
+9	Q. Aside from that publication, have you
+10	written anything else dealing with the subject
+11	of tobacco generally?
+12	A. No, I have not.
+13	Q. Did that chapter in that book that you
+14	just referred to have to do with smoking
+15	behavior in the United States?
+16	A. No.
+17	Q. Have you ever written anything on
+18	smoking behavior in the United States?
+19	MS. LAWSON: Object to form.
+20	A. Anything meaning expert witness
+21	reports?
+22	Q. Anything published.
+23	A. No, I have not.
+24	Q. So obviously nothing peer reviewed
+0024
+1	either, correct?
+2	MS. LAWSON: Object to form.
+3	A. No, not on the topic of tobacco.
+4	Q. Okay. Outside -- I'm sorry. I didn't
+5	mean to cut you off again.
+6	A. No, you didn't.
+7	Q. Outside of the work that you have done
+8	for the law firms for the tobacco companies,
+9	have you given any presentations anywhere
+10	regarding smoking behavior in the United States?
+11	MS. LAWSON: Object to form.
+12	A. No, I have not.
+13	Q. Other than the work you have done for
+14	the law firms and the tobacco companies, have
+15	you ever held yourself out as an expert
+16	historian on the subject of smoking behavior in
+17	the United States?
+18	MS. LAWSON: Object to form.
+19	A. I'm not sure what you mean by hold
+20	myself out.
+21	I'm a social historian. I've been
+22	asked to answer this question about public
+23	awareness regarding smoking and health and
+24	addiction.
+0025
+1	And as a social historian, one who has
+2	published and peer reviewed publications and
+3	articles, I have answered that question, again,
+4	as someone who has a doctorate in social
+5	history.
+6	Q. Let me ask the question to you another
+7	way.
+8	Your CV is attached as an exhibit to
+9	this deposition; is it not?
+10	A. Yes, it is.
+11	Q. Is there anywhere on your CV where you
+12	claim to be an expert in the history of tobacco
+13	use in the United States?
+14	MS. LAWSON: Object to form.
+15	A. No, there is nothing specific on my
+16	CV. I do claim to have a Ph.D. in social
+17	history -- US social history, excuse me.
+18	Q. Ma'am, do you claim to be an expert on
+19	public opinion surveys and statistical analysis?
+20	MS. LAWSON: Object to form.
+21	A. No.
+22	Q. Is it fair to say that you are not
+23	going to give any opinions in the Ciccone case
+24	concerning public opinion surveys or statistical
+0026
+1	analysis?
+2	MS. LAWSON: Object to form.
+3	A. I do know that if polls; for example,
+4	Gallup polls, I do know that if a Gallup poll
+5	appeared in a newspaper, again, that would have
+6	been regarding issues of smoking and health,
+7	that would have been information I would
+8	include, have included, I should say, on my
+9	resource list and would, you know, feed into,
+10	again, be part of this large body of information
+11	that I've researched in order to draw my
+12	conclusions.
+13	Q. Aside from that Gallup poll you just
+14	referred to, are you going to give any opinions
+15	on any other public opinion surveys in this
+16	case?
+17	MS. LAWSON: Object to form.
+18	A. No, I'm not.
+19	Q. Are you going to give any opinions
+20	concerning statistics and an analysis of
+21	statistics in this case?
+22	MS. LAWSON: Object to form.
+23	A. Again, just to be clear, I want to say
+24	that there are, for example, health textbooks
+0027
+1	that I've looked at that talk about lung cancer
+2	statistics amongst smokers.
+3	Again, that would be, again, from my
+4	perspective as a social historian, someone who's
+5	been asked to determine public awareness, that
+6	kind of statistical information is part of my
+7	resource base upon which I'm drawing my
+8	conclusions.
+9	Q. You don't hold yourself out as an
+10	economist, do you, ma'am?
+11	A. No, I'm not.
+12	Q. That's a separate area of expertise,
+13	and that will be a separate expert in this case,
+14	correct?
+15	MS. LAWSON: Object to form.
+16	A. I don't know who the other experts
+17	are, but I am not an economist, and I will not
+18	be talking about -- holding myself out, as you
+19	put it, as an expert economist.
+20	Q. Do you have a colleague named
+21	Dr. Richard Seltzer?
+22	A. I don't know Dr. Richard Seltzer.
+23	Q. Okay, fine.
+24	Ma'am, we asked earlier about
+0028
+1	articles, and you told us you had never written
+2	an article on the history of smoking or
+3	historical smoking behavior.
+4	My question is aside from the work
+5	that you've done in this case, have you done any
+6	research into historical smoking behavior?
+7	MS. LAWSON: Object to form.
+8	A. In addition to this case, have I done
+9	research, is that your question? I just want to
+10	be sure I understand the question.
+11	Q. Let me rephrase the question, please.
+12	A. Thank you.
+13	Q. This is not the first tobacco case
+14	that you have participated in, correct?
+15	MS. LAWSON: Object to form.
+16	A. I have been an expert witness for
+17	other cases, that's true, yes.
+18	Q. In how many other cases have you been
+19	an expert witness for the tobacco companies?
+20	A. I have been -- are you asking me
+21	about -- again, I just want to make sure that
+22	I'm answering the question correctly or
+23	answering what you're asking is what I'm trying
+24	to say.
+0029
+1	Are you asking me cases that I have
+2	been deposed in where I've actually been cited
+3	already as an expert witness?
+4	I'm not sure -- would you please just
+5	repeat the question? That would be the easiest
+6	thing.
+7	MR. WICHMANN: Madam court
+8	reporter, could you read the question back,
+9	please?
+10	(Record read)
+11	MS. LAWSON: Object to form.
+12	A. Again, I've been an expert witness.
+13	I've been asked as a historian to be --1
+14	haven't been hired directly by the tobacco
+15	companies. I think that's an important
+16	distinction.
+17	I have been involved in -- I've been
+18	an expert witness in, I guess, three other cases
+19	to this point, three or four other cases.
+20	Q. All testifying on behalf of the
+21	defendant tobacco companies, correct?
+22	MS. LAWSON: Object to form.
+23	A. Again, I've been asked as an expert
+24	witness to give my findings regarding smoking
+0030
+1	and health addiction, and I've been an expert
+2	witness in that particular way.
+3	Q. An expert witness for the tobacco
+4	companies as opposed to the cigarette smoking
+5	victims, correct?
+6	MS. LAWSON: Object to form.
+7	A. I have testified, or I have not
+8	testified yet, I have been hired as an expert
+9	witness to determine the level of public
+10	awareness regarding these issues in three or
+11	four cases. And I have not testified on behalf
+12	of the plaintiff in these cases.
+13	Q. You've always been hired, in your
+14	mind, by a law firm, correct?
+15	MS. LAWSON: Object to form.
+16	BY MR. WICHMANN:
+17	Q. Is that your testimony?
+18	(Pause)
+19	Q. Did you hear my question, ma'am?
+20	A. Yes. May I have a few minutes or
+21	seconds here to answer?
+22	Q. Sure.
+23	A. Thank you.
+24	I have been approached by attorneys
+0031
+1	from time to time in different situations to
+2	serve as an expert witness regarding my
+3	assessment of public awareness regarding smoking
+4	and health.
+5	I don't think I've ever been directly
+6	contacted by a tobacco company. I know I've
+7	never been directly contacted by a tobacco
+8	company.
+9	Q. We'll get to that in a second. I just
+10	wanted to clearly understand what you perceive
+11	your role in this case as being.
+12	Do you perceive -- do you believe in
+13	your mind that you're hired by a law firm that
+14	represents the tobacco companies? Simple
+15	question, yes or no.
+16	MS. LAWSON: Object to form.
+17	A. I have been asked to address a very
+18	particular kind of question, and I have pursued
+19	that question, as I would any other question, as
+20	a social historian.
+21	And I've been asked, again, to do the
+22	research, to come up with expert findings and
+23	conclusions based on the question that I've been
+24	asked to research.
+0032
+1	Q. Well, let me make it easy for you.
+2	Someone's paying for your time today, correct?
+3	A. Yes.
+4	Q. That would be me, right?
+5	A. No.
+6	Q. I'm paying for your time during the
+7	deposition. Do you understand that?
+8	A. Honestly, I don't. I just know that I
+9	keep track of my hours, and I'm paid for my
+10	research and my work.
+11	Q. Earlier you referred to, quote,
+12	unquote, my lawyers. Do you recall that
+13	statement?
+14	A. Yes.
+15	MS. LAWSON: Object to form.
+16	A. Again, I corrected myself on that.
+17	It's not what I clearly meant. I didn't imply
+18	that they were my personal lawyers. I meant the
+19	lawyers that I've been working -- have asked me
+20	to do this kind of research for them.
+21	Q. Okay. And in this case, the George
+22	Ciccone case, who are the lawyers that have
+23	asked you to do the work?
+24	A. Again, I was first approached to do
+0033
+1	the work in this case, to, again, do research on
+2	this question of public awareness by Lori
+3	McGroder at Chook, Hardy & Bacon.
+4	Q. At the time you were first approached
+5	by her, who did you understand that firm to be
+6	representing?
+7	MS. LAWSON: Object to form.
+8	A. I wasn't sure who specifically they
+9	were representing, which companies. I didn't
+10	know.
+11	Q. But you knew they were representing a
+12	tobacco company, correct?
+13	MS. LAWSON: Object to form.
+14	A. I assumed that they were.
+15	Q. And who do you believe that you're
+16	working for currently in the Ciccone case?
+17	A. Again, I don't see myself as working
+18	for someone. I see myself as an expert witness
+19	brought in to do research, to do this
+20	objectively, to approach this particular topic
+21	as I would any other historical topic and to
+22	draw my conclusions and to present my findings.
+23	Q. Which law firm are you working with as
+24	you sit here today?
+0034
+1	MS. LAWSON: Object to form.
+2	BY MR. WICHMANN:
+3	Q. In the George Ciccone case?
+4	MS. LAWSON: Object to form.
+5	A. Again, I've been asked to be an expert
+6	witness, again, as I've said several times
+7	already, on the issue of public awareness as a
+8	social historian.
+9	Again, I've worked --1 was contacted
+10	by Chook, Hardy & Bacon to do this work. I was
+11	asked by them if I would, you know, pursue this
+12	question.
+13	Q. At some point in time were you
+14	contacted by another law firm, a different law
+15	firm than Chook, Hardy & Bacon to participate in
+16	the George Ciccone case?
+17	MS. LAWSON: Object to form.
+18	A. No. I -- again, Lori McGroder was the
+19	person who asked me to do this. She's the
+20	person who I submitted my expert findings to.
+21	Q. When was the last time you had a
+22	conversation with any lawyer concerning the
+23	George Ciccone case before today?
+24	A. I had spoken with --1 had a brief
+0035
+1	meeting yesterday.
+2	Q. And who did you have a brief meeting
+3	with?
+4	A. With Christine Lawson.
+5	Q. And who is she?
+6	A. She's an attorney with Jones Day.
+7	Q. When did you understand that Jones day
+8	as opposed to Chook Hardy were involved in the
+9	case?
+10	MS. LAWSON: Object to form.
+11	A. Again, it really hasn't been my
+12	concern.
+13	I really as an expert witness here
+14	focused on my questions, my research, drawing my
+15	conclusions. That's really what my focus has
+16	been.
+17	Q. Well, simple question for you, and
+18	we'll move on, and the simple question is can
+19	you tell me as you sit here today which side of
+20	the case you're going to testify for, the
+21	plaintiff, Pamela Ciccone, or the defendants,
+22	R.J. Reynolds Tobacco Company?
+23	MS. LAWSON: Object to form.
+24	A. Again, as I see my role, I am not
+0036
+1	testifying for or against anyone.
+2	I feel like my research is objective,
+3	that my findings and conclusions stand on their
+4	own, and it will ultimately be up to a jury to
+5	determine, you know, what they believe in the
+6	end.
+7	Q. Who have been submitting your bills
+8	to?
+9	A. I send my bills to Lori McGroder.
+10	Q. When did you send Lori McGroder your
+11	last bill?
+12	A. Probably March 1 st.
+13	Q. Of which year?
+14	A. Of this past year, 2011.
+15	Q. And have you been paid on that
+16	billing?
+17	A. Not yet, no.
+18	Q. Have you been paid any money to date
+19	in this case for your work?
+20	A. Yes, I have.
+21	Q. How much have you been paid to date
+22	for your work in the George Ciccone case?
+23	A. I'd have to give you a rough estimate.
+24	I would guess around between 15 and $20,000.
+0037
+1	Q. Can you tell me how much you have been
+2	paid total, in total for all the work you've
+3	done as an expert witness in a tobacco-related
+4	case to date?
+5	MS. LAWSON: Object to form.
+6	A. Again, I'd have to give you a pretty
+7	rough estimate.
+8	Q. I'll take it.
+9	A. I'm guessing around $200,000.
+10	Q. For how many years have you been doing
+11	this work?
+12	A. I first started in the spring of 2005.
+13	Q. And how much are you charging for your
+14	work in the Ciccone case?
+15	A. I charge $200 an hour for research and
+16	$275 an hour for depositions.
+17	Q. Can you tell me how many hours you
+18	have spent to date on this case?
+19	A. To date, I'm sorry, did you say to
+20	date on this case?
+21	Q. Yes, to date, as of today.
+22	A. Okay. I can't always hear very
+23	clearly.
+24	That's a good question. Let's see.
+0038
+1	I'm guessing between 20 and 30 hours.
+2	Q. Have you ever testified in court?
+3	A. No, I have not.
+4	Q. You have given depositions before,
+5	correct?
+6	MS. LAWSON: Object to form.
+7	A. I've been deposed once.
+8	Q. And that is the light cigarette case
+9	in St. Louis, correct?
+10	A. It's the Kraft case. It's a Missouri
+11	class action case.
+12	Q. Aside from the Kraft case and this
+13	case, have you testified in deposition in any
+14	other case?
+15	A. No.
+16	Q. So is it fair to say that for the
+17	Ciccone case and the Kraft case, your total
+18	income to date has been approximately $200,000?
+19	MS. LAWSON: Object to form.
+20	A. I'm sorry, would you repeat the
+21	question?
+22	MR. WICHMANN: Madam court
+23	reporter, could you read that back?
+24	(Record read)
+0039
+1	MS. LAWSON: Object to form.
+2	A. No.
+3	Q. Are there other cases that I'm
+4	missing?
+5	A. Yes. I mentioned I think earlier this
+6	morning that I have been working on several
+7	other cases.
+8	Q. Can you tell me as you sit here today
+9	which cases? What are those cases?
+10	MS. LAWSON: Counsel, I'm going to
+11	object to the extent that she hasn't been
+12	disclosed as an expert in those cases.
+13	When she's not been disclosed, she is
+14	still a consulting expert, and I believe there's
+15	a work product privilege. But to the extent
+16	she's aware she's been disclosed, and she can go
+17	ahead and respond.
+18	A. To the best of my knowledge, I've been
+19	disclosed in the Haglan case which is here in
+20	Massachusetts and the Donovan case which is also
+21	a Massachusetts case.
+22	Q. To your knowledge have you been
+23	disclosed as an expert witness by the tobacco
+24	companies in any case in Florida other than
+0040
+1	Ciccone?
+2	MS. LAWSON: Object to form.
+3	A. Have I been disclosed?
+4	Q. Correct.
+5	A. I'm not sure. I hesitate to say just
+6	because I'm not sure.
+7	Q. As you sit here today, do you know if
+8	you have been hired by the tobacco companies or
+9	their lawyers in any other case in Florida other
+10	than Ciccone?
+11	A. I have been working on a case, a
+12	Down's case.
+13	Q. Is that a Florida tobacco case, to
+14	your knowledge?
+15	A. Yes.
+16	Q. But you have not given a deposition in
+17	that case, correct?
+18	A. No, I've not.
+19	Q. Ma'am, the last several minutes -- by
+20	the way, if you need to take a break, please let
+21	me know.
+22	A. Okay. Thanks. Maybe pretty son.
+23	We're almost at the hour mark. I can make it
+24	until then.
+0041
+1	Q. What I think we've been going over so
+2	far has been your work in the legal arena,
+3	correct?
+4	MS. LAWSON: Object to form.
+5	A. Again, I don't see my work as being
+6	work in the legal arena. I'm not an attorney,
+7	I'm a historian, and I would say my work has
+8	been in my discipline and my area of expertise,
+9	which is history.
+10	Q. Before I move off of the subject that
+11	we discussed earlier, aside from the legal
+12	related work that you've just told us about in
+13	detail, have you ever done any research in
+14	historical smoking behavior in the United
+15	States?
+16	MS. LAWSON: Object to form.
+17	A. Aside from the work that we've talked
+18	about -- I'm sorry, I didn't get the first part
+19	of your question. If I could have that
+20	repeated, please?
+21	MR. WICHMANN: Madam court
+22	reporter.
+23	(Record read)
+24	MS. LAWSON: Object to form.
+0042
+1	A. I have done -- again, I want to be
+2	careful here. I have done work in researching,
+3	you know, the history of smoking and health and
+4	related issues for cases, again, in which I have
+5	not been disclosed that we haven't talked about
+6	specifically.
+7	Q. Forget about that work in those cases.
+8	My question to you is apart from legal
+9	related work, have you done any research into
+10	historical smoking behavior in the United
+11	States?
+12	MS. LAWSON: Object to form.
+13	A. It does come up occasionally in my
+14	teaching in lectures when I talk about the -- it
+15	certainly comes up in southern history when I
+16	talk about the development -- the invention of
+17	the bond sack smoking or cigarette machine and
+18	the roll of tobacco, the tobacco industry in
+19	southern history.
+20	So I think, yes, I have done work that
+21	has -- on these issues that isn't directly
+22	related to some of these cases that I've been
+23	asked to work on.
+24	Q. Have those results ever been
+0043
+1	published?
+2	MS. LAWSON: Object to form.
+3	A. Again, other than what I mentioned
+4	earlier, I know I talk about Buck Duke in my
+5	book about Charlotte.
+6	No, these would be the kind of
+7	research I do for the lectures that I present in
+8	class.
+9	Q. Would you like to take a break? This
+10	might be a good point.
+11	A. I would, actually. Thank you.
+12	Q. Sure.
+13	(Recess taken)
+14	BY MR. WICHMANN:
+15	Q. Did you have a discussion with the
+16	lady tobacco lawyer during the break?
+17	A. If you're asking if I had a discussion
+18	with Ms. Lawson, no.
+19	Q. Yes.
+20	A. I'm sorry, lady tobacco lawyer. I
+21	think we're specifically talking about
+22	Miss Lawson, and no, I did not have a discussion
+23	with her.
+24	Q. Fine.
+0044
+1	Ma'am, are you going to testify in
+2	this case about the history of science?
+3	MS. LAWSON: Object to form.
+4	A. Certainly scientific developments as
+5	they appear in the press and are disseminated to
+6	the public is something that I would testify
+7	about.
+8	Q. What qualifications do you believe you
+9	have to testify in the area of the history of
+10	science?
+11	MS. LAWSON: Object to form.
+12	A. Again, I didn't say I would be
+13	testifying in the history of science.
+14	I said that there are many scientific
+15	studies that are disseminated to the public in
+16	newspapers, magazine articles and television
+17	news, radio reports and things like that that
+18	are part of, you know, the research that I've
+19	done that impact public awareness. So I will be
+20	talking about those.
+21	Q. So you have no special qualifications
+22	in the area of the history of science, correct?
+23	MS. LAWSON: Object to form.
+24	A. I'm a US social historian. Scientific
+0045
+1	developments certainly impact social history, so
+2	I certainly incorporate those into my own
+3	research when they're relevant.
+4	Q. What is the history of science?
+5	MS. LAWSON: Object to form.
+6	A. In general, you want a definition of
+7	it or how it's viewed in the historical
+8	discipline? I'm not sure exactly what you're
+9	asking.
+10	Q. Well, all of the above.
+11	First of all, what is your definition
+12	of the history of science?
+13	MS. LAWSON: Object to form.
+14	A. Again, I would say that it's a
+15	subfield, it's a specialization in the larger
+16	discipline of history that focuses on various,
+17	you know, changing conceptions of the natural
+18	world and how some of those ideas change over
+19	time.
+20	Q. Did I understand you to say that you
+21	believe that it is a subfield of history?
+22	A. It's a specialization within history,
+23	within the larger discipline of history, just
+24	like social history is.
+0046
+1	Q. I'm going to use that term that you
+2	dislike, and if you can think of a better term,
+3	please let me, but have you ever held yourself
+4	out as a specialist in the field of the history
+5	of science?
+6	MS. LAWSON: Object to form.
+7	A. I have never claimed to be a historian
+8	of science.
+9	Q. I'm writing claimed to be down, ma'am.
+10	Thank you very much. I'll try to use that
+11	instead of held yourself out. I agree that's a
+12	better term.
+13	A. Okay.
+14	Q. So you've never taken any specialized
+15	courses in the history of science, correct?
+16	MS. LAWSON: Object to form.
+17	A. I don't believe so, no.
+18	Q. You've never written any articles
+19	concerning the history of science, correct?
+20	MS. LAWSON: Object to form.
+21	A. No, that's true, right.
+22	Q. Do you have any qualifications in the
+23	field of medicine?
+24	A. No, sir. I'm not a doctor, that kind
+0047
+1	of doctor.
+2	Q. But you would agree as you sit here
+3	today that smoking cigarettes causes diseases?
+4	MS. LAWSON: Object to form.
+5	A. Again, I'm not sure if you're asking
+6	me my personal opinion or my opinion as an
+7	expert witness and consultant as a social
+8	historian in this case.
+9	Q. So you would have a different opinion
+10	on that subject for the tobacco companies in
+11	litigation than you would have personally, say,
+12	at home with your spouse or significant other,
+13	is that what you're saying?
+14	MS. LAWSON: Object to form.
+15	A. No, that's absolutely not what I'm
+16	saying.
+17	I'm just saying I'm not sure what
+18	you're, you know, in what respect you're asking
+19	me to answer the question.
+20	As I understand it, I'm here in this
+21	deposition as an expert witness as a social
+22	historian who's been asked to determine public
+23	awareness regarding smoking and health and the
+24	addictive nature of cigarettes.
+0048
+1	Q. Well, my simple question to you is do
+2	you agree that smoking cigarettes adversely
+3	affects human health? Simple question. I'm
+4	asking for a simple answer, yes or no. Can you
+5	do that?
+6	MS. LAWSON: Object to form.
+7	A. Are you asking me whether I believe
+8	that public awareness regarding that issue, or
+9	are you asking me as an individual my personal
+10	opinions?
+11	I'm not saying they're different. I'm
+12	just --1 just want to know what you're asking,
+13	I guess.
+14	Q. Well, my question is why would you be
+15	coming to court and testifying about public
+16	knowledge of smoking cigarettes and health if
+17	you didn't believe that smoking cigarettes
+18	caused disease?
+19	MS. LAWSON: Object to form.
+20	A. My personal opinions about any of
+21	these issues are irrelevant.
+22	Again, I've been asked to determine as
+23	a social historian who has approached this topic
+24	the questions as I would any other historical
+0049
+1	question that I would pursue, you know, trying
+2	to seek out the answers to work through the
+3	historical method, to come to conclusions.
+4	And so my personal opinion is not part
+5	of that story. The historical method is very
+6	clear that in trying to make sure that personal
+7	bias does not enter into the actual analysis of
+8	the sources and the conclusions that one draws.
+9	Q. Let's talk for a moment, please, about
+10	historical methods.
+11	Who is William W., and I hope I
+12	pronounce this correctly, Stueck, S-T-U-E-C-K?
+13	Do you know?
+14	A. S-T-U-E -
+15	Q. U-E-C-K from the University of
+16	Georgia.
+17	A. Could you just give me a minute here?
+18	(Pause)
+19	A. I'm sorry, that name doesn't ring a
+20	bell.
+21	Q. Are you familiar with a text called
+22	Reading and Writing American History, An
+23	Introduction to the Historian's Craft? Are you
+24	familiar with that publication?
+0050
+1	A. I don't recall that publication
+2	exactly. I look at quite a few. I teach
+3	historical method. I look at a lot of different
+4	texts about reading and writing history. That
+5	one does not ring a bell with me at the moment.
+6	Q. Do you know any of the historians
+7	personally or by reputation that are affiliated
+8	with the University of Georgia?
+9	A. I can't think of anybody directly at
+10	the moment, no.
+11	Q. Are there any texts that you are aware
+12	of dealing with historical methods that you
+13	consider authoritative?
+14	MS. LAWSON: Object to form.
+15	A. I'm not sure what you mean by
+16	authoritative. How would you define that
+17	particular term?
+18	Q. First of all, important in your field
+19	of expertise?
+20	A. Yeah. There's a book I use by Marius.
+21	It's a text I've used in historical methods
+22	courses. I think that's the one I've used most
+23	often. I can't remember the exact name of it,
+24	but I think it might just be call Writing
+0051
+1	History.
+2	Q. Would that be the best source for me
+3	to look at to learn how the historical method
+4	works ?
+5	MS. LAWSON: Object to form.
+6	A. Again, I don't know if it's the best
+7	source without doing, you know, a very thorough
+8	survey of everything that's out there.
+9	It's certainly one that I've used with
+10	undergraduates. It seems very comprehensive and
+11	comprehensible.
+12	Q. Have you ever cited that work in any
+13	works that you have done?
+14	A. You mean in my own scholarship?
+15	Q. Let's start with your own scholarship.
+16	A. No. And it wouldn't be necessarily
+17	relevant to my -- to cite a source like that in
+18	my scholarship.
+19	Q. Is it a required textbook for your
+20	students in any of the classes that you teach at
+21	Clark University ?
+22	MS. LAWSON: Object to form.
+23	A. Again, I'd have to look back and my
+24	records, but I'm pretty sure I do assign it, as
+0052
+1	I said, in my writing history class.
+2	Q. Does that text, as far as you can
+3	recall, set out how the historical method should
+4	be employed?
+5	MS. LAWSON: Object to form.
+6	A. Again, I think it sets out the
+7	historical method, the steps of it.
+8	Again, as I recall, it does set out
+9	how one constructs a good research question, how
+10	one proceeds with research first and secondary
+11	sources, and then in primary sources, how one
+12	weighs evidence or one analyzing sources and how
+13	one draws conclusions.
+14	Q. Would the work that you have done so
+15	far in Ciccone be in accordance with that
+16	textbook?
+17	MS. LAWSON: Object to form.
+18	A. Again, I'm not sure about the textbook
+19	on the whole. I think in terms of my memory of
+20	the way he sets out the historical method.
+21	Again, if I'm recalling correctly, I
+22	do look at a lot of these books, and I kind of
+23	used a number of them over time, yes, I would
+24	say that I did follow his steps.
+0053
+1	Q. I'm sorry, did you finish your answer,
+2	ma'am?
+3	A. Yes.
+4	Q. Just so that it's clear, you would
+5	have followed his steps as contained in that
+6	textbook in the work that you did in the Ciccone
+7	case, correct?
+8	MS. LAWSON: Object to form.
+9	A. Again, I just want to emphasize, you
+10	know, I don't have a photographic memory about
+11	what's exactly in that text.
+12	I do know that I've used that text,
+13	and as I recall, to the best of my knowledge, it
+14	laid out those kinds of questions in a good way,
+15	in ways that I certainly agree with and in ways
+16	that I think I've proceeded in to do my research
+17	in this particular case.
+18	Q. Could you spell the name of the author
+19	of that book for me, please?
+20	A. Sure. It's M-A-R-I-U-S, I believe,
+21	Marius.
+22	Q. And is that gentleman affiliated with
+23	a university?
+24	A. I believe he was at Harvard, but I'm
+0054
+1	not sure.
+2	Q. I believe you told us earlier that you
+3	were first contacted by a lawyer for Chook Hardy
+4	to do work on this case, correct?
+5	A. That's correct.
+6	Q. How were you contacted?
+7	A. I'm not quite sure. Probably --1
+8	probably got a phone call from her.
+9	Q. Had you worked with her on any cases
+10	before the Ciccone case?
+11	A. With Ms. McGroder, no.
+12	Q. How do you suppose she knew to call
+13	you?
+14	A. I don't know. You'd have to ask her.
+15	Q. Have you ever claimed to be an expert
+16	witness in the history of tobacco for the
+17	purpose of testifying in court?
+18	MS. LAWSON: Object to form.
+19	A. I don't claim to be anything more than
+20	I've already stated. I'm an expert witness as a
+21	social historian.
+22	I think my credentials speak for
+23	themselves. I have a Ph.D. in US social
+24	history. I've taught 20 years at Clark
+0055
+1	University. I teach everybody from first year
+2	students through Ph.D. students.
+3	And, again, I was asked to research
+4	and draw conclusions, again, about the very
+5	particular questions that I've already stated
+6	several times, which was about public awareness
+7	regarding smoking and health and addiction
+8	issues relating to cigarettes.
+9	Q. I apologize. My question was poorly
+10	worded.
+11	What I meant to ask you, Doctor, was
+12	have you ever advertised yourself as a social
+13	historian expert for litigation purposes?
+14	MS. LAWSON: Object to form.
+15	A. Advertised, no.
+16	Q. We've had a moment or two. Have you
+17	thought anymore about how Chook Hardy came to
+18	find Janette Thomas Greenwood at the Department
+19	of History for Clark University to work on the
+20	Ciccone case?
+21	MS. LAWSON: Object to form.
+22	A. Again, I think you'd have to ask
+23	Ms. McGroder.
+24	Q. Do you routinely employ research
+0056
+1	assistants?
+2	A. No.
+3	Q. Have you in the past in any of your
+4	litigation-related work employed research
+5	assistants?
+6	A. Yes, I have.
+7	Q. Did you employ any research assistants
+8	in the Ciccone case?
+9	A. Yes, I did.
+10	Q. Who?
+11	A. I asked a -- I'm really terrible with
+12	last names. Her name is Inga, I think it was
+13	Johnson.
+14	I needed --1 used her very
+15	specifically to collect some information that I
+16	could not get to, again, because of where this
+17	information was located and, again, demands on
+18	my own time.
+19	I interviewed her to make sure that
+20	she had the proper credentials. I supervised
+21	her.
+22	I very specifically asked her to
+23	collect some items, particularly in the Navy
+24	Times, it was in the Library of Congress which I
+0057
+1	couldn't get to in a short period of time.
+2	Q. How did you find Miss Johnson?
+3	A. I got a list of names from Chook, from
+4	people who had -- they gave me, again, a list of
+5	names of possible research assistants.
+6	I got CVs from all of them. I
+7	interviewed the ones that I felt were, you know,
+8	had the strongest credentials, and I chose on
+9	that basis.
+10	Q. Okay. Let me clearly understand your
+11	answer.
+12	In the Ciccone case you received a
+13	list of names of potential research assistants
+14	from the law firm of Chook Hardy. Is that your
+15	testimony?
+16	A. I would fine tune that a bit. I asked
+17	for a list. The initiative came from me.
+18	I was looking for--1 was looking for
+19	a research assistant for this particular slice
+20	of research that I could not conduct on my own.
+21	Q. And you asked the lawyers for the
+22	tobacco companies for that list of research
+23	assistants, correct?
+24	MS. LAWSON: Object to form.
+0058
+1	A. Again, I asked Chook, Hardy & Bacon.
+2	My understanding is they do other litigation
+3	too. They are not in-house counsel is the way I
+4	would define tobacco lawyer, but maybe we have
+5	different definitions. I did ask for a list of
+6	researchers.
+7	And I want to make it clear it was up
+8	to me who to choose based on credentials, based
+9	on my interviews with them, based on my sense of
+10	their abilities.
+11	Q. Okay. So you asked for a list of
+12	potential research assistants from the tobacco
+13	lawyers, but you had the right to choose which
+14	research assistant. Is that fair to say?
+15	MS. LAWSON: Object to form.
+16	A. Again, I asked Chook, Hardy & Bacon
+17	for a list. I got background information on all
+18	of them. I interviewed them. I carefully, you
+19	know, teleconferenced with them -- the person I
+20	chose several times.
+21	Yes, I did have the choice. I had the
+22	right to choose my own. I certainly insisted on
+23	the right to choose my own research assistant.
+24	Q. Okay. So the law firm for the tobacco
+0059
+1	companies gave you the list of potential
+2	research assistants.
+3	Did they also provide you with a list
+4	of CVs for those potential research assistants,
+5	or did you get the CVs on your own?
+6	MS. LAWSON: Object to form.
+7	A. Again, as I recall, I got the CVs on
+8	my own.
+9	Q. Okay. Are you paying Inga Johnson out
+10	of what you are charging for your work in this
+11	case, or is Chook Hardy paying Inga Johnson, if
+12	you know?
+13	MS. LAWSON: Object to form.
+14	A. Again, I believe that she keeps her
+15	own hours and sends off her bill to whoever.
+16	I'm not sure. All I know is that I do not pay
+17	her directly.
+18	Q. But somebody pays her? She's not
+19	working for free, correct?
+20	A. That's true, she not working for free.
+21	Q. Did you ever on your own look for a
+22	list of potential research assistants outside of
+23	the list that was provided to you by the
+24	attorneys for the tobacco companies?
+0060
+1	MS. LAWSON: Object to form.
+2	A. Again, for this, are you talking about
+3	this particular case?
+4	Q. For this particular case, for the
+5	Ciccone case.
+6	A. I don't believe I did for this case.
+7	Q. Ma'am, in this case you have provided
+8	us with a resource list, correct? And I believe
+9	it is marked as an exhibit for this deposition,
+10	right?
+11	A. Yes.
+12	Q. What number does it have on it?
+13	A. Mine says Exhibit Number 1.
+14	Q. Okay. As to Exhibit Number 1, looking
+15	at pages -- well, subcategory one, under
+16	description has books, pamphlets, posters and
+17	reports, correct?
+18	A. Yes, Mm-hmm.
+19	Q. And it contains one, two, three, four,
+20	five pages, correct?
+21	A. Let me count. Yes, it does, Ah-huh.
+22	Q. Would you read number one?
+23	A. One under Roman one is King James I, a
+24	Counter-Blaste Against Tobacco.
+0061
+1	Q. When was that first printed?
+2	A. 1604.
+3	Q. As you sit here today, ma'am, do you
+4	have any evidence that George Ciccone ever read
+5	this King James I, Counter-Blaste Against
+6	Tobacco?
+7	MS. LAWSON: Object to form.
+8	A. No, I don't.
+9	And that's not what I was asked to
+10	research, whether George Ciccone ever read this.
+11	I was asked to research public
+12	awareness regarding the risks of smoking and
+13	cigarette addiction. And that's why this
+14	particular item is on this list.
+15	Q. Okay. Under item number one, books,
+16	pamphlets, posters and reports on your reliance
+17	list you have a total of 105 publications,
+18	correct?
+19	A. Yes, I do, Mm-hmm.
+20	Q. Do you have any evidence as you sit
+21	here today that George Ciccone ever read any one
+22	of those 105 documents under category one on
+23	your resource list?
+24	MS. LAWSON: Object to form.
+0062
+1	A. Again, I'll repeat what I have said I
+2	think several times this morning, that I have
+3	been asked as an expert witness to determine
+4	public awareness regarding smoking and health
+5	issues and addiction.
+6	And I would say, again, that, you
+7	know, this is part of the information,
+8	environment that was -- much of this was out
+9	there when George Ciccone was -- started to
+10	smoke and continued to smoke.
+11	And, again, this information is the
+12	research I've done to try to determine, again,
+13	public awareness regarding these issues.
+14	So, again, you see the long kind of
+15	historical coverage here showing that, you know,
+16	as early as 1604 starting with the example that
+17	you brought up, there was, again, this awareness
+18	growing at such an early point about smoking and
+19	health issues and the addictive nature of
+20	tobacco.
+21	Q. Ma'am, did you review any depositions
+22	in this case?
+23	A. Yes, I did.
+24	Q. Which depositions did you review?
+0063
+1	A. I think they're here on my resource
+2	list on the last page. I think they're all
+3	listed there, ones that I've read.
+4	Q. Okay. You don't need to read them to
+5	me.
+6	My simple question to you is can you
+7	point to any portion in any one of those
+8	depositions where a witness testified that
+9	George Ciccone read any of the 105 publications
+10	you have listed under section one on your
+11	resource list?
+12	MS. LAWSON: Object to form.
+13	A. Well, I do know that based on his
+14	brother -- George Ciccone's brother Paul's
+15	deposition that they discussed the Surgeon
+16	General's report of 1964.
+17	And, again, I think my point as a
+18	social historian here is that I've been asked to
+19	discuss public awareness. And this information,
+20	much of this information was information that
+21	was, again, readily available to someone like
+22	George Ciccone or any American living in this
+23	period.
+24	Q. Well, which publication under section
+0064
+1	one of the 105 listed can you point to that
+2	George Ciccone actually read?
+3	MS. LAWSON: Object to form.
+4	A. Well, again, I know he discussed the
+5	Surgeon General's report in 1964.
+6	Again, my point is in listing this
+7	information, I was researching and drawing
+8	conclusions about the question that I was asked
+9	to research, which was public awareness
+10	regarding smoking and health and addiction to
+11	cigarettes.
+12	If I may finish?
+13	Q. Sure.
+14	A. Thank you.
+15	This was part of the information
+16	environment that, you know, again was out there,
+17	part of the environment that George Ciccone and
+18	other Americans at this time, you know, had
+19	access to. This was information that was
+20	repeated and reiterated and echoed in all kinds
+21	of ways.
+22	If people didn't read the Surgeon
+23	General's report in 1964, they were certainly
+24	talking about it. It shows up in songs, in
+0065
+1	cartoons of the era. It shows up in all kinds
+2	of ways.
+3	So, again, this is part of this
+4	information environment.
+5	Q. Okay. Aside from the Surgeon
+6	General's report that you saw Paul Ciccone said
+7	he discussed with his brother George, are there
+8	any other publications under your section one on
+9	your resource list that you can show George
+10	Ciccone directly read?
+11	A. Well, again, I think just following up
+12	on the Surgeon General's report, I do know that
+13	Mr. Ciccone was in the Navy between '64 and '67
+14	and that at that time the Navy Surgeon General
+15	talked a lot about the Surgeon General's report,
+16	required lectures to sailors.
+17	And also the Navy Times reported that
+18	if you bought cigarettes at the PX in the
+19	military at this time, there was a big poster on
+20	the counter that basically quoted the Surgeon
+21	General's report.
+22	So, again, my point is in citing some
+23	of this information that even though, you know,
+24	perhaps Mr. Ciccone didn't read the Surgeon
+0066
+1	General's report from cover to cover, that that
+2	information was disseminated in all kinds of
+3	ways, that he certainly would have had access to
+4	that information.
+5	Q. Well, what evidence do you have that
+6	George Ciccone while he was alive read the Navy
+7	Times that you just referred to?
+8	MS. LAWSON: Object to form.
+9	A. Again, I didn't say that he read the
+10	Navy Times. I said the Navy Times reported that
+11	any sailor buying a cigarette, buying a pack of
+12	cigarettes at any PX in 1964 had to confront a
+13	big sign at the counter that basically
+14	reiterated the Surgeon General's warning in 1964
+15	that the evidence in his view was that there was
+16	a causal relationship between smoking and lung
+17	cancer in men.
+18	Q. Simple question. Do you know as you
+19	sit here today whether George Ciccone while he
+20	was alive read any of the publications under
+21	your subsection one, the total 105 of them?
+22	A. Again, I will say that my job as a
+23	social historian here, what I was asked to do,
+24	the question I was asked to address was to
+0067
+1	assess public awareness on these issues and with
+2	the particular focus in the life span of
+3	Mr. Ciccone from 1946 through 2002.
+4	And, again, my conclusions were that
+5	there was so much information on here. Again,
+6	that's why there are like 105 of these as part
+7	of my resource list, again, which to me shows
+8	you sort of the extent, the breadth of this kind
+9	of information that was out there.
+10	And if you didn't read a Surgeon
+11	General's report in 1964 or you didn't read
+12	perhaps this specific American Cancer Society
+13	pamphlet, that information about the hazards of
+14	smoking and the addictive nature of smoking was
+15	still being repeated in many, many different
+16	ways.
+17	Q. Aside from the depositions in the
+18	case, have you performed any personal interviews
+19	with any other witnesses who may have known
+20	George Ciccone when he was alive?
+21	A. I have not, no.
+22	Q. Okay. So is it fair to say, ma'am,
+23	just to wrap it up, I know your position on the
+24	issue, that you don't know as you sit here today
+0068
+1	whether George Ciccone in fact while he was
+2	alive read any of the publications under your
+3	subsection one?
+4	MS. LAWSON: Object to form.
+5	A. Again, my question -- the question
+6	I've been asked to research and draw conclusions
+7	about was public awareness regarding these
+8	issues.
+9	I can definitely say and feel very
+10	confident in saying that in George Ciccone's
+11	lifetime, between 1946 and 2002, there were
+12	many, many messages reiterated, repeated, echoed
+13	in a variety of ways, in a variety of forms,
+14	everything from television news, to newspaper
+15	reports, to public service announcements, to
+16	textbooks, to popular songs, to movies that were
+17	referencing the dangers of smoking and sending
+18	that message out, the dangers of smoking and the
+19	fact that smoking itself could be addictive.
+20	I feel very confident in saying that
+21	that was the information environment within
+22	which Mr. Ciccone lived.
+23	Q. One more question, and we'll move on.
+24	Here's a good one. Cotton Mather Manudictio ad
+0069
+1	Ministerium -- I'm sorry, my daughter takes
+2	Latin, and I'm not good at it -- reproduced from
+3	the original, 1726.
+4	That's number seven on your resource
+5	list, right?
+6	A. Yes, it is.
+7	Q. Do you know if George Ciccone read
+8	that?
+9	A. Again, my point in including this is
+10	not whether or not George Ciccone read it.
+11	My point is that as early as Cotton
+12	Mather, and even earlier than Cotton Mather,
+13	he's almost a latecomer in this story in 1726,
+14	that he was talking about the enslaving
+15	qualities, the bewitching qualities of tobacco.
+16	And so my point in including Cotton
+17	Mather and King James I or Rush and others is
+18	that almost from the very beginning, almost from
+19	the moment that tobacco was first introduced to
+20	Columbus and his crew by native Americans,
+21	people seemed aware that there were problems
+22	relating to this product, that not only was it
+23	enslaving, as people talked about at the time,
+24	and bewitching and intoxicating were the words
+0070
+1	that people used in the Sixteenth, Seventeenth,
+2	Eighteenth Century, but it also made people
+3	cough. It seemed to slow them down. It seemed
+4	to have negative -- it made their throat hurt.
+5	It seemed to make their bodies slow down.
+6	So that's my point here. And, again,
+7	it's part of this information environment. And
+8	my point is just to show how long that kind of
+9	discussion has been out there regarding tobacco.
+10	Q. Have you been able to determine George
+11	Ciccone's level of education?
+12	A. I do know from the depositions that he
+13	dropped out of high school. It sounded like he
+14	went through at least eleventh grade.
+15	Q. Would you expect most eleventh graders
+16	that drop out of high school to be familiar with
+17	King James I, Counter-Blaste Against Tobacco?
+18	Is that your testimony in this case?
+19	MS. LAWSON: Object to form.
+20	A. Obviously that's not my testimony. I
+21	think I've gone over this several times about
+22	why I have included these particular examples.
+23	Talking about public awareness, the
+24	way it's generally defined is thinking about the
+0071
+1	messages that get repeated over and over again.
+2	They get reiterated, get echoed in lots of
+3	different forms, repeated over a long period of
+4	time.
+5	And my point here, as I just said, is
+6	that, you know, King James in 1604, you know, he
+7	and many others, as I've already noted here, are
+8	already talking about the negative effects, the
+9	ill effects of tobacco and its ability to
+10	enslave people, to bewitch them. That's my
+11	point.
+12	In other words, this is not something
+13	that people begin to talk about in the 1950s or
+14	in 1964. These are ideas that go back a long
+15	way, and that's my point as a historian is to
+16	show that.
+17	Q. Do you believe as you sit here today
+18	that tobacco enslaves people?
+19	MS. LAWSON: Object to form.
+20	A. Again, are you asking me as an expert
+21	witness, or are you asking me as my personal
+22	opinion?
+23	Q. Well, according to the Surgeon
+24	General, cigarette smoking has resulted in
+0072
+1	400,000 dead Americans a year for years. So I'm
+2	asking you, one, as an expert witness and, two,
+3	as a human being. Do you have an answer?
+4	MS. LAWSON: Object to form.
+5	A. The question, again, if I go back and
+6	remember, was tobacco enslaving?
+7	Q. Those were your words, not mine.
+8	A. No, those were not my words at all. I
+9	was quoting Cotton Mather, which seems to be one
+10	of your favorites on this list. He used the
+11	word enslaving.
+12	Q. So you don't believe the nicotine in
+13	tobacco is addictive, is that what you're
+14	saying?
+15	MS. LAWSON: Object to form.
+16	A. No, I'm not saying that.
+17	Q. Okay. And you're not saying that
+18	smoking cigarettes doesn't cause disease, are
+19	you, ma'am?
+20	MS. LAWSON: Object to form.
+21	A. Again, I'm here to testify as an
+22	expert witness. I am not a medical doctor. I'm
+23	a Ph.D. in history and social history. I'm here
+24	to testify or speak to you today regarding my
+0073
+1	findings based on my research on a topic of
+2	public awareness.
+3	Q. Let's talk a little bit about George
+4	Ciccone's social history.
+5	Were you able to determine when he
+6	began smoking cigarettes?
+7	A. There's some disagreement on that.
+8	Based on the depositions, his sister said --
+9	Pauline said she thought he began sneaking a
+10	cigarette or two from their father at age six.
+11	His brother Paul on the other hand
+12	thought that he and George really had begun
+13	smoking at around age 10 or 11.
+14	So, again, there's some sort of
+15	discrepancy there.
+16	Q. Were you able to determine whether
+17	George Ciccone became a regular smoker?
+18	MS. LAWSON: Object to form.
+19	A. Again, I'm not sure how you define
+20	regular, but in the depositions it seemed --
+21	again, there's some variation in terms of exact
+22	years, but it certainly seems that he was
+23	smoking on a regular basis by the time he was in
+24	high school, junior high or high school for
+0074
+1	sure.
+2	Q. Were you able to determine when George
+3	Ciccone became nicotine addicted?
+4	MS. LAWSON: Object to form.
+5	A. Again, that's -- the depositions did
+6	not give me that information.
+7	And, again, my main focus was on
+8	researching this information environment
+9	regarding public awareness and smoking and
+10	health and addiction.
+11	Q. Dr. Michael Hirsch's deposition is on
+12	your reliance list, isn't it?
+13	A. Yes, his doctor, yes.
+14	Q. Was that important to forming your
+15	opinions, reading that deposition?
+16	MS. LAWSON: Object to form.
+17	A. Again, not important in forming my
+18	opinions because my opinions are, again, about
+19	public awareness, again, this information that's
+20	readily available to the public on these issues
+21	and sort of the weight of that, public awareness
+22	regarding these issues.
+23	It was relevant in a sense that I
+24	think he told -- as I recall in that deposition,
+0075
+1	he told Mr. Ciccone that he really needed to
+2	quit smoking.
+3	Q. He also wrote down in his chart in
+4	1990 that Mr. Ciccone was nicotine addicted.
+5	You read that, didn't you?
+6	A. Yes, I did.
+7	But, again, my charge here, what I was
+8	asked to research was public awareness regarding
+9	things like addiction.
+10	And, again, I would argue, if you want
+11	to refer back to my resource list, that I think
+12	I feel very strongly that the weight of my
+13	evidence here that I presented stands on its
+14	own, that people talked about addiction for
+15	years or were first talking about it as being
+16	bewitched or enslaved and then later using the
+17	term addict to describe people who could not
+18	quit cigarettes.
+19	Q. So is it your testimony that a doctor
+20	telling his patient not to smoke constitutes
+21	public awareness of the risks of smoking
+22	cigarettes?
+23	MS. LAWSON: Object to form.
+24	A. No, that's not what I'm saying at all.
+0076
+1	Again, I'm not a medical doctor. I've
+2	been asked, and I keep saying the same thing,
+3	but I think I need to make it clear what exactly
+4	my role is here, and that was to research the
+5	issue of public awareness regarding smoking and
+6	health issues and addiction.
+7	And to do that, I did a lot of
+8	research, as you can see here in my resource
+9	list, in newspapers, in magazines, in textbooks,
+10	in various kinds of educational materials, TV
+11	news programs to get a sense of how people
+12	understood these kinds of issues, what they were
+13	aware of at this time.
+14	So that's really what I am testifying
+15	about.
+16	Q. Okay. So Dr. Hirsch's deposition is
+17	not really important to your opinions in this
+18	case, is that what you're saying?
+19	MS. LAWSON: Object to form.
+20	A. It's important in the sense of me
+21	getting sort of an understanding of the sort of
+22	the overall story of Mr. Ciccone's life.
+23	But in terms of the drawing
+24	conclusions regarding public awareness, again,
+0077
+1	that's information that is generally available
+2	to the public. Again, this is publicly
+3	disseminated information, and that's what I drew
+4	my conclusions on.
+5	Q. And how many packs of cigarettes a day
+6	did George Ciccone smoke over his lifetime? Do
+7	you know?
+8	A. How many packs over his lifetime, like
+9	sum total?
+10	Q. Correct.
+11	A. I have no idea. I know he was an
+12	extremely heavy smoker. All of the depositions
+13	I read certainly refer to him that way. He
+14	smoked as much as four packs of cigarettes a
+15	day.
+16	Q. For many years, right?
+17	MS. LAWSON: Object to form.
+18	A. Again, I think that varied over the
+19	time, and the depositions varied a bit on that.
+20	I don't think it was always consistent in terms
+21	of the way people understood his smoking
+22	history. But he --1 think everyone agreed in
+23	the depositions that he was a heavy smoker.
+24	Q. And I may have asked you this before,
+0078
+1	and if I did, I apologize. You read in
+2	Dr. Hirsch's deposition that he diagnosed George
+3	as being addicted to nicotine, you read that,
+4	didn't you?
+5	MS. LAWSON: Object to form.
+6	A. I think, again, what I remember, I
+7	think that came from Mrs. Ciccone's deposition
+8	where she talked about Dr. Hirsch. She
+9	mentioned I think at that point that
+10	Dr. Hirsch -- what I remember most is that
+11	Dr. Hirsch told him that he needed to quit
+12	smoking at that time.
+13	Q. So you don't remember Dr. Hirsch
+14	saying anything about George being addicted to
+15	nicotine?
+16	MS. LAWSON: Object to form.
+17	A. Again, I generally remember that, how
+18	Mrs. Ciccone described it.
+19	But as far as, again, drawing my
+20	conclusions, they are based on the publicly
+21	available information. Again, this information
+22	is available to anyone on these issues.
+23	So, again, a private conversation
+24	between a doctor and his patient isn't
+0079
+1	information that I would -- that would influence
+2	my opinions regarding public awareness.
+3	Q. Getting back to your resource list,
+4	Doctor. All of the items that are under
+5	category one that we have discussed, could you
+6	tell me, who located all that material?
+7	A. I know I located a lot of it, probably
+8	I would say I located at least most of it.
+9	Yeah. I mean, a lot of these things, again, are
+10	in the libraries that I researched.
+11	I did research -- Mr. Ciccone was bom
+12	in Worcester County, lived there until 1970. I
+13	lived in Worcester County for 20 years, still
+14	teach in Worcester County.
+15	I did this research in Worcester
+16	Public Library, Clark University Library, Boston
+17	Public Library, State Library in Massachusetts,
+18	University of Massachusetts Med School in
+19	Worcester.
+20	So, yeah, I would say almost all of
+21	this I found on my own.
+22	Q. What did you not find on your own that
+23	is listed on your resource list under section
+24	number one?
+0080
+1	(Pause)
+2	A. I think, to the best of my knowledge,
+3	almost everything. I can't think of anything
+4	offhand that I didn't find on my own.
+5	Q. Did Inga Johnson find anything under
+6	subsection one for you?
+7	A. No. As I said, I used her in a very
+8	limited way, Navy Times mostly at the library of
+9	Congress. That's in the newspaper section.
+10	Q. Did the tobacco lawyers provide you
+11	with any of the 105 documents listed under
+12	section one of your resource list?
+13	MS. LAWSON: Object to form.
+14	A. Again, to the best of my knowledge,
+15	this is research that I conducted.
+16	Q. Nobody but you, is that your
+17	testimony?
+18	A. I think for this, yeah, yeah.
+19	Q. Okay. Let's go to section two,
+20	please. We'll move it along.
+21	A. Okay.
+22	Q. Section two of your resource list
+23	contains newspaper articles and magazine
+24	articles, correct?
+0081
+1	A. That's right.
+2	Q. Who got those documents? Who found
+3	those documents?
+4	A. I know I did a lot of the periodicals
+5	the old-fashioned way. Reader's Guide to
+6	Periodicals, I collected those.
+7	Worcester Telegram and Gazette I did.
+8	I went to Miami, worked on the Miami
+9	Herald and News. I did my research in Florida.
+10	I know some of the Boston Globe, but
+11	not all of it, I did a lot of that myself, but
+12	there were some years, maybe like 1950 to '65,
+13	I'm guessing, where I had actually requested
+14	some of this information.
+15	Q. Who did you request it from?
+16	A. When I first started working, asked to
+17	do this kind of research as a consultant, I was
+18	first approached by Julia Tyler in Washington.
+19	And I was first approached to do some
+20	research as a consultant on a Massachusetts
+21	case, and I remember asking at the time whether
+22	any of the newspaper research had been done
+23	previously, and so I asked, you know, if they
+24	had any copies of the Boston Globe.
+0082
+1	And I should say then that I did my
+2	due diligence on that. I went to the Library of
+3	Congress with some of those copies that they had
+4	done, I double checked them. I felt very
+5	strongly after doing careful checks on them that
+6	they had been collected properly.
+7	Q. Who's Julia Tyler?
+8	A. Julia Tyler was an attorney for a firm
+9	in Washington by the name of Johnson Tyler &
+10	Pervis.
+11	Q. And that firm represents the tobacco
+12	companies, correct?
+13	MS. LAWSON: Object to form.
+14	A. Again, when Julia --1 understand that
+15	they were sort of a consulting firm to various
+16	organizations, corporations. I know they had
+17	done some work for the tobacco companies.
+18	Q. Okay. So it was your understanding
+19	that the material provided to you by Julia Tyler
+20	was being provided to you on behalf of the
+21	tobacco companies?
+22	MS. LAWSON: Object to form.
+23	A. No, that's not my understanding or
+24	what I'm saying.
+0083
+1	Again, when I was approached to
+2	work -- to do some research as an expert on a
+3	particular Massachusetts case, I asked her if
+4	any of the Globe microfilms had been done.
+5	And some of them had been, not all of
+6	them, because I did quite a few of them myself,
+7	but I did get some copies of microfilms or
+8	microfilm copies.
+9	And as I said, I was very careful,
+10	again, treating it as I would any source to, you
+11	know, double check. And I double checked a lot
+12	of these sources. I did my due diligence on
+13	them so that I was sure that they had done a
+14	thorough job.
+15	Q. What evidence do you have that George
+16	Ciccone read sections from Ebony Magazine,
+17	number 11 on your section two, newspapers,
+18	magazines and periodicals?
+19	MS. LAWSON: Object to form.
+20	A. Again, Ebony is part -- of course it's
+21	an African American magazine generally.
+22	It's part of the information, you
+23	know, a universe of information regarding
+24	smoking and health and addiction that is part of
+0084
+1	public awareness.
+2	And, again, that's what I was asked to
+3	determine, public awareness regarding smoking
+4	and health issues and addiction to cigarettes,
+5	and Ebony is part of that information
+6	environment, and that's what I was researching
+7	here, again, the larger information environment.
+8	Q. I understand that, ma'am. And I think
+9	we're going to be here way longer than we need
+10	to be.
+11	I have a simple question for you, and
+12	it is do you have any direct evidence that
+13	George Ciccone while he was alive read any
+14	sections from Ebony Magazine? Yes or no, and
+15	we'll move on.
+16	MS. LAWSON: Object to form.
+17	A. No, I do not have any direct
+18	information regarding that.
+19	But, again, Ebony, and I think if you
+20	look at the dates I have here for Ebony, '74 to
+21	'86, this was part of the information
+22	environment, again one piece, and I have quite a
+23	few pieces here, I think, of the information
+24	environment that could be accessed easily by
+0085
+1	anyone regarding issues of smoking and health
+2	and addition.
+3	Q. Number 15, Ladies Home Journal, was
+4	George Ciccone a reader of Ladies Home Journal
+5	to your knowledge, yes or no?
+6	A. Not to my knowledge.
+7	But, again, I would say that Ladies
+8	Home Journal is part of this larger information
+9	environment. That's what I was asked to
+10	research. That's what I was asked to draw my
+11	conclusions about, public awareness. And Ladies
+12	Home Journal is part of that story.
+13	So I could take something like Ladies
+14	Home Journal or Ebony and that's where you see
+15	discussions of the Surgeon General's report,
+16	discussions of how to quit smoking, smoking is
+17	bad for you.
+18	Again, it's a good example of how
+19	widely and how deeply these messages regarding
+20	smoking and health and addiction were
+21	disseminated to the public.
+22	Q. Simple question, yes or no, do you
+23	have any direct evidence --
+24	A. I answered it.
+0086
+1	Q. This is another question.
+2	A. I'm sorry. I apologize.
+3	Q. Simple question, and then we can move
+4	on, yes-or-no answer, if you can, do you have
+5	any direct evidence that George Ciccone read
+6	while he was alive any of the publications
+7	listed under your section two on your resource
+8	list?
+9	MS. LAWSON: Object to form.
+10	A. Well, again, going back to
+11	depositions, his brother Paul said that they did
+12	get the newspaper when they were living up in
+13	Leominster. The Worcester Telegram would have
+14	been the newspaper that likely -- almost likely
+15	they would have -- pretty much the only
+16	newspaper in Worcester County, as far as I know
+17	at that time. So I do know that much. So yes,
+18	the answer is yes.
+19	Q. That would be the only evidence you
+20	have, or do you have other evidence?
+21	A. He just said that there were
+22	newspapers in the home at that time.
+23	And, again, I assume it would be the
+24	Worcester Telegram because that was the
+0087
+1	newspaper for Worcester County where they lived.
+2	It could have also been the Globe or
+3	the Herald.
+4	If I may finish because I'm not quite
+5	finished. I guess my point would be, again,
+6	that my very specific question that I was asked
+7	to research was to talk about public awareness
+8	in this period with particular focus on the
+9	years between 1946 and 2002.
+10	Mr. Ciccone's life span and all of
+11	these newspapers and magazines and periodicals
+12	that I have noted here were part of that
+13	information environment where I would argue,
+14	again, or I would contend certainly based on my
+15	research that, you know, there was awareness
+16	regarding the risks of smoking and the addictive
+17	nature of smoking.
+18	Q. I know you've repeated that several
+19	times, and I think I clearly understand your
+20	position. What I'm trying to get at is as to
+21	George Ciccone specifically, what evidence do
+22	you have that he read, listened to, saw, checked
+23	the Internet on any of the items listed on your
+24	resource list?
+0088
+1	MS. LAWSON: Object to form.
+2	A. Again, you know, I know I'm repeating
+3	myself, but I need to, apparently.
+4	Mr. Ciccone was part of the public in
+5	this time period. He is part of this -- he
+6	would have had access to this kind of
+7	information.
+8	Again, this is something that's not --
+9	these are not obscure discussions going on in
+10	this time period. People are talking about
+11	smoking and health, they're joking about it
+12	sometimes, they're writing songs about it, it
+13	shows up in cartoons, all different forms, I
+14	think, are reflected in my resources.
+15	So I would say in answer to your
+16	question is Mr. Ciccone was part of the public
+17	that had access to this kind of information and
+18	public awareness regarding these issues.
+19	Q. Are you aware, ma'am, of the Waxman
+20	hearings?
+21	A. Yes.
+22	Q. Did you include those in your
+23	research?
+24	A. Yeah. They were in the '90s, and I
+0089
+1	certainly, you know, did my newspaper research
+2	and magazine research, et cetera, through that
+3	period, yeah.
+4	Q. If everybody knew that smoking was
+5	addictive and caused disease, why do you suppose
+6	the seven CEOs of the tobacco companies swore
+7	under oath in front of Congress that it didn't?
+8	MS. LAWSON: Object to form.
+9	A. First of all, I don't make the claim
+10	that everybody knew. What people choose to do
+11	with knowledge -- what people choose to do with
+12	information that's out there is a very personal
+13	matter.
+14	In terms of George Ciccone, his
+15	brother said that they talked about the Surgeon
+16	General's report, as an example of what one
+17	chooses to believe or not to believe, they
+18	talked about the Surgeon General's report, they
+19	talked about labels. His brother Paul said we
+20	decided to ignore them.
+21	So you can have that information out
+22	there, public awareness can be out there
+23	regarding these issues, and what you choose to
+24	do with them is another matter. Again,
+0090
+1	that's -- I'm talking about the public
+2	awareness.
+3	The second part of your question, why
+4	the tobacco executives said what they did?
+5	Again, that's belief. I don't know what was
+6	inside their heads. I don't know what they
+7	believed at that time. And, again, it's beyond
+8	my area of expertise as a historian to speculate
+9	about that.
+10	Again, I can tell you what I feel
+11	public awareness was regarding smoking and
+12	health and addiction at the time of the Waxman
+13	hearings, you know, but again, why the tobacco
+14	industry chose to do that I can't tell you.
+15	Q. As a historian, can you tell me, was
+16	there a point in time in history when the
+17	tobacco companies knew or understood that
+18	cigarettes were addictive and caused disease?
+19	MS. LAWSON: Object to form.
+20	A. Again, you know, I keep repeating this
+21	ad nauseam, and I apologize if it's feeling ad
+22	nauseam to you, but my question was about public
+23	awareness. And so my role as a historian was to
+24	research information that was available in the
+0091
+1	public domain.
+2	So I don't know what the tobacco
+3	industry was doing or thinking. Again, that was
+4	not in my -- part of what I do as a social
+5	historian, which is about public awareness.
+6	Q. What is the Frank statement?
+7	A. The Frank statement was published in
+8	almost every national newspaper in the mid '50s,
+9	I think it was '54, but in the mid '50s from the
+10	tobacco industry. I think it was maybe the
+11	Tobacco Industry Research Council at that point
+12	saying -- well, it was published in newspapers
+13	in the mid '50s.
+14	Q. And what significance does the Frank
+15	statement have to your opinions in this case?
+16	MS. LAWSON: Object to form.
+17	A. Well, I included the Frank statement,
+18	again, as part of the information environment
+19	that was out there. It's certainly part of the
+20	story. I include it, again, as a voice that's
+21	out there that the public has access to
+22	regarding these issues.
+23	Again, I look at it within the much
+24	broader context, the broad context of
+0092
+1	information that was out there, the way people
+2	are talking about smoking and health issues, the
+3	way these things are being reported.
+4	In terms of impacting public opinion
+5	or impacting public awareness regarding smoking
+6	and health, I see it as one voice and, again, in
+7	my expert opinion is a singular voice and really
+8	did not have any major impact in terms of
+9	changing public awareness regarding smoking and
+10	health or addiction.
+11	Q. I noticed on your reliance list,
+12	ma'am, that you did not include one single
+13	internal tobacco document. Why was that?
+14	MS. LAWSON: Object to form.
+15	A. Again, the question I was asked to
+16	research was public awareness regarding these
+17	issues.
+18	And public awareness is, again, based
+19	on the knowledge or the information that's out
+20	there, the public information that's readily
+21	available to people regarding these issues.
+22	I didn't look at internal documents
+23	for the tobacco industry, just as I did not look
+24	at internal documents for the American Cancer
+0093
+1	Society or the Massachusetts Department of
+2	Public Health or the Florida Department of
+3	Public Health.
+4	If there were statements made by the
+5	tobacco industry that appeared in the press,
+6	appeared in newspapers, appeared in Reader's
+7	Digest, appeared on national news, news
+8	programs, I included them, again, because
+9	they're part of this information environment,
+10	this wealth of information that's out there
+11	regarding these issues.
+12	Q. Well, you know that the tobacco
+13	industry has many historical documents relating
+14	to the subject we're talking about here today,
+15	you know that, right?
+16	MS. LAWSON: Object to form.
+17	A. Again, my focus is on the publicly
+18	disseminated information. That's how I as a
+19	historian was asked to determine public
+20	awareness regarding these issues.
+21	This is information, again, that's out
+22	in the public. That is what is, you know,
+23	shaping this notion, creating this notion of
+24	public awareness regarding these issues. So
+0094
+1	that's what I focused on. That's what I looked
+2	at.
+3	Again, if the tobacco industry made a
+4	public statement, I included that, again, as
+5	part of the information of the environment.
+6	Q. So did you include Ed Horrigan, the
+7	CEO for R.J. Reynolds, Nightline interview with
+8	Ted Koppel in 1984 when he said there was no
+9	proven link between smoking cigarettes and lung
+10	disease? Did you include that in your research?
+11	MS. LAWSON: Object to form.
+12	A. I have reviewed that 1984 Nightline
+13	with Ted Koppel where Ed Horrigan is
+14	interviewed. Yes, I included that. Again,
+15	that's public information. The public watches
+16	Nightline. It's information they get.
+17	Again, I view that program and even Ed
+18	Horrigan's testimony within the larger or
+19	conversation with Ted Koppel within the larger
+20	context, and even that program, as I recall, the
+21	head of the American Cancer Society was also on
+22	that program, there were a number of doctors, a
+23	couple people from Sloane-Kettering.
+24	Ed Horrigan is one voice. He's
+0095
+1	actually, you know, one of only about five or
+2	six people that are actually on that program.
+3	He's one voice, you know, again, giving his
+4	opinions. And, you know, again, in terms of
+5	impacting public awareness, he's a singular
+6	voice.
+7	And I conclude, again, in my findings
+8	that the tobacco industry is one voice. Their
+9	voice regarding -- is not reiterated or reechoed
+10	or supported from other -- in other sources.
+11	And they're a voice that, again,
+12	looking at this whole issue of public awareness
+13	over decades, it seems very clear to me as a
+14	historian, again, in looking at the tobacco
+15	industry voice that in the '50s, when the
+16	scientific studies first began to be publicized,
+17	the Mount Pinning studies and things like that,
+18	you know, the Frank statement comes out, that
+19	oftentimes newspapers would give the tobacco
+20	industry a whole article, be side by side
+21	sometimes with the scientific findings.
+22	That voice in my opinion of the
+23	tobacco industry, again, as it's disseminated to
+24	the public declined significantly over time. By
+0096
+1	the 70s, the tobacco industry often has
+2	statements, you know, regarding some of the
+3	scientific studies asking sometimes for more
+4	research.
+5	It's a voice that I think really
+6	diminishes over time in terms of the information
+7	that's out there for the public. Certainly by
+8	1984 I think the tobacco industry's voice is one
+9	that has diminished significantly.
+10	Q. Is it important to tell the truth?
+11	MS. LAWSON: Object to form.
+12	A. Yes.
+13	Q. Is it important to tell the truth in
+14	public statements?
+15	MS. LAWSON: Object to form.
+16	A. Again, you're asking me personally or
+17	as an expert witness?
+18	Q. As an expert witness, is it
+19	important -- as an expert witness, is it
+20	important for you to rely upon truthful
+21	information when you make your decisions in
+22	cases?
+23	MS. LAWSON: Object to form.
+24	A. As an expert witness, and I think I've
+0097
+1	gone over this a couple of times, I follow the
+2	historical method, which, again, is about, you
+3	know, seeking out a wide variety of sources,
+4	making sure that you are approaching a
+5	particular topic without bias, to try to be
+6	aware if there is any bias, to be very conscious
+7	to make sure that there isn't bias in the way
+8	you approach a particular topic and, again, you
+9	know, as a historian, as an expert witness to,
+10	again, look at -- do as thorough job in your
+11	research as you possibly can.
+12	Q. Well, Mr. Horrigan was not telling the
+13	truth in that Nightline interview with Ted
+14	Koppel in 1984, was he?
+15	MS. LAWSON: Object to form.
+16	A. Again, I'm a historian. I don't know
+17	what Mr. Horrigan believed. I can't attest to
+18	what he believed or didn't believe at that time.
+19	Again, I think public awareness was
+20	such that, again, if you read that -- see that
+21	interview, you know, Ted Koppel seems rather
+22	astonished at some of the things that
+23	Mr. Horrigan is saying, and the other experts
+24	seem just as -- you know, that public -- as I
+0098
+1	recall and certainly have read about in my
+2	research in 1994, when the tobacco executives
+3	said they didn't think tobacco was addictive, it
+4	became a joke, you know. People like David
+5	Letterman and the late night kinds of comics
+6	were making jokes about it.
+7	So, again, as a historian, I see that
+8	and say, well, you know, if people think it's
+9	ridiculous to make that kind of statement, that
+10	seems to be the public reaction to, you know, a
+11	statement that tobacco is not addictive, then
+12	that's telling me that public awareness is such
+13	that they think that tobacco is addictive and
+14	cigarettes are addictive.
+15	Q. You are not implying that 400,000
+16	deaths per year according to the Surgeon General
+17	from smoking cigarettes is a joke, you are not
+18	implying that, are you?
+19	MS. LAWSON: Object to form.
+20	A. No, that's not what I said at all.
+21	And that's certainly not what I meant to say.
+22	I'm saying that when one looks at the
+23	public reaction to the Waxman hearings, the fact
+24	that the tobacco executives who said that were
+0099
+1	ridiculed. They were ridiculed by late night
+2	comics. They were ridiculed in political
+3	cartoons. They were ridiculed in Doonesbury,
+4	the comic strip. That tells me that public
+5	awareness is such that they discount that kind
+6	of statement, that they believed smoking was
+7	addictive.
+8	Q. Do you know if George Ciccone knew
+9	about the --
+10	MS. LAWSON: I think the TV froze.
+11	(Technical difficulties)
+12	(Recess taken)
+13	BY MS. LAWSON:
+14	Q. I'm going to go a little quicker
+15	because I don't want to take up necessarily too
+16	much of your time, but I would like to continue
+17	where we left off briefly.
+18	Do you know of any evidence that
+19	George Ciccone knew about the 1984 Nightline
+20	interview with Ted Koppel?
+21	MS. LAWSON: Object to form.
+22	A. Again, I don't know whether he watched
+23	it. I know his wife mentioned that she had
+24	watched it. I can't quite recall if they both
+0100
+1	watched it or not. I know it's mentioned in his
+2	deposition. That's all I can recall at the
+3	moment.
+4	Q. Do you know whether George Ciccone
+5	chose to believe the R.J. Reynolds executive
+6	Horrigan or the doctors that were on that
+7	program as to the risks of smoking? Do you know
+8	one way or the other?
+9	MS. LAWSON: Object to form.
+10	A. Again, you know, I don't know what
+11	George Ciccone, you know, chose to believe or
+12	not regarding that particular program.
+13	I do know, again, based on his brother
+14	Paul's testimony that they talked about the '64
+15	Surgeon General's report. They talked the about
+16	warning labels. And according to Paul, they
+17	chose to ignore them.
+18	Again, getting into belief. An
+19	individual's belief is not my particular role in
+20	this case. I'm talking about -- I've been asked
+21	to research and come to conclusions about public
+22	awareness.
+23	George Ciccone is part of the public,
+24	again, and I stress that, but what he chose to
+0101
+1	do with that information, again, is not in my
+2	area.
+3	Q. You would agree that there's a
+4	difference between common knowledge and belief?
+5	MS. LAWSON: Object to form.
+6	A. I think there is a difference between
+7	common knowledge and belief, yes.
+8	Q. What is your definition of common
+9	knowledge?
+10	A. I would define it the same way as I
+11	defined public awareness, that it's based on,
+12	you know, the information that's readily
+13	available to people, that it's information,
+14	again, that's broadly disseminated, deeply
+15	disseminated, messages that are repeated,
+16	echoed, reiterated over time.
+17	And that common knowledge as well as
+18	public awareness is really evident, again, in
+19	the way that people talk about these issues.
+20	The actions that they take also, again, are
+21	evidence of things like public awareness or
+22	common knowledge.
+23	Q. Is there any scientific basis to your
+24	definition of common knowledge and public
+0102
+1	awareness?
+2	MS. LAWSON: Object to form.
+3	A. Again, I'm not sure what you mean by
+4	scientific. I guess I'd ask you to define that.
+5	I think of science as a different
+6	field. I guess I just would like to know what
+7	you mean by science, by scientific.
+8	Q. In a history of science context, do
+9	you know of any basis in a history of science
+10	context for your definition of common knowledge
+11	and public awareness?
+12	MS. LAWSON: Object to form.
+13	A. Again, I think I've already said I'm
+14	not a historian of science.
+15	Q. Is there any historical basis for your
+16	definition of common knowledge and public
+17	awareness?
+18	A. Yes.
+19	MS. LAWSON: Object to form.
+20	A. It's a concept that I certainly use in
+21	my own research. It's certainly a concept that
+22	I use in my teaching.
+23	Q. Did you just make it up, or is it
+24	based on something else?
+0103
+1	MS. LAWSON: Object to form.
+2	A. No, I didn't make it up. It's
+3	commonly used by historians.
+4	Q. Commonly used by which historians?
+5	A. Well, again, I'll speak for social
+6	historians because that's what I am, that,
+7	again, is my area of expertise, so I would say
+8	it's commonly used by social historians.
+9	Q. Okay. Can you point to a document,
+10	any scholarly literature that supports your
+11	definition of common knowledge and public
+12	awareness?
+13	A. I think it's something that is so
+14	deeply embedded in social history. I think one
+15	way that it's often portrayed or the label that
+16	is sometimes put on it is mentalitie, which is a
+17	concept, again, that comes from French
+18	historians in the early Twentieth Century which
+19	is a sense of, you know, recreating, and this is
+20	crucial in social history, kind of recreating
+21	the mental universe of people in any given, you
+22	know, particular historical moment, again, what
+23	kind of information was out there, what
+24	information, you know, shaped their actions.
+0104
+1	Q. Is there any peer reviewed basis to
+2	your definition of common knowledge or public
+3	awareness that you are aware of?
+4	MS. LAWSON: Object to form.
+5	A. Peer reviewed. I'm just not sure
+6	right now. I can't come up with a title of a
+7	book right at the moment.
+8	Q. Other than that French book you just
+9	talked about, can you point to any other
+10	scholarly literature, articles of any sort that
+11	support your common knowledge, public awareness
+12	definition?
+13	MS. LAWSON: Object to form.
+14	A. Again, just to clarify, it's not a
+15	French book. This is a historical theory that
+16	was actually constructed, conceptualized by
+17	French historians. It's been used very widely
+18	ever since in the early Twentieth Century.
+19	Again, it's not a book that does this. It's a
+20	concept.
+21	I would say that I use it in I think
+22	my own historical writing, I certainly, you
+23	know, reference public awareness in the sense of
+24	the book that you mentioned very early on this
+0105
+1	morning, my most recent book, First Fruits of
+2	Freedom. You know, one of the things --1
+3	certainly use the concept of public awareness in
+4	that book when I am talking about sort of public
+5	awareness regarding African Americans in the
+6	North at the time of the civil war.
+7	Again, I look at what kind of
+8	information was out there. Uncle Tom's Cabin is
+9	a big part of that universe of knowledge, of
+10	information that's out there that help shape
+11	people's ideas about African Americans and
+12	slaves.
+13	And one of the things I do in that
+14	book is talk about how white soldiers who
+15	marched South, you know, what their sort of
+16	public awareness is or their common knowledge,
+17	either one, about black people. And I show, you
+18	know, what they -- how they thought, you know,
+19	what their common knowledge was about African
+20	Americans. And I show over the course of my
+21	book how some of that changes over time and why
+22	it changes over time.
+23	So certainly that concept is deeply
+24	embedded in my own research and writing.
+0106
+1	Q. Aside from this French theory from the
+2	1800s, are you aware of any other commonly
+3	accepted definitions of common knowledge?
+4	MS. LAWSON: Object to form.
+5	A. Again, it's not from the Eighteenth
+6	Century. I'm sorry to keep correcting you. I
+7	don't want to be a nickeling historian here, but
+8	it really was from the 1920's and '30s that
+9	mentalitie is actually being -- that idea is
+10	being disseminated among historians and
+11	historians have adopted it ever since.
+12	Q. Let me try the question a different
+13	way.
+14	Other than this French theory from the
+15	1920s, are there any other commonly accepted
+16	definitions of common knowledge that are widely
+17	used in the social sciences?
+18	MS. LAWSON: Object to form.
+19	A. Again, I use it in my --1 speak out
+20	of my experience as a professor and writer. I
+21	use it all the time when I teach.
+22	I tell students -- one of the hardest
+23	things we have to do as students of history is,
+24	you know, trying to transport ourselves back
+0107
+1	into kind of the mental universe of any given
+2	historic period and not to impose our own ideas
+3	upon them.
+4	And the way we do that is to look at
+5	the information environment that was out there,
+6	the information that people had access to.
+7	So it's something I teach all the
+8	time. It's probably the hardest thing that we
+9	do as students of history is trying to recreate
+10	that mental universe. It's crucial to
+11	understanding people in the past because they
+12	didn't think the same way we do. They didn't
+13	have access to the same knowledge, same
+14	information that we do. They didn't take away,
+15	you know, their various kinds of beliefs from
+16	that information that we have.
+17	So, again, I think it's something
+18	that's just deeply embedded in the study of
+19	history.
+20	Q. I don't respectfully think you
+21	answered my question, but I'll try it one more
+22	time.
+23	MR. WICHMANN: Madam court
+24	reporter, could you read back my last question
+0108
+1	to the doctor, please.
+2	(Record read)
+3	MS. LAWSON: Object to form.
+4	A. Again, I speak as a historian. I'm
+5	not a sociologist, I'm not an economist, again,
+6	thinking about other aspects of social sciences.
+7	I have defined the term I think very
+8	clearly. I have shown, I think, how I've used
+9	it and how historians use it. I certainly am
+10	not alone, I hope I've made the point, in using
+11	this concept and teaching it.
+12	I cannot speak to the other social
+13	sciences because I'm not, you know, an expert in
+14	those particular disciplines.
+15	Q. Other than this French theory from the
+16	1920s, are there any other commonly accepted
+17	definitions of common knowledge used in the
+18	historical context?
+19	MS. LAWSON: Object to form.
+20	A. Again, I think I've explained how I
+21	define it, how I use it, how other social
+22	historians use it, and that's what I can speak
+23	to.
+24	Q. Okay. Are you aware of any other
+0109
+1	possible definitions out there for the term in
+2	your area of expertise, or is what you have
+3	described for us today the black letter law when
+4	it comes to the definition of common knowledge?
+5	MS. LAWSON: Object to form.
+6	A. No, I don't think there is a black
+7	letter law when it comes to common knowledge.
+8	I think any historian, and I think
+9	it's probably true in any discipline, it's
+10	crucial that you define your terms, and it's
+11	clear in your research and your -- the
+12	conclusions that you draw how you define your
+13	terms.
+14	And I think I have. I think it's very
+15	clear how I've defined my terms, and I think --
+16	again, I think I've given you some good examples
+17	as to how I incorporate the notion of common
+18	knowledge or public awareness in my own
+19	research, how I've incorporated it in my
+20	teaching and how other social historians
+21	incorporate it.
+22	Q. Let's talk about what we can agree on.
+23	A. Okay.
+24	Q. Can we agree that historians should
+0110
+1	consider wide variety of sources?
+2	MS. LAWSON: Object to form.
+3	A. Again, I think that's generally true,
+4	that you do look at a wide variety of sources.
+5	But it's very much dependent upon the
+6	research question that you're pursuing. Some
+7	sources are obviously going to be relevant,
+8	others are not. That's part of what you have to
+9	do as a historian.
+10	Q. Can we agree that as a historian, it's
+11	important for you to approach a subject without
+12	bias?
+13	MS. LAWSON: Object to form.
+14	A. I would agree that historians should
+15	approach topics without bias.
+16	Q. And we've already agreed, I think,
+17	that there is a difference between common
+18	knowledge and belief?
+19	MS. LAWSON: Object to form.
+20	BY MR. WICHMANN:
+21	Q. Correct?
+22	A. Yes, I do think there's a difference.
+23	Q. You did list the Surgeon General's
+24	report on your resource list, correct?
+0111
+1	MS. LAWSON: Object to form.
+2	A. Several of them. Which one are you
+3	referring to?
+4	Q. I think it's Exhibit 1 to this
+5	deposition.
+6	MS. LAWSON: I think the question
+7	was which Surgeon General's report.
+8	A. Which Surgeon General's report?
+9	Q. Did you not list the Surgeon General's
+10	report on your resource list?
+11	MS. LAWSON: Object to form.
+12	A. I listed a number of them. I was
+13	asking which one you were referring to
+14	specifically.
+15	Q. How about the 1989 one.
+16	A. Yes, I did.
+17	Q. Did you read chapter four of the 1984
+18	Surgeon General's report?
+19	A. I did read that Surgeon General's
+20	report, so I assume that I did read that
+21	chapter.
+22	Q. Do you agree or disagree with the
+23	Surgeon General where he wrote in 1989 that
+24	there was little data to support the idea that
+0112
+1	people believe the US Surgeon General determined
+2	cigarette smoking was dangerous to health?
+3	Would you agree with that?
+4	MS. LAWSON: Object to form.
+5	A. And I don't agree -- no, I don't agree
+6	with that statement.
+7	Again, I would have to look at the
+8	Surgeon General's report. I am not sure --1
+9	don't know what the context of that particular
+10	quote is. So, again, you know, I would have to
+11	see it and see the context.
+12	But, again, based on my research, I
+13	think my research stands on its own, again,
+14	about how broadly disseminated this message was.
+15	So much so that in 1964 when that report came
+16	out, when the Surgeon General Terry says there's
+17	a causal link between smoking and lung cancer in
+18	men, the Worcester Telegram says, you know, this
+19	wasn't anything -- anything that anyone didn't
+20	expect.
+21	And, again, that's something that gets
+22	repeated in a number of places, a number of
+23	editorials. The Boston Herald also has some
+24	responses that way. Time Magazine says the same
+0113
+1	thing, well, we knew, this just confirms it,
+2	this is now just coming from the Surgeon General
+3	sort of making it official. So, again, in terms
+4	of your specific quote, I would need to look at
+5	that in context.
+6	But, again, given the research that
+7	I've done and in a wide variety of sources, the
+8	fact that Ann Landers, Dear Abby, Dear
+9	Dr. columns are constantly telling people to
+10	quit smoking, it's bad for them, it's addictive,
+11	my conclusions are that there was public
+12	awareness regarding the dangers of cigarette
+13	smoking.
+14	Q. So is it fair to say you would
+15	disagree with this statement, that statement
+16	being in 1989, substantial numbers of smokers
+17	were still unaware of or did not accept
+18	important health risks of smoking?
+19	MS. LAWSON: Object to form.
+20	A. Again, I'll say I would need to see
+21	where that sentence is in the Surgeon General's
+22	report, what the context of that particular
+23	statement was before I would comment on it.
+24	And secondly, I'm not sure how
+0114
+1	substantial is being defined there. There would
+2	be too many questions there for me to say yes or
+3	no.
+4	Again, I think I've made it clear
+5	where I stand and where my research led me --
+6	the conclusions my research led me to.
+7	Q. Exhibit Number 3, your disclosure,
+8	would you refer to that, please?
+9	A. Okay. I have it.
+10	Q. Take a look, please, at paragraph two,
+11	"Dr. Greenwood is expected to testify that."
+12	A. Okay.
+13	Q. Take your time, read it through.
+14	(Pause)
+15	A. Okay.
+16	Q. Is that an accurate summary of what
+17	you intend to testify to in court in the Ciccone
+18	case here in Fort Lauderdale, Florida?
+19	A. Yes, I think it is.
+20	Q. Look, please, at paragraph three of
+21	the disclosure. It's three lines long.
+22	A. Okay.
+23	Q. Same question, is that an accurate
+24	summary of what you intend to testify to here in
+0115
+1	Fort Lauderdale in the Ciccone versus RJ.
+2	Reynolds case?
+3	A. Yes.
+4	MR. WICHMANN: Thank you, Doctor.
+5	I have nothing further.
+6	THE WITNESS: Thank you.
+7	MS. LAWSON: I don't have any
+8	questions, and we'll read and sign.
+9	(Whereupon the deposition was
+10	concluded at 12:40 p.m.)
+0116
+1	CERTIFICATE
+2	I, JANETTE THOMAS GREENWOOD, do hereby
+3	certify that I have read the foregoing
+4	transcript of my testimony, and further certify
+5	that it is a true and accurate record of my
+6	testimony (with the exception of the following
+7	corrections):
+8	Page Line	Correction/Reason
+	9________________
+1	0________________
+11________________
+12________________
+1	3________________
+1	4________________
+1	5________________
+1	6________________
+1	7________________
+1	8________________
+1	9________________
+20	Signed under the pains and penalties of
+21	perjury this___day of_____, 2011.
+22
+23	__________
+24	JANETTE THOMAS GREENWOOD 0117
+1	COMMONWEALTH OF MASSACHUSETTS)
+2	SUFFOLK, SS.	)
+3
+4	I, Daria L. Romano, RPR, CRR and Notary
+5	Public in and for the Commonwealth of
+6	Massachusetts, do hereby certify that there came
+7	before me on the 31st day of March, 2011, at
+8	10:08 a.m., the person hereinbefore named was
+9	duly sworn by me and that such deposition is a
+10	true record of the testimony given by the
+11	witness.
+12	I further certify that I am neither related
+13	to nor employed by any of the parties or counsel
+14	to this action, nor am I financially interested
+15	in the outcome of this action.
+16	In witness whereof, I have hereunto set my
+17	hand and seal this 4th day of April, 2011.
+18
+20	________
+21	Notary Public
+22	My Commission Expires
+23	March 15, 2013

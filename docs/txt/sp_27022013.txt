@@ -1,0 +1,9704 @@
+Page 1
+1
+IN THE CIRCUIT COURT OF THE
+ELEVENTH JUDICIAL CIRCUIT, IN AND
+2 FOR MIAMI-DADE COUNTY, FLORIDA
+3 CIRCUIT CIVIL DIVISION
+4 CASE NO.:
+10-54813 CA 31
+5
+6
+CHARLENE A. WENDEL, as Personal
+Representative of the Estate of
+7
+CAROL WENDEL, deceased, and
+on behalf of CHARLES G. WENDEL,
+8
+Plaintiff,
+9
+vs.
+10
+R.J. REYNOLDS TOBACCO COMPANY,
+11
+12
+13
+et al.,
+Defendants.
+_____________________________________/
+14
+15
+16
+The deposition of LUIS MARTÍNEZ-FERNÁNDEZ, Ph.D.,
+17 taken pursuant to Notice on behalf of the Plaintiff on
+18 Wednesday, February 27, 2013, beginning at 10:02 a.m.,
+19 at Central Florida Reporters, 105 East Robinson
+20 Street, Suite 503, Orlando, Florida 32801, before Lisa
+21 Craft, Court Reporter and Notary Public, State of
+22 Florida at Large.
+23
+24
+25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 2
+1
+2
+3
+4
+5
+6
+7
+8
+A P P E A R A N C E S:
+DAVID J. FINGER, ESQUIRE, and
+ALLAN B. KAISER, ESQUIRE
+The Ferraro Law Firm
+4000 Ponce de Leon Boulevard, Suite 700
+Miami, Florida 33146
+Appearing Via Video Conference
+For the Plaintiff
+DOUGLAS J. CHUMBLEY, ESQUIRE
+Carlton Fields, P.A.
+100 S.E. Second Street, Suite 4200
+Miami, Florida 33131
+9
+For the Defendant/R.J. Reynolds Tobacco Company
+10
+11
+12
+BRIAN JACKSON, ESQUIRE
+Shook, Hardy & Bacon, LLP
+201 South Biscayne Boulevard, Suite 2400
+Miami, Florida 33131
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Appearing Via Speakerphone
+For the Defendant/Philip Morris USA, Inc.
+JAMES SMALL, ESQUIRE
+Jones Day
+1420 Peachtree Street, N.E., Suite 800
+Atlanta, Georgia 30309
+Appearing Via Speakerphone
+For the Defendant/R.J. Reynolds Tobacco Company
+RACHEL JACOBSON, ESQUIRE
+Kasowitz, Benson, Torres & Friedman, LLP
+1441 Brickell Avenue, Suite 1420
+Miami, Florida 33131
+22
+23
+Appearing Via Speakerphone
+For the Defendant/Liggett Group, LLC, and Vector
+Group, Ltd.
+24
+25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 3
+1
+2
+3
+I N D E X
+TESTIMONY OF LUIS MARTÍNEZ-FERNÁNDEZ, Ph.D.
+Direct Examination by Mr. Finger
+4
+4 CERTIFICATE OF OATH 132
+5 CERTIFICATE OF REPORTER 133
+6 ERRATA PAGE 134
+7
+8
+9
+10 E X H I B I T S
+11 (NONE MARKED)
+12
+13
+14
+15 S T I P U L A T I O N S
+16 It is hereby agreed and so stipulated by and
+17 between the parties hereto, through their respective
+18 counsel, that the reading and signing of the
+19 transcript are expressly reserved by the Deponent.
+20
+21
+22
+23
+24
+25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 4
+1 P R O C E E D I N G S
+2 *********
+3
+MR. JACKSON:
+Doug, I wonder if we can
+4 put on the record that if you object, it
+5 covers all defendants?
+6 little difficult time hearing Mr. Finger, and
+7 I have a feeling that I'll be a little bit
+8 slow in interrupting if I have to do it
+9 separately.
+10
+11
+MR. FINGER:
+everybody.
+Because I'm having a
+Yeah, one objection covers
+That's fine.
+12 MR. JACKSON:
+Thank you.
+13 COURT REPORTER:
+14 THE DEPONENT:
+15 COURT REPORTER:
+Raise your right hand.
+(Complies.)
+Do you swear or affirm
+16 that the testimony you are about to give is
+17 the truth, the whole truth, and nothing but
+18 the truth?
+19
+THE DEPONENT:
+20
+I do.
+LUIS MARTÍNEZ-FERNÁNDEZ, Ph.D.,
+21 having been first duly sworn, testified under oath as
+22 follows:
+23
+24
+25
+DIRECT EXAMINATION
+BY MR. FINGER:
+Q
+Would you tell me your name and occupation,
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 5
+1
+2
+3
+please.
+A
+My name is Luis Martínez-Fernández, and I am
+a university professor.
+4 Q What university?
+5 A University of Central Florida.
+6 Q How long have you been a professor at the
+7
+University of Central Florida?
+8 A Since 2004.
+9 Q And before that, did you teach at any other
+10 colleges, universities, or any other institutions of
+11 higher education?
+12 A
+13 University.
+14 before that, Augusta College.
+15
+16
+Q
+Yes.
+Before that, I taught at Rutgers
+And before that, Colgate University.
+And
+And you are a full professor at Central
+Florida?
+17 A Yes.
+18 Q How long have you been a full professor as
+19
+opposed to an associate or assistant professor?
+20 A
+I became a full professor at Rutgers
+21 University.
+22 years of the century, 2001 --
+The year must have been first couple of
+23 Q First couple --
+24 A -- 2002.
+25 Q Okay.
+When were you first -- well, let's
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 6
+1
+strike that.
+2
+3
+Are you currently teaching any courses at
+Central Florida?
+4 A Yes.
+5 Q What courses are you teaching?
+6 A I teach history and historians, and I teach
+7
+a history of Puerto Rico.
+8
+9
+Q
+And how many different classes or courses
+are you currently teaching?
+10 A This semester, I'm teaching three.
+11 Q And are they upper classmen or freshmen or
+12 sophomores?
+13 A Upper classmen.
+14 Q Okay.
+And what are the three courses that
+15 you're currently teaching.
+16 catalog, how would they title those courses?
+17
+18
+A
+If I looked in the
+I'm teaching two sections of history and
+historians, and one section of Puerto Rican history.
+19
+Q
+Okay.
+20 case?
+21 first hired?
+When were you first hired in this
+We're here on the Wendel case.
+When were you
+22 A I -- this would have been --
+23 Q Feel free -- by the way, Doctor, feel free
+24 to refer to any books, records, notes, documents, or
+25 anything you might have to refresh your recollection.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 7
+1 A Thank you.
+2 Q When were you first hired?
+3 A This particular Wendel case, you mean?
+4 Q Yes.
+5 A I had the first conversation about this
+6 case, it was either January of 2012 or perhaps the
+7 previous year, say December.
+8
+9
+10
+11
+12
+Q
+That's a ballpark.
+Do you have any records or documents or
+notes that would reflect when specifically that
+happened?
+A
+What I do have is the -- the disclosure
+document.
+13 Q Who drafted that?
+14 A This is something that I've put together.
+15 Q Did you bring it with you?
+16 A Yes, sir.
+17
+MR. CHUMBLEY:
+Let the record reflect
+18 that they have the disclosure as well.
+19 was served in January of 2012.
+20
+21
+22
+23
+24
+25
+It
+BY MR. FINGER:
+Q
+Okay.
+And that was drafted by you, not by
+any attorney?
+A
+It -- it was drafted by me using copies from
+previous cases and adapting those to the Wendel case.
+Q
+How much time have you spent as of right
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 8
+1
+now on the Wendel case?
+2 A Approximately 260 hours.
+3 Q And how much are you being compensated per
+4
+hour?
+5 A $225.
+6 Q Per hour?
+7 A Yes.
+8 Q Were you to testify at trial, what would
+9
+your rates be?
+10 A It's the same rate.
+11 Q What are you charging me for your
+12
+deposition time today?
+13 A The same rate, 225.
+14 Q Okay.
+15
+All right.
+Who hired you for this
+case?
+16 A Jones Day.
+17 Q Did you talk to a particular lawyer with a
+18
+name at Jones Day?
+19 A Yes, I did.
+20 Q What was the name of the attorney you were
+21
+talking to who hired you from Jones Day?
+22
+23
+A
+Paul Koethe.
+24
+25
+I believe the first conversation was with
+Q
+How do you spell his last name, if you
+know?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 9
+1 A K-O-T-H-E -- no.
+2 Q Do you have a written contract with Jones
+3
+K-O-E-T-H-E.
+Day for your services in this case?
+4 A I don't.
+5 Q Do you ever enter into a written contract
+6 with any person or parties for services such as the
+7 services you're rendering in this case?
+8 MR. CHUMBLEY:
+9 THE WITNESS:
+10
+11
+Object to the form.
+No.
+BY MR. FINGER:
+Q
+What -- other than the $225 per hour, what
+12 are the other terms of the contract -- of your
+13 understanding with Jones Day, if any?
+14 MR. CHUMBLEY:
+15 THE WITNESS:
+16
+17
+18
+Object to the form.
+Travel time and expenses
+for supplies and that type of thing.
+BY MR. FINGER:
+Q
+Do you get paid portal to portal if you
+19 need to come to Miami to testify?
+20 from the moment you leave your office or your home
+21 until the time you get back?
+22
+A
+Yes, I do.
+23 MR. CHUMBLEY:
+24 Including sleeping time?
+25
+Do you get paid
+MR. FINGER:
+Object to the form.
+Yeah, including sleeping
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 10
+1 time.
+2 BY MR. FINGER:
+3
+Q
+If you leave your office at, say, 9:00 a.m.
+4 in the morning and you don't get back the next day
+5 until 9:00 a.m., how much will you bill them?
+6
+A
+No, I don't bill for sleeping time.
+I bill
+7 for work, such as research, and for the time I spend
+8 in court.
+9
+Q
+So the time you spend traveling, you don't
+10 bill?
+If you leave at 9:00 a.m. and you don't get
+11 back to Orlando until 9:00 p.m. and you're on the
+12 stand one hour, you will bill for one hour only; is
+13 that correct?
+14 MR. CHUMBLEY:
+15 THE WITNESS:
+16 question, please?
+17
+18
+Object to the form.
+Could you repeat the
+BY MR. FINGER:
+Q
+If you leave Orlando to come to Miami to
+19 testify at 9:00 a.m. and you return to Orlando at
+20 9:00 p.m. after having testified in Miami, but you
+21 only spend one hour on the witness stand testifying,
+22 is it your testimony you will bill for only that one
+23 hour that you spent testifying even though you've
+24 been gone for twelve hours?
+25
+A
+My fees are -- would be for that one hour.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 11
+1 However, I also charge a fee for travel hours, which
+2 is different.
+3
+4
+Q
+Okay.
+How much do you charge for the
+travel time?
+5 A $75.
+6 Q Per hour?
+7 A Correct.
+8 Q Now, this case is not the first time --
+9
+well, first of all, do you know who Jones Day
+10 represents?
+11 A Yes, I do.
+12 Q Who do they represent?
+13 A Reynolds.
+14 Q Okay.
+Have you -- have your services ever
+15 been retained by any other tobacco company;
+16 specifically, Philip Morris, Liggett, or Lorillard
+17 tobacco companies?
+18 MR. CHUMBLEY:
+19 THE WITNESS:
+20
+21
+Object to the form.
+Not retained.
+BY MR. FINGER:
+Q
+Have you ever rendered any services
+22 whatsoever for either Liggett, Lorillard, or Philip
+23 Morris tobacco companies?
+24 MR. CHUMBLEY:
+25 THE WITNESS:
+Object to the form.
+I -- I would say that in
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 12
+1 terms of coordination because there have been
+2 meetings, for example, where their lawyer is
+3 representing several firms.
+4 had any understanding or conversation about
+5 fees or anything else besides Jones Day.
+6
+7
+8
+BY MR. FINGER:
+Q
+Okay.
+And each time it's Jones Day, it's
+Reynolds; right?
+9
+MR. CHUMBLEY:
+10
+11
+But I have not
+THE WITNESS:
+Object to the form.
+I'm not sure about that.
+BY MR. FINGER:
+12 Q Jones Day is a law firm, is it not?
+13 A Yes, sir.
+14 Q To your knowledge, does Jones Day represent
+15 any other tobacco companies other than Reynolds, to
+16 your knowledge?
+17 A I'm not aware of that.
+18 Q Okay.
+But you have -- notwithstanding the
+19 fact that you have been retained by Jones Day on
+20 behalf of Reynolds, you have in the past met, not
+21 just with the lawyers for Jones Day, but you have met
+22 and conversed with the attorneys for other tobacco
+23 companies; correct?
+24 A That is correct.
+25 Q In fact, when you do research, your
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 13
+1 research is not focused only on Reynolds Tobacco
+2 Company, but it's focused on public awareness of the
+3 hazards of smoking as it may apply to all tobacco
+4 companies; correct?
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+7
+8
+Object to the form.
+The knowledge and the
+information that I gather --
+BY MR. FINGER:
+9 Q Yes.
+10 A -- can -- can be used for other cases, for
+11
+12
+other firms.
+Q
+Other tobacco companies; right?
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15
+16
+Object to the form.
+Firms --
+BY MR. FINGER:
+Q
+Who do the firms represent?
+In the other
+17 cases, you refer to other firms.
+In the other cases,
+18 who are these other firms representing?
+19 A Other tobacco companies.
+20 Q That's what I'm driving at.
+21
+Thank you.
+Now, how many other cases have -- has
+22 your -- has your services by Jones Day on behalf of
+23 R.J. Reynolds Company been retained?
+24 Wendel is not the first one; correct?
+25
+A
+Obviously,
+That's correct.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 14
+1
+2
+MR. CHUMBLEY:
+Let me object to --
+BY MR. FINGER:
+3
+Q
+4
+Okay.
+Before --
+MR. CHUMBLEY:
+5
+David.
+6
+-- go ahead.
+I'm sorry.
+MR. FINGER:
+7
+It was a compound question.
+Fair enough.
+8 MR. CHUMBLEY:
+9 MR. FINGER:
+10
+11
+Yeah, it was.
+But the witness knows what
+I'm getting to.
+BY MR. FINGER:
+12
+13
+Go ahead
+Q
+Okay.
+Now we're going to talk about
+Wendel; correct?
+14 A I'm sorry, I didn't hear.
+15 Q Today's deposition is to discuss the Wendel
+16
+case.
+That is your understanding, is it not?
+17 A Yes, it is.
+18 Q Okay.
+19
+tobacco cases have your services been retained in?
+20
+21
+22
+Prior to today, how many other
+MR. CHUMBLEY:
+Let me object.
+BY MR. FINGER:
+Q
+23
+Wendel is not the first?
+MR. CHUMBLEY:
+Let me object to the
+24 question and ask Dr. Martínez-Fernández to
+25 answer that question only with regard to
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 15
+1 cases where he has been disclosed as an
+2 expert to testify at trial.
+3 MR. FINGER:
+4 litigated this before.
+5 MR. CHUMBLEY:
+6 MR. FINGER:
+You know, Doug, we've
+No, no --
+I have the right to go into
+7 the relationship between him and the tobacco
+8 companies whether he's listed as a witness or
+9 not.
+This was litigated in front of Judge
+10 Eig, and whether or not he's listed or not,
+11 this matter has already been decided
+12 adversely.
+13
+MR. CHUMBLEY:
+My objection stands.
+14 He's going to answer that question only with
+15 regard to cases where he has been listed as
+16 an expert to testify at trial.
+17 that, the cases that he may be working on are
+18 attorney work product and they're protected.
+19 He's only going to answer --
+20 MR. FINGER:
+21 MR. CHUMBLEY:
+22 MR. FINGER:
+Other than
+I'm not asking --
+Listen --
+-- I am not asking him
+23 about anything that's -- that's attorney work
+24 product or protected.
+25 his relationship with the tobacco companies,
+I just want to know
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 16
+1
+R.J. Reynolds, and often they use him.
+2
+MR. CHUMBLEY:
+If you're asking about --
+3 you're asking how many cases, and that might
+4 include cases where he's not been disclosed
+5 as a witness to testify at trial.
+6 going to instruct him to only answer the
+7 question insofar as it relates to cases where
+8 he knows he's been disclosed as a witness to
+9 testify at trial.
+10
+11
+So with that instruction, Doctor, go
+ahead and answer.
+12
+13
+And I'm
+MR. FINGER:
+And you're instructing him
+not to answer based upon what, sir?
+14 MR. CHUMBLEY:
+15 MR. FINGER:
+16 MR. CHUMBLEY:
+Privilege.
+What privilege?
+Attorney/client and
+17 attorney work -- attorney work product and
+18 attorney/client.
+19 MR. FINGER:
+20
+lawyer?
+21
+Until he's --
+Dr. Fernández, is he your
+Is Mr. Chumbley your attorney?
+MR. CHUMBLEY:
+Go ahead.
+Attorney work product,
+22 David.
+We'll take it up with the
+23 judge if you want to, but he's going to
+24 answer the question in accordance with my
+25 instructions.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 17
+1
+How many other cases have you been
+2 disclosed as a witness to testify at trial
+3 for Reynolds, Dr. Martínez-Fernández?
+4
+THE WITNESS:
+The ones that I recall are
+5 the Brown case, Cohen case, Marraffino case,
+6 Larkin case, Ojedo case, Odum, and Skolnick.
+7 Those are the ones that I remember.
+8
+9
+BY MR. FINGER:
+Q
+When was the last time you gave a
+10 deposition on this topic that we're going to discuss
+11 today or testified at trial?
+12 27th, 2013.
+13 A
+14
+Today is February the
+The previous time, I believe, was in
+October.
+15 Q October of 2012?
+16 A Correct.
+17 Q Was that a deposition or a trial?
+18 A That was deposition.
+19 Q And in what case was that?
+20 A I believe it was Skolnick.
+21 Q And that was in what county?
+22 MR. CHUMBLEY:
+23 THE WITNESS:
+24 in Orange County.
+25
+MR. CHUMBLEY:
+If you know.
+The county?
+No.
+It was here
+I think --
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 18
+1
+2
+BY MR. FINGER:
+Q
+The deposition was in Orange County.
+3 you know where the case originated?
+4 today is in Orange County.
+5 this is a Dade County case.
+6
+Do
+Your deposition
+That's where you are, but
+My question to you, Dr. Fernández, do you
+7 know where the case was as opposed to where your
+8 deposition was taken?
+9 A I don't recall that.
+10 Q Do you recall the name of the plaintiff's
+11
+attorney who took your deposition?
+12
+13
+MR. CHUMBLEY:
+right?
+14 MR. FINGER:
+15 THE WITNESS:
+16
+17
+In the Skolnick case;
+Yes, yes.
+BY MR. FINGER:
+Q
+Okay.
+18
+Since you testified -- strike that.
+In the Skolnick case, that has not come to
+19 trial yet?
+20 A
+Has not --
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+23 yet.
+24 BY MR. FINGER:
+25
+I don't remember the name.
+Q
+Okay.
+Object to the form.
+-- has not come to trial
+When was the last time you testified
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 19
+1
+in a trial and had a PowerPoint presentation?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+Object to the form.
+I believe this was in
+4 January of this year or perhaps December the
+5 previous year, and that was for the Larkin
+6 case.
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9 MR. CHUMBLEY:
+10
+11
+No, not January of 2013.
+No, no.
+So correct --
+BY MR. FINGER:
+Q
+This year is 2013.
+When was the last time
+12 you testified in a trial with a PowerPoint
+13 presentation?
+14
+15
+MR. CHUMBLEY:
+form.
+16 Go ahead.
+17 THE WITNESS:
+18
+19
+Again, object to the
+It was either January of
+2012 or perhaps December of 2011.
+BY MR. FINGER:
+20 Q And that was in the Larkin case?
+21 A Correct.
+22 Q And what county was the Larkin case in?
+23 A I believe that was Miami-Dade.
+24 Q And who were the attorneys representing
+25
+Reynolds in the Larkin case?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 20
+1
+2
+A
+The -- the same ones that I've been working
+with:
+3
+Paul Koethe, Don McFadden.
+Q
+Were there any attorneys representing R.J.
+4 Reynolds from Miami who you worked with in the Larkin
+5 case?
+6 A I recall that, yes.
+7 Q Can you tell me their names?
+8 A I do not remember the names.
+9 Q Okay.
+Mr. Chumbley is here today
+10 representing Reynolds.
+11 correct?
+You are aware of that;
+12 A Correct.
+13 Q Is this case here the first time you've
+14
+ever talked to Mr. Chumbley?
+15 A No.
+16 Q What other cases have you worked on with
+17 Mr. Chumbley in which you've been disclosed as a
+18 witness, if you know?
+19
+20
+A
+question.
+21
+22
+I'm sorry, I misunderstood your previous
+Q
+We have only spoken about the Wendel case.
+Okay.
+Now, what was it -- well, strike
+that.
+23
+When did you first become involved in the
+24 field in which you're going to render an opinion right
+25 now?
+And I don't mean specifically history in
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 21
+1 general.
+I mean your study of the data that underlies
+2 the opinions you're going to give in the Wendel case.
+3 A I began in 2001.
+4 Q Okay.
+5
+And did you major in history when
+you were undergrad?
+6 A Yes, sir.
+7 Q Where did you go undergrad?
+8 A The University of Puerto Rico.
+9 Q And what year did you graduate the
+10
+University of Puerto Rico?
+11 A I graduated with a B.A. in 1982.
+12 Q With a major in history?
+13 A Correct.
+14 Q Now, why is it between 1982 and 2001 you
+15 didn't take up the study of the information which
+16 forms the basis for your opinion here today?
+17 didn't you do this, you know, earlier, before 2001,
+18 since you've been a historian since 1982?
+19 MR. CHUMBLEY:
+20 THE WITNESS:
+21
+22
+23
+24
+Why
+Object to the form.
+I was involved in a
+variety of other research projects.
+BY MR. FINGER:
+Q
+What prompted you to get involved in this
+study in 2001?
+25
+MR. CHUMBLEY:
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 22
+1
+THE WITNESS:
+I was contacted by Jones
+2 Day about the possibility of working on these
+3 kinds of cases.
+4
+BY MR. FINGER:
+5 Q What kinds of cases?
+6 A Tobacco-related cases.
+7 Q Do you do any other work by which you can
+8 get paid by the hour other than the work you have
+9 done in the past for Reynolds on these tobacco cases?
+10 MR. CHUMBLEY:
+11 THE WITNESS:
+Object to the form.
+Not in many years.
+This
+12 would have been maybe actually around 2001, I
+13 did some consulting.
+14
+BY MR. FINGER:
+15 Q How long did you do that?
+16 A It was maybe two or three months.
+17 Q Okay.
+18
+Central Florida, are you salaried?
+19 A Yes.
+20 Q Okay.
+21
+As a professor at the University of
+So then other than the salary you
+get as a professor at the University -- strike that.
+22
+The moneys that you get paid by Jones Day
+23 for your services, such as the services you're
+24 rendering in this Wendel case, do any of those moneys
+25 go to the University of Central Florida?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 23
+1 MR. CHUMBLEY:
+2 THE WITNESS:
+3
+4
+Object to the form.
+No.
+BY MR. FINGER:
+Q
+So the only money that you make other than
+5 the salary you get at the University of Central
+6 Florida is the money that you are paid for your
+7 services by Reynolds through Jones Day; is that
+8 correct?
+9
+MR. CHUMBLEY:
+10
+11
+12
+THE WITNESS:
+Object to the form.
+That's not correct.
+BY MR. FINGER:
+Q
+Okay.
+Who else gives you money other than
+13 Jones Day and the University of Central Florida for
+14 your services?
+15 MR. CHUMBLEY:
+16 THE WITNESS:
+Object to the form.
+Sometimes I'm invited to
+17 give lectures.
+18 manuscripts, and I get paid for those
+19 services.
+20 BY MR. FINGER:
+21
+Q
+Sometimes I review
+How often do you get paid for lectures?
+22 Can you give me a ballpark figure like, you know,
+23 once a month, you know, once every few months?
+24 often do you get paid for lectures?
+25 at it, tell me all the lectures you've given that
+How
+And while you're
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 24
+1
+you've been paid for.
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4
+5
+Object to the form.
+I would have to refer to
+my curriculum vitae.
+BY MR. FINGER:
+6 Q Go ahead.
+7 A But I don't -- but I don't have a
+8 recollection of the ones in which I have been paid or
+9 not.
+10
+11
+Q
+Can you give me a ballpark figure of how
+often you give a lecture that you're paid for?
+12
+13
+14
+MR. CHUMBLEY:
+Objection.
+BY MR. FINGER:
+Q
+I mean, is it almost -- all the lectures,
+15 occasionally, rarely?
+16 a lecture?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+How often do they pay you for
+Object to the form.
+I can give you a ballpark
+19 figure, and that would be once or twice a
+20 year.
+21 BY MR. FINGER:
+22 Q And do they pay you $225 an hour?
+23 A No.
+That's not the -- that's not what they
+24 pay me. They pay me for -- for the presentation
+25 itself. And presentations -- presentations could last
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 25
+1
+about an hour.
+2
+Q
+Well, how much do they pay you?
+If the
+3 presentation lasts an hour, how much do you get paid
+4 for the hour presentation?
+5
+6
+A
+Sometimes it's about $200.
+highest perhaps was $300.
+7
+Q
+And so maybe if -- you said once or twice a
+8 year.
+9 paid twice a year at $300.
+10
+So maybe you would make $600 a year if you got
+MR. CHUMBLEY:
+12 THE WITNESS:
+14
+15
+16
+Would that be about
+right?
+11
+13
+I would say the
+Object to the form.
+It would be closer to 400,
+but I'm just estimating.
+BY MR. FINGER:
+Q
+Okay.
+Twice a year at 400, so that would
+be about 800 a year --
+17 A No.
+18 Q -- other than what you get from --
+19
+20
+21
+22
+23
+24
+MR. KAISER:
+He's talking about a total
+of four.
+BY MR. FINGER:
+Q
+Oh, a total of 400.
+misunderstood.
+A
+25
+I'm sorry, Doctor.
+I
+A total of 400?
+Yes.
+MR. CHUMBLEY:
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 26
+1
+BY MR. FINGER:
+2
+Q
+Have you ever been paid anything like $225
+3 an hour for 260 hours for your lectures during the
+4 course of the year?
+Anything close to that?
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+7
+No.
+BY MR. FINGER:
+8
+9
+Object to the form.
+Q
+Okay.
+Now, other than these lectures that
+we talked about and the moneys that you get from
+10 Jones Day for your work for them on behalf of
+11 Reynolds and the salary that you get from Central
+12 Florida, what other sources of income do you have,
+13 sir?
+14 A Some --
+15 Q For your services.
+For your services.
+I'm
+16 not interested if you inherit money or anything like
+17 that.
+18
+For your work.
+A
+Yes.
+Sometimes I receive nominal payment
+19 when I review a book manuscript for a university
+20 press.
+21 Q
+22
+How often does that happen, average, in the
+course of a year?
+23 A Maybe one or two times.
+24 Q And what is nominal?
+25
+When you use the term
+"nominal," what do you mean by nominal?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 27
+1 A It could be $150.
+2 Q Okay.
+Anything else?
+We've got the
+3 nominal payments for your review of the book.
+4 got the couple of times you give a lecture on an
+5 average.
+6 And we've got the money you get from Jones Day for
+7 your work on behalf of their client Reynolds.
+8 else?
+9
+We've got your salary at Central Florida.
+MR. CHUMBLEY:
+10
+We've
+What
+THE WITNESS:
+Object to the form.
+The only thing that comes
+11 to mind is royalties from books that I have
+12 published.
+13
+14
+BY MR. FINGER:
+Q
+Yeah, but that doesn't involve you doing
+15 any more time or effort.
+16 for work you've already done; correct?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+19
+20
+21
+That's royalties coming in
+Object to the form.
+Yes.
+The royalties come
+after the book has been finished.
+BY MR. FINGER:
+Q
+Right.
+You're not rendering additional
+22 services for those royalties; those are moneys you
+23 get from the book that's already out there.
+24 MR. CHUMBLEY:
+25 THE WITNESS:
+Right?
+Object to the form.
+Not -- not any additional
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 28
+1 work.
+2 BY MR. FINGER:
+3
+Q
+4
+Okay.
+Now, what did -- well, strike that.
+You were first approached by Jones Day?
+5 A Yes.
+6 Q In 2003?
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9
+10
+Object to the form.
+No.
+BY MR. FINGER:
+Q
+When -- when -- when -- how -- let me ask
+11 you this.
+12 contact with Jones Day initially?
+13
+14
+A
+How was it that you first came into
+I received a phone call from a law firm in
+Puerto Rico.
+15 Q Okay.
+16 A And I was asked if I would be interested
+17
+18
+19
+And?
+in -- in doing research and working with these cases.
+Q
+Did they happen to mention to you that they
+would be willing to pay you for your time?
+20 MR. CHUMBLEY:
+21 THE WITNESS:
+Object to the form.
+I don't recall whether
+22 they mentioned that in that first
+23 conversation.
+24
+25
+BY MR. FINGER:
+Q
+Did you mention to -- well, first of all,
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 29
+1 what did you tell them?
+2 interested in doing this kind of research?
+3 A
+Yes.
+4 interested.
+5 Q
+Did you tell them you were
+I said -- I said that I would be
+Okay.
+Now, at that point did you say, but
+6 I've got to be paid?
+7 compensated ever come up when you told them you would
+8 be interested in doing that work?
+9 MR. CHUMBLEY:
+10
+11
+12
+13
+Did the topic of getting
+THE WITNESS:
+Object to the form.
+I don't recall that
+happening on that first phone call.
+BY MR. FINGER:
+Q
+Okay.
+When is the first time you remember
+14 any conversation with Jones Day where the topic of
+15 how much you might get paid came up?
+16 A That would have been early 2001.
+17 Q How did that topic come up?
+Did they say,
+18 we're happy to pay you, or did you say, I'm going to
+19 need to get paid?
+20 that conversation about how you were going to be
+21 compensated.
+Tell me the circumstances around
+22 MR. CHUMBLEY:
+23 THE WITNESS:
+24
+25
+Object to the form.
+They brought the topic.
+It was not me.
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 30
+1 Q What did they tell you?
+2 A They asked me for what my honoraria would be
+3
+for the research.
+4 Q Honorarium means what?
+5 A Money that you get paid.
+6 Q The $225 an hour you're getting now, do you
+7
+consider this an honorarium?
+8
+9
+10
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+Would you describe the $225 an hour that
+11 you're currently being paid by Jones Day on behalf of
+12 Reynolds, do you consider it an honorarium?
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15
+16
+17
+Same objection.
+I don't call it that way.
+BY MR. FINGER:
+Q
+What would you call what you're getting
+paid right now?
+18 MR. CHUMBLEY:
+19 THE WITNESS:
+20 services.
+21 BY MR. FINGER:
+Object to the form.
+Payment for professional
+22 Q Okay.
+And what is an honorarium?
+23 A Well, in the legal tradition in Puerto Rico,
+24 that's the kind of term that is used.
+When lawyers
+25 get paid or doctors get paid by clients or patients,
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 31
+1
+2
+that's the term that is used.
+Q
+Is the term "honorarium" and your payment
+3 for services in this case, are they synonymous in
+4 your mind?
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+Object to the form.
+I don't see a major
+7 distinction.
+8 fees for professional service.
+9
+10
+In this case, I would call them
+BY MR. FINGER:
+Q
+And what's the difference between fees for
+11 professional services and the honorarium that you
+12 referred to when they first hired you?
+13 distinction between the two, if there is any.
+14
+A
+Tell me the
+I don't see a major distinction because of
+15 its usage in Puerto Rico, which these kinds of
+16 payments are often referred to as honoraria.
+17
+Q
+So if you were doing this research that
+18 you've done in this case in Puerto Rico instead of
+19 Orlando, would you not describe your arrangements
+20 with Jones Day as an honorarium?
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+23
+Object to the form.
+No.
+BY MR. FINGER:
+24 Q Okay.
+What's the difference?
+25 A The difference is the usage and it's
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 32
+1 cultural.
+2 Now, in terms of the technical terms, I can't make a
+3 distinction.
+4
+Q
+I don't see a major difference myself.
+Okay.
+Can you tell me any minor
+5 differences?
+You don't see any major differences.
+6 Can you tell me any minor differences?
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9
+of that.
+Object to the form.
+I -- I can't really think
+What I can tell you is that the
+10 language as it's used in the culture where I
+11 grew up, the word "honorarium" is usually
+12 used in replacement of the word "fees."
+13
+BY MR. FINGER:
+14 Q
+Okay.
+Now, how much was that initial
+15 honorarium?
+16 wanted for an honorarium?
+What did you quote them as what you
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+Object to the form.
+I don't recall exactly.
+19 The best I could do is give you a ballpark
+20 figure.
+21
+BY MR. FINGER:
+22 Q Okay.
+23 A I believe it was $125 per hour.
+24 Q And at that time, you were a professor
+25 where?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 33
+1 A Rutgers University.
+2 Q I was supplied yesterday with 249 pages
+3 worth of what I will describe as reliance material,
+4 things that you relied on in arriving at your
+5 opinions.
+Do you have that --
+6 A Yes.
+7 Q -- with you?
+8 A Yes, I do.
+9 Q Is it 249 pages?
+10 MR. CHUMBLEY:
+11 THE WITNESS:
+12
+I certainly hope it is.
+We'll find out.
+(Reviewing.)
+249 pages.
+BY MR. FINGER:
+13 Q
+14 same thing.
+15 that you were willing to undertake this work for
+16 them, what did they ask you they wanted you to do?
+17
+A
+All right.
+Then we're talking about the
+When you first indicated to Jones Day
+They wanted me to do research on the topic
+18 of awareness among the public that cigarette smoking
+19 could be dangerous to your health, could create a --
+20 cause a variety of diseases, such as cancer, and also
+21 the fact that public awareness on the subject of
+22 smoking being for some people hard to quit, whether
+23 the public had that kind of information.
+24
+25
+Q
+When you say smoking being hard to quit, is
+that the same as addictiveness, their
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 34
+1 understanding -- the public's understanding or
+2 awareness of the addictive nature of cigarettes?
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+Object to the form.
+I can't really speak in
+5 the technical terms as a doctor or
+6 psychologist would use.
+7 the term as a layman, but I'm not an expert
+8 on determining what is addiction and what is
+9 not.
+10 BY MR. FINGER:
+11
+Q
+If -- I could use
+Well, in the course of doing your research,
+12 you certainly encountered the term "addiction,"
+13 didn't you?
+14 A Yes, sir.
+15 Q I mean, in answering this question about
+16 their awareness about both being hard to quit, you
+17 certainly encountered material that suggested it was
+18 addictive.
+19 you?
+Certainly you encountered that, didn't
+20 A Yes.
+21 Q Okay.
+What is your opinion on that?
+Do
+22 you have an opinion as to, first of all, whether or
+23 not smoking is hard to quit?
+24 public awareness.
+25 have an opinion as to whether or not smoking is hard
+I'm asking -- not
+I'm asking you initially, do you
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 35
+1
+to quit?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4
+5
+6
+7
+BY MR. FINGER:
+Q
+Okay.
+Do you have an opinion as to whether
+or not smoking is addictive?
+MR. CHUMBLEY:
+9 THE WITNESS:
+11
+12
+That is something that is
+beyond my field.
+8
+10
+Object to the form.
+Object to the form.
+Again, that's something
+outside of my field of expertise.
+BY MR. FINGER:
+Q
+Okay.
+In the course of researching the
+13 answer to this question, the awareness of the public
+14 of smoking being hard to quit, did you encounter or
+15 read any material that suggested that smoking was
+16 addictive?
+17 did you come across anything that suggested that
+18 cigarette smoking was addictive?
+I'm not asking your opinion.
+I'm asking
+19 A Yes.
+20 Q Did you come across any material during the
+21 course of your research that suggested cigarette
+22 smoking is not addictive?
+23 A No.
+24 Q And is it your opinion that there is a
+25
+public awareness that smoking is addictive?
+Is that
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 36
+1
+your opinion today?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4
+5
+Object to the form.
+In terms of public
+awareness?
+BY MR. FINGER:
+6 Q Yes.
+7 A Yes.
+8 Q How long has the public had this awareness,
+9
+10
+11
+that smoking is addictive?
+Can we go back to
+Christopher Columbus?
+A
+Well --
+12 MR. CHUMBLEY:
+13 Go ahead.
+14 THE WITNESS:
+Object to the form.
+-- the earliest materials
+15 that I've seen date from the early 1500s.
+16 And there are references about natives in the
+17 Caribbean not being able to -- to quit, that
+18 it has a hold over them.
+19 the exact words, but that's as far back as
+20 I -- as I found information.
+21
+22
+23
+24
+25
+I don't remember
+BY MR. FINGER:
+Q
+Where did you find that -- what
+information -- what information are you referring to?
+A
+I'm talking about materials produced by
+early chroniclers from Spain.
+One of them would be
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 37
+1 Bartolomé de Las Casas.
+2 and their culture.
+3 smoking.
+4
+Q
+And they wrote on the natives
+And he and others mentioned
+And how widely circulated was this
+5 information by that individual?
+6 he go to a publishing company and have it, you know,
+7 printed up so the local people could go to a
+8 bookstore and buy it?
+9
+10
+11
+MR. CHUMBLEY:
+I mean, was -- did
+Object to the form.
+BY MR. FINGER:
+Q
+You found -- Doctor, you found information
+12 that suggests this knowledge, this awareness, was at
+13 least known by this one particular individual you
+14 just described; correct?
+15 MR. CHUMBLEY:
+16 THE WITNESS:
+17
+18
+19
+Object to the form.
+I know that he was aware.
+He wrote it in those terms, yes.
+BY MR. FINGER:
+Q
+Now my question is what he wrote, can you
+20 tell me how widely disseminated it was to the public?
+21 How many people did he share that information with?
+22 Can you shed any light on that?
+23
+24
+25
+A
+Well, one of the books in which I found that
+is called History of the Indies.
+Q
+Uh-huh.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 38
+1
+A
+And that was a very widely circulated book
+2 for its time.
+3 works were also translated into other languages.
+4 as far as books during that period, I would say that
+5 it had a high circulation.
+6 Q
+7 high means.
+8 people?
+9
+10
+Well, give me an idea.
+I don't know what
+Object --
+BY MR. FINGER:
+Q
+I would like you to be a little more
+specific if you could.
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15
+So
+Is that a thousand people, a million
+MR. CHUMBLEY:
+11
+12
+And actually, it was a book that -- his
+Object to the form.
+I can't quantify that.
+BY MR. FINGER:
+16
+Q
+Okay.
+What is your opinion, sir, as to --
+17 well, let me go back.
+18 research goes back as far as, what, about 1492 as far
+19 as the awareness of cigarette smoking being hard to
+20 quit?
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+23 question, please?
+You've indicated that your
+24
+25
+Object to the form.
+Could you repeat the
+BY MR. FINGER:
+Q
+Let me ask it to you this way.
+What is
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 39
+1 your opinion as of right now if there is a public
+2 awareness of the difficulty in quitting smoking as of
+3 today?
+4 A
+There's widespread awareness.
+5 Q
+Okay.
+Now, my question to you is how long
+6 has this widespread awareness existed?
+7 back to 1492 and say it was as widely spread then as
+8 it is now?
+9
+MR. CHUMBLEY:
+Can we go
+Object to the form.
+10 Go ahead, Doctor.
+11 THE WITNESS:
+Europeans first came in
+12 contact with tobacco in 1492.
+13 chroniclers that I'm referring to wrote in
+14 the early years of -- in the early 1500s.
+15
+16
+And the
+BY MR. FINGER:
+Q
+Does that mean the answer is yes, since the
+17 early 1500s, there has been a public awareness that
+18 smoking is hard to quit?
+19 answering my question yes, it's been known since the
+20 1500s?
+21
+22
+23
+MR. CHUMBLEY:
+Does that mean you're
+Object to the form.
+BY MR. FINGER:
+Q
+I want to know, the opinion that you have
+24 today that it's widely known today, I want to know if
+25 it was as widely known today as it was in the 1500s.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 40
+1 I'm not asking you for the chroniclers or how you got
+2 to that.
+3 much about it and was it as widely known in the 1500s
+4 as it is in 2013?
+I want your opinion.
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+7
+Did people know as
+Object to the form.
+The answer is no.
+BY MR. FINGER:
+8 Q Why not?
+9 A Because tobacco was new to Europeans, and
+10 they were just becoming aware of the plant, its use,
+11 and its effects on human beings.
+12
+Q
+Well, then, tell me this process.
+In other
+13 words, we know it wasn't as widely known then as it
+14 is now.
+15 years how widely known it was then and how it
+16 gradually or maybe precipitously came to the point
+17 where it's widely known now?
+18 cover.
+19 became as widely known as it is today.
+So can you tell me in the intervening 500
+We have 500 years to
+So please tell me the process by which it
+20 MR. CHUMBLEY:
+21 THE WITNESS:
+Object to the form.
+Well, to some people it
+22 was obvious.
+23 could not quit easily, that's a way of
+24 getting to know that fact.
+25
+If they were smokers and they
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 41
+1 Q Give me the answer.
+Tell me then.
+2 A I'm --
+3 Q I'm trying to figure out, we have 500 years
+4 to cover, Doctor.
+5 became widely known.
+6 describing to me the process to cover 500 years.
+7 You've already told me, Doctor, that it wasn't as
+8 widely known in 1492 as it is in 2013.
+9 cover the 500 years and tell me how it came to be as
+10
+11
+I'm not interested in how it
+I'm interested in you
+Would you
+widely known as it is today and why?
+A
+I be --
+12 MR. CHUMBLEY:
+13 Go ahead.
+14 THE WITNESS:
+Object to the form.
+-- I believe that I was
+15 doing that beginning with personal
+16 experience.
+17
+We should also count word of mouth, that
+18 type of circulation of information.
+We can
+19 also mention roles played by the Catholic
+20 Church, for example.
+21 referring to that very early period as -- so
+22 information travels, not just in print form,
+23 but also through the oral tradition which, by
+24 the way, is very strong in Latin American
+25 cultures.
+And again, I'm
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 42
+1
+2
+3
+BY MR. FINGER:
+Q
+Was it as widely known in 16 -- in the
+1600s as it was in the 1500s?
+4 MR. CHUMBLEY:
+5 THE WITNESS:
+Object to the form.
+My answer would be yes
+6 because there was a greater awareness, and
+7 there were actually more publications on the
+8 subject.
+9
+10
+11
+BY MR. FINGER:
+Q
+So it was more widely known in the 1600s
+than the 1500s?
+12 A Yes.
+13 Q Was it more widely known in the 1700s than
+14
+in the 1600s?
+15
+16
+17
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+We've got another hundred years of
+18 information out there, Doctor.
+19 known in the 1700s than in the 1600s?
+20 MR. CHUMBLEY:
+21 THE WITNESS:
+Was it more widely
+Object to the form.
+I believe it was more
+22 widely known.
+Again, because we're talking
+23 about larger numbers of publications,
+24 developments in science.
+25 these kinds of observations.
+They were making
+These were
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 43
+1
+2
+published.
+So I would say yes.
+BY MR. FINGER:
+3 Q
+4 the 1700s?
+Was it more widely known in the 1800s than
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+7
+8
+Object to the form.
+In the 1800s?
+BY MR. FINGER:
+Q
+9
+Yeah.
+MR. CHUMBLEY:
+10 was his question.
+11 THE WITNESS:
+As opposed to the 1700s,
+By the same token, I -- I
+12 suppose it was -- it was more widely known,
+13 yes.
+14 BY MR. FINGER:
+15
+16
+Q
+Was it more widely known in the 1900s than
+in the 1800s?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+Object to the form.
+By the early 1900s, this
+19 information was reaching more people,
+20 beginning with health textbooks in schools,
+21 news from places such as the New York Times,
+22 organizations that had a purpose of reducing
+23 smoking in society.
+24 information.
+25 It reached more people.
+There was more
+It was based on more science.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 44
+1
+2
+3
+BY MR. FINGER:
+Q
+So does that mean my answer is yes, it was
+more widely known?
+Is that a long way of saying yes?
+4 MR. CHUMBLEY:
+5 THE WITNESS:
+6
+7
+Object to the form.
+The answer is yes.
+BY MR. FINGER:
+Q
+Thank you.
+For purposes of this
+8 deposition, if you can answer, you know, yes or no
+9 and then explain, I think we'll make more progress,
+10 because, you know, I didn't ask you to explain why
+11 the answer is yes.
+12
+I just asked for a yes or no.
+MR. CHUMBLEY:
+Doctor, answer the
+13 questions how you feel you need to answer
+14 them.
+15
+MR. FINGER:
+Yeah, yeah.
+I mean, if I
+16 ask you to explain why it's more widely
+17 known, then that would invite your answer.
+18 But the question I asked, Doctor, was it more
+19 widely known, and then you went on, and time
+20 is precious, to explain why the answer is
+21 yes.
+22 material.
+23 answer my question.
+24 expound, I'll ask you to, or Mr. Chumbley can
+25 do it on cross-examination.
+And I would like to get through this
+So if you would, Doctor, please
+And if I want you to
+Is that fair
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 45
+1
+enough?
+2 MR. CHUMBLEY:
+3 And answer the questions how you feel
+4
+appropriate, Doctor.
+5
+6
+Object.
+MR. FINGER:
+Okay.
+BY MR. FINGER:
+7
+Q
+What is your opinion -- I think you already
+8 said there's a present awareness that cigarette
+9 smoking is -- is dangerous to people's health;
+10
+correct?
+11 A Yes.
+12 Q Okay.
+Are those your two opinions in this
+13 case, that there is presently a public awareness that
+14 cigarette smoking is deleterious to their health and
+15 that there is a present awareness that smoking is
+16 hard to quit?
+17 A No.
+18 Q Okay.
+19
+20
+Tell me your other opinions in this
+case.
+A
+Well, the opinions would have to do with, of
+21 course, not today, but to the past, and especially for
+22 this case, the lifetime of Ms. Wendel.
+23
+Q
+I understand.
+But what you're going to do
+24 is you're going to tell me that in light of the
+25 awareness that smoking is hard to quit and that it's
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 46
+1 dangerous, you're going to tell me you have reason to
+2 believe Ms. Wendel knew of it or should have known of
+3 it; right?
+4 MR. CHUMBLEY:
+5 THE WITNESS:
+6
+Object to the form.
+Yes.
+BY MR. FINGER:
+7 Q Okay.
+8 A No.
+9 Q All you know about Ms. Wendel is what you
+10
+read in depositions; right?
+11
+12
+13
+You never met Ms. Wendel; right?
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+And interrogatories and whatever other
+14 information the attorneys sent to you about
+15 Ms. Wendel?
+16 A
+I recall her school records.
+17 Q
+Okay.
+What else?
+18 testimony about her.
+19 interrogatory answers?
+20
+A
+21
+22
+23
+24
+25
+You've got deposition
+You -- did they send you
+Yes.
+MR. CHUMBLEY:
+Object to the form of
+that last question.
+BY MR. FINGER:
+Q
+So you reviewed those.
+school records.
+You looked at her
+What else did you do specifically in
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 47
+1
+2
+3
+4
+5
+terms of finding out about Ms. Wendel?
+A
+Specifically, about her, I found the
+yearbook from the school that she graduated from.
+Q
+And what did you find in that yearbook that
+was germane to your opinions here today?
+6 MR. CHUMBLEY:
+7 THE WITNESS:
+Object to the form.
+I -- I recall information
+8 about her involvement in particular clubs and
+9 activities at school.
+10
+11
+12
+BY MR. FINGER:
+Q
+What does that have to do with her smoking?
+Can you tell me that?
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15
+16
+Object to the form.
+It may have something to
+do with her smoking.
+BY MR. FINGER:
+17 Q
+18 asking you.
+19 her smoking habits or her awareness of the health
+20 hazards of smoking?
+21
+22
+23
+24
+25
+A
+Okay.
+Tell me what.
+You reviewed it.
+I'm
+What did her yearbook have to do with
+I can't think of that specifically now.
+I
+would have to review the yearbook.
+Q
+Well, when you looked at the yearbook, did
+you make any notes when you were going through it?
+A
+I don't recall doing that.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 48
+1
+Q
+Well, when you arrived at an opinion, you
+2 arrived at an opinion after you reviewed all of the
+3 material that's sent to you; correct?
+4
+A
+When I -- well, I've been reviewing
+5 pertinent material, some of it from the state of New
+6 York, for many years now.
+7
+Q
+Thank you.
+But I'm asking you about her
+8 yearbook.
+You reviewed it.
+You're here to give me
+9 your opinion, and I'm here to find out the basis for
+10 your opinion.
+So please tell me, Doctor, how, if in
+11 any manner, what you read in the yearbook impacts any
+12 opinion that you're here to talk to me about.
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15 recollection of that.
+16 that, as a historian, we think about the
+17 universe of materials that may be out there
+18 that can provide information.
+19 those sources provide that information.
+20
+21
+22
+Object to the form.
+I don't have any
+What I can tell you is
+Not all of
+BY MR. FINGER:
+Q
+Are you prepared to talk to me today about
+your opinions on Ms. Wendel?
+23 A Yes.
+24 Q I'm here to ask you what you know about
+25
+Ms. Wendel and the basis for it.
+Are you prepared to
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 49
+1 give your deposition and tell me all of your opinions
+2 and the basis for your opinions as to Ms. Wendel?
+3 Can you do that today?
+4 A Yes, I can -- I can give you that.
+5 Q Okay.
+Thank you.
+Then you've told me you
+6 reviewed her yearbook.
+7 how, if at all, that impacts your opinion here today
+8 that I'm here to ask you about and that I have a
+9 right to find out about.
+10 MR. CHUMBLEY:
+11 THE WITNESS:
+12
+13
+Tell me what, if anything --
+Object to the form.
+I would like to review the
+yearbook to refresh my mind.
+BY MR. FINGER:
+14 Q Why do you think you need to review it?
+15 A Because I did not commit that to memory, and
+16 that's the way historians work.
+17 then we review them several times.
+18
+Q
+Okay.
+We see materials, and
+I have 249 pages of material you
+19 relied on and over seven thousand different pieces of
+20 information; correct?
+21 A 249.
+22 Q Take a look at the 249 pages.
+23 A There are 7,260 items.
+24 Q Right.
+25 A And the document is 249 pages.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 50
+1
+Q
+Right.
+Now, can you tell me today, as it
+2 pertains to your testimony for Ms. Wendel, which of
+3 these 7,260 documents impact your opinion, or is your
+4 opinion predicated upon all 7,260?
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+7
+8
+9
+10
+Object to the form.
+These are the materials
+that I have relied on for this case.
+BY MR. FINGER:
+Q
+Okay.
+All 7,260 you've relied on in order
+to give an opinion as to Ms. Wendel?
+11 MR. CHUMBLEY:
+12 THE WITNESS:
+Object to the form.
+Perhaps there are
+13 materials there that are important, but I
+14 don't -- I may not -- I don't recall, of
+15 course, for all of them what is relevant
+16 about each one.
+17 materials that I will be relying on.
+18
+19
+I do look at the list as the
+BY MR. FINGER:
+Q
+I'm only interested on what you're going to
+20 rely on when you testify about Ms. Wendel.
+21 tell me of these 7,260 what you're going to rely on
+22 as it bears on Ms. Wendel so I can prepare for this
+23 trial?
+24
+25
+MR. CHUMBLEY:
+Can you
+That's his reliance list.
+He reserves the right to rely on any of the
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 51
+1
+material in that reliance list.
+2
+MR. FINGER:
+Okay.
+But my question is
+3 all 7 -- I'm asking -- I understand, Doug, he
+4 has a right to rely on it.
+5 tell me if he's going to rely on all 7,260.
+6 Tell me.
+7 I just want to know if that's his intention.
+8
+9
+10
+11
+12
+He has an absolute right to do so.
+THE WITNESS:
+BY MR. FINGER:
+Q
+And you're intimately familiar with all
+7,260, are you not?
+MR. CHUMBLEY:
+14 THE WITNESS:
+16
+My intention is to rely on
+them, yes.
+13
+15
+I'm asking him to
+Object to the form.
+All of these materials are
+materials that I have looked at, read, yes.
+BY MR. FINGER:
+17 Q And considered it?
+18 A Yes.
+19 Q And considered it.
+So that if we come to
+20 trial, I could pull out any of the 7,260 and you
+21 would be fully conversant and familiar with every one
+22 of them; right?
+23 know them all; right?
+I'm free to use any of them and you
+24 MR. CHUMBLEY:
+25 THE WITNESS:
+Object to the form.
+Well, at that point I
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 52
+1 would like to see the document itself so that
+2 I can --
+3
+BY MR. FINGER:
+4 Q Of course.
+5 A -- I can refresh my mind.
+6 Q Absolutely.
+But every one of them you've
+7 read and you're familiar with; that's how it got on
+8 the list, right, Doctor?
+9 A That's correct.
+10 Q You put the list together; right?
+11 A Yes, sir.
+12 Q With the assistance of the tobacco company
+13
+lawyers; right?
+14 MR. CHUMBLEY:
+15 THE WITNESS:
+16
+17
+Object to the form.
+As a legal document --
+BY MR. FINGER:
+Q
+Not as a legal document.
+It's 249 pages.
+As any document.
+18 As any document.
+19 this was compiled by you or by you with the
+20 assistance of the attorneys for the tobacco
+21 companies.
+It's a simple question.
+22 MR. CHUMBLEY:
+23 Go ahead.
+24 THE WITNESS:
+25
+I want to know if
+that's my work.
+Object to the form.
+As far as the compilation,
+As far as putting them
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 53
+1 together as a legal document, that was not my
+2 work.
+3 BY MR. FINGER:
+4
+Q
+Has any tobacco -- attorney representing
+5 any tobacco company ever provided you with any
+6 material that is listed among these 7,260 items, or
+7 is every one of these things material you found on
+8 your own?
+9
+MR. CHUMBLEY:
+10 Go ahead.
+11 THE WITNESS:
+Object to the form.
+The vast majority of the
+12 materials I've identified, looked at, read,
+13 and evaluated.
+14 I have received from colleagues, fellow
+15 historians.
+16
+17
+There are some documents that
+BY MR. FINGER:
+Q
+My question is have you gotten any
+18 material, any documents of the 7,260, from the
+19 attorneys from the tobacco company, not your
+20 colleagues?
+Do you understand my question, Doctor?
+21 MR. CHUMBLEY:
+22 mean, obviously --
+23
+MR. FINGER:
+I think he does.
+But, I
+My question was very
+24 specific.
+I want to know of these 7,260, how
+25 many of them, if any, did he get from the
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 54
+1 tobacco company or their attorneys?
+2 simple question.
+3
+4
+It's a
+BY MR. FINGER:
+Q
+Would you answer it, please.
+I didn't ask
+5 you about material from your colleagues.
+6 know what, if anything, you got from the tobacco
+7 lawyers.
+8
+9
+10
+11
+MR. CHUMBLEY:
+I want to
+Object to the form.
+Other than the case-specific materials?
+BY MR. FINGER:
+Q
+Other -- in this 7,260 -- we've got 249
+12 pages that outline 7,260 different items.
+13 7,260 items, were any of those items provided to you
+14 by attorneys from the tobacco company or a tobacco
+15 company itself?
+16
+A
+Of those
+Without examining the list right now, I
+17 couldn't tell you.
+I can tell you that I may have
+18 received a few documents.
+19 Q How many would be a few?
+20 A I really can't give you a good estimate.
+21
+I
+would say it would be a very small portion.
+22 Q
+How small a portion?
+Like 25 percent,
+23 10 percent?
+24 A I would be speculating really.
+25 Q Can you tell me, without regard to the
+Can we do it percentage-wise?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 55
+1 number of documents, what the documents were that the
+2 tobacco lawyers sent you?
+3 which documents they sent you and what they were, or
+4 you don't remember that either?
+5
+MR. CHUMBLEY:
+Do you happen to recall
+David, are you taking out
+6 the case-specific, like the depositions and
+7 all that?
+8
+9
+10
+11
+MR. FINGER:
+questions.
+Yes, yes, on these
+I'm -- okay.
+Strike that.
+BY MR. FINGER:
+Q
+Of the 7,260 items in this 249-page
+12 document, do you list any depositions?
+13 depositions listed on these 249 pages?
+Are there any
+14 A I --
+15 Q Take my word for it, the answer is no.
+16 There's no depositions, there's no interrogatories,
+17 there's no yearbook of Carol Wendel.
+18 in these 249 pages, is it?
+19
+20
+MR. CHUMBLEY:
+None of that is
+Well, I'm not so sure
+about the yearbook, but --
+21
+MR. FINGER:
+Take a look.
+I am.
+Carol
+22 Wendel's yearbook isn't listed, unless I
+23 missed it.
+24
+25
+BY MR. FINGER:
+Q
+Do you have any recollection of listing
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 56
+1
+Carol Wendel's yearbook in this document?
+2
+3
+A
+I could check the document and see the date,
+the year.
+4
+Q
+Okay.
+I don't want to take the time to go
+5 through 249 pages.
+Here's my question.
+Other than
+6 interrogatories, requests for production, and
+7 depositions, can you tell me what information was
+8 provided to you by any attorney for the -- any
+9 tobacco company, I guess in this case it would be
+10 R.J. Reynolds, that's included in this reliance
+11 material?
+12 deposition or interrogatory, you got it from a
+13 lawyer.
+14 item that you got from a tobacco company lawyer?
+I assume if the reliance material has a
+Other than that, can you tell me any other
+15 MR. CHUMBLEY:
+16 THE WITNESS:
+Object to the form.
+I don't recall any
+17 specific one.
+18 a few of them, and I'm talking about a very,
+19 very small number, may be here.
+20 to close that door and say no.
+21
+I know that it's possible that
+I don't want
+BY MR. FINGER:
+22
+Q
+But you can't tell me what the small number
+23 is.
+You've already said you can't even give me an
+24 idea.
+25 number, but you can't give us a number of the 7,260;
+All you can tell a jury is that it's a small
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 57
+1
+2
+correct?
+A
+I can give you a better --
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+Object to the form.
+-- I can give you a better
+5 answer if I had the time to review this
+6 document.
+7 BY MR. FINGER:
+8
+9
+Q
+When was the last time you looked at this
+document?
+10 A
+11 yesterday.
+12 Q
+I saw it -- actually, I was looking at it
+Okay.
+When you were looking through it
+13 yesterday, did you happen to notice what material you
+14 got from the tobacco lawyers?
+15 MR. CHUMBLEY:
+16 THE WITNESS:
+17
+Object to the form.
+No.
+BY MR. FINGER:
+18 Q Why not?
+19 A I was not reading it to make that kind of
+20
+You looked at it yesterday.
+distinction.
+21 Q What were you reading it for?
+22 A Just to have it fresh in my mind.
+23 Q Okay.
+Well, then tell me without looking
+24 through the document, without looking through this
+25 material, off the top of your head, do you remember
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 58
+1 any of the documents that you got from the tobacco
+2 lawyers?
+Can you describe them for me?
+3 A That are on this list?
+4 Q Regardless of the list.
+Just tell me as we
+5 sit here and speak today, what is it that you can
+6 recall today, without regard to this list, that they
+7 sent you?
+8
+9
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+10 Q For you to consider?
+11 A I can't think of any document that I've
+12
+13
+received for this case from lawyers.
+Q
+No, I'm not asking about this case.
+I'm
+14 asking any document you've ever gotten from any
+15 tobacco case for you to consider regardless of this
+16 specific case.
+17 I want to know, you said it was very few; right?
+It doesn't need to be case specific.
+18 A Few, if at all, yes.
+19 Q Okay.
+Now I'm asking you, can you reflect
+20 on the few that it may be and tell me what it was?
+21 Describe what it was if, in fact, you received a few.
+22 MR. CHUMBLEY:
+23 THE WITNESS:
+Object to the form.
+I cannot do that unless I
+24 look at the list one more time with that
+25 specific question in mind.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 59
+1
+BY MR. FINGER:
+2
+Q
+Okay.
+Well, when did you receive these few
+3 documents, if any?
+4 2001?
+Was it recently or was it back in
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+7
+10
+Not recently, no.
+BY MR. FINGER:
+8
+9
+Object to the form.
+Q
+When you received the few documents, did
+you ever tell the lawyers, why are you sending me
+this?
+I do my own research.
+11 Did you ever say anything like that to them?
+12 MR. CHUMBLEY:
+13 THE WITNESS:
+Object to the form.
+This is what happens.
+14 Sometimes I express interest in -- in some
+15 kind of material, and -- and this was in the
+16 past.
+17 BY MR. FINGER:
+18
+19
+20
+21
+22
+Q
+But I can't recall any specific item.
+Well, what material did you express
+interest in?
+A
+For example, I was interested in the
+educational materials for Ms. Wendel.
+Q
+No, no.
+I'm talking about generically,
+23 Doctor, not Ms. Wendel.
+I'm talking about initially
+24 when you first got retained, the first time in 2001,
+25 it wasn't on the Wendel case, was it?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 60
+1 A It was not.
+2 Q No.
+I'm talking about the first time they
+3 ever asked you to undertake this study.
+4 material were you interested in that you told them
+5 you wanted to look at when you first started to
+6 undertake this study of public awareness?
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9
+items.
+What
+Object to the form.
+I don't recall specific
+What I would reiterate is that over
+10 the last twelve years, we're talking about a
+11 very small number of documents that are
+12 received from the lawyers.
+13
+14
+BY MR. FINGER:
+Q
+A small number that you can't give me.
+We
+15 just have to take your opinion of whatever -- you
+16 see, that's why I want to know.
+17 very vague.
+18 thousand.
+19 that's why I'm asking you what you mean by a small
+20 number.
+21 when we come to trial, I don't want to have to be
+22 surprised when you say five or ten or twenty.
+23 tell me what you mean by a small number.
+A small number is
+A small number to me could be two
+A small number to you could be five.
+So
+And I would like you to tell me now because
+24 MR. CHUMBLEY:
+25 THE WITNESS:
+So
+Object to the form.
+In order for me to answer
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 61
+1 that question, I would have to look at the
+2 document again.
+3
+4
+BY MR. FINGER:
+Q
+5
+Okay.
+MR. CHUMBLEY:
+David, is this a good
+6 spot to stop and let me get a cup of coffee
+7 and stretch?
+8 MR. FINGER:
+Sure.
+9 MR. CHUMBLEY:
+Five minutes, Doug?
+Five minutes is fine.
+10 MR. FINGER:
+11 MR. CHUMBLEY:
+12 (A break was taken from 11:06 a.m. until
+13 11:10 a.m.)
+14 BY MR. FINGER:
+15
+16
+Q
+Okay, Doug.
+No problem.
+All right.
+Doctor, is it Martínez or Fernández or
+Martínez-Fernández?
+What would you prefer?
+17 A Martínez-Fernández.
+18 Q Dr. Martínez-Fernández, do you know if any
+19 attorneys for tobacco companies have an archives
+20 where they keep documents and material that relate to
+21 the topic of smoking and addiction?
+22 to know if that exists?
+Would you happen
+23 A I don't know that for a fact.
+24 Q Have you ever been told that exists?
+25 A No.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 62
+1
+Q
+When you say, "I don't know that for a
+2 fact," excuse me, as an attorney, what do you mean
+3 you don't know it as a fact?
+4 something else?
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+Do you know it as
+Object to the form.
+Well, lawyers keep their
+7 records, and insofar as those materials may
+8 have been part of cases, I suppose, but I
+9 don't know it for a fact.
+10
+11
+BY MR. FINGER:
+Q
+Have you ever spoken with any other
+12 historians on the topic of public awareness of the
+13 health hazards of smoking, on that specific topic?
+14 A Yes.
+15 Q Give me the names of all the other
+16
+historians you have spoken to on this topic.
+17 A Okay.
+Lacy Ford.
+18 Q Uh-huh.
+19 A Let's see.
+James Martin.
+Another one whose
+20 name is Pitney.
+21 but there are perhaps two other cases.
+22
+23
+24
+25
+Those are the names that I recall,
+MR. CHUMBLEY:
+cases.
+He's not asking you for
+He's asking for --
+BY MR. FINGER:
+Q
+I'm not asking for cases.
+I'm asking for
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 63
+1 people who are historians on this topic that you are
+2 going to give me an opinion on who you have spoken
+3 to.
+4 cases, are they?
+Mr. Ford and Mr. Martin and Mr. Pitney aren't
+5 A They're not cases, but --
+6 Q Right.
+Then why don't you answer my
+7 question.
+I'm asking about other historians, people
+8 who are historians who you have spoken to on the same
+9 topic that you're going to give an opinion today.
+10 A I've already answered that.
+11 Q Oh, thank you.
+If I wanted to go to
+12 University of Central Florida, could I take a course
+13 on the public awareness of smoking?
+14 taught a course specifically on that topic?
+15 MR. CHUMBLEY:
+16 THE WITNESS:
+17
+18
+19
+20
+Have you ever
+Object to the form.
+I have not taught a course
+like that.
+BY MR. FINGER:
+Q
+Why not?
+It interests you; you've spent
+twelve years studying it, right, Doctor?
+21 A Correct.
+22 Q Okay.
+So why wouldn't you teach a course
+23 on this subject that you've spent twelve years
+24 studying?
+25
+Why wouldn't you offer such a course?
+MR. CHUMBLEY:
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 64
+1
+THE WITNESS:
+2
+3
+Because I'm not interested
+in teaching such a course.
+BY MR. FINGER:
+4 Q Why not?
+5 A I'm just not interested.
+6 Q I know.
+Why not?
+Can you tell me why it
+7 doesn't interest you enough to teach the course but
+8 it interests you enough to spend 260 hours of your
+9 time testifying for R.J. Reynolds?
+10
+Can you tell me
+that?
+11 MR. CHUMBLEY:
+12 THE WITNESS:
+Object to the form.
+I'm just not interested.
+13 It's not what I want to spend my time doing
+14 as far as classes.
+15
+BY MR. FINGER:
+16 Q
+Why are you spending your time doing it in
+17 this case?
+18 A It's for a different purpose.
+19 Q It's for the money, isn't it?
+It's 260
+20 hours at $225 an hour.
+21 interests you enough to do it in this case?
+22 MR. CHUMBLEY:
+23 THE WITNESS:
+24
+25
+Is that the reason why it
+Object to the form.
+Well --
+BY MR. FINGER:
+Q
+Why does it interest you enough to spend
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 65
+1 260 hours but not enough to teach kids?
+2 that.
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+5 this.
+6 BY MR. FINGER:
+7
+Q
+Tell me
+Object to the form.
+Of course I get paid for
+My question to you, Doctor, is why it
+8 doesn't interest you enough to teach kids on a
+9 subject that you find interesting enough to spend at
+10
+least 260 hours?
+11
+12
+Can you tell me?
+MR. CHUMBLEY:
+Again, object to the
+form.
+13
+THE WITNESS:
+Again, I'm not interested.
+14 I don't think the university would be
+15 interested.
+16 be interested.
+17
+I don't think the students would
+BY MR. FINGER:
+18 Q Why not?
+19 A I don't know, sir.
+20 Q Then what makes you think they wouldn't be
+21 interested?
+22
+23
+How do you know?
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+24 Q
+How do you know they wouldn't be
+25 interested?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 66
+1
+2
+3
+4
+A
+Well, certainly that's not the kind of
+course that is taught in a history department.
+Q
+Why wouldn't it be?
+You're a historian.
+Why wouldn't it be taught in a history department?
+5 MR. CHUMBLEY:
+6 Go ahead.
+7 THE WITNESS:
+Object to the form.
+I've never -- no, I don't
+8 know the reason other than what I've just
+9 said.
+10 BY MR. FINGER:
+11
+Q
+I am --
+You told me -- you have told me it's not
+12 the type of course that would be taught in a history
+13 department.
+14 think that?
+15 A
+16
+My question to you is what makes you
+Based on my experience of close to 30 years
+teaching at different universities.
+17 Q Can you be more specific?
+18 A My experience is that it would be
+19 extraordinarily uncommon, if possible, to have a
+20 course as specific as you have represented it.
+21
+Q
+Okay.
+Have you published anything on the
+22 specific topic of public awareness of the smoking
+23 hazards and the addictive nature of smoking?
+24 A As far as publications, no.
+25 Q You've published other material, though,
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 67
+1
+have you not?
+2 A Yes, I have published throughout my career.
+3 Q Okay.
+4
+How come you haven't published
+anything on this topic in the last twelve years?
+5 A
+I have not been interested in publishing on
+6 that topic.
+7 Q
+Well, what is it about this topic that is
+8 less interesting than any of the other topics you do
+9 publish on?
+Why is it less interesting?
+10 MR. CHUMBLEY:
+11 THE WITNESS:
+12 interesting.
+13 interested.
+14
+15
+Object to the form.
+I'm not saying it is less
+I said that I am not
+BY MR. FINGER:
+Q
+You're not interested enough to publish
+16 this, but you're interested enough to publish on
+17 other topics; right?
+18 MR. CHUMBLEY:
+19 THE WITNESS:
+Object to the form.
+I'm interested in
+20 publishing on the topics that I have
+21 published on.
+22
+23
+BY MR. FINGER:
+Q
+Right.
+Now my question is how come this
+24 isn't one of the topics that you're interested in
+25 enough to publish on like you have on other topics?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 68
+1 A I have not had an interest in publishing.
+2 Q I understand.
+My question is can you
+3 please tell me why you don't have an interest in
+4 publishing this as you have in other topics?
+5 it about this that isn't interesting enough for you
+6 to publish?
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9
+10
+What is
+Object to the form.
+I'm not interested.
+BY MR. FINGER:
+Q
+Thank you.
+Okay.
+Do you know if those
+11 other historians you talked about, Lacy Ford and
+12 Mr. Martin and the other name, I think you said it
+13 was Pitney, do you know if those fellas have
+14 published any works on this topic that you have read?
+15 A I'm not aware of that.
+16 Q Okay.
+17
+Now, have you ever heard of a fellow
+by the name of Kyriakoudes?
+18 A Yes.
+19 Q What do you know about Mr. Kyriakoudes?
+20 Who is he?
+21 A
+22
+He's a historian who has testified on
+tobacco -- in tobacco cases.
+23 Q Have you ever read any of his testimony?
+24 A Yes.
+25 Q Now, he doesn't testify about public
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 69
+1
+awareness of the hazards of smoking, does he?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4 question?
+5 BY MR. FINGER:
+6
+Q
+Object to the form.
+Can you repeat the
+He doesn't testify on the subject of the
+7 public awareness of the deleterious effect of
+8 smoking, does he?
+9
+A
+I -- I don't recall the specifics.
+I know
+10 that he uses some media materials in relation to that
+11 question.
+12
+13
+Q
+You read the prior testimony of
+Mr. Kyriakoudes; correct?
+14 A Correct.
+15 Q Where did you get that?
+16 A That, I received from Jones Day.
+17 Q Did you ever ask them, why are you sending
+18
+me this?
+Why do you want me to read this?
+19 MR. CHUMBLEY:
+20 THE WITNESS:
+Object to the form.
+I don't recall the
+21 conversation about that.
+In most cases, if
+22 something comes up, I -- if I express an
+23 interest, they would send that to me.
+24 this happened many years ago, the document
+25 that you're referring to, so I have no
+But
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 70
+1
+2
+3
+recollection of that.
+BY MR. FINGER:
+Q
+Have you ever expressed an interest to
+4 Jones Day to say, I want to read anything that any
+5 historian called by a plaintiff in these cases says,
+6 so send it to me?
+7 interest to them?
+Did you ever express any such
+8 MR. CHUMBLEY:
+9 THE WITNESS:
+10 instance of that.
+11
+12
+13
+Object to the form.
+I can't recall a specific
+BY MR. FINGER:
+Q
+Do you have any idea why they sent it to
+you if you didn't ask for it?
+14 A Because I expressed an interest.
+15 Q I thought you just got done saying you
+16
+17
+18
+19
+don't ever recall expressing an interest.
+A
+I don't recall any specific case or
+document.
+Q
+Oh.
+Do you recall ever generally
+20 expressing an interest in reading what other
+21 historians called on behalf of plaintiffs have
+22 testified to, generally, have you expressed any
+23 general interest to the tobacco lawyers?
+24 general?
+25
+MR. CHUMBLEY:
+How's that,
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 71
+1
+2
+3
+THE WITNESS:
+My recollection is yes.
+BY MR. FINGER:
+Q
+Okay.
+When was the first time you
+4 generally expressed an interest in reading what these
+5 other historians who have testified for the
+6 plaintiffs have said?
+7 express that interest?
+8 MR. CHUMBLEY:
+9 THE WITNESS:
+When did you first generally
+10
+11
+12
+Object to the form.
+I don't recall when, a
+particular time.
+BY MR. FINGER:
+Q
+How about Robert Proctor, have you
+13 generally expressed an interest in reading what he's
+14 testified to?
+15 A I don't remember that being the case.
+16 Q Have you read anything by Proctor that he
+17
+said either in deposition or trial?
+18 A I'm not sure of that.
+19 Q Do you know who Proctor is?
+20 A He's a pro -- he's a historian.
+21 Q How do you know that?
+22 A Because I know he has been involved in
+23
+tobacco cases.
+24 Q How do you know that?
+25 A Probably I read it somewhere or probably it
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 72
+1
+2
+3
+4
+5
+6
+came up in a conversation with lawyers.
+Q
+Okay.
+Do you recall which lawyers
+discussed him with you probably?
+A
+Probably the first time I heard his name,
+that was probably with Christine Lawson.
+Q
+Has Kyriakoudes published any articles on
+7 the topics which he testifies to in these tobacco
+8 trials, if you know?
+9 A He has published on the subject, yes.
+10 Q How about Proctor, do you know if he's ever
+11 published on the topics on which he testifies to in
+12 these tobacco trials?
+13
+14
+MR. CHUMBLEY:
+form.
+15
+16
+17
+Object -- object to the
+THE WITNESS:
+I believe that he has.
+BY MR. FINGER:
+Q
+Okay.
+Do you know if those -- the material
+18 that those two individuals published was peer
+19 reviewed?
+20
+A
+I -- I don't know about the articles.
+I may
+21 have heard that.
+22 and there's peer review, meaning that it's carried out
+23 in different ways by different institutions.
+24
+25
+Q
+But then -- then there's peer review
+My question to you is do you know if
+anything either Kyriakoudes or Proctor wrote has ever
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 73
+1 been peer reviewed in any context under any
+2 definition of peer review?
+3
+4
+MR. CHUMBLEY:
+Object to the form.
+If
+you know.
+5
+THE WITNESS:
+I have a vague
+6 recollection that some of the articles
+7 pertaining to this topic that he published
+8 were peer reviewed.
+9
+10
+11
+12
+13
+14
+BY MR. FINGER:
+Q
+You're talking about Kyriakoudes and
+Proctor; right?
+A
+About Proctor, I -- I know that there's a
+book that he has published on the subject.
+Q
+Has it been peer reviewed?
+15 MR. CHUMBLEY:
+16 MR. FINGER:
+17 THE WITNESS:
+The book?
+Yes, the book.
+I don't know that for a
+18 fact.
+19 could give you a better idea as to whether it
+20 was --
+21
+If I knew the publishing house, I
+BY MR. FINGER:
+22 Q Okay.
+Have you read the book?
+23 A No.
+24 Q Why not?
+25 A I'm not interested.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 74
+1
+Q
+2
+3
+Not interested.
+Brandt.
+Not interested.
+Ever hear of a historian, last name
+Brandt, B-R-A-N-D-T?
+4 A That does not ring a bell.
+5 Q Allan Brandt.
+6
+9
+Allan is the first name.
+Does that help?
+7
+8
+Okay.
+A
+I have a vague recollection, but I'm not
+sure.
+Q
+You think you might have been sent material
+10 by the tobacco companies which include testimony of
+11 Proctor; correct?
+12
+13
+MR. CHUMBLEY:
+he said.
+I don't think that's what
+Object to the form.
+14 MR. FINGER:
+15 MR. CHUMBLEY:
+16 MR. FINGER:
+17
+18
+Okay.
+I think he said --
+Fair enough.
+Fair enough.
+BY MR. FINGER:
+Q
+Do you have any recollection at all,
+19 Doctor, at any time of receiving from any source
+20 prior testimony of Robert Proctor?
+21
+MR. CHUMBLEY:
+22 asked and answered.
+23 reading testimony.
+Object to the form.
+Also
+He said he didn't recall
+24 But go ahead and answer it again.
+25 THE WITNESS:
+I don't recall that.
+I
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 75
+1 may have received it, but I don't recall
+2 that.
+3 BY MR. FINGER:
+4
+5
+6
+Q
+Well, what makes you think you may have
+received it if you have no recollection?
+A
+It's a vague recollection.
+I've looked at
+7 thousands of documents over the years, and I -- I'd
+8 rather give you -- I'm giving you the best answer that
+9 I can.
+10 Q
+So you have a vague recollection of having
+11 received prior testimony of Dr. Proctor.
+12 be fair to say?
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15
+Would that
+Object to the form.
+Vague recollection.
+BY MR. FINGER:
+16 Q
+Would -- yes, you have a vague recollection
+17 of it? 18 A Yes.
+19 Q Okay.
+Now, since you have a vague
+20 recollection of having received prior testimony of
+21 Dr. Proctor, why wouldn't you read his book?
+22 A I'm not interested in his book.
+23 Q Okay.
+24 A For the same reason that I'm not interested
+25
+Why not?
+in many other books.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 76
+1 Q Okay.
+2 A I'm just not interested.
+3 Q But his book is on the same topic that
+4 you're testifying on, isn't it?
+5 the same topic?
+6
+7
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+8 Q
+9 topic?
+10 A
+11
+Doesn't it relate to
+Okay.
+Doesn't his book relate to the same
+I don't know that for a fact.
+believe it has to do with tobacco.
+I -- I
+I don't know --
+12 Q Right.
+13 A -- I don't know whether it has to do with
+14
+15
+awareness or not.
+Q
+Right.
+Kyriakoudes and Proctor talked
+16 about what the tobacco companies have done that
+17 affect public awareness; isn't that true?
+18
+19
+20
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+Their focus is on the tobacco companies,
+21 vis-à-vis, what they've done to impact public
+22 awareness; isn't that what they do?
+23 MR. CHUMBLEY:
+24 If you know, Doctor.
+25
+Object to the form.
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 77
+1 Q You may answer.
+2 A I don't know that.
+3 Q Okay.
+Have the tobacco companies to date,
+4 as of right now, have they done anything to affect
+5 public awareness on the issue of the deleterious
+6 effects of smoking on people's health?
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9 question, please?
+10
+11
+Object to the form.
+Can you repeat the
+BY MR. FINGER:
+Q
+Sure.
+You've told me that there's a public
+12 awareness on the part of the public, obviously, that
+13 smoking cigarettes is bad for their health; correct?
+14 A Yes.
+15 Q Okay.
+Now my question is, has the
+16 tobacco -- have the tobacco companies in the past,
+17 let's say, hundred years, have they done anything to
+18 affect the public's awareness on this topic?
+19 MR. CHUMBLEY:
+20 Go ahead.
+21 THE WITNESS:
+Object to the form.
+Insofar as the voices of
+22 the tobacco companies have appeared in
+23 articles and newspapers, for example, that's
+24 something that I looked at.
+25
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 78
+1
+2
+Q
+So the answer is yes, they are impacting
+public awareness on the hazards of smoking?
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+5
+6
+Object to the form.
+I wouldn't --
+BY MR. FINGER:
+Q
+Is it your opinion that -- or is it your
+7 opinion that they haven't impacted public
+8 understanding of the hazards of smoking at all?
+9 A I would not use the word "impact."
+10 Q Okay.
+11 A Their voices have appeared in some articles,
+12
+13
+14
+What word would you use?
+in newspapers and similar -- in newspapers.
+Q
+So I want to know if that has anything to
+do with public awareness.
+15 MR. CHUMBLEY:
+16 THE WITNESS:
+Can you tell me?
+Object to the form.
+Well, these statements
+17 appear in newspaper articles that deal with
+18 awareness and make the public aware.
+19 way that these are structured is that there's
+20 a small, usually towards the end, comment in
+21 some instances from the tobacco companies,
+22 but the larger proportion of the article is
+23 on awareness and it's on the view of doctors,
+24 for example.
+25
+And the
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 79
+1
+Q
+Okay.
+Now my question to you is that small
+2 portion of the article that you're referring to, does
+3 that affect in any way, in your opinion, public
+4 awareness as to the health hazards of smoking?
+Focus
+5 on that little part at the end of the article.
+Is it
+6 your opinion that that has any effect on public
+7 awareness?
+8 MR. CHUMBLEY:
+9 Go ahead.
+10
+11
+12
+13
+THE WITNESS:
+Object to the form.
+I would have to see the
+specific article to be able to say that.
+BY MR. FINGER:
+Q
+Wait a minute.
+Doctor, you're the one
+14 that's reviewed thousands of documents and you've
+15 looked at many material and you have talked about
+16 articles that have a small part at the end that
+17 indicate the tobacco company's position.
+18 me that you looked at that material and that's what
+19 you're referring to, a little part at the end that
+20 talks about the tobacco's position.
+21 you've told me; correct?
+22 MR. CHUMBLEY:
+23 THE WITNESS:
+You've told
+That's what
+Object to the form.
+Usually is a small part
+24 towards the end of the article in some
+25 newspapers.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 80
+1
+2
+BY MR. FINGER:
+Q
+Fine.
+Now my question is, referring to
+3 that in general, that small part in however many
+4 articles you recall, however many articles you've
+5 looked at that has that little small part at the end,
+6 what impact, if any, does that have on public
+7 awareness?
+8 MR. CHUMBLEY:
+9 THE WITNESS:
+10
+11
+12
+Object to the form.
+I would have to review
+particular articles.
+BY MR. FINGER:
+Q
+What articles are you referring to?
+You
+13 said there are articles at the end where there's a
+14 little part to it.
+15 referring to?
+Tell me what articles are you
+16 A Well, I can come up with an example.
+17 Q No, no, no, no.
+I want a specific article
+18 that has that little bit at the bottom.
+19 strike that.
+20
+Your --
+Doctor, you've told me that there's a public
+21 awareness of the health hazards of smoking.
+And you
+22 base that on a number of articles you have read and
+23 that you have referred to that talk about the health
+24 hazards of smoking.
+25 through seven thousand articles.
+I don't expect you to look
+I'm assuming that
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 81
+1 your opinion is based upon your review of all that
+2 material; am I correct?
+3
+A
+Let me say something about the premise in
+4 that question.
+5 been drawn from a vast number of different sources.
+6 These include textbooks, these include TV programs,
+7 these include curricular material.
+8 that it is based on articles from newspapers is not a
+9 correct one.
+10
+Q
+My research and my conclusions have
+So the premise
+That is part of the picture.
+Okay.
+I'm asking you to focus on that part
+11 of the picture and tell me what impact, if any, the
+12 small part of those articles that espouse the tobacco
+13 company's position on this issue impact your opinion?
+14 MR. CHUMBLEY:
+15 THE WITNESS:
+16 an example.
+17 Many --
+18
+21
+22
+23
+Again, I would have to see
+And let me tell you why.
+BY MR. FINGER:
+19
+20
+Object to the form.
+Q I'm not asking you why.
+I didn't ask you
+A Well, I'm trying to expand -- I'm trying to
+why.
+expand to clarify.
+Q
+You don't need to clarify.
+24 need to see the article.
+25 to see the article.
+You told me you
+I don't care why you need
+You've explained that you can't
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 82
+1 say because you need to see the article.
+2 fair?
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+Is that
+Object to the form.
+In order for me to comment
+5 on that question, I would have to see
+6 specific articles.
+7
+BY MR. FINGER:
+8
+9
+Q
+question.
+Thank you.
+Now I'll go on to my next
+Did the tobacco companies in the last
+10 hundred years, have they spent any money on
+11 advertising their product?
+12
+13
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+14 Q Do you know?
+15 A They have spent money on that, yes.
+16 Q How much money have they spent in the last
+17
+hundred years on advertising their cigarettes?
+18 A I don't have that information.
+19 Q Do you know if they're advertising -- well,
+20 do they have a strategy for advertising their
+21 cigarettes in the last hundred years?
+22 that?
+23 MR. CHUMBLEY:
+24 If you know, Doctor.
+25 THE WITNESS:
+Do you know
+Object to the form.
+I'm not sure what you mean
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 83
+1 by strategy.
+2 appeared.
+3 since 1971 also carried a warning statement.
+4
+I can tell you where those ads
+I can also tell you that print ads
+BY MR. FINGER:
+5 Q When did Carol Wendel first start smoking?
+6 A Based on the depositions, it would have been
+7
+after high school.
+8 Q Give me the year.
+9 A A year, I can give you sort of a ballpark.
+10 She graduated in '53, so it would have been between --
+11 again, based on the depositions, between 1953 and
+12 1955.
+13
+Q
+Let me ask you this.
+Cigarette companies
+14 advertised -- were advertising their cigarettes on
+15 television right up until 1971; right?
+16 A That's my recollection, yes.
+17 Q Okay.
+18
+Can you tell me how much money they
+spent advertising their cigarettes on television?
+19 A I don't have that information.
+20 Q Do advertisements affect public awareness?
+21 A Well, it depends on what kind of
+22
+23
+advertising.
+Q
+Advertising cigarettes.
+Do you, in your
+24 opinion, have an opinion as to whether or not
+25 cigarette ads affected public opinion as to
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 84
+1 cigarettes and smoking?
+2 MR. CHUMBLEY:
+3
+Public opinion?
+4
+5
+6
+Object to the form.
+MR. FINGER:
+Yeah, public opinion.
+BY MR. FINGER:
+Q
+When the public viewed these ads on TV,
+7 were they affected at all by the ads, in your
+8 opinion?
+9
+MR. CHUMBLEY:
+10 Go ahead.
+11 THE WITNESS:
+12 MR. CHUMBLEY:
+Object to the form.
+13
+I can tell you that --
+He's not being offered as
+an expert in advertising, if that's --
+14
+MR. FINGER:
+I understand.
+15 asking him as an expert.
+16 layperson.
+17
+18
+19
+BY MR. FINGER:
+Q
+In this material, Doctor, these 249 pages,
+there are references to advertisements, aren't there?
+A Yes.
+21 Q Cigarette ads.
+Okay.
+So you know there
+are cigarette ads out there; correct?
+23 A Yes.
+24 Q Okay.
+25
+I'm asking him as a
+He looked at ads.
+20
+22
+I'm not
+And the reason you would have that
+in the material you considered is because ads are
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 85
+1
+designed to be disseminated to the public; correct?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+Object to the form.
+I'm not an expert on
+4 advertising, but I can tell you that the
+5 object appears to be to share information
+6 with the public, as far as advertising goes.
+7
+8
+9
+10
+BY MR. FINGER:
+Q
+their cigarettes, doesn't it?
+13
+Or you don't want to
+go out on a limb and tell me that?
+11
+12
+The object appears to be to get them to buy
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+Here, I'll ask you a question.
+Is it not a
+14 fact, Dr. Fernández, that the purpose of the
+15 cigarette ads was to get people to buy cigarettes?
+16 Can you answer that one?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+19
+20
+21
+Object to the form.
+My assumption is yes.
+And
+that would be the case for almost every ad.
+BY MR. FINGER:
+Q
+Okay.
+Now, do you know how much money the
+22 tobacco companies spent on ads to get people to buy
+23 their cigarettes?
+24
+25
+MR. CHUMBLEY:
+Object to the form.
+Asked and answered.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 86
+1
+2
+3
+4
+THE WITNESS:
+I -- I don't -- I don't
+have a number.
+BY MR. FINGER:
+Q
+Do you know how many ads appeared on TV in,
+5 say, '64 to '67?
+Let's take that period of time,
+6 after the Surgeon General's report.
+7 MR. CHUMBLEY:
+8 MR. FINGER:
+9
+10
+On TV?
+Yeah.
+BY MR. FINGER:
+Q
+Can you give me an idea of the
+11 proliferation of ads on TV during that period of
+12 time, if you know?
+13 MR. CHUMBLEY:
+14 THE WITNESS:
+15
+16
+17
+Object to the form.
+I've seen those ads.
+I've
+also seen public service announcements --
+BY MR. FINGER:
+Q
+I'm not asking about PSA announcements.
+18 I'm only asking you about the ads.
+19 ask about the ads.
+20 the public service announcements that tell people
+21 it's dangerous for their health.
+22 the ads designed to get people to buy the cigarettes.
+23 Stick with the ads, Doctor.
+24 were on during that period of time.
+25
+I only want to
+I know you want to tell me about
+MR. CHUMBLEY:
+I want to focus on
+Tell me how many ads
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 87
+1
+BY MR. FINGER:
+2 Q Can you give me an idea?
+3 A I can't give you a number.
+4 Q Well, was it more than one -- oh, you can't
+5 give me any number.
+You have no idea how many ads
+6 were on TV for any given period of time?
+7 MR. CHUMBLEY:
+8 THE WITNESS:
+9
+10
+11
+Object to the form.
+I can't give you a number,
+no.
+BY MR. FINGER:
+Q
+In the Fed -- did you ever look at the
+12 Federal Trade Commission Report, at any Federal Trade
+13 Commission Report that gives numbers?
+14 research, ever look at that?
+15
+A
+I've read FTC reports.
+16 specifically.
+17 looking at that.
+18
+19
+20
+Q
+I don't recall that
+I would have to refresh my mind by
+Who is Hill & Knowlton?
+Hill & Knowlton was?
+A
+In your
+Do you know who
+Ever heard of that?
+I think, and I may be wrong, but the first
+21 thing that comes to mind is that that may be an ad
+22 company.
+23 Q What makes you think that?
+24 A Because I make that connection in my brain
+25
+based on what I've read.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 88
+1
+Q
+Okay.
+Do you know of any connection
+2 between Hill & Knowlton and tobacco companies?
+3 your brain, do you have any connection between those
+4 two?
+5
+6
+A
+In
+Well, if that's the case, and as I said in
+my previous response, I'm not 100 percent sure, but --
+7
+MR. CHUMBLEY:
+Doctor, I don't want you
+8 to speculate now.
+9 to know what you know, and he's entitled to
+10
+11
+12
+Come on.
+know what you know.
+I mean, he wants
+So the question --
+BY MR. FINGER:
+Q
+13
+Sure.
+If you --
+MR. CHUMBLEY:
+-- so the question was do
+14 you know if there was any connection -- do
+15 you know if there was any connection between
+16 Hill & Knowlton and the tobacco companies?
+17
+18
+BY MR. FINGER:
+Q
+Answer my question.
+And if you don't know
+19 any connection and you don't know if they had
+20 anything to do with each other, tell me.
+21 A Well, this is what I can tell you --
+22 Q Okay.
+23 A -- if that company, and I don't recall the
+24 name 100 percent, whether that company had advertising
+25 for tobacco products, so let me start by saying that.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 89
+1 Now, I think that it is quite obvious that if they're
+2 making advertising for tobacco companies, there is a
+3 connection there.
+4
+Q
+What's that based on?
+5 read?
+6 you think that?
+7
+That's as far as I can go.
+Is it a document?
+A
+Is it something you
+Is it research?
+What makes
+I don't think they would be advertising
+8 tobacco products without a relationship with a tobacco
+9 company.
+10
+11
+Q
+That's what happens --
+Okay.
+I don't mean to cut you off.
+Finish, Doctor.
+12 MR. CHUMBLEY:
+13 THE WITNESS:
+14
+15
+Yeah.
+BY MR. FINGER:
+Q
+I didn't mean to cut you off.
+16 MR. CHUMBLEY:
+17 THE WITNESS:
+18
+19
+Did you finish?
+He finished.
+Go ahead.
+I -- yes.
+BY MR. FINGER:
+Q
+What makes you think they did any
+20 advertising at all?
+Your initial premise is they're
+21 advertising for tobacco companies.
+22 think that?
+23 A
+What makes you
+I have a recollection, again it's not 100
+24 percent, that that company you mentioned was an
+25 advertising company.
+And I have a vague recollection
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 90
+1 that they made advertising for cigarettes.
+2 far as I know.
+3
+Q
+4
+5
+6
+That's as
+Was their advertising effective?
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+When I say effective, was their advertising
+7 effective in getting people to buy cigarettes?
+8 you know that?
+9
+MR. CHUMBLEY:
+10 If you know.
+11 THE WITNESS:
+12
+13
+14
+expertise.
+Do
+Object to the form.
+That's outside my field of
+I'm not an expert in ads.
+BY MR. FINGER:
+Q
+Okay.
+Do you know if the tobacco companies
+15 got together at any point in time and devised any
+16 sort of strategy to impart doubt in the public as to
+17 the health hazards of smoking?
+18 tobacco companies ever did that?
+19 MR. CHUMBLEY:
+20 If you know, Doctor.
+21 THE WITNESS:
+22
+23
+Do you know if the
+Object to the form.
+I don't know.
+BY MR. FINGER:
+Q
+Have you reviewed any documents at all that
+24 suggest that the tobacco companies had a strategy to
+25 create doubt in the public as to whether or not
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 91
+1 cigarette smoking was harmful for their health?
+2 you have any knowledge of anything like that?
+3
+4
+MR. CHUMBLEY:
+Well, the question was
+has he seen documents; right?
+5
+6
+MR. FINGER:
+Have you seen documents,
+yes.
+7 MR. CHUMBLEY:
+8 Go ahead.
+9 THE WITNESS:
+10
+11
+Do
+Object to the form.
+I have not seen documents.
+BY MR. FINGER:
+Q
+Okay.
+Other than documents, independent of
+12 any documents, do you have any knowledge, independent
+13 of any documents that you may have looked at, of the
+14 tobacco companies getting together and devising a
+15 strategy by which they would instill doubt in the
+16 public as to the hazardous effects of smoking?
+17
+18
+MR. CHUMBLEY:
+Asked and answered about 30 seconds ago.
+19
+20
+21
+Object to the form.
+THE WITNESS:
+I have not.
+BY MR. FINGER:
+Q
+How about confusion?
+Have you reviewed any
+22 document that suggested that tobacco companies had a
+23 strategy to create confusion in the minds of the
+24 public who might think smoking was bad for their
+25 health?
+Have you reviewed any such document?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 92
+1 MR. CHUMBLEY:
+2 THE WITNESS:
+3
+4
+Object to the form.
+No.
+BY MR. FINGER:
+Q
+Did you ever ask any of the tobacco
+5 companies, you know what, I want to see your internal
+6 documents to see what strategy you had as far as it
+7 might impact public awareness?
+8 you were doing that might affect public awareness.
+9 Did you ask for any such documents?
+I want to know what
+10 A No.
+11 Q Why not?
+12 A My research has been on the materials that
+13 reach the public.
+14 strategies of advertising.
+15 kinds of materials that reached Ms. Wendel and others
+16 in her time and place.
+17
+Q
+Okay.
+I have not done research on
+I'm talking about the
+Were the tobacco companies doing
+18 anything to disseminate information to reach the
+19 public and Ms. Wendel or were they silent the whole
+20 time that these people were becoming aware of the
+21 health hazards of smoking?
+22
+23
+24
+25
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+I want you to focus on what the tobacco
+companies may have been doing to affect public
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 93
+1 awareness on that end.
+2 their end to affect public awareness of the health
+3 hazards of smoking?
+Can you tell me that?
+4 MR. CHUMBLEY:
+5 THE WITNESS:
+6 that.
+7 BY MR. FINGER:
+8
+9
+Q
+Were they doing anything on
+Object to the form.
+I don't have knowledge of
+Have you ever heard of something called the
+Roper Proposal?
+10 A Roper Proposal?
+11 Q Yeah.
+12
+13
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+14 Q R-O-P-E-R.
+15 A I've seen Roper materials.
+16
+17
+that title, though.
+Q
+I don't recall
+I would have to see it.
+How about a -- a document called the
+18 Nordine, N-O-R-D-I-N-E, Study?
+Have you ever
+19 reviewed a document known as the Nordine Study?
+20 A I don't recall ever seeing that.
+21 Q Okay.
+22
+23
+Do you know if Carol Wendel was
+affected by cigarette advertisements?
+A
+Based on her husband's testimony, she -- she
+24 was not swayed by any form of advertising, including
+25 cigarettes.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 94
+1 Q Anybody else testify to the contrary?
+2 A I don't recall specifically.
+3 Q Why did Carol Wendel start smoking?
+4
+5
+Do you
+know?
+A
+What I can tell you, based on the
+6 depositions, is that, according to her sister, she
+7 was -- she was not smoking while in high school.
+8 Q Thank you.
+9 A And the next piece of information would be
+10 Charles Wendel's testimony, I believe, which places
+11 her smoking around 1955.
+12 far as the depositions or any other materials go.
+13
+Q
+Good.
+That's my recollection as
+I'm asking the question again.
+Can
+14 you tell me why she started smoking, whenever it was?
+15 I'm not interested in the date.
+16 me, if you can, why she started smoking in the first
+17 place.
+18 A
+19
+20
+23
+24
+I don't recall that information.
+MR. CHUMBLEY:
+Let me object to the form
+of the last one.
+21
+22
+My question is tell
+Go ahead.
+BY MR. FINGER:
+Q
+How do you know it wasn't on account of
+cigarette ads?
+25
+MR. CHUMBLEY:
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 95
+1
+BY MR. FINGER:
+2
+Q
+You don't know why, so you can't say it
+3 wasn't on account of a cigarette ad, can you?
+4 you?
+5
+A
+Can
+Well, what I can tell you is what I said a
+6 few minutes ago, based on Charles Wendel's testimony,
+7 that she was not the kind of person that would be
+8 pushed to buy something based on advertising.
+9
+Q
+I understand.
+I understand.
+But I'm
+10 talking about why she started in the first place as
+11 opposed to her husband's opinion as to the nature of
+12 her personality.
+13 that indicates -- strike that.
+14
+15
+Do you have any evidence at all
+Let's do it this way, Doctor.
+We know there
+came a time when Carol Wendel started smoking; right?
+16 A Yes.
+17 Q Okay.
+Now, without regard to
+18 advertisement, can you tell me why she started
+19 smoking if it was so widely known that cigarette
+20 smoking is bad for your health?
+21 knowing it was bad for her health?
+22 MR. CHUMBLEY:
+23 THE WITNESS:
+24
+25
+Why did she do it
+Object to the form.
+At this point, I don't
+have an answer for that question.
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 96
+1
+2
+Q
+Do you anticipate that there will be
+some point when you will have an answer?
+3
+4
+Okay.
+A
+I'm not sure.
+What I would do is review the
+depositions again.
+5
+Q
+Are you unprepared to give your deposition
+6 today because you need to review the depositions some
+7 more?
+8 MR. CHUMBLEY:
+9 THE WITNESS:
+10 prepared.
+11 BY MR. FINGER:
+12
+Q
+Object to the form.
+No, that's not true.
+I am
+But if you tell me, in the future I'll
+13 review it and I may answer it differently, then I
+14 would suggest you're not prepared.
+15 the answers now, and I don't want to find out, well,
+16 I told you I need to look at the depo again.
+17
+I want to know
+If you need to look at the depo again to be
+18 prepared, tell me, and we'll come back another day
+19 after you've had a chance to read the depo.
+20
+21
+22
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+But I have the right to your opinion now
+23 fully prepared, unless you tell me you're not, and
+24 then I'll finish the depo another time, Doctor.
+25 just trying to find out how much more preparation you
+I'm
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 97
+1
+need, if at all.
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4
+5
+Object --
+I am --
+BY MR. FINGER:
+Q
+Do you need more time to prepare before
+6 giving me a deposition on this topic so that you'll
+7 have time to review the 249 pages and all the depos?
+8 Do you need more time?
+9
+MR. CHUMBLEY:
+10 THE WITNESS:
+11 deposition today.
+12
+13
+Object to the form.
+I am ready to give the
+If you ask --
+BY MR. FINGER:
+Q
+Then what makes you -- what makes you
+14 think -- what makes you think, Doctor, that your
+15 opinion may change if you review the depositions
+16 again in the future?
+17
+A
+Well, let me tell you how historians do
+18 these things.
+19 them at some future point.
+20 practice.
+21 will not change.
+22 something specific, I think I have a right to review
+23 that particular document.
+24
+25
+Q
+We read materials and then we re-visit
+That's the common
+I have clear opinions on this case that
+But if you want me to answer
+The documents I'm referring to are your own
+documents on your list.
+I'm assuming you're familiar
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 98
+1
+with your own material, are you not, Doctor?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4
+5
+6
+Object to the form.
+I think we were speaking
+about depositions.
+BY MR. FINGER:
+Q
+Okay.
+Doctor, would you agree that based
+7 upon your understanding of the public awareness of
+8 smoking -- let me put the question this way.
+9
+You have told me that there's a public
+10 awareness that smoking cigarettes was a hard habit to
+11 break or it was addictive, there was public knowledge
+12 of that; correct?
+13 A That's correct.
+14 Q Okay.
+Would you disagree with the premise
+15 that as of August of 1978, very few consumers were
+16 aware of the effects of nicotine; i.e., its addictive
+17 nature, and that nicotine is a poison?
+18 talking about in August of 1978.
+19 you is in August of 1978, did or did not consumers --
+20 strike that.
+21
+And I'm
+So my question to
+Were consumers aware or were they not aware
+22 of the effects of nicotine; specifically, its
+23 addictive nature and that nicotine is a poison?
+24 MR. CHUMBLEY:
+25 THE WITNESS:
+Object to the form.
+The public was aware of
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 99
+1 that.
+2 very early in the 20th century, they use
+3 those precise words.
+4
+5
+In fact, if you look at textbooks from
+BY MR. FINGER:
+Q
+So then you would disagree with anyone who
+6 would suggest that very few consumers are aware of
+7 the effects of nicotine; i.e., its addictive nature
+8 and that nicotine is a poison?
+9 with anyone who held that opinion in August of 1978;
+10
+You would disagree
+correct?
+11 MR. CHUMBLEY:
+12 THE WITNESS:
+Object to the form.
+In order for me to opine
+13 on that, I would like to see the wording of
+14 that statement.
+15
+16
+BY MR. FINGER:
+Q
+I just gave you the wording.
+I just gave
+17 you the wording, Doctor.
+18 verbatim.
+19 need to look at any document.
+20 wording, and I'm giving you the opportunity to either
+21 agree or disagree.
+22
+I'm reading it to you
+I'm giving you the wording.
+I'll read it again.
+You don't
+I'm giving you the
+Here's the question,
+23 Doctor.
+Would you disagree with the following
+24 premise, that as of 1978, very few consumers are aware
+25 of the effects of nicotine; i.e., its addictive nature
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 100
+1
+and that nicotine is a poison?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4
+5
+Object to the form.
+Based on what I've seen,
+the public --
+BY MR. FINGER:
+6 Q No, not based on what you've seen.
+7 A -- the public was widely aware of that.
+8 Q So your answer is you would disagree with
+9
+that statement that I just read?
+10 with that?
+11 A
+You would disagree
+Well, it would be important for me to
+12 contextualize the document that you're referring to in
+13 terms of who produced it.
+14 need to look at the document itself to see what it
+15 said before, what it said after, and to gain some
+16 familiarity with that.
+17
+18
+Q
+But without seeing that document, you would
+disagree with that general premise, wouldn't you?
+19 MR. CHUMBLEY:
+20 THE WITNESS:
+21 document.
+22 BY MR. FINGER:
+23
+Sometimes -- I would really
+Q
+Object to the form.
+I would like to see that
+Without seeing that document, based solely
+24 upon what I just read you, you would disagree, would
+25 you not?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 101
+1
+2
+3
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+I understand you want to see the document.
+4 I'm just asking you to either agree or disagree with
+5 what I just asked you independent of any document it
+6 may appear in.
+7 you would disagree?
+8
+9
+A
+It is your opinion, is it not, that
+I cannot give you a full opinion unless I'm
+able to contextualize those words that you are
+10 quoting.
+11 things that we learn.
+12 contextualized, and you have to understand the context
+13 in which it was produced and for what purpose.
+14
+Q
+As a historian, that's one of the first
+Every document has to be
+What if I'm asking you a question that
+15 doesn't appear in any document?
+16 opinion unless it comes from a document?
+17
+18
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+19 Q
+20 an opinion?
+21 a document you can't opine?
+22
+You can't give me an
+A
+You need a document before you can render
+Is that your testimony, Doctor?
+Without
+Well, you just told me --
+23 MR. CHUMBLEY:
+24 Go ahead.
+25 THE WITNESS:
+Object to the form.
+You just told me that
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 102
+1
+2
+you're reading it from a document.
+BY MR. FINGER:
+3 Q Yes.
+4 A So I --
+5 Q So what?
+So what?
+6 comment on just what I read.
+7 you see the document?
+I'm asking you to
+8 MR. CHUMBLEY:
+9 THE WITNESS:
+You can't do it unless
+Object to the form.
+In order -- in order to
+10 give you a full answer, I would need to see
+11 the document.
+12 quote.
+13
+14
+15
+16
+I don't know if that's a
+I don't know if --
+BY MR. FINGER:
+Q
+It doesn't matter.
+It doesn't matter if
+it's a quote.
+A
+Excuse me.
+I don't know what was said
+17 before, in what context those couple of sentences that
+18 you read appear.
+19
+Q
+That is important to a historian.
+It doesn't matter what context, Doctor.
+20 I've asked you a question.
+21 without seeing the document?
+22 asked you on that statement alone, you can't answer
+23 unless you see the document?
+24 MR. CHUMBLEY:
+25 THE WITNESS:
+You can't answer it
+The question that I
+Is that your testimony?
+Object to the form.
+You said that the context
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 103
+1 is of no importance, if I recall your words.
+2 I disagree completely with that.
+3 context --
+4
+The
+BY MR. FINGER:
+5 Q Thank you.
+6 A -- is very important.
+7 Q Have you ever heard of the Roper Company?
+8 A Did you say Roper?
+9 Q Roper, R-O-P-E-R.
+10 A That's a polling organization.
+11 Q So that means yes, you've heard of them?
+12 A Yes.
+13 Q Okay.
+Have you ever reviewed any documents
+14 that discuss any work done by the Roper Company for
+15 Brown & Williams Tobacco Company in the course of
+16 your vast research on this topic of public awareness?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+Object to the form.
+I have seen Roper
+19 documents on the topic of tobacco.
+20 know for what company.
+21 you.
+22 BY MR. FINGER:
+23
+Q
+I don't
+That's all I can tell
+Do you know in your vast review of the
+24 material if the tobacco companies ever employed a
+25 strategy to defend itself on three fronts;
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 104
+1 litigation, politics, and public opinion?
+2 know that or have you not heard of that?
+3 MR. CHUMBLEY:
+4 If you know, Doctor.
+5 THE WITNESS:
+6
+7
+Do you
+Object to the form.
+I have not.
+BY MR. FINGER:
+Q
+Well, would you disagree that the tobacco
+8 companies for at least twenty years, for the period
+9 of time, let's say from 1952 to 1972, that the
+10 tobacco industries employed a single strategy to
+11 defend itself on three major fronts; litigation,
+12 politics, and public opinion?
+13
+MR. CHUMBLEY:
+Object to the form.
+14 Asked and answered.
+15 of it.
+16
+17
+18
+19
+THE WITNESS:
+Q
+24
+25
+Okay.
+Have you ever read a document -- or
+a memorandum entitled the Roper Proposal?
+MR. CHUMBLEY:
+Object to the form.
+Asked and answered about ten minutes ago.
+22
+23
+I don't know that.
+BY MR. FINGER:
+20
+21
+He said he never heard
+MR. FINGER:
+right.
+Okay.
+I think you're
+I believe you're right.
+BY MR. FINGER:
+Q
+Do you have any reason to believe that the
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 105
+1 report of the Federal Trade Commission or that any
+2 report of the Federal Trade Commission is unreliable?
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+5
+6
+7
+Object to the form.
+I would like to see a
+document before I make that kind of judgment.
+BY MR. FINGER:
+Q
+Have you ever in your -- you have reviewed
+8 Federal Trade Commission reports as part of your
+9 reliance material; correct?
+10 A That is correct.
+11 Q Okay.
+Did you find it to be inaccurate?
+12 MR. CHUMBLEY:
+13 THE WITNESS:
+Object to the form.
+I would have to see a
+14 particular report before I can comment on my
+15 perception of accuracy or not.
+16
+17
+BY MR. FINGER:
+Q
+I'm asking you about the report that's in
+18 your material that you've told me you've reviewed.
+19 When you reviewed that document which you indicated
+20 is a part of your reliance list, did you determine
+21 that it was reliable or unreliable?
+22 It's in your document.
+23
+24
+25
+MR. CHUMBLEY:
+You read it.
+Now talk to me about it.
+Object to the form.
+Is
+there a question?
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 106
+1
+Q
+Did you find anything that was inaccurate?
+2 It's in your material.
+3 list from you.
+4 that's inaccurate.
+You read it all.
+I got the
+Tell me if there's anything in there
+5 MR. CHUMBLEY:
+6 THE WITNESS:
+Object to the form.
+I've examined many, many
+7 documents, and I can't recall one in
+8 particular unless you give me the opportunity
+9 to take a look at that document.
+10
+11
+BY MR. FINGER:
+Q
+How long have you had the document?
+12 in your material.
+13 Trade Commission report?
+How long have you had the Federal
+14 MR. CHUMBLEY:
+15 THE WITNESS:
+16
+17
+18
+Object to the form.
+I don't recall
+specifically when.
+BY MR. FINGER:
+Q
+It's been years, hasn't it, generally?
+19 know you can't specifically say.
+20 document for years, haven't you?
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+23
+24
+25
+It's
+I
+You've had that
+Object to the form.
+Yes.
+BY MR. FINGER:
+Q
+Okay.
+So over the years, you've had
+opportunity, you've had years, to review the
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 107
+1
+document, haven't you?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+4 document.
+5 BY MR. FINGER:
+6
+Q
+Fine.
+Object to the form.
+I -- I've read the
+Then tell me whether or not you
+7 found anything in it that's inaccurate since you've
+8 read it over the years.
+9 MR. CHUMBLEY:
+10
+11
+12
+THE WITNESS:
+Object to the form.
+I would have to see the
+document one more time to make that judgment.
+BY MR. FINGER:
+13 Q Why?
+14 A Because that's what historians do.
+15
+16
+We look
+at the context in which a document was produced.
+Q
+Well, if you're interested in the context
+17 in which documents appear and the context by which
+18 the public's -- public awareness of smoking is
+19 contained, why wouldn't you want the tobacco
+20 companies' internal documents so you'd have the
+21 entire context of the atmosphere by which people
+22 smoke or what people thought about smoking?
+23
+MR. CHUMBLEY:
+24 answered.
+25 BY MR. FINGER:
+Objection.
+Asked and
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 108
+1
+Q
+I mean, you keep talking to me about the
+2 total context.
+3 company is doing in their documents so you can get
+4 the whole picture?
+5
+A
+Why don't you want what the tobacco
+Isn't that part of the context?
+We're talking about two different things.
+6 What I looked at is public awareness, and that is
+7 based on the information that reached the public, that
+8 reached individuals such as Ms. Wendel.
+9
+I -- internal documents is not something
+10 that I was -- that I believe would be useful because
+11 those are not public materials.
+12 materials that reach the public.
+13 Ms. Wendel, for example.
+14
+Q
+Okay.
+Those are not
+They did not reach
+Then what material -- tell me, what
+15 material did the tobacco companies put forward that
+16 reached the public?
+17 hundred years what, if anything, did the tobacco
+18 companies put forward that reached the public?
+19 talked about ads on TV.
+20 know the public watches TV; right?
+You tell me over the last
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+23
+We
+We know they did that.
+We
+Object to the form.
+Correct.
+BY MR. FINGER:
+24 Q
+25 their ads.
+Okay.
+So we know that the public watched
+What else did the tobacco company, if
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 109
+1 any, put forward that reached the public?
+2 did they do, if anything?
+3 MR. CHUMBLEY:
+4 If you know, Doctor.
+5 THE WITNESS:
+What else
+Object to the form.
+That voice appeared in
+6 articles as I explained earlier.
+7 articles where the topic of tobacco and
+8 health was touched upon, in some instances
+9 tobacco executives were quoted.
+10
+11
+12
+A few
+BY MR. FINGER:
+Q
+Okay.
+And did the advertising in those
+articles that we referred to, the ad -- strike that.
+13
+Did the advertising of the cigarettes and
+14 the articles that quoted the tobacco companies'
+15 position on the health effects of smoking, did that
+16 affect in any way what people thought about the health
+17 hazards of smoking, or did it have no impact on what
+18 they thought about the dangers of smoking?
+19
+20
+MR. CHUMBLEY:
+Object to the form.
+I
+believe that's been asked and answered.
+21 But go ahead, Doctor.
+22 MR. FINGER:
+I want him to tell me if
+23 the tobacco companies had any effect on the
+24 public or if what they were doing had no
+25 effect.
+That's what I want to know from this
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 110
+1
+witness.
+2 MR. CHUMBLEY:
+3 Do you remember the question?
+4 THE WITNESS:
+5
+6
+7
+Object to the form.
+Yes.
+But I don't know
+what you're referring to in terms of effect.
+BY MR. FINGER:
+Q
+The public awareness.
+Let me ask you this.
+8 When you said public awareness, okay, does that mean
+9 that they believed that smoking was harmful to them?
+10 I can be aware of something but not believe it;
+11 right?
+12
+13
+14
+15
+16
+MR. CHUMBLEY:
+19
+Object to the form.
+BY MR. FINGER:
+Q
+I can be aware of a particular thing yet
+not believe it; correct?
+A
+17
+18
+Right?
+That's correct.
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+Okay.
+There is a school of thought that
+20 says that talking on a cell phone can cause a brain
+21 tumor.
+22 ever heard of that?
+You're aware of that, aren't you?
+23 MR. CHUMBLEY:
+24 THE WITNESS:
+25
+Have you
+Object to the form.
+I have heard that.
+BY MR. FINGER:
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 111
+1 Q Do you believe it?
+2 A I'm not --
+3 Q Do you believe talking on the phone causes
+4
+5
+6
+brain tumor?
+A
+I'm not sure of that.
+I can't give you a
+medical answer to that.
+7 Q Do you have a cell phone?
+8 A I do have a cell phone.
+9 Q Do you -- would you use it if you thought
+10 it might give you a brain tumor?
+11 not sure, tell me why are you using a cell phone if
+12 you're not sure whether or not it will give you a
+13 brain tumor?
+14
+15
+16
+Why would you use it?
+MR. CHUMBLEY:
+Q
+Are you a gambler?
+MR. CHUMBLEY:
+18 THE WITNESS:
+20
+Object to the form.
+BY MR. FINGER:
+17
+19
+I mean, if you're
+Object to the form.
+I think the --
+BY MR. FINGER:
+Q
+Why would you use a cell phone, Doctor, if
+21 you're not sure whether or not it can give you a
+22 brain tumor?
+23
+A
+Why would you risk it?
+I think the implied comparison is incorrect.
+24 We've been talking about cigarettes and the huge
+25 volume of information on that subject.
+My response in
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 112
+1 terms of the telephone -- cell phone and its potential
+2 harm, that is something that I may have seen once or
+3 twice or heard once or twice.
+4
+Q
+I understand that.
+So you're aware of it.
+5 You're aware of it because you might have seen it
+6 once or twice; right?
+7
+8
+9
+10
+11
+12
+13
+14
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+You're aware that that belief exists
+because you might have heard it once or twice; right?
+A
+I believe that some individuals have
+conveyed that message.
+Q
+Okay.
+So you're aware that that message is
+out there; right?
+15
+16
+Right?
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+17 Q 18 right? 19 A I did hear that, yes.
+20 Q Okay.
+21
+It exists.
+You've heard of it before;
+Now I'm asking you, now that we know
+you've heard it, I'm asking you, do you believe it?
+22
+MR. CHUMBLEY:
+Again, object to the
+23 form.
+I think he admitted a while ago that
+24 you can be aware of something and not believe
+25 it.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 113
+1
+2
+MR. FINGER:
+No, no, he hasn't conceded
+that.
+3 MR. CHUMBLEY:
+4 MR. FINGER:
+Oh, I thought he did.
+That's the problem here.
+5 He hasn't given me that.
+6 MR. CHUMBLEY:
+7 MR. FINGER: I haven't gotten that from
+8 the witness yet. I haven't gotten that from
+9 the witness yet. I've got to pry that from
+10
+him.
+11
+12
+MR. CHUMBLEY:
+15
+16
+19
+20
+I
+But we can --
+MR. FINGER:
+Oh, I don't recall hearing
+it.
+BY MR. FINGER:
+Q
+17
+18
+Well, I disagree.
+think I heard it.
+13
+14
+Oh, I thought he had.
+But I'll ask the question --
+MR. CHUMBLEY:
+The transcript will speak
+for itself.
+BY MR. FINGER:
+Q
+Well, then let me ask the question.
+Can
+21 you be aware of something and yet not believe in that
+22 which you are aware of?
+23 A Yes.
+24 Q Okay.
+25
+You're here to say that people were
+aware of the health hazards of smoking; correct?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 114
+1 A That's correct.
+2 Q Okay.
+3
+Now, does that mean that everybody
+believed that smoking was hazardous to their health?
+4 A No.
+5 Q Is it your testimony, Doctor -- I just want
+6 to wrap this up because actually the two hours is
+7 over.
+8 MR. CHUMBLEY:
+Yeah --
+9 MR. FINGER:
+10 in a minute or two --
+11 MR. CHUMBLEY:
+12 MR. FINGER:
+So I think I can wrap it up
+13
+14
+All right.
+-- with this question --
+BY MR. FINGER:
+Q
+-- do you -- have you -- have you concluded
+15 that Carol Wendel believed that smoking was hazardous
+16 to her health or that she was aware that smoking
+17 would have been hazardous to her health?
+18 A She was both aware and she believed in it.
+19 Q Okay.
+20
+21
+How do you know she believed it?
+We've discussed awareness.
+A
+Based on the depositions, statements by her
+22 two children who made that point, that she was aware
+23 and that she shared that information with them.
+24 also based on her husband's testimony, which mentions
+25 many things, among them the fact that the 1964 Surgeon
+And
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 115
+1 General's report had an impact on him, and he shared
+2 that information with his wife.
+3 that report.
+4
+Q
+No, no, no.
+And she was aware of
+My question isn't awareness.
+5 My question is belief.
+6 with her, did the deposition material suggest she
+7 believed it?
+8 A Yes.
+9 Q Okay.
+10
+13
+Did everybody who read the Surgeon
+General's report in 1964, did they all believe it?
+11
+12
+When he shared that opinion
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+Q
+They were aware of it, it was widespread,
+14 it was all on the news; right?
+15 before; Right?
+16
+17
+You testified to that
+Big story?
+MR. CHUMBLEY:
+Object to form.
+BY MR. FINGER:
+18 Q Big story 1964; right?
+19 A Yes.
+20 Q By the way, since it was widely known --
+21 let me ask you this.
+22 if everybody has known cigarette smoking was bad
+23 since 1400?
+24 Somebody -- they already know for 500 years; right?
+25
+Why was it a big story in 1964
+Why would that be a big story?
+MR. CHUMBLEY:
+Object to the form.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 116
+1
+2
+3
+4
+THE WITNESS:
+Did you say everybody knew
+500 years ago?
+BY MR. FINGER:
+Q
+It was widely known.
+Is it your -- I
+5 understood you to say it's been widely known since
+6 the 1400s that cigarette smoking was bad for your
+7 health.
+Was it widely known?
+8 A I don't believe I used those words.
+9 Q I'm asking you, was it widely known since
+10 the 1400s that cigarette smoking was bad for your
+11 health?
+12
+A
+Let me ask you --
+Since the 1400s --
+13 MR. CHUMBLEY:
+14 Go ahead.
+15
+Object to the form.
+BY MR. FINGER:
+16 Q Yes.
+Was it widely known?
+17 A In the 1400s?
+18 Q From the 1400s to 1964, was it widely
+19 known? 20 A
+The awareness of that --
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+23
+24
+25
+Object to form.
+-- the awareness of
+that --
+BY MR. FINGER:
+Q
+Was it widely known -- can you answer my
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 117
+1 question, Doctor?
+2 known, in your opinion, from the 1400s to 1964 that
+3 smoking is bad for your health?
+4 known, why it was widely known, I don't care.
+5 want the bottom line.
+6 between 1400 and 1964, it was widely known that
+7 smoking was bad for your health?
+8
+9
+A
+It's real simple.
+Was it widely
+How it was widely
+I just
+Is it your opinion that
+I don't believe it was widely known at the
+beginning, the 1500s.
+That increased dramatically,
+10 and certainly during Ms. Wendel's time that was widely
+11 known to the public.
+12
+Q
+13
+14
+15
+MR. CHUMBLEY:
+18
+Q
+-- in your opinion --
+MR. CHUMBLEY:
+Q
+material?
+20 known?
+-- based upon your review of 500 years of
+When would you say it was first widely
+21 MR. CHUMBLEY:
+22 THE WITNESS:
+24
+25
+Object to the form.
+BY MR. FINGER:
+19
+23
+Object --
+BY MR. FINGER:
+16
+17
+When did it first become widely known --
+Object to the form.
+I would say since the
+1800s.
+BY MR. FINGER:
+Q
+Then why was the Surgeon General's report
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 118
+1 in 1964 big news since that fact has been widely
+2 known since the 1800s?
+3 MR. CHUMBLEY:
+4 THE WITNESS:
+What would make it big news?
+Object to the form.
+This was a major study
+5 that took a long time, a study in which the
+6 scientists evaluated a vast number of
+7 previous studies.
+8 imprint of the Surgeon General of the United
+9 States.
+And it came with the
+That was big news.
+It was big news
+10 when it was announced.
+11 it was being studied.
+12 big news on the day in which it appeared.
+13
+14
+It was big news while
+And it was certainly
+BY MR. FINGER:
+Q
+But it was a fact that everybody had known
+15 since the 1800s.
+16 1800s, it was a fact that everybody had already known
+17 about because that was already widely known.
+18 big news on a subject that was already widely known?
+19
+20
+21
+MR. CHUMBLEY:
+24
+25
+So it's
+Object to --
+BY MR. FINGER:
+Q
+22
+23
+Since it was widely known since the
+Would you agree --
+MR. CHUMBLEY:
+Object to the form --
+BY MR. FINGER:
+Q
+-- would you agree, Doctor, that it was big
+news on a subject that had been known for over a
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 119
+1
+hundred years?
+2 MR. CHUMBLEY:
+3 THE WITNESS:
+Object to the form.
+It was big news, yes, on a
+4 subject that was widely known for -- for --
+5 for that period of time.
+6
+7
+BY MR. FINGER:
+Q
+So the only thing that made it big news was
+8 the fact it was coming from the Surgeon General.
+9 it wasn't new news, was it?
+10
+11
+12
+MR. CHUMBLEY:
+But
+Object --
+BY MR. FINGER:
+Q
+But the Surgeon General -- let me ask the
+13 question this way.
+What the Surgeon General came out
+14 with in 1964, that wasn't new news; that's -- that
+15 news had been known since 1800; right?
+16 new; right?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+It was not
+Object to the form.
+I don't agree that the
+19 science that was represented in that report
+20 was known in the 1800s.
+21 that came later.
+22
+23
+That's something
+BY MR. FINGER:
+Q
+Well, what was widely known in the 1800s
+24 about smoking?
+What was widely known?
+25 was that it's bad for your health.
+I thought it
+That's what I
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 120
+1
+thought was widely known.
+2
+3
+MR. CHUMBLEY:
+Object to the form.
+BY MR. FINGER:
+4 Q Correct me.
+5 A It was widely --
+6 Q What was it that was widely known in the
+7
+8
+9
+1800s about smoking?
+A
+There was an awareness about the harmful
+effects of smoking.
+Scientists had published on that
+10 subject.
+11 reduce smoking in the public.
+12 products to quit smoking as far back as the 1800s.
+13
+Q
+And organizations were created to cut -- to
+There were ads for
+I -- do you have an opinion, Doctor, based
+14 upon any polls as to what people believed about the
+15 smoking hazards -- or the health hazards of smoking
+16 rather than what they were aware of?
+17 with it, and I'm going to end this depo, any opinion
+18 you have about the public's belief about the smoking
+19 hazards -- about the hazards associated with smoking
+20 rather than just their awareness of it.
+21 know your opinions on that, and then I'll end --
+22
+MR. CHUMBLEY:
+Objection.
+I want to deal
+I want to
+I think he's
+23 given you his opinions on public awareness
+24 versus belief.
+25 polls?
+Was this question related to
+Did I hear that?
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 121
+1
+MR. FINGER:
+Yes, yes, yes.
+I want -- I
+2 want to ask the doctor if he has any opinion
+3 as to belief as opposed to awareness.
+4
+5
+6
+MR. CHUMBLEY:
+Based upon --
+BY MR. FINGER:
+Q
+Do you have an opinion --
+7 MR. CHUMBLEY:
+8 MR. FINGER:
+9
+10
+11
+12
+Based upon polls?
+Let me ask the question.
+Do you -- let me do it this way, and I'll get
+to the polls.
+BY MR. FINGER:
+Q
+First, do you have an opinion as to what
+13 the public believed about the health hazards of
+14 smoking in the last hundred years?
+15 MR. CHUMBLEY:
+16 Go ahead.
+17 THE WITNESS:
+18 show that information.
+19 about Ms. Wendel --
+20
+21
+Object to the form.
+There are some polls that
+I certainly know
+BY MR. FINGER:
+Q
+I'm not asking you about Ms. Wendel.
+I'm
+22 not asking you about Ms. Wendel.
+I'm just asking you
+23 about polls that deal with public awareness, public
+24 belief -- public belief in general.
+25 Ms. Wendel.
+Forget
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 122
+1
+Tell me whether or not the public in the
+2 last hundred years had a belief that smoking was bad
+3 for your health as opposed to just being aware of that
+4 claim.
+5 A
+There are polls that demonstrate that a
+6 large number of people believed it, were not just
+7 aware of it, but believed it as well.
+8
+9
+Q
+Okay.
+Which polls?
+Be specific, because I
+want to look through the material and read those
+10 polls.
+11 A
+12 many polls.
+13 just asked, I would have to see the poll again to give
+14 you a good answer.
+15
+Q
+What polls, or you don't know?
+Well, I can tell you that I've seen many,
+In order for me to comment on what you
+When was the last time you testified and
+16 specifically referenced a poll in any tobacco case or
+17 deposition?
+18 A
+19
+20
+I recall talking about polls in the Larkin
+case in court.
+Q
+Okay.
+So do you recall what you testified
+21 about in the Larkin case in court?
+22 those polls, whatever that was?
+23
+24
+25
+MR. CHUMBLEY:
+Do you recall
+Do you remember?
+If you can recall.
+BY MR. FINGER:
+Q
+I can always get the transcript.
+I'm
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 123
+1 asking you now.
+2 polls you referenced in the Larkin case.
+3
+A
+4
+5
+Okay.
+David, we're --
+we've gone over the two hours here.
+MR. FINGER:
+I know, I know.
+Let me
+take a five-minute break.
+8
+9
+I don't remember specifically.
+MR. CHUMBLEY:
+6
+7
+Tell me what you remember about the
+MR. CHUMBLEY:
+All right.
+You know,
+again, people have made plans based upon the
+10 fact that you --
+11 MR. FINGER:
+Give me a five-minute --
+12 yeah, actually about ten minutes over.
+Let
+13 me take a two-minute -- let me take a
+14 two-minute break and come back.
+15 need five minutes.
+16 anything out that Mr. Kaiser wants me to --
+I don't even
+Let me see if I left
+17 MR. CHUMBLEY:
+18 MR. FINGER:
+19 (A break was taken from 12:16 p.m. until
+20 12:17 p.m.)
+21 BY MR. FINGER:
+22
+23
+Q
+All right.
+Okay.
+Couple of minutes.
+Two minutes.
+That's it.
+Dr. Martínez, the last time you
+testified in court, was it a PowerPoint presentation?
+24 A Yes.
+25 Q Okay.
+And did you meet with the attorneys
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 124
+1 to go over that PowerPoint presentation before you
+2 testified about it in court?
+3 A Yes.
+4 Q Okay.
+How long before you testified in
+5 court did you go over that PowerPoint presentation
+6 with the attorneys?
+7 before, a week before?
+Was it a day before, a month
+Give me some idea.
+8 MR. CHUMBLEY:
+9 If you can remember or if you know.
+10
+Object to the form.
+BY MR. FINGER:
+11 Q Obviously.
+12 A I don't remember when was the last time
+13
+14
+before court.
+Q
+Do you have anything to do with putting the
+15 PowerPoint presentation together, or do the lawyers
+16 put it together and you just comment on it?
+17 MR. CHUMBLEY:
+18 THE WITNESS:
+19
+Object to the form.
+I put it together.
+BY MR. FINGER:
+20 Q Okay.
+21 A Not in the technical sense.
+22 Q How long before --
+23 A Not in the technical sense.
+24 Q I understand.
+25
+When you say you put it
+together, you don't actually work with the
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 125
+1 technology.
+You put the exhibits together in the
+2 order in which you intend to discuss it; right?
+3 A Yes.
+4 Q Okay.
+5
+part.
+I get that.
+6
+7
+Now, how far in advance of trial -- you've
+testified here, what, seven, eight trials?
+8
+9
+10
+A videographer does the technical
+MR. CHUMBLEY:
+Object to the form.
+Where did you get that information?
+BY MR. FINGER:
+11 Q
+12 eight?
+13
+Tobacco trials, tobacco trials.
+MR. CHUMBLEY:
+Seven or
+Object to the form.
+14 don't believe he's testified that he's
+15 testified seven or eight times at trial.
+16
+17
+BY MR. FINGER:
+Q
+I'm asking -- okay.
+18 trials have you testified in?
+19 number.
+20 A
+21 times.
+22 Q
+How many tobacco
+What's a -- give me a
+I would -- my recollection is maybe five
+Okay.
+In the five times you testified in
+23 the tobacco trial, was there a PowerPoint
+24 presentation each time?
+25
+I
+A
+Yes.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 126
+1
+2
+Q
+Okay.
+And each time did you put the
+material together for each PowerPoint presentation?
+3 A Yes.
+4 Q Okay.
+Now, how far in advance of trial do
+5 you put this PowerPoint presentation together?
+6 you do it an hour before you get on the witness
+7 stand?
+8 when your PowerPoint presentation will be done for
+9 our trial?
+A week before?
+When can I have some idea
+How far in advance of trial?
+10 MR. CHUMBLEY:
+11 If you can answer.
+12 THE WITNESS:
+13
+14
+15
+Do
+Object to the form.
+I don't have that
+information.
+BY MR. FINGER:
+Q
+So you might do it like a half an hour
+16 before the trial so I won't even have a chance to see
+17 it; right?
+18 A
+19
+20
+Certainly not.
+I would not -- I would not
+do it within a half an hour.
+Q
+Well, give me an idea because I would like
+21 to see it before you testify.
+22 have some idea when it would be ready for me to view.
+23 Can you help me on that?
+24
+25
+MR. CHUMBLEY:
+And I would like to
+Give me an idea.
+Well, the question there,
+David, is whether you're entitled to see it.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 127
+1
+MR. FINGER:
+I'm entitled to see
+2 anything he's going to talk about and any
+3 exhibit you're going to put on the screen in
+4 front of a jury.
+5
+MR. CHUMBLEY:
+Everything that will be
+6 on the PowerPoint presentation, if there is a
+7 PowerPoint presentation, everything was
+8 included in the reliance list.
+9
+MR. FINGER:
+I don't have to guess out
+10 of which of seven thousand exhibits he's
+11 going to use.
+12 a judge that I have to guess which of the
+13 seven thousand are going to be in his
+14 PowerPoint presentation, but I don't think I
+15 have to guess.
+16 see which ones he picks out of the seven
+17 thousand items.
+18
+19
+Maybe some lawyer can convince
+I think I have the right to
+MR. CHUMBLEY:
+We disagree on that.
+Is
+there any other question?
+20
+MR. FINGER:
+We'll see if a judge says
+21 just prepare for all seven thousand, or show
+22 Mr. Finger what you're going to talk about.
+23 I think they're going to say show him what
+24 you're going to talk about; don't make him
+25 guess which of seven thousand.
+But we'll
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 128
+1
+argue about that in court.
+2 MR. CHUMBLEY:
+3 MR. FINGER:
+Yeah.
+I want an idea -- I want an
+4 idea of when his PowerPoint presentation will
+5 be ready, and then we can litigate whether or
+6 not I have a right to look at it.
+7
+8
+9
+BY MR. FINGER:
+Q
+Give me an idea of how far in advance of
+trial it will be ready.
+I'll fight with the lawyers
+10 over whether or not I have a right to look at it.
+11 Can you give me some idea, Doctor?
+12 MR. CHUMBLEY:
+13 If you know, Doctor.
+14
+15
+16
+Object to the form.
+If you have any
+idea when it's going to be ready.
+BY MR. FINGER:
+Q
+Right.
+Based upon the past, give me some
+17 idea of how far in advance of trial you have this
+18 PowerPoint presentation together.
+19 MR. CHUMBLEY:
+20 THE WITNESS:
+21 answer.
+22 happen.
+23
+24
+25
+Object to the form.
+I can't give you an
+I can't anticipate what is going to
+BY MR. FINGER:
+Q
+Well, based on the past, can you give me an
+idea of the past?
+Never mind the future.
+The future
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 129
+1 is only death and taxes.
+2 times, can you give me an idea of how far in advance
+3 of trial your PowerPoint was ready in the past so we
+4 don't have to speculate or guess?
+5 MR. CHUMBLEY:
+6
+In the past those five
+Objection.
+I think
+that's been asked and answered.
+7
+MR. FINGER:
+No, he hasn't.
+He's talked
+8 about he doesn't know what's going to happen
+9 in the future.
+10
+past how far in advance of trial it's done.
+11
+12
+THE WITNESS:
+MR. FINGER:
+MR. CHUMBLEY:
+MR. FINGER:
+Maybe the other people on
+MR. CHUMBLEY:
+I don't know.
+Anybody
+have any questions on the phone?
+21 MR. JACKSON:
+22 COURT REPORTER:
+23 MR. FINGER:
+24 COURT REPORTER:
+25
+He doesn't waive.
+the phone would like to question the witness.
+19
+20
+Okay.
+Thanks.
+17
+18
+I don't have any other
+questions.
+15
+16
+In the past, it's been
+done a few weeks before trial.
+13
+14
+I want him to tell me in the
+No.
+Mr. Finger?
+Yes.
+This is the court
+reporter --
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 130
+1
+MR. FINGER:
+We need to order it.
+Yes,
+2 we need to order it.
+The most important
+3 thing for me is the word index and the mini.
+4 COURT REPORTER:
+5 expedite or regular time?
+6
+7
+MR. FINGER:
+10
+COURT REPORTER:
+you.
+Okay.
+Got it.
+MR. FINGER:
+Whoa, whoa, whoa.
+Stop.
+What is the usual turnaround time?
+MR. KAISER: Ten days.
+14 MR. FINGER: Is it ten days?
+15 COURT REPORTER:
+Yes.
+Ten business
+days.
+17 MR. FINGER:
+18 That's more than fine.
+That's fine.
+19 COURT REPORTER:
+20 anybody need a copy?
+21 one.
+That's fine.
+And on the phone,
+Let me just go one by
+Ms. Jacobson, do you need a copy?
+22 MS. JACOBSON:
+23 COURT REPORTER:
+24
+Thank
+copy?
+13
+16
+The
+And on the phone, does anyone want a
+11
+12
+Oh, no, no, no.
+cheapest rate possible.
+8
+9
+And then do you want it
+I do not need a copy.
+No copy.
+Okay.
+Mr. Small?
+25
+MR. SMALL:
+No.
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 131
+1
+2
+COURT REPORTER:
+No copy.
+And
+Mr. Jackson?
+3 MR. JACKSON:
+No.
+4 COURT REPORTER:
+5 (The deposition concluded at 12:23 p.m.)
+Okay.
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 132
+1
+CERTIFICATE OF OATH
+2
+3
+4
+5
+6 STATE OF FLORIDA
+7 COUNTY OF ORANGE
+8
+9
+I, LISA CRAFT, Court Reporter and Notary
+10 Public, State of Florida, certify that LUIS
+11 MARTÍNEZ-FERNÁNDEZ, Ph.D., personally appeared before
+12 me on February 27, 2013, was duly sworn/affirmed, and
+13 produced a Florida Driver License as identification.
+14 WITNESS my hand and official seal this 8th
+15
+day of March, 2013.
+16
+17
+18
+19
+______________________________
+LISA CRAFT
+20
+Notary Public - State of Florida
+Commission No.:
+21
+Expires:
+EE 155009
+January 16, 2016
+22
+23
+24
+25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 133
+1
+2
+3
+4
+CERTIFICATE OF REPORTER
+STATE OF FLORIDA:
+COUNTY OF ORANGE:
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+I, LISA CRAFT, Stenograph Shorthand Reporter
+and Notary Public, do hereby certify that I was
+authorized to and did stenographically report the
+foregoing deposition of LUIS MARTÍNEZ-FERNÁNDEZ,
+Ph.D.; that the review of the transcript was
+requested; and that the foregoing transcript, pages 1
+through 134, inclusive, are a true and complete record
+of my stenographic notes.
+I further certify that I am not a relative
+or employee of any of the parties, nor am I a relative
+or counsel connected with the parties' attorneys or
+counsel connected with the action, nor am I
+financially interested in the outcome of the action.
+DATED this 8th day of March, 2013.
+_____________________________
+LISA CRAFT
+Court Reporter, Notary Public
+23
+24
+25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800Page 134
+1
+ERRATA SHEET
+2
+3
+DO NOT WRITE ON TRANSCRIPT - ENTER CHANGES HERE
+DEPOSITION OF:
+LUIS MARTÍNEZ-FERNÁNDEZ, Ph.D. -
+02/27/2013
+4
+IN RE: CHARLENE WENDEL V. R.J. REYNOLDS TOBACCO CO
+CASE NO.: 10-54813 CA 31
+5 PAGE
+LINE
+CORRECTION
+6 ______________________________________________________
+7 ______________________________________________________
+8 ______________________________________________________
+9 ______________________________________________________
+10 ______________________________________________________
+11 ______________________________________________________
+12 ______________________________________________________
+13 ______________________________________________________
+14 ______________________________________________________
+15 ______________________________________________________
+16 ______________________________________________________
+17 ______________________________________________________
+18 ______________________________________________________
+19 ______________________________________________________
+20 ______________________________________________________
+21 Under penalties of perjury, I declare that I have
+read the foregoing deposition in this matter and that
+22
+the facts stated in it are true and correct, subject
+to any changes in form or substance as reflected
+23
+above.
+24
+25
+Dated:_______________Signed:___________________________
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[& - affect]
+&
+& 2:11,20 87:18,19
+88:2,16 103:15
+0
+02/27/2013 134:3
+1
+1 133:8
+10 54:23
+10-54813 1:4 134:4
+100 2:8 88:6,24
+89:23
+105 1:19
+10:02 1:18
+11:06 61:12
+11:10 61:13
+125 32:23
+12:16 123:19
+12:17 123:20
+12:23 131:5
+132 3:4
+133 3:5
+134 3:6 133:8
+1400 115:23 117:6
+1400s 116:6,10,12
+116:17,18 117:2
+1420 2:16,21
+1441 2:21
+1492 38:18 39:7,12
+41:8
+150 27:1
+1500s 36:15 39:14
+39:17,20,25 40:3
+42:3,11 117:9
+155009 132:20
+16 42:2 132:21
+1600s 42:3,10,14,19
+1700s 42:13,19 43:4
+43:9
+1800 119:15
+1800s 43:3,6,16
+117:23 118:2,15,16
+119:20,23 120:7,12
+Page 135
+1900s 43:15,18
+1952 104:9
+1953 83:11
+1955 83:12 94:11
+1964 114:25 115:10
+115:18,21 116:18
+117:2,6 118:1
+119:14
+1971 83:3,15
+1972 104:9
+1978 98:15,18,19
+99:9,24
+1982 21:11,14,18
+2
+200 25:5
+2001 5:22 21:3,14
+21:17,24 22:12
+29:16 59:4,24
+2002 5:24
+2003 28:6
+2004 5:8
+201 2:12
+2011 19:18
+2012 7:6,19 17:15
+19:18
+2013 1:18 17:12
+19:7,11 40:4 41:8
+132:12,15 133:13
+2016 132:21
+20th 99:2
+225 8:5,13 9:11
+24:22 26:2 30:6,10
+64:20
+2400 2:12
+249 33:2,9,11 49:18
+49:21,22,25 52:18
+54:11 55:11,13,18
+56:5 84:18 97:7
+25 54:22
+260 8:2 26:3 64:8,19
+65:1,10
+27 1:18 132:12
+27th 17:12
+3
+30 66:15 91:18
+300 25:6,9
+30309 2:17
+31 1:4 134:4
+32801 1:20
+33131 2:8,12,21
+33146 2:4
+4
+4 3:3
+400 25:12,15,22,23
+4000 2:3
+4200 2:8
+5
+500 40:14,17 41:3,6
+41:9 115:24 116:2
+117:18
+503 1:20
+53 83:10
+6
+600 25:8
+64 86:5
+67 86:5
+7
+7 51:3
+7,260 49:23 50:3,4,9
+50:21 51:5,12,20
+53:6,18,24 54:11,12
+54:13 55:11 56:25
+700 2:3
+75 11:5
+8
+800 2:16 25:16
+8th 132:14 133:13
+9
+9:00 10:3,5,10,11,19
+10:20
+a
+a.m. 1:18 10:3,5,10
+10:19 61:12,13
+able 36:17 79:11
+101:9
+absolute 51:6
+absolutely 52:6
+account 94:23 95:3
+accuracy 105:15
+action 133:11,12
+activities 47:9
+ad 85:19 87:21 95:3
+109:12
+adapting 7:24
+addiction 34:8,12
+61:21
+addictive 34:2,18
+35:7,16,18,22,25
+36:9 66:23 98:11,16
+98:23 99:7,25
+addictiveness 33:25
+additional 27:21,25
+admitted 112:23
+ads 83:1,2,25 84:6,7
+84:16,21,22,25
+85:15,22 86:4,11,14
+86:18,19,22,23,23
+87:5 90:12 94:24
+108:19,25 120:11
+advance 125:6
+126:4,9 128:8,17
+129:2,10
+adversely 15:12
+advertised 83:14
+advertisement
+95:18
+advertisements
+83:20 84:19 93:22
+advertising 82:11
+82:17,19,20 83:14
+83:18,22,23 84:13
+85:4,6 88:24 89:2,7
+89:20,21,25 90:1,3
+90:6 92:14 93:24
+95:8 109:11,13
+affect 76:17 77:4,18
+79:3 83:20 92:8,25
+93:2 109:16
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[affirm - bears]
+affirm 4:15
+affirmed 132:12
+ago 69:24 91:18
+95:6 104:21 112:23
+116:2
+agree 98:6 99:21
+101:4 118:21,24
+119:18
+agreed 3:16
+ahead 14:4,4 16:11
+16:22 19:16 24:6
+36:13 39:10 41:13
+52:23 53:10 66:6
+74:24 77:20 79:9
+84:10 89:16 91:8
+94:21 101:24
+109:21 116:14
+121:16
+al 1:11
+allan 2:2 74:5,5
+american 41:24
+announced 118:10
+announcements
+86:15,17,20
+answer 14:25 15:14
+15:19 16:6,11,13,24
+35:13 39:16 40:6
+41:1 42:5 44:2,5,8
+44:11,12,13,17,20
+44:23 45:3 54:4
+55:15 57:5 60:25
+63:6 74:24 75:8
+77:1 78:1 85:16
+88:18 95:24 96:2,13
+97:21 100:8 102:10
+102:20,22 111:6
+116:25 122:14
+126:11 128:21
+answered 63:10
+74:22 85:25 91:18
+104:14,21 107:24
+109:20 129:6
+answering 34:15
+39:19
+Page 136
+answers 46:19 96:15
+anticipate 96:1
+128:21
+anybody 94:1
+129:19 130:20
+appear 78:17 101:6
+101:15 102:18
+107:17
+appeared 77:22
+78:11 83:2 86:4
+109:5 118:12
+132:11
+appearing 2:5,13,18
+2:22
+appears 85:5,8
+apply 13:3
+approached 28:4
+appropriate 45:4
+approximately 8:2
+archives 61:19
+argue 128:1
+arrangements 31:19
+arrived 48:1,2
+arriving 33:4
+article 78:22 79:2,5
+79:11,24 80:17
+81:24,25 82:1
+articles 72:6,20 73:6
+77:23 78:11,17
+79:16 80:4,4,10,12
+80:13,14,22,25 81:8
+81:12 82:6 109:6,7
+109:12,14
+asked 28:16 30:2
+44:11,18 60:3 74:22
+85:25 91:18 101:5
+102:20,22 104:14
+104:21 107:23
+109:20 122:13
+129:6
+asking 15:20,22
+16:2,3 34:23,24
+35:16,16 40:1 47:18
+48:7 51:3,4 58:13
+58:14,19 60:19
+62:22,23,25,25 63:7
+81:10,19 84:15,15
+86:17,18 94:13
+101:4,14 102:5
+105:17 112:20,21
+116:9 121:21,22,22
+123:1 125:17
+assistance 52:12,20
+assistant 5:19
+associate 5:19
+associated 120:19
+assume 56:11
+assuming 80:25
+97:25
+assumption 85:18
+atlanta 2:17
+atmosphere 107:21
+attorney 7:22 8:20
+15:18,23 16:16,17
+16:17,18,20,21
+18:11 53:4 56:8
+62:2
+attorneys 12:22
+19:24 20:3 46:14
+52:20 53:19 54:1,14
+61:19 123:25 124:6
+133:11
+august 98:15,18,19
+99:9
+augusta 5:14
+authorized 133:6
+avenue 2:21
+average 26:21 27:5
+aware 12:17 20:10
+37:16 40:10 68:15
+78:18 92:20 98:16
+98:21,21,25 99:6,24
+100:7 110:10,14,21
+112:4,5,9,13,24
+113:21,22,25
+114:16,18,22 115:2
+115:13 120:16
+122:3,7
+awareness 13:2
+33:18,21 34:2,16,24
+35:13,25 36:4,8
+37:12 38:19 39:2,4
+39:6,17 42:6 45:8
+45:13,15,25 47:19
+60:6 62:12 63:13
+66:22 69:1,7 76:14
+76:17,22 77:5,12,18
+78:2,14,18,23 79:4
+79:7 80:7,21 83:20
+92:7,8 93:1,2 98:7
+98:10 103:16
+107:18 108:6 110:7
+110:8 114:20 115:4
+116:20,22 120:8,20
+120:23 121:3,23
+b
+b 2:2 3:10 74:3
+b.a. 21:11
+back 9:21 10:4,11
+36:9,19 38:17,18
+39:7 59:3 96:18
+120:12 123:14
+bacon 2:11
+bad 77:13 91:24
+95:20,21 115:22
+116:6,10 117:3,7
+119:25 122:2
+ballpark 7:7 23:22
+24:10,18 32:19 83:9
+bartolomé 37:1
+base 80:22
+based 16:13 43:24
+66:15 81:1,8 83:6
+83:11 87:25 89:4
+93:23 94:5 95:6,8
+98:6 100:3,6,23
+108:7 114:21,24
+117:18 120:13
+121:4,7 123:9
+128:16,24
+basis 21:16 48:9,25
+49:2
+bears 50:22
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[becoming - chumbley]
+becoming 40:10
+92:20
+began 21:3
+beginning 1:18
+41:15 43:20 117:9
+behalf 1:7,17 12:20
+13:22 26:10 27:7
+30:11 70:21
+beings 40:11
+belief 112:9 115:5
+120:18,24 121:3,24
+121:24 122:2
+believe 8:22 17:13
+17:20 19:3,23 32:23
+41:14 42:21 46:2
+72:15 76:11 94:10
+104:23,25 108:10
+109:20 110:10,15
+111:1,3 112:11,21
+112:24 113:21
+115:10 116:8 117:8
+125:14
+believed 110:9
+114:3,15,18,19
+115:7 120:14
+121:13 122:6,7
+bell 74:4
+benson 2:20
+best 32:19 75:8
+better 57:2,4 73:19
+beyond 35:4
+big 115:15,18,21,23
+118:1,2,9,9,10,12,18
+118:24 119:3,7
+bill 10:5,6,6,10,12
+10:22
+biscayne 2:12
+bit 4:7 80:18
+book 26:19 27:3,19
+27:23 38:1,2 73:13
+73:15,16,22 75:21
+75:22 76:3,8
+books 6:24 27:11
+37:23 38:4 75:25
+Page 137
+bookstore 37:8
+bottom 80:18 117:5
+boulevard 2:3,12
+brain 87:24 88:3
+110:20 111:4,10,13
+111:22
+brandt 74:2,3,5
+break 61:12 98:11
+123:7,14,19
+brian 2:11
+brickell 2:21
+bring 7:15
+brought 29:23
+brown 17:5 103:15
+business 130:15
+buy 37:8 85:8,15,22
+86:22 90:7 95:8
+c
+c 2:1 4:1
+ca 1:4 134:4
+call 28:13 29:11
+30:14,16 31:7
+called 37:24 70:5,21
+93:8,17
+cancer 33:20
+care 81:24 117:4
+career 67:2
+caribbean 36:17
+carlton 2:7
+carol 1:7 55:17,21
+56:1 83:5 93:21
+94:3 95:15 114:15
+carried 72:22 83:3
+casas 37:1
+case 1:4 6:20,20 7:3
+7:6,24 8:1,15 9:3,7
+11:8 14:16 17:5,5,5
+17:6,6,19 18:3,5,7
+18:12,18 19:6,20,22
+19:25 20:5,13,20
+21:2 22:24 31:3,7
+31:18 45:13,19,22
+50:7 54:9 55:6 56:9
+58:12,13,15,16,16
+59:25 64:17,21
+christopher 36:10
+70:17 71:15 85:19
+chroniclers 36:25
+88:5 97:20 122:16
+39:13 40:1
+122:19,21 123:2
+chumbley 2:7 7:17
+134:4
+9:8,14,23 10:14
+cases 7:24 13:10,17
+11:18,24 12:9 13:5
+13:17,21 14:19 15:1
+13:13 14:1,4,8,20
+15:15,17 16:3,4,7
+14:23 15:5,13,21
+17:1 20:16 22:3,5,6
+16:2,14,16,20,21
+22:9 28:17 62:8,21
+17:22,25 18:12,21
+62:23,25 63:4,5
+19:2,7,9,14 20:9,14
+68:22 69:21 70:5
+20:17 21:19,25
+71:23
+22:10 23:1,9,15
+catalog 6:16
+24:2,12,17 25:11,25
+catholic 41:19
+26:5 27:9,17,24
+cause 33:20 110:20
+28:7,20 29:9,22
+causes 111:3
+30:8,13,18 31:5,21
+cell 110:20 111:7,8
+32:7,17 33:10 34:3
+111:11,20 112:1
+35:2,8 36:2,12 37:9
+central 1:19 5:5,7
+37:15 38:9,13,21
+5:15 6:3 22:18,25
+39:9,21 40:5,20
+23:5,13 26:11 27:5
+41:12 42:4,15,20
+63:12
+43:5,9,17 44:4,12
+century 5:22 99:2
+44:24 45:2 46:4,11
+certainly 33:9 34:12
+46:21 47:6,13 48:13
+34:17,18 66:1
+49:10 50:5,11,24
+117:10 118:11
+51:13,24 52:14,22
+121:18 126:18
+53:9,21 54:8 55:5
+certificate 3:4,5
+55:19 56:15 57:3,15
+132:1 133:1
+58:8,22 59:5,12
+certify 132:10 133:6
+60:7,24 61:5,9,11
+133:10
+62:5,22 63:15,25
+chance 96:19 126:16
+64:11,22 65:3,11,22
+change 97:15,21
+66:5 67:10,18 68:7
+changes 134:2,22
+69:2,19 70:8,25
+charge 11:1,3
+71:8 72:13 73:3,15
+charging 8:11
+74:12,15,21 75:13
+charlene 1:6 134:4
+76:6,18,23 77:7,19
+charles 1:7 94:10
+78:3,15 79:8,22
+95:6
+80:8 81:14 82:3,12
+cheapest 130:7
+82:23 84:2,9,12
+check 56:2
+85:2,11,17,24 86:7
+children 114:22
+86:13,25 87:7 88:7
+christine 72:5
+88:13 89:12,16 90:4
+90:9,19 91:3,7,17
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[chumbley - course]
+92:1,22 93:4,12
+94:19,25 95:22 96:8
+96:20 97:2,9 98:2
+98:24 99:11 100:2
+100:19 101:1,17,23
+102:8,24 103:17
+104:3,13,20 105:3
+105:12,23 106:5,14
+106:21 107:2,9,23
+108:21 109:3,19
+110:2,12,17,23
+111:14,17 112:7,15
+112:22 113:3,6,11
+113:17 114:8,11
+115:11,16,25
+116:13,21 117:13
+117:16,21 118:3,19
+118:22 119:2,10,17
+120:2,22 121:4,7,15
+122:23 123:4,8,17
+124:8,17 125:8,13
+126:10,24 127:5,18
+128:2,12,19 129:5
+129:15,19
+church 41:20
+cigarette 33:18
+35:18,21 38:19 45:8
+45:14 83:13,25
+84:21,22 85:15 91:1
+93:22 94:24 95:3,19
+115:22 116:6,10
+cigarettes 34:2
+77:13 82:17,21
+83:14,18,23 84:1
+85:9,15,23 86:22
+90:1,7 93:25 98:10
+109:13 111:24
+circuit 1:1,1,3
+circulated 37:4 38:1
+circulation 38:5
+41:18
+circumstances
+29:19
+civil 1:3
+Page 138
+claim 122:4
+clarify 81:22,23
+classes 6:8 64:14
+classmen 6:11,13
+clear 97:20
+client 16:16,18 27:7
+clients 30:25
+close 26:4 56:20
+66:15
+closer 25:12
+clubs 47:8
+coffee 61:6
+cohen 17:5
+colgate 5:13
+colleagues 53:14,20
+54:5
+college 5:14
+colleges 5:10
+columbus 36:10
+come 9:19 10:18
+18:18,22 27:18 29:7
+29:17 35:17,20
+51:19 60:21 67:3,23
+80:16 88:8 96:18
+123:14
+comes 27:10 69:22
+87:21 101:16
+coming 27:15 119:8
+comment 78:20 82:4
+102:6 105:14
+122:12 124:16
+commission 87:12
+87:13 105:1,2,8
+106:13 132:20
+commit 49:15
+common 97:19
+companies 11:17,23
+12:15,23 13:4,12,19
+15:8,25 52:21 61:19
+74:10 76:16,20 77:3
+77:16,22 78:21 82:9
+83:13 85:22 88:2,16
+89:2,21 90:14,18,24
+91:14,22 92:5,17,25
+103:24 104:8
+107:20 108:15,18
+109:14,23
+company 1:10 2:9
+2:18 11:15 13:2,23
+37:6 52:12 53:5,19
+54:1,14,15 56:9,14
+87:22 88:23,24 89:9
+89:24,25 103:7,14
+103:15,20 108:3,25
+company's 79:17
+81:13
+comparison 111:23
+compensated 8:3
+29:7,21
+compilation 52:24
+compiled 52:19
+complete 133:8
+completely 103:2
+complies 4:14
+compound 14:6
+conceded 113:1
+concluded 114:14
+131:5
+conclusions 81:4
+conference 2:5
+confusion 91:21,23
+connected 133:11
+133:11
+connection 87:24
+88:1,3,14,15,19
+89:3
+consider 30:7,12
+58:10,15
+considered 51:17,19
+84:25
+consulting 22:13
+consumers 98:15,19
+98:21 99:6,24
+contact 28:12 39:12
+contacted 22:1
+contained 107:19
+context 73:1 101:12
+102:17,19,25 103:3
+107:15,16,17,21
+108:2,4
+contextualize
+100:12 101:9
+contextualized
+101:12
+contract 9:2,5,12
+contrary 94:1
+conversant 51:21
+conversation 7:5
+8:22 12:4 28:23
+29:14,20 69:21 72:1
+conversed 12:22
+conveyed 112:12
+convince 127:11
+coordination 12:1
+copies 7:23
+copy 130:10,20,21
+130:22,23 131:1
+correct 10:13 11:7
+12:23,24 13:4,24,25
+14:13 17:16 19:9,21
+20:11,12 21:13 23:8
+23:10 27:16 37:14
+45:10 48:3 49:20
+52:9 57:1 63:21
+69:13,14 74:11
+77:13 79:21 81:2,9
+84:22 85:1 98:12,13
+99:10 105:9,10
+108:22 110:15,16
+113:25 114:1 120:4
+134:22
+correction 134:5
+counsel 3:18 133:11
+133:11
+count 41:17
+county 1:2 17:21,23
+17:24 18:2,4,5
+19:22 132:7 133:4
+couple 5:21,23 27:4
+102:17 123:17
+course 26:4,22
+34:11 35:12,21
+45:21 50:15 52:4
+63:12,14,16,22,24
+64:2,7 65:4 66:2,12
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[course - doubt]
+66:20 103:15
+courses 6:2,5,8,14
+6:16
+court 1:1,21 4:13,15
+10:8 122:19,21
+123:23 124:2,5,13
+128:1 129:22,24,24
+130:4,8,15,19,23
+131:1,4 132:9
+133:22
+cover 40:18 41:4,6,9
+covers 4:5,10
+craft 1:21 132:9,19
+133:5,22
+create 33:19 90:25
+91:23
+created 120:10
+cross 44:25
+cultural 32:1
+culture 32:10 37:2
+cultures 41:25
+cup 61:6
+currently 6:2,9,15
+30:11
+curricular 81:7
+curriculum 24:4
+cut 89:10,15 120:10
+d
+d 3:1 4:1 74:3 93:18
+dade 1:2 18:5 19:23
+dangerous 33:19
+45:9 46:1 86:21
+dangers 109:18
+data 21:1
+date 36:15 56:2 77:3
+94:15
+dated 133:13 134:25
+david 2:2 14:5 16:22
+55:5 61:5 123:4
+126:25
+day 2:16 8:16,18,21
+9:3,13 10:4 11:9
+12:5,7,12,14,19,21
+13:22 22:2,22 23:7
+Page 139
+23:13 26:10 27:6
+28:4,12 29:14 30:11
+31:20 33:14 69:16
+70:4 96:18 118:12
+124:6 132:15
+133:13
+days 130:13,14,16
+de 2:3 37:1
+deal 78:17 120:16
+121:23
+death 129:1
+deceased 1:7
+december 7:7 19:4
+19:18
+decided 15:11
+declare 134:21
+defend 103:25
+104:11
+defendant 2:9,14,18
+2:23
+defendants 1:12 4:5
+definition 73:2
+deleterious 45:14
+69:7 77:5
+demonstrate 122:5
+department 66:2,4
+66:13
+depends 83:21
+depo 96:16,17,19,24
+120:17
+deponent 3:19 4:14
+4:19
+depos 97:7
+deposition 1:16 8:12
+14:15 17:10,17,18
+18:2,3,8,11 44:8
+46:17 49:1 56:12
+71:17 96:5 97:6,11
+115:6 122:17 131:5
+133:7 134:3,21
+depositions 46:10
+55:6,12,13,16 56:7
+83:6,11 94:6,12
+96:4,6 97:15 98:4
+114:21
+describe 30:10
+31:19 33:3 58:2,21
+described 37:14
+describing 41:6
+designed 85:1 86:22
+determine 105:20
+determining 34:8
+developments 42:24
+devised 90:15
+devising 91:14
+difference 31:10,24
+31:25 32:1
+differences 32:5,5,6
+different 6:8 11:2
+49:19 54:12 64:18
+66:16 72:23,23 81:5
+108:5
+differently 96:13
+difficult 4:6
+difficulty 39:2
+direct 3:3 4:23
+disagree 98:14 99:5
+99:8,21,23 100:8,9
+100:18,24 101:4,7
+103:2 104:7 113:11
+127:18
+disclosed 15:1 16:4
+16:8 17:2 20:17
+disclosure 7:11,18
+discuss 14:15 17:10
+103:14 125:2
+discussed 72:3
+114:20
+diseases 33:20
+disseminate 92:18
+disseminated 37:20
+85:1
+distinction 31:7,13
+31:14 32:3 57:20
+division 1:3
+doctor 6:23 16:10
+25:22 34:5 37:11
+39:10 41:4,7 42:18
+44:12,18,22 45:4
+48:10 52:8 53:20
+59:23 61:15 63:20
+65:7 74:19 76:24
+79:13 80:20 82:24
+84:18 86:23 88:7
+89:11 90:20 95:14
+96:24 97:14 98:1,6
+99:17,23 101:20
+102:19 104:4 109:4
+109:21 111:20
+114:5 117:1 118:24
+120:13 121:2
+128:11,13
+doctors 30:25 78:23
+document 7:12
+49:25 52:1,15,17,17
+52:18 53:1 55:12
+56:1,2 57:6,9,24
+58:11,14 61:2 69:24
+70:18 89:5 91:22,25
+93:17,19 97:23
+99:19 100:12,14,17
+100:21,23 101:3,5
+101:11,15,16,19,21
+102:1,7,11,21,23
+104:18 105:5,19,22
+106:9,11,20 107:1,4
+107:11,15
+documents 6:24 7:8
+50:3 53:13,18 54:18
+55:1,1,3 58:1 59:3,8
+60:11 61:20 75:7
+79:14 90:23 91:4,5
+91:9,11,12,13 92:6
+92:9 97:24,25
+103:13,19 106:7
+107:17,20 108:3,9
+doing 27:14 28:17
+29:2,8 31:17 34:11
+41:15 47:25 64:13
+64:16 92:8,17,25
+93:1 108:3 109:24
+don 20:2
+door 56:20
+doubt 90:16,25
+91:15
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[doug - finger]
+doug 4:3 15:3 51:3
+61:8,10
+douglas 2:7
+dr 14:24 16:19 17:3
+18:6 61:18 75:11,21
+85:14 123:22
+drafted 7:13,21,23
+dramatically 117:9
+drawn 81:5
+driver 132:13
+driving 13:20
+duly 4:21 132:12
+e
+e 2:1,1 3:1,10 4:1,1
+9:1,1,1 93:14,18
+103:9
+earlier 21:17 109:6
+earliest 36:14
+early 29:16 36:15,25
+39:14,14,17 41:21
+43:18 99:2
+easily 40:23
+east 1:19
+education 5:11
+educational 59:21
+ee 132:20
+effect 69:7 79:6
+109:23,25 110:5
+effective 90:3,6,7
+effects 40:11 77:6
+91:16 98:16,22 99:7
+99:25 109:15 120:9
+effort 27:15
+eig 15:10
+eight 125:7,12,15
+either 7:6 11:22
+19:17 55:4 71:17
+72:25 99:20 101:4
+eleventh 1:1
+employed 103:24
+104:10
+employee 133:10
+encounter 35:14
+Page 140
+encountered 34:12
+34:17,18
+enter 9:5 134:2
+entire 107:21
+entitled 88:9 104:19
+126:25 127:1
+errata 3:6 134:1
+especially 45:21
+espouse 81:12
+esquire 2:2,2,7,11
+2:15,20
+estate 1:6
+estimate 54:20
+estimating 25:13
+et 1:11
+europeans 39:11
+40:9
+evaluated 53:13
+118:6
+everybody 4:11
+114:2 115:9,22
+116:1 118:14,16
+evidence 95:12
+exact 36:19
+exactly 32:18
+examination 3:3
+4:23 44:25
+examined 106:6
+examining 54:16
+example 12:2 41:20
+59:20 77:23 78:24
+80:16 81:16 108:13
+excuse 62:2 102:16
+executives 109:9
+exhibit 127:3
+exhibits 125:1
+127:10
+existed 39:6
+exists 61:22,24
+112:9,17
+expand 81:21,22
+expect 80:24
+expedite 130:5
+expenses 9:15
+experience 41:16
+66:15,18
+expert 15:2,16 34:7
+84:13,15 85:3 90:12
+expertise 35:10
+90:12
+expires 132:21
+explain 44:9,10,16
+44:20
+explained 81:25
+109:6
+expound 44:24
+express 59:14,18
+69:22 70:6 71:7
+expressed 70:3,14
+70:22 71:4,13
+expressing 70:16,20
+expressly 3:19
+extraordinarily
+66:19
+f
+fact 12:19,25 33:21
+40:24 58:21 61:23
+62:2,3,9 73:18
+76:10 85:14 99:1
+114:25 118:1,14,16
+119:8 123:10
+facts 134:22
+fair 14:7 44:25
+74:16,16 75:12 82:2
+familiar 51:11,21
+52:7 97:25
+familiarity 100:16
+far 36:19 38:4,18,18
+52:24,25 64:14
+66:24 85:6 89:3
+90:2 92:6 94:12
+120:12 125:6 126:4
+126:9 128:8,17
+129:2,10
+february 1:18 17:11
+132:12
+fed 87:11
+federal 87:12,12
+105:1,2,8 106:12
+fee 11:1
+feel 6:23,23 44:13
+45:3
+feeling 4:7
+fees 10:25 12:5 31:8
+31:10 32:12
+fellas 68:13
+fellow 53:14 68:16
+fernández 1:16 3:2
+4:20 5:2 14:24
+16:19 17:3 18:6
+61:15,16,17,18
+85:14 132:11 133:7
+134:3
+ferraro 2:3
+field 20:24 35:4,10
+90:11
+fields 2:7
+fight 128:9
+figure 23:22 24:10
+24:19 32:20 41:3
+financially 133:12
+find 33:10 36:22
+47:4 48:9 49:9 65:9
+96:15,25 105:11
+106:1
+finding 47:1
+fine 4:11 61:9 80:2
+107:6 130:17,17,18
+finger 2:2 3:3 4:6,10
+4:24 7:20 9:10,17
+9:25 10:2,17 11:20
+12:6,11 13:8,15
+14:2,6,9,11,21 15:3
+15:6,20,22 16:12,15
+16:19 17:8 18:1,14
+18:16,24 19:10,19
+21:22 22:4,14 23:3
+23:11,20 24:5,13,21
+25:14,21 26:1,7
+27:13,20 28:2,9,24
+29:12,25 30:9,15,21
+31:9,23 32:13,21
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[finger - generally]
+33:12 34:10 35:5,11
+36:5,21 37:10,18
+38:10,15,24 39:15
+39:22 40:7,25 42:1
+42:9,16 43:2,7,14
+44:1,6,15 45:5,6
+46:6,12,23 47:10,16
+48:20 49:13 50:8,18
+51:2,10,16 52:3,16
+53:3,16,23 54:3,10
+55:8,10,21,24 56:21
+57:7,17 58:9 59:1,7
+59:17 60:13 61:3,8
+61:10,14 62:10,24
+63:18 64:3,15,24
+65:6,17,23 66:10
+67:14,22 68:9 69:5
+70:2,11 71:2,11
+72:16 73:9,16,21
+74:14,16,17 75:3,15
+76:7,19,25 77:10,25
+78:5,25 79:12 80:1
+80:11 81:18 82:7,13
+83:4 84:4,5,14,17
+85:7,12,20 86:3,8,9
+86:16 87:1,10 88:11
+88:17 89:14,18 90:5
+90:13,22 91:5,10,20
+92:3,23 93:7,13
+94:22 95:1,25 96:11
+96:21 97:4,12 98:5
+99:4,15 100:5,22
+101:2,18 102:2,13
+103:4,22 104:6,17
+104:22,24 105:6,16
+105:25 106:10,17
+106:23 107:5,12,25
+108:23 109:10,22
+110:6,13,18,25
+111:15,19 112:8,16
+113:1,4,7,13,15,19
+114:9,12,13 115:12
+115:17 116:3,15,24
+117:14,17,24
+118:13,20,23 119:6
+Page 141
+119:11,22 120:3
+forget 121:24
+121:1,5,8,11,20
+form 9:8,14,23
+122:24 123:6,11,18
+10:14 11:18,24 12:9
+123:21 124:10,19
+13:5,13 18:21 19:2
+125:10,16 126:14
+19:15 21:19,25
+127:1,9,20,22 128:3
+22:10 23:1,9,15
+128:7,15,23 129:7
+24:2,17 25:11,25
+129:13,17,22,23
+26:5 27:9,17,24
+130:1,6,11,14,17
+28:7,20 29:9,22
+finish 89:11,12
+30:8,18 31:5,21
+96:24
+32:7,17 34:3 35:2,8
+finished 27:19 89:16
+36:2,12 37:9,15
+firm 2:3 12:12 28:13
+38:13,21 39:9,21
+firms 12:3 13:11,14
+40:5,20 41:12,22
+13:16,17,18
+42:4,15,20 43:5,17
+first 4:21 5:21,23,25
+44:4 46:4,11,21
+6:19,21 7:2,5 8:22
+47:6,13 48:13 49:10
+11:8,9 13:24 14:22
+50:5,11 51:13,24
+20:13,23 28:4,11,22
+52:14,22 53:9 54:8
+28:25 29:11,13
+56:15 57:3,15 58:8
+31:12 33:14 34:22
+58:22 59:5,12 60:7
+39:11 59:24,24 60:2
+60:24 62:5 63:15,25
+60:5 71:3,6 72:4
+64:11,22 65:3,12,22
+74:5 83:5 87:20
+66:5 67:10,18 68:7
+94:16 95:10 101:10
+69:2,19 70:8,25
+117:12,19 121:12
+71:8 72:14 73:3
+five 60:18,22 61:8,9
+74:13,21 75:13 76:6
+123:7,11,15 125:20
+76:18,23 77:7,19
+125:22 129:1
+78:3,15 79:8,22
+florida 1:2,19,20,22
+80:8 81:14 82:3,12
+2:4,8,12,21 5:5,7,16
+82:23 84:2,9 85:2
+6:3 22:18,25 23:6
+85:11,17,24 86:13
+23:13 26:12 27:5
+86:25 87:7 90:4,9
+63:12 132:6,10,13
+90:19 91:7,17 92:1
+132:20 133:4
+92:22 93:4,12,24
+focus 76:20 79:4
+94:19,25 95:22 96:8
+81:10 86:21 92:24
+96:20 97:9 98:2,24
+focused 13:1,2
+99:11 100:2,19
+following 99:23
+101:1,17,23 102:8
+follows 4:22
+102:24 103:17
+ford 62:17 63:3
+104:3,13,20 105:3
+68:11
+105:12,23 106:5,14
+foregoing 133:7,8
+106:21 107:2,9
+134:21
+108:21 109:3,19
+110:2,12,17,23
+111:14,17 112:7,15
+112:23 115:11,16
+115:25 116:13,21
+117:16,21 118:3,22
+119:2,17 120:2
+121:15 124:8,17
+125:8,13 126:10
+128:12,19 134:22
+forms 21:16
+forward 108:15,18
+109:1
+found 36:20 37:11
+37:11,23 47:2 53:7
+107:7
+four 25:20
+free 6:23,23 51:22
+fresh 57:22
+freshmen 6:11
+friedman 2:20
+front 15:9 127:4
+fronts 103:25
+104:11
+ftc 87:15
+full 5:15,18,20 101:8
+102:10
+fully 51:21 96:23
+further 133:10
+future 96:12 97:16
+97:19 128:25,25
+129:9
+g
+g 1:7 4:1
+gain 100:15
+gambler 111:16
+gather 13:7
+general 21:1 70:23
+70:24 80:3 100:18
+118:8 119:8,12,13
+121:24
+general's 86:6 115:1
+115:10 117:25
+generally 70:19,22
+71:4,6,13 106:18
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[generically - impact]
+generically 59:22
+georgia 2:17
+germane 47:5
+getting 14:10 29:6
+30:6,16 40:24 90:7
+91:14
+give 4:16 21:2 23:17
+23:22 24:10,11,18
+27:4 32:19 38:6
+41:1 48:8 49:1,4
+50:10 54:20 56:23
+56:25 57:2,4 60:14
+62:15 63:2,9 73:19
+75:8 83:8,9 86:10
+87:2,3,5,8 96:5
+97:10 101:8,15
+102:10 106:8 111:5
+111:10,12,21
+122:13 123:11
+124:7 125:18
+126:20,23 128:8,11
+128:16,20,24 129:2
+given 23:25 87:6
+113:5 120:23
+gives 23:12 87:13
+giving 75:8 97:6
+99:18,19,20
+go 14:4,4 15:6 16:10
+16:22 19:16 21:7
+22:25 24:6 36:9,13
+37:6,7 38:17 39:6
+39:10 41:13 52:23
+53:10 56:4 63:11
+66:6 74:24 77:20
+79:9 82:8 84:10
+85:10 89:3,16 91:8
+94:12,21 101:24
+109:21 116:14
+121:16 124:1,5
+130:20
+goes 38:18 85:6
+going 14:12 15:14
+15:19 16:6,23 17:10
+20:24 21:2 29:18,20
+45:23,24 46:1 47:24
+Page 142
+50:19,21 51:5 63:2
+63:9 120:17 127:2,3
+127:11,13,22,23,24
+128:14,21 129:8
+good 54:20 61:5
+94:13 122:14
+gotten 53:17 58:14
+113:7,8
+gradually 40:16
+graduate 21:9
+graduated 21:11
+47:3 83:10
+greater 42:6
+grew 32:11
+group 2:23,23
+guess 56:9 127:9,12
+127:15,25 129:4
+h
+h 3:10 9:1,1
+habit 98:10
+habits 47:19
+half 126:15,19
+hand 4:13 132:14
+happen 26:21 28:18
+55:2 57:13 61:21
+128:22 129:8
+happened 7:10
+69:24
+happening 29:11
+happens 59:13 89:9
+happy 29:18
+hard 33:22,24 34:16
+34:23,25 35:14
+38:19 39:18 45:16
+45:25 98:10
+hardy 2:11
+harm 112:2
+harmful 91:1 110:9
+120:8
+hazardous 91:16
+114:3,15,17
+hazards 13:3 47:20
+62:13 66:23 69:1
+78:2,8 79:4 80:21
+80:24 90:17 92:21
+93:3 109:17 113:25
+120:15,15,19,19
+121:13
+head 57:25
+health 33:19 43:20
+45:9,14 47:19 62:13
+77:6,13 79:4 80:21
+80:23 86:21 90:17
+91:1,25 92:21 93:2
+95:20,21 109:8,15
+109:16 113:25
+114:3,16,17 116:7
+116:11 117:3,7
+119:25 120:15
+121:13 122:3
+hear 14:14 74:2
+112:19 120:25
+heard 68:16 72:4,21
+87:19 93:8 103:7,11
+104:2,14 110:22,24
+112:3,10,17,21
+113:12
+hearing 4:6 113:13
+held 99:9
+help 74:6 126:23
+hereto 3:17
+high 38:5,7 83:7
+94:7
+higher 5:11
+highest 25:6
+hill 87:18,19 88:2,16
+hired 6:19,21 7:2
+8:14,21 31:12
+historian 21:18
+48:16 66:3 68:21
+70:5 71:20 74:2
+101:10 102:18
+historians 6:6,18
+49:16 53:15 62:12
+62:16 63:1,7,8
+68:11 70:21 71:5
+97:17 107:14
+history 6:6,7,17,18
+20:25 21:4,12 37:24
+66:2,4,12
+hold 36:18
+home 9:20
+honoraria 30:2
+31:16
+honorarium 30:4,7
+30:12,22 31:2,11,20
+32:11,15,16
+hope 33:9
+hour 8:4,6 9:11
+10:12,12,21,23,25
+11:6 22:8 24:22
+25:1,3,4 26:3 30:6
+30:10 32:23 64:20
+126:6,15,19
+hours 8:2 10:24
+11:1 26:3 64:8,20
+65:1,10 114:6 123:5
+house 73:18
+how's 70:23
+huge 111:24
+huh 37:25 62:18
+human 40:11
+hundred 42:17
+77:17 82:10,17,21
+108:17 119:1
+121:14 122:2
+husband's 93:23
+95:11 114:24
+i
+i.e. 98:16 99:7,25
+idea 38:6 56:24
+70:12 73:19 86:10
+87:2,5 124:7 126:7
+126:20,22,23 128:3
+128:4,8,11,14,17,25
+129:2
+identification
+132:13
+identified 53:12
+impact 50:3 76:21
+78:9 80:6 81:11,13
+92:7 109:17 115:1
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[impacted - knowledge]
+impacted 78:7
+impacting 78:1
+impacts 48:11 49:7
+impart 90:16
+implied 111:23
+importance 103:1
+important 50:13
+100:11 102:18
+103:6 130:2
+imprint 118:8
+inaccurate 105:11
+106:1,4 107:7
+include 16:4 74:10
+81:6,6,7
+included 56:10
+127:8
+including 9:24,25
+93:24
+inclusive 133:8
+income 26:12
+incorrect 111:23
+increased 117:9
+independent 91:11
+91:12 101:5
+index 130:3
+indicate 79:17
+indicated 33:14
+38:17 105:19
+indicates 95:13
+indies 37:24
+individual 37:5,13
+individuals 72:18
+108:8 112:11
+industries 104:10
+information 13:7
+21:15 33:23 36:20
+36:23,23 37:5,11,21
+41:18,22 42:18
+43:19,24 46:14 47:7
+48:18,19 49:20 56:7
+82:18 83:19 85:5
+92:18 94:9,18 108:7
+111:25 114:23
+115:2 121:18 125:9
+126:13
+Page 143
+inherit 26:16
+initial 32:14 89:20
+initially 28:12 34:24
+59:23
+insofar 16:7 62:7
+77:21
+instance 70:10
+instances 78:21
+109:8
+instill 91:15
+institutions 5:10
+72:23
+instruct 16:6
+instructing 16:12
+instruction 16:10
+instructions 16:25
+intend 125:2
+intention 51:7,8
+interest 59:14,19
+64:7,25 65:8 68:1,3
+69:23 70:3,7,14,16
+70:20,23 71:4,7,13
+interested 26:16
+28:16 29:2,4,8 41:4
+41:5 50:19 59:20
+60:4 64:1,5,12
+65:13,15,16,21,25
+67:5,13,15,16,19,24
+68:8 73:25 74:1,1
+75:22,24 76:2 94:15
+107:16 133:12
+interesting 65:9
+67:8,9,12 68:5
+interests 63:19 64:8
+64:21
+internal 92:5 107:20
+108:9
+interrogatories
+46:13 55:16 56:6
+interrogatory 46:19
+56:12
+interrupting 4:8
+intervening 40:14
+intimately 51:11
+invite 44:17
+invited 23:16
+involve 27:14
+involved 20:23
+21:20,23 71:22
+involvement 47:8
+issue 77:5 81:13
+item 56:14 59:16
+items 49:23 53:6
+54:12,13,13 55:11
+60:9 127:17
+j
+j 2:2,7
+jackson 2:11 4:3,12
+129:21 131:2,3
+jacobson 2:20
+130:21,22
+james 2:15 62:19
+january 7:6,19 19:4
+19:7,17 132:21
+jones 2:16 8:16,18
+8:21 9:2,13 11:9
+12:5,7,12,14,19,21
+13:22 22:1,22 23:7
+23:13 26:10 27:6
+28:4,12 29:14 30:11
+31:20 33:14 69:16
+70:4
+judge 15:9 16:23
+127:12,20
+judgment 105:5
+107:11
+judicial 1:1
+jury 56:24 127:4
+k
+k 9:1,1
+kaiser 2:2 25:19
+123:16 130:13
+kasowitz 2:20
+keep 61:20 62:6
+108:1
+kids 65:1,8
+kind 29:2 30:24
+33:23 57:19 59:15
+66:1 83:21 95:7
+105:5
+kinds 22:3,5 31:15
+42:25 92:15
+knew 46:2 73:18
+116:1
+know 8:25 11:9 15:3
+15:24 17:22 18:3,7
+20:18 21:17 23:22
+23:23 37:6,16 38:6
+39:23,24 40:2,13,24
+44:8,10 46:9 48:24
+51:7,23 52:18 53:24
+54:6 56:17 58:17
+60:16 61:18,22,23
+62:1,3,3,9 64:6
+65:19,21,24 66:8
+68:10,13,19 69:9
+71:19,21,22,24 72:8
+72:10,17,20,24 73:4
+73:12,17 76:10,11
+76:13,24 77:2 78:13
+82:14,19,21,24
+84:21 85:21 86:4,12
+86:19 87:18 88:1,9
+88:9,10,10,14,15,18
+88:19 90:2,8,10,14
+90:17,20,21 92:5,7
+93:21 94:4,23 95:2
+95:14 96:14 102:11
+102:12,16 103:20
+103:23 104:2,4,16
+106:19 108:19,20
+108:24 109:4,25
+110:4 112:20
+114:19 115:24
+120:21 121:18
+122:10 123:6,6,8
+124:9 128:13 129:8
+129:19
+knowing 95:21
+knowledge 12:14,16
+13:6 37:12 91:2,12
+93:5 98:11
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[knowlton - mind]
+knowlton 87:18,19
+88:2,16
+known 37:13 39:19
+39:24,25 40:3,13,15
+40:17,19 41:5,8,10
+42:2,10,13,19,22
+43:3,12,15 44:3,17
+44:19 46:2 93:19
+95:19 115:20,22
+116:4,5,7,9,16,19,25
+117:2,4,4,6,8,11,12
+117:20 118:2,14,15
+118:16,17,18,25
+119:4,15,20,23,24
+120:1,6
+knows 14:9 16:8
+koethe 8:23 20:2
+kyriakoudes 68:17
+68:19 69:13 72:6,25
+73:10 76:15
+l
+l 3:15
+lacy 62:17 68:11
+language 32:10
+languages 38:3
+large 1:22 122:6
+larger 42:23 78:22
+larkin 17:6 19:5,20
+19:22,25 20:4
+122:18,21 123:2
+las 37:1
+lasts 25:3
+latin 41:24
+law 2:3 12:12 28:13
+lawson 72:5
+lawyer 8:17 12:2
+16:20 56:13,14
+127:11
+lawyers 12:21 30:24
+52:13 54:7 55:2
+57:14 58:2,12 59:9
+60:12 62:6 70:23
+72:1,2 124:15 128:9
+Page 144
+layman 34:7
+layperson 84:16
+learn 101:11
+leave 9:20 10:3,10
+10:18
+lecture 24:11,16
+27:4
+lectures 23:17,21,24
+23:25 24:14 26:3,8
+left 123:15
+legal 30:23 52:15,17
+53:1
+leon 2:3
+license 132:13
+lifetime 45:22
+liggett 2:23 11:16,22
+light 37:22 45:24
+limb 85:10
+line 117:5 134:5
+lisa 1:20 132:9,19
+133:5,22
+list 50:16,24 51:1
+52:8,10 54:16 55:12
+58:3,4,6,24 97:25
+105:20 106:3 127:8
+listed 15:8,10,15
+53:6 55:13,22
+listen 15:21
+listing 55:25
+litigate 128:5
+litigated 15:4,9
+litigation 104:1,11
+little 4:6,7 38:11
+79:5,19 80:5,14,18
+llc 2:23
+llp 2:11,20
+local 37:7
+long 5:6,18 22:15
+36:8 39:5 44:3
+106:11,12 118:5
+124:4,22
+look 49:22 50:16
+55:21 58:24 60:5
+61:1 80:24 87:11,14
+96:16,17 99:1,19
+100:14 106:9
+107:14 122:9 128:6
+128:10
+looked 6:15 46:24
+47:23 51:15 53:12
+57:8,18 75:6 77:24
+79:15,18 80:5 84:16
+91:13 108:6
+looking 57:10,12,23
+57:24 87:17
+lorillard 11:16,22
+luis 1:16 3:2 4:20
+5:2 132:10 133:7
+134:3
+m
+major 21:4,12 31:6
+31:14 32:1,5 104:11
+118:4
+majority 53:11
+making 42:24 89:2
+manner 48:11
+manuscript 26:19
+manuscripts 23:18
+march 132:15
+133:13
+marked 3:11
+marraffino 17:5
+martin 62:19 63:3
+68:12
+martínez 1:16 3:2
+4:20 5:2 14:24 17:3
+61:15,16,17,18
+123:22 132:11
+133:7 134:3
+material 33:3 34:17
+35:15,20 44:22 48:3
+48:5 49:18 51:1
+53:6,7,18 54:5
+56:11,11 57:13,25
+59:15,18 60:4 61:20
+66:25 72:17 74:9
+79:15,18 81:2,7
+84:18,25 98:1
+103:24 105:9,18
+106:2,12 108:14,15
+115:6 117:19 122:9
+126:2
+materials 36:14,24
+48:17 49:16 50:6,13
+50:17 51:14,15
+53:12 54:9 59:21
+62:7 69:10 92:12,15
+93:15 94:12 97:18
+108:11,12
+matter 15:11 102:14
+102:14,19 134:21
+mcfadden 20:2
+mean 7:3 20:25 21:1
+24:14 26:25 34:15
+37:5 39:16,18 44:2
+44:15 53:22 60:19
+60:23 62:2 82:25
+88:8 89:10,15 108:1
+110:8 111:10 114:2
+meaning 72:22
+means 30:4 38:7
+103:11
+media 69:10
+medical 111:6
+meet 123:25
+meetings 12:2
+memorandum
+104:19
+memory 49:15
+mention 28:18,25
+41:19
+mentioned 28:22
+37:2 89:24
+mentions 114:24
+message 112:12,13
+met 12:20,21 46:7
+miami 1:2 2:4,8,12
+2:21 9:19 10:18,20
+19:23 20:4
+million 38:7
+mind 27:11 31:4
+49:12 52:5 57:22
+58:25 87:16,21
+128:25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[minds - okay]
+minds 91:23
+mini 130:3
+minor 32:4,6
+minute 79:13
+114:10 123:7,11,13
+123:14
+minutes 61:8,9 95:6
+104:21 123:12,15
+123:17,18
+missed 55:23
+misunderstood
+20:19 25:23
+moment 9:20
+money 23:4,6,12
+26:16 27:6 30:5
+64:19 82:10,15,16
+83:17 85:21
+moneys 22:22,24
+26:9 27:22
+month 23:23 124:6
+months 22:16 23:23
+morning 10:4
+morris 2:14 11:16
+11:23
+mouth 41:17
+n
+n 2:1 3:1,15 4:1 74:3
+93:18,18
+n.e. 2:16
+name 4:25 5:2 8:18
+8:20,24 18:10,15
+62:20 68:12,17 72:4
+74:2,5 88:24
+names 20:7,8 62:15
+62:20
+natives 36:16 37:1
+nature 34:2 66:23
+95:11 98:17,23 99:7
+99:25
+need 9:19 29:19
+44:13 49:14 58:16
+81:23,24,24 82:1
+96:6,16,17 97:1,5,8
+99:19 100:14
+Page 145
+101:19 102:10
+123:15 130:1,2,20
+130:21,22
+never 46:7 66:7
+104:14 128:25
+new 40:9 43:21 48:5
+119:9,14,16
+news 43:21 115:14
+118:1,2,9,9,10,12,18
+118:25 119:3,7,9,14
+119:15
+newspaper 78:17
+newspapers 77:23
+78:12,12 79:25 81:8
+nicotine 98:16,17,22
+98:23 99:7,8,25
+100:1
+nominal 26:18,24,25
+26:25 27:3
+nordine 93:18,19
+notary 1:21 132:9
+132:20 133:6,22
+notes 6:24 7:9 47:24
+133:9
+notice 1:17 57:13
+notwithstanding
+12:18
+number 55:1 56:19
+56:22,25,25 60:11
+60:14,16,17,18,20
+60:23 80:22 81:5
+86:2 87:3,5,8 118:6
+122:6 125:19
+numbers 42:23
+87:13
+o
+o 3:15 4:1 9:1,1
+93:14,18 103:9
+oath 3:4 4:21 132:1
+object 4:4 9:8,14,23
+10:14 11:18,24 12:9
+13:5,13 14:1,20,23
+18:21 19:2,14 21:19
+21:25 22:10 23:1,9
+23:15 24:2,17 25:11
+25:25 26:5 27:9,17
+27:24 28:7,20 29:9
+29:22 30:8,18 31:5
+31:21 32:7,17 34:3
+35:2,8 36:2,12 37:9
+37:15 38:9,13,21
+39:9,21 40:5,20
+41:12 42:4,15,20
+43:5,17 44:4 45:2
+46:4,11,21 47:6,13
+48:13 49:10 50:5,11
+51:13,24 52:14,22
+53:9 54:8 56:15
+57:3,15 58:8,22
+59:5,12 60:7,24
+62:5 63:15,25 64:11
+64:22 65:3,11,22
+66:5 67:10,18 68:7
+69:2,19 70:8,25
+71:8 72:13,13 73:3
+74:13,21 75:13 76:6
+76:18,23 77:7,19
+78:3,15 79:8,22
+80:8 81:14 82:3,12
+82:23 84:2,9 85:2,5
+85:8,11,17,24 86:13
+86:25 87:7 90:4,9
+90:19 91:7,17 92:1
+92:22 93:4,12 94:19
+94:25 95:22 96:8,20
+97:2,9 98:2,24
+99:11 100:2,19
+101:1,17,23 102:8
+102:24 103:17
+104:3,13,20 105:3
+105:12,23 106:5,14
+106:21 107:2,9
+108:21 109:3,19
+110:2,12,17,23
+111:14,17 112:7,15
+112:22 115:11,16
+115:25 116:13,21
+117:13,16,21 118:3
+118:19,22 119:2,10
+119:17 120:2
+121:15 124:8,17
+125:8,13 126:10
+128:12,19
+objection 4:10 15:13
+24:12 30:13 107:23
+120:22 129:5
+observations 42:25
+obvious 40:22 89:1
+obviously 13:23
+53:22 77:12 124:11
+occasionally 24:15
+occupation 4:25
+october 17:14,15
+odum 17:6
+offer 63:24
+offered 84:12
+office 9:20 10:3
+official 132:14
+oh 25:22 63:11
+70:19 87:4 113:3,6
+113:13 130:6
+ojedo 17:6
+okay 5:25 6:14,19
+7:21 8:14 11:3,14
+12:7,18 14:3,12,18
+18:17,25 20:9,21
+21:4 22:17,20 23:12
+25:15 26:8 27:2
+28:3,15 29:5,13
+30:22 31:24 32:4,14
+32:22 34:21 35:6,12
+38:16 39:5 45:5,12
+45:18 46:7,17 47:17
+49:5,18 50:9 51:2
+55:9 56:4 57:12,23
+58:19 59:2 61:4,10
+62:17 63:22 66:21
+67:3 68:10,16 71:3
+72:2,17 73:22 74:1
+74:14 75:19,23 76:1
+76:8 77:3,15 78:10
+79:1 81:10 83:17
+84:21,24 85:21 88:1
+88:22 89:10 90:14
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[okay - practice]
+91:11 92:17 93:21
+95:17 96:1 98:6,14
+103:13 104:18,22
+105:11 106:24
+108:14,24 109:11
+110:8,19 112:13,20
+113:24 114:2,19
+115:9 122:8,20
+123:4,17,25 124:4
+124:20 125:4,17,22
+126:1,4 129:15
+130:8,23 131:4
+once 23:23,23 24:19
+25:7 112:2,3,6,10
+ones 17:4,7 20:1
+24:8 127:16
+opine 99:12 101:21
+opinion 20:24 21:16
+34:21,22,25 35:6,16
+35:24 36:1 38:16
+39:1,23 40:2 45:7
+48:1,2,9,10,12 49:7
+50:3,4,10 60:15
+63:2,9 78:6,7 79:3,6
+81:1,13 83:24,24,25
+84:3,4,8 95:11
+96:22 97:15 99:9
+101:6,8,16,20 104:1
+104:12 115:5 117:2
+117:5,15 120:13,17
+121:2,6,12
+opinions 21:2 33:5
+45:12,18,20 47:5
+48:22 49:1,2 97:20
+120:21,23
+opportunity 99:20
+106:8,25
+opposed 5:19 18:7
+43:9 95:11 121:3
+122:3
+oral 41:23
+orange 17:24 18:2,4
+132:7 133:4
+order 50:9 60:25
+82:4 99:12 102:9,9
+Page 146
+122:12 125:2 130:1
+130:2
+organization 103:10
+organizations 43:22
+120:10
+originated 18:3
+orlando 1:20 10:11
+10:18,19 31:19
+outcome 133:12
+outline 54:12
+outside 35:10 90:11
+p
+p 2:1,1 3:15 4:1
+93:14 103:9
+p.a. 2:7
+p.m. 10:11,20
+123:19,20 131:5
+page 3:6 55:11
+134:5
+pages 33:2,9,11
+49:18,22,25 52:18
+54:12 55:13,18 56:5
+84:18 97:7 133:8
+paid 9:18,19 22:8,22
+23:6,18,21,24 24:1
+24:8,11 25:3,9 26:2
+29:6,15,19 30:5,11
+30:17,25,25 65:4
+part 62:8 77:12 79:5
+79:16,19,23 80:3,5
+80:14 81:9,10,12
+105:8,20 108:4
+125:5
+particular 7:3 8:17
+37:13 47:8 71:10
+80:10 97:23 105:14
+106:8 110:14
+parties 3:17 9:6
+133:10,11
+patients 30:25
+paul 8:23 20:2
+pay 24:15,22,24,24
+25:2 28:19 29:18
+payment 26:18
+30:19 31:2
+payments 27:3
+31:16
+peachtree 2:16
+peer 72:18,21,22
+73:1,2,8,14
+penalties 134:21
+people 33:22 37:7
+37:21 38:7,8 40:2
+40:21 43:19,25 63:1
+63:7 85:15,22 86:20
+86:22 90:7 92:20
+107:21,22 109:16
+113:24 120:14
+122:6 123:9 129:17
+people's 45:9 77:6
+percent 54:22,23
+88:6,24 89:24
+percentage 54:23
+perception 105:15
+period 38:4 41:21
+86:5,11,24 87:6
+104:8 119:5
+perjury 134:21
+person 9:6 95:7
+personal 1:6 41:15
+personality 95:12
+personally 132:11
+pertaining 73:7
+pertains 50:2
+pertinent 48:5
+ph.d. 1:16 3:2 4:20
+132:11 133:7 134:3
+philip 2:14 11:16,22
+phone 28:13 29:11
+110:20 111:3,7,8,11
+111:20 112:1
+129:18,20 130:9,19
+picks 127:16
+picture 81:9,11
+108:4
+piece 94:9
+pieces 49:19
+pitney 62:20 63:3
+68:13
+place 92:16 94:17
+95:10
+places 43:21 94:10
+plaintiff 1:8,17 2:5
+70:5
+plaintiff's 18:10
+plaintiffs 70:21 71:6
+plans 123:9
+plant 40:10
+played 41:19
+please 5:1 10:16
+38:23 40:18 44:22
+48:10 54:4 68:3
+77:9
+point 29:5 40:16
+51:25 90:15 95:23
+96:2 97:19 114:22
+poison 98:17,23
+99:8 100:1
+politics 104:1,12
+poll 122:13,16
+polling 103:10
+polls 120:14,25
+121:7,10,17,23
+122:5,8,10,10,12,18
+122:22 123:2
+ponce 2:3
+portal 9:18,18
+portion 54:21,22
+79:2
+position 79:17,20
+81:13 109:15
+possibility 22:2
+possible 56:17 66:19
+130:7
+potential 112:1
+powerpoint 19:1,12
+123:23 124:1,5,15
+125:23 126:2,5,8
+127:6,7,14 128:4,18
+129:3
+practice 97:20
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[precious - read]
+precious 44:20
+precipitously 40:16
+precise 99:3
+predicated 50:4
+prefer 61:16
+premise 81:3,7
+89:20 98:14 99:24
+100:18
+preparation 96:25
+prepare 50:22 97:5
+127:21
+prepared 48:21,25
+96:10,14,18,23
+present 45:8,15
+presentation 19:1
+19:13 24:24 25:3,4
+123:23 124:1,5,15
+125:24 126:2,5,8
+127:6,7,14 128:4,18
+presentations 24:25
+24:25
+presently 45:13
+press 26:20
+previous 7:7,24
+17:13 19:5 20:19
+88:6 118:7
+print 41:22 83:2
+printed 37:7
+prior 14:18 69:12
+74:20 75:11,20
+privilege 16:14,15
+pro 71:20
+probably 71:25,25
+72:3,4,5
+problem 61:10
+113:4
+process 40:12,18
+41:6
+proctor 71:12,16,19
+72:10,25 73:11,12
+74:11,20 75:11,21
+76:15
+produced 36:24
+100:13 101:13
+107:15 132:13
+Page 147
+product 15:18,24
+16:17,21 82:11
+production 56:6
+products 88:25 89:8
+120:12
+professional 30:19
+31:8,11
+professor 5:3,6,15
+5:18,19,20 22:17,21
+32:24
+programs 81:6
+progress 44:9
+projects 21:21
+proliferation 86:11
+prompted 21:23
+proportion 78:22
+proposal 93:9,10
+104:19
+protected 15:18,24
+provide 48:18,19
+provided 53:5 54:13
+56:8
+pry 113:9
+psa 86:17
+psychologist 34:6
+public 1:21 13:2
+33:18,21,23 34:24
+35:13,25 36:3,8
+37:20 39:1,17 45:13
+60:6 62:12 63:13
+66:22 68:25 69:7
+76:17,21 77:5,11,12
+78:2,7,14,18 79:3,6
+80:6,20 83:20,25
+84:3,4,6 85:1,6
+86:15,20 90:16,25
+91:16,24 92:7,8,13
+92:19,25 93:2 98:7
+98:9,11,25 100:4,7
+103:16 104:1,12
+107:18 108:6,7,11
+108:12,16,18,20,24
+109:1,24 110:7,8
+117:11 120:11,23
+121:13,23,23,24
+122:1 132:10,20
+133:6,22
+public's 34:1 77:18
+107:18 120:18
+publications 42:7,23
+66:24
+publish 67:9,15,16
+67:25 68:6
+published 27:12
+43:1 66:21,25 67:2
+67:3,21 68:14 72:6
+72:9,11,18 73:7,13
+120:9
+publishing 37:6
+67:5,20 68:1,4
+73:18
+puerto 6:7,18 21:8
+21:10 28:14 30:23
+31:15,18
+pull 51:20
+purpose 43:22 64:18
+85:14 101:13
+purposes 44:7
+pursuant 1:17
+pushed 95:8
+put 4:4 7:14 52:10
+98:8 108:15,18
+109:1 124:16,18,24
+125:1 126:1,5 127:3
+putting 52:25
+124:14
+q
+quantify 38:14
+question 10:16 14:6
+14:24,25 15:14 16:7
+16:24 18:6 20:20
+34:15 35:13 37:19
+38:23 39:5,19 43:10
+44:18,23 46:22 51:2
+52:21 53:17,20,23
+54:2 56:5 58:25
+61:1 63:7 65:7
+66:13 67:23 68:2
+69:4,11 72:24 77:9
+77:15 79:1 80:2
+81:4 82:5,9 85:13
+88:10,13,18 91:3
+94:13,15 95:24 98:8
+98:18 99:22 101:14
+102:20,21 105:24
+110:3 113:16,20
+114:12 115:4,5
+117:1 119:13
+120:24 121:8
+126:24 127:19
+129:18
+questions 44:13
+45:3 55:9 129:14,20
+quit 33:22,24 34:16
+34:23 35:1,14 36:17
+38:20 39:18 40:23
+45:16,25 120:12
+quite 89:1
+quitting 39:2
+quote 32:15 102:12
+102:15
+quoted 109:9,14
+quoting 101:10
+r
+r 2:1 4:1 74:3 93:14
+93:14,18 103:9,9
+r.j. 1:10 2:9,18
+13:23 16:1 20:3
+56:10 64:9 134:4
+rachel 2:20
+raise 4:13
+rarely 24:15
+rate 8:10,13 130:7
+rates 8:9
+reach 92:13,18
+108:12,12
+reached 43:25 92:15
+108:7,8,16,18 109:1
+reaching 43:19
+read 35:15 46:10
+48:11 51:15 52:7
+53:12 68:14,23
+69:12,18 70:4 71:16
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[read - right]
+71:25 73:22 75:21
+80:22 87:15,25 89:5
+96:19 97:18 99:22
+100:9,24 102:6,18
+104:18 105:21
+106:2 107:3,8 115:9
+122:9 134:21
+reading 3:18 57:19
+57:21 70:20 71:4,13
+74:23 99:17 102:1
+ready 97:10 126:22
+128:5,9,14 129:3
+real 117:1
+really 32:8 34:4
+54:20,24 100:13
+reason 46:1 64:20
+66:8 75:24 84:24
+104:25
+recall 17:4 18:9,10
+20:6 28:21 29:10
+32:18 46:16 47:7,25
+50:14 55:2 56:16
+58:6 59:16 60:8
+62:20 69:9,20 70:9
+70:16,17,19 71:9
+72:2 74:22,25 75:1
+80:4 87:15 88:23
+93:15,20 94:2,18
+103:1 106:7,15
+113:13 122:18,20
+122:21,23
+receive 26:18 59:2
+received 28:13
+53:14 54:18 58:12
+58:21 59:8 60:12
+69:16 75:1,5,11,20
+receiving 74:19
+recollection 6:25
+24:8 48:15 55:25
+70:1 71:1 73:6 74:7
+74:18 75:5,6,10,14
+75:16,20 83:16
+89:23,25 94:11
+125:20
+Page 148
+record 4:4 7:17
+133:8
+records 6:24 7:8
+46:16,25 62:7
+reduce 120:11
+reducing 43:22
+refer 6:24 13:17
+24:3
+referenced 122:16
+123:2
+references 36:16
+84:19
+referred 31:12,16
+80:23 109:12
+referring 36:23
+39:13 41:21 69:25
+79:2,19 80:2,12,15
+97:24 100:12 110:5
+reflect 7:9,17 58:19
+reflected 134:22
+refresh 6:25 49:12
+52:5 87:16
+regard 14:25 15:15
+54:25 58:6 95:17
+regardless 58:4,15
+regular 130:5
+reiterate 60:9
+relate 61:20 76:4,8
+related 22:6 120:24
+relates 16:7
+relation 69:10
+relationship 15:7,25
+89:8
+relative 133:10,10
+relevant 50:15
+reliable 105:21
+reliance 33:3 50:24
+51:1 56:10,11 105:9
+105:20 127:8
+relied 33:4 49:19
+50:7,9
+rely 50:20,21,25
+51:4,5,8
+relying 50:17
+remember 17:7
+18:15 20:8 29:13
+36:18 55:4 57:25
+71:15 110:3 122:22
+123:1,3 124:9,12
+render 20:24 101:19
+rendered 11:21
+rendering 9:7 22:24
+27:21
+repeat 10:15 38:22
+69:3 77:8
+replacement 32:12
+report 86:6 87:12,13
+105:1,2,14,17
+106:13 115:1,3,10
+117:25 119:19
+133:6
+reporter 1:21 3:5
+4:13,15 129:22,24
+129:25 130:4,8,15
+130:19,23 131:1,4
+132:9 133:1,5,22
+reporters 1:19
+reports 87:15 105:8
+represent 11:12
+12:14 13:16
+representative 1:6
+represented 66:20
+119:19
+representing 12:3
+13:18 19:24 20:3,10
+53:4
+represents 11:10
+requested 133:8
+requests 56:6
+research 10:7 12:25
+13:1 21:21 28:17
+29:2 30:3 31:17
+33:17 34:11 35:21
+38:18 59:10 81:4
+87:14 89:5 92:12,13
+103:16
+researching 35:12
+reserved 3:19
+reserves 50:25
+respective 3:17
+response 88:6
+111:25
+retained 11:15,19
+12:19 13:23 14:19
+59:24
+return 10:19
+review 23:17 26:19
+27:3 47:22 49:11,14
+49:17 57:5 72:21,22
+73:2 80:9 81:1 96:3
+96:6,13 97:7,15,22
+103:23 106:25
+117:18 133:7
+reviewed 46:24
+47:17 48:2,8 49:6
+72:19 73:1,8,14
+79:14 90:23 91:21
+91:25 93:19 103:13
+105:7,18,19
+reviewing 33:11
+48:4
+reynolds 1:10 2:9,18
+11:13 12:8,15,20
+13:1,23 16:1 17:3
+19:25 20:4,10 22:9
+23:7 26:11 27:7
+30:12 56:10 64:9
+134:4
+rican 6:18
+rico 6:7 21:8,10
+28:14 30:23 31:15
+31:18
+right 4:13 7:25 8:14
+12:8 13:12 15:6
+18:13 20:24 25:10
+27:21,23 30:17
+33:13 39:1 46:3,7
+46:10 49:9,24 50:1
+50:25 51:4,6,22,23
+52:8,10,13 54:16
+58:17 61:11 63:6,20
+67:17,23 73:11
+76:12,15 77:4 83:15
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[right - spend]
+83:15 91:4 95:15
+96:22 97:22 104:23
+104:23 108:20
+110:11,11 112:6,6
+112:10,14,18
+114:11 115:14,15
+115:18,24 119:15
+119:16 123:8,22
+125:2 126:17
+127:15 128:6,10,16
+ring 74:4
+risk 111:22
+robert 71:12 74:20
+robinson 1:19
+roles 41:19
+roper 93:9,10,15
+103:7,8,9,14,18
+104:19
+royalties 27:11,15
+27:18,22
+rutgers 5:12,20 33:1
+s
+s 2:1 3:10,15,15 4:1
+s.e. 2:8
+salaried 22:18
+salary 22:20 23:5
+26:11 27:5
+saw 57:10
+saying 44:3 67:11
+70:15 88:25
+says 70:5 110:20
+127:20
+school 46:16,25 47:3
+47:9 83:7 94:7
+110:19
+schools 43:20
+science 42:24 43:24
+119:19
+scientists 118:6
+120:9
+screen 127:3
+seal 132:14
+second 2:8
+Page 149
+seconds 91:18
+section 6:18
+sections 6:17
+see 31:6,14 32:1,5
+49:16 52:1 56:2
+60:16 62:19 79:10
+81:15,24,25 82:1,5
+92:5,6 93:16 99:13
+100:14,20 101:3
+102:7,10,23 105:4
+105:13 107:10
+122:13 123:15
+126:16,21,25 127:1
+127:16,20
+seeing 93:20 100:17
+100:23 102:21
+seen 36:15 86:14,15
+91:4,5,9 93:15
+100:3,6 103:18
+112:2,5 122:11
+semester 6:10
+send 46:18 69:23
+70:6
+sending 59:9 69:17
+sense 124:21,23
+sent 46:14 48:3 55:2
+55:3 58:7 70:12
+74:9
+sentences 102:17
+separately 4:9
+served 7:19
+service 31:8 86:15
+86:20
+services 9:3,6,7
+11:14,21 13:22
+14:19 22:23,23 23:7
+23:14,19 26:15,15
+27:22 30:20 31:3,11
+seven 49:19 80:25
+125:7,11,15 127:10
+127:13,16,21,25
+share 37:21 85:5
+shared 114:23 115:1
+115:5
+shed 37:22
+sheet 134:1
+shook 2:11
+shorthand 133:5
+show 121:18 127:21
+127:23
+signed 134:25
+signing 3:18
+silent 92:19
+similar 78:12
+simple 52:21 54:2
+117:1
+single 104:10
+sir 7:16 12:13 16:13
+21:6 26:13 34:14
+38:16 52:11 65:19
+sister 94:6
+sit 58:5
+skolnick 17:6,20
+18:12,18
+sleeping 9:24,25
+10:6
+slow 4:8
+small 2:15 54:21,22
+56:19,22,24 60:11
+60:14,16,17,18,19
+60:23 78:20 79:1,16
+79:23 80:3,5 81:12
+130:24,25
+smoke 107:22
+smokers 40:22
+smoking 13:3 33:18
+33:22,24 34:23,25
+35:7,14,15,18,22,25
+36:9 37:3 38:19
+39:2,18 43:23 45:9
+45:14,15,25 47:11
+47:15,19,20 61:21
+62:13 63:13 66:22
+66:23 69:1,8 77:6
+77:13 78:2,8 79:4
+80:21,24 83:5 84:1
+90:17 91:1,16,24
+92:21 93:3 94:3,7
+94:11,14,16 95:15
+95:19,20 98:8,10
+107:18,22 109:15
+109:17,18 110:9
+113:25 114:3,15,16
+115:22 116:6,10
+117:3,7 119:24
+120:7,9,11,12,15,15
+120:18,19 121:14
+122:2
+society 43:23
+solely 100:23
+somebody 115:24
+sophomores 6:12
+sorry 14:5,14 20:19
+25:22
+sort 83:9 90:16
+source 74:19
+sources 26:12 48:19
+81:5
+south 2:12
+spain 36:25
+speak 34:4 58:5
+113:17
+speakerphone 2:13
+2:18,22
+speaking 98:3
+specific 38:12 53:24
+54:9 55:6 56:17
+58:16,16,25 59:16
+60:8 62:13 66:17,20
+66:22 70:9,17 79:11
+80:17 82:6 97:22
+122:8
+specifically 7:9
+11:16 20:25 46:25
+47:2,21 63:14 87:16
+94:2 98:22 106:16
+106:19 122:16
+123:3
+specifics 69:9
+speculate 88:8 129:4
+speculating 54:24
+spell 8:24
+spend 10:7,9,21
+64:8,13,25 65:9
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[spending - thing]
+spending 64:16
+spent 7:25 10:23
+63:19,23 82:10,15
+82:16 83:18 85:22
+spoken 20:20 62:11
+62:16 63:2,8
+spot 61:6
+spread 39:7
+stand 10:12,21
+126:7
+stands 15:13
+start 83:5 88:25
+94:3
+started 60:5 94:14
+94:16 95:10,15,18
+state 1:21 48:5
+132:6,10,20 133:4
+stated 134:22
+statement 83:3
+99:14 100:9 102:22
+statements 78:16
+114:21
+states 118:9
+stenograph 133:5
+stenographic 133:9
+stenographically
+133:6
+stick 86:23
+stipulated 3:16
+stop 61:6 130:11
+story 115:15,18,21
+115:23
+strategies 92:14
+strategy 82:20 83:1
+90:16,24 91:15,23
+92:6 103:25 104:10
+street 1:20 2:8,16
+stretch 61:7
+strike 6:1 18:17
+20:21 22:21 28:3
+55:9 80:19 95:13
+98:20 109:12
+strong 41:24
+structured 78:19
+Page 150
+students 65:15
+studied 118:11
+studies 118:7
+study 21:1,15,24
+60:3,6 93:18,19
+118:4,5
+studying 63:20,24
+subject 33:21 42:8
+63:23 65:9 69:6
+72:9 73:13 111:25
+118:18,25 119:4
+120:10 134:22
+substance 134:22
+suggest 90:24 96:14
+99:6 115:6
+suggested 34:17
+35:15,17,21 91:22
+suggests 37:12
+suite 1:20 2:3,8,12
+2:16,21
+supplied 33:2
+supplies 9:16
+suppose 43:12 62:8
+sure 12:10 55:19
+61:8 71:18 74:8
+77:11 82:25 88:6,12
+96:3 111:5,11,12,21
+surgeon 86:6 114:25
+115:9 117:25 118:8
+119:8,12,13
+surprised 60:22
+swayed 93:24
+swear 4:15
+sworn 4:21 132:12
+synonymous 31:3
+t
+t 3:10,15,15 9:1,1
+74:3
+take 16:22 21:15
+49:22 55:15,21 56:4
+60:15 63:12 86:5
+106:9 123:7,13,13
+taken 1:17 18:8
+61:12 123:19
+talk 8:17 14:12
+48:12,21 80:23
+105:22 127:2,22,24
+talked 20:14 26:9
+68:11 76:15 79:15
+108:19 129:7
+talking 8:21 25:19
+33:13 36:24 42:22
+56:18 59:22,23 60:2
+60:10 73:10 92:14
+95:10 98:18 108:1,5
+110:20 111:3,24
+122:18
+talks 79:20
+taught 5:12 63:14
+63:16 66:2,4,12
+taxes 129:1
+teach 5:9 6:6,6
+63:22 64:7 65:1,8
+teaching 6:2,5,9,10
+6:15,17 64:2 66:16
+technical 32:2 34:5
+124:21,23 125:4
+technology 125:1
+telephone 112:1
+television 83:15,18
+tell 4:25 20:7 23:25
+29:1,1,19 30:1
+31:12 32:4,6,9
+37:20 40:12,14,18
+41:1,9 45:18,24
+46:1 47:12,17 48:10
+48:15 49:1,6 50:1
+50:21 51:5,6 54:17
+54:17,25 56:7,13,22
+56:24 57:23 58:4,20
+59:9 60:20,23 64:6
+64:9 65:1,10 68:3
+78:14 80:14 81:11
+81:16 83:1,2,17
+84:11 85:4,10 86:19
+86:20,23 88:20,21
+93:3 94:5,14,15
+95:5,18 96:12,18,23
+97:17 103:20 106:3
+107:6 108:14,16
+109:22 111:11
+122:1,11 123:1
+129:9
+ten 60:22 104:21
+123:12 130:13,14
+130:15
+term 26:24 30:24
+31:1,2 34:7,12
+terms 9:12 12:1 32:2
+32:2 34:5 36:3
+37:17 47:1 100:13
+110:5 112:1
+testified 4:21 10:20
+17:11 18:17,25
+19:12 68:21 70:22
+71:5,14 115:14
+122:15,20 123:23
+124:2,4 125:7,14,15
+125:18,22
+testifies 72:7,11
+testify 8:8 9:19
+10:19 15:2,16 16:5
+16:9 17:2 50:20
+68:25 69:6 94:1
+126:21
+testifying 10:21,23
+64:9 76:4
+testimony 3:2 4:16
+10:22 46:18 50:2
+68:23 69:12 74:10
+74:20,23 75:11,20
+93:23 94:10 95:6
+101:20 102:23
+114:5,24
+textbooks 43:20
+81:6 99:1
+thank 4:12 7:1
+13:20 44:7 48:7
+49:5 63:11 68:10
+82:8 94:8 103:5
+130:8
+thanks 129:16
+thing 9:16 27:10
+33:14 87:21 110:14
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[thing - usa]
+119:7 130:3
+things 33:4 53:7
+97:18 101:11 108:5
+114:25
+think 17:25 32:8
+44:9 45:7 47:21
+48:16 49:14 53:21
+58:11 65:14,15,20
+66:14 68:12 74:9,12
+74:15 75:4 87:20,23
+89:1,6,7,19,22
+91:24 97:14,14,22
+98:3 104:22 111:18
+111:23 112:23
+113:12 114:9
+120:22 127:14,15
+127:23 129:5
+thought 70:15
+107:22 109:16,18
+110:19 111:9 113:3
+113:6 119:24 120:1
+thousand 38:7 49:19
+60:18 80:25 127:10
+127:13,17,21,25
+thousands 75:7
+79:14
+three 6:10,14 22:16
+103:25 104:11
+time 4:6 7:25 8:12
+9:15,21,24 10:1,6,7
+10:9 11:4,8 12:7
+17:9,13 18:25 19:11
+20:13 27:15 28:19
+29:13 32:24 38:2
+44:19 56:4 57:5,8
+58:24 59:24 60:2
+64:9,13,16 71:3,10
+72:4 74:19 86:5,12
+86:24 87:6 90:15
+92:16,20 95:15
+96:24 97:5,7,8
+104:9 107:11
+117:10 118:5 119:5
+122:15 123:22
+124:12 125:24
+Page 151
+126:1 130:5,12
+times 26:23 27:4
+43:21 49:17 125:15
+125:21,22 129:2
+title 6:16 93:16
+tobacco 1:10 2:9,18
+11:15,17,23 12:15
+12:22 13:1,3,12,19
+14:19 15:7,25 22:6
+22:9 39:12 40:9
+52:12,20 53:4,5,19
+54:1,6,14,14 55:2
+56:9,14 57:14 58:1
+58:15 61:19 68:22
+68:22 70:23 71:23
+72:7,12 74:10 76:11
+76:16,20 77:3,16,16
+77:22 78:21 79:17
+81:12 82:9 85:22
+88:2,16,25 89:2,8,8
+89:21 90:14,18,24
+91:14,22 92:4,17,24
+103:15,19,24 104:7
+104:10 107:19
+108:2,15,17,25
+109:7,9,14,23
+122:16 125:11,11
+125:17,23 134:4
+tobacco's 79:20
+today 8:12 14:18
+17:11,11 18:4 20:9
+21:16 36:1 39:3,24
+39:24,25 40:19
+41:10 45:21 47:5
+48:21 49:3,7 50:1
+58:5,6 63:9 96:6
+97:11
+today's 14:15
+token 43:11
+told 29:7 41:7 49:5
+60:4 61:24 66:11,11
+77:11 79:17,21
+80:20 81:23 96:16
+98:9 101:22,25
+105:18
+top 57:25
+topic 17:10 29:6,14
+29:17,23 33:17
+61:21 62:12,13,16
+63:1,9,14 66:22
+67:4,6,7 68:14 73:7
+76:3,5,9 77:18 97:6
+103:16,19 109:7
+topics 67:8,17,20,24
+67:25 68:4 72:7,11
+torres 2:20
+total 25:19,22,23
+108:2
+touched 109:8
+trade 87:12,12
+105:1,2,8 106:13
+tradition 30:23
+41:23
+transcript 3:19
+113:17 122:25
+133:7,8 134:2
+translated 38:3
+travel 9:15 11:1,4
+traveling 10:9
+travels 41:22
+trial 8:8 15:2,16
+16:5,9 17:2,11,17
+18:19,22 19:1,12
+50:23 51:20 60:21
+71:17 125:6,15,23
+126:4,9,9,16 128:9
+128:17 129:3,10,12
+trials 72:8,12 125:7
+125:11,11,18
+true 76:17 96:9
+133:8 134:22
+truth 4:17,17,18
+trying 41:3 81:21,21
+96:25
+tumor 110:21 111:4
+111:10,13,22
+turnaround 130:12
+tv 81:6 84:6 86:4,7
+86:11 87:6 108:19
+108:20
+twelve 10:24 60:10
+63:20,23 67:4
+twenty 60:22 104:8
+twice 24:19 25:7,9
+25:15 112:3,3,6,10
+two 6:17 22:16
+26:23 31:13 45:12
+60:17 62:21 72:18
+88:4 108:5 114:6,10
+114:22 123:5,13,14
+123:18
+type 9:16 41:18
+66:12
+u
+u 3:15
+uh 37:25 62:18
+uncommon 66:19
+undergrad 21:5,7
+underlies 21:1
+understand 45:23
+51:3 53:20 68:2
+84:14 95:9,9 101:3
+101:12 112:4
+124:24
+understanding 9:13
+12:4 14:16 34:1,1
+78:8 98:7
+understood 116:5
+undertake 33:15
+60:3,6
+united 118:8
+universe 48:17
+universities 5:10
+66:16
+university 5:3,4,5,7
+5:13,13,21 21:8,10
+22:17,21,25 23:5,13
+26:19 33:1 63:12
+65:14
+unprepared 96:5
+unreliable 105:2,21
+upper 6:11,13
+usa 2:14
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[usage - wrote]
+usage 31:15,25
+use 16:1 26:24 34:6
+34:6 40:10 51:22
+78:9,10 99:2 111:9
+111:13,20 127:11
+useful 108:10
+uses 69:10
+usual 130:12
+usually 32:11 78:20
+79:23
+v
+v 134:4
+vague 60:17 73:5
+74:7 75:6,10,14,16
+75:19 89:25
+variety 21:21 33:20
+vast 53:11 81:5
+103:16,23 118:6
+vector 2:23
+verbatim 99:18
+versus 120:24
+video 2:5
+videographer 125:4
+view 78:23 126:22
+viewed 84:6
+vis 76:21,21
+visit 97:18
+vitae 24:4
+voice 109:5
+voices 77:21 78:11
+volume 111:25
+vs 1:9
+w
+wait 79:13
+waive 129:15
+want 15:24 16:23
+39:23,24 40:2 44:23
+51:7 52:18 53:24
+54:5 56:4,19 58:17
+60:16,21 64:13
+69:18 70:4 78:13
+80:17 85:9 86:18,19
+86:21 88:7 92:5,7
+92:24 96:14,15
+Page 152
+97:21 101:3 107:19
+108:2 109:22,25
+114:5 117:5 120:16
+120:20 121:1,2
+122:9 128:3,3 129:9
+130:4,9
+wanted 32:16 33:16
+33:17 60:5 63:11
+wants 88:8 123:16
+warning 83:3
+watched 108:24
+watches 108:20
+way 6:23 30:14
+38:25 40:23 41:24
+44:3 49:16 78:19
+79:3 95:14 98:8
+109:16 115:20
+119:13 121:9
+ways 72:23
+we've 15:3 27:2,3,5
+27:6 42:17 54:11
+111:24 114:20
+123:5
+wednesday 1:18
+week 124:7 126:7
+weeks 129:12
+wendel 1:6,7,7 6:20
+7:3,24 8:1 13:24
+14:13,15,22 20:20
+21:2 22:24 45:22
+46:2,7,9,15 47:1
+48:22,25 49:2 50:2
+50:10,20,22 55:17
+59:21,23,25 83:5
+92:15,19 93:21 94:3
+95:15 108:8,13
+114:15 121:19,21
+121:22,25 134:4
+wendel's 55:22 56:1
+94:10 95:6 117:10
+went 44:19
+whatsoever 11:22
+whoa 130:11,11,11
+widely 37:4,20 38:1
+39:7,24,25 40:3,13
+40:15,17,19 41:5,8
+41:10 42:2,10,13,18
+42:22 43:3,12,15
+44:3,16,19 95:19
+100:7 115:20 116:4
+116:5,7,9,16,18,25
+117:1,3,4,6,8,10,12
+117:19 118:1,15,17
+118:18 119:4,23,24
+120:1,5,6
+widespread 39:4,6
+115:13
+wife 115:2
+williams 103:15
+willing 28:19 33:15
+wise 54:23
+witness 9:9,15 10:15
+10:21 11:19,25
+12:10 13:6,14 14:9
+15:8 16:5,8 17:2,4
+17:23 18:15,22 19:3
+19:8,17 20:18 21:20
+22:1,11 23:2,10,16
+24:3,18 25:12 26:6
+27:10,18,25 28:8,21
+29:10,23 30:14,19
+31:6,22 32:8,18
+33:11 34:4 35:3,9
+36:3,14 37:16 38:14
+38:22 39:11 40:6,21
+41:14 42:5,21 43:6
+43:11,18 44:5 46:5
+47:7,14 48:14 49:11
+50:6,12 51:8,14,25
+52:15,24 53:11
+56:16 57:4,16 58:23
+59:6,13 60:8,25
+62:6 63:16 64:1,12
+64:23 65:4,13 66:7
+67:11,19 68:8 69:3
+69:20 70:9 71:1,9
+72:15 73:5,17 74:25
+75:14 77:8,21 78:4
+78:16 79:10,23 80:9
+81:15 82:4,25 84:11
+85:3,18 86:1,14
+87:8 89:13,17 90:11
+90:21 91:9,19 92:2
+93:5 95:23 96:9
+97:3,10 98:3,25
+99:12 100:3,20
+101:25 102:9,25
+103:18 104:5,16
+105:4,13 106:6,15
+106:22 107:3,10
+108:22 109:5 110:1
+110:4,24 111:18
+113:8,9 116:1,22
+117:22 118:4 119:3
+119:18 121:17
+124:18 126:6,12
+128:20 129:11,18
+132:14
+wonder 4:3
+word 32:11,12
+41:17 55:15 78:9,10
+130:3
+wording 99:13,16
+99:17,18,20
+words 36:19 40:13
+99:3 101:9 103:1
+116:8
+work 10:7 15:18,23
+16:17,17,21 22:7,8
+26:10,17 27:7,16
+28:1 29:8 33:15
+49:16 52:25 53:2
+103:14 124:25
+worked 20:4,16
+working 15:17 20:1
+22:2 28:17
+works 38:3 68:14
+worth 33:3
+wrap 114:6,9
+write 134:2
+written 9:2,5
+wrong 87:20
+wrote 37:1,17,19
+39:13 72:25
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800[x - à]
+Page 153
+x
+x 3:1,10
+y
+yeah 4:10 9:25 14:8
+27:14 43:8 44:15,15
+84:4 86:8 89:13
+93:11 114:8 123:12
+128:2
+year 5:21 7:7 19:4,5
+19:11 21:9 24:20
+25:8,8,9,15,16 26:4
+26:22 56:3 83:8,9
+yearbook 47:3,4,18
+47:22,23 48:8,11
+49:6,12 55:17,20,22
+56:1
+years 5:22 22:11
+39:14 40:15,17 41:3
+41:6,9 42:17 48:6
+60:10 63:20,23
+66:15 67:4 69:24
+75:7 77:17 82:10,17
+82:21 104:8 106:18
+106:20,24,25 107:8
+108:17 115:24
+116:2 117:18 119:1
+121:14 122:2
+yesterday 33:2
+57:11,13,18
+york 43:21 48:6
+à
+à 76:21
+Veritext Florida Reporting Co.
+800-726-7007
+305-376-8800
