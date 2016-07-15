@@ -18,6 +18,7 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
                              search_term=search_term, format='text_passages', historian_name_last=historian_name_last)
 
 #    dates={year:0 for }
+    # test
     count = 0
     for doc in docs:
         count += 1
