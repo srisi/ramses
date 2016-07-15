@@ -17,7 +17,7 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
     docs = document_iterator(year_start=year_start, year_end=year_end, side_question=side_question, type=type,
                              search_term=search_term, format='text_passages', historian_name_last=historian_name_last)
 
-
+#    dates={year:0 for }
     count = 0
     for doc in docs:
         count += 1
@@ -52,5 +52,5 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
 
 if __name__ == "__main__":
 #    get_text_passages(search_term='various', scope=0, side_answer='Plaintiff', type='A')
-    get_text_passages(search_term='awareness', scope=0, side_question='Plaintiff', type='Q',
-                      year_start=2000, year_end=2000)
+    get_text_passages(search_term='Proctor', scope=0, side_answer='Defendant',
+                      year_start=2000, year_end=2017)

@@ -3,7 +3,7 @@ from ngrams import ngrams, visualize_ngrams
 from linear_regression import lasso
 
 
-def passages(search_term, historian_last_name=None, side_question=None, side_answer=None, year_start=1990,
+def passages(search_term, historian_last_name=None, side_question=None, side_answer=None, year_start=1987,
              year_end=2017, scope=0, type=type):
     '''
     Passages lets you find text passages with a lot of different configuration options.
@@ -47,6 +47,13 @@ def passages(search_term, historian_last_name=None, side_question=None, side_ans
                       side_answer=side_answer, year_start=year_start, year_end=year_end, scope=scope)
 
 
+# modify: export as csv
+
+# count by Witness
+
+# totals by year
+
+
 
 if __name__ == "__main__":
-    passages('addiction', historian_last_name="Kyriakoudes")
+    passages('Proctor', historian_last_name="Kyriakoudes")
