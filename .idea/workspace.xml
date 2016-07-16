@@ -15,10 +15,12 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ramses$qa_scraper.coverage" NAME="qa_scraper Coverage Results" MODIFIED="1464765314024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/ramses$text_passages.coverage" NAME="text_passages Coverage Results" MODIFIED="1468473302681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ramses$text_passages.coverage" NAME="text_passages Coverage Results" MODIFIED="1468649215748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/ramses$lasso.coverage" NAME="lasso Coverage Results" MODIFIED="1468480072504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/ramses$ngrams.coverage" NAME="ngrams Coverage Results" MODIFIED="1468472292506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/ramses$utilities.coverage" NAME="utilities Coverage Results" MODIFIED="1468347804420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ramses$correlation.coverage" NAME="correlation Coverage Results" MODIFIED="1468609639660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ramses$tutorial.coverage" NAME="tutorial Coverage Results" MODIFIED="1468650026844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/ramses$query.coverage" NAME="query Coverage Results" MODIFIED="1468280615613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/ramses$extract_qa.coverage" NAME="extract_qa Coverage Results" MODIFIED="1468472934897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
   </component>
@@ -33,7 +35,7 @@
     <favorites_list name="ramses" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5704023">
+    <splitter split-orientation="horizontal" split-proportion="0.45441458">
       <split-first>
         <leaf>
           <file leaf-file-name="infer_spaces.py" pinned="false" current-in-tab="false">
@@ -49,33 +51,21 @@
           <file leaf-file-name="qa_scraper.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/code/test/qa_scraper.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1695">
+                <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1695">
                   <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="text_passages.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="text_passages.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/code/text_passages.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-                  <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+                <state vertical-scroll-proportion="0.3329609" vertical-offset="452" max-vertical-offset="2640">
+                  <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#67#0" expanded="true" />
-                    <marker date="1468473302672" expanded="true" signature="983:1100" placeholder="SELECT qas.t..qas..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="lasso.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/code/lasso.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.89905363" vertical-offset="135" max-vertical-offset="1140">
-                  <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
-                  <folding>
-                    <element signature="e#2#41#0" expanded="true" />
+                    <marker date="1468650026837" expanded="true" signature="1386:1503" placeholder="SELECT qas.t..qas..." />
                   </folding>
                 </state>
               </provider>
@@ -84,12 +74,12 @@
           <file leaf-file-name="extract_qa.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/code/extract_qa.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="4492" max-vertical-offset="5640">
-                  <caret line="312" column="0" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="4507" max-vertical-offset="5640">
+                  <caret line="313" column="0" selection-start-line="313" selection-start-column="0" selection-end-line="313" selection-end-column="0" />
                   <folding>
                     <element signature="e#25#34#0" expanded="true" />
-                    <marker date="1468472934888" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
-                    <marker date="1468472934888" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
+                    <marker date="1468601311956" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
+                    <marker date="1468601311956" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
                   </folding>
                 </state>
               </provider>
@@ -108,11 +98,11 @@
           <file leaf-file-name="ngrams.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/code/ngrams.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
-                  <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="2085">
+                  <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#59#0" expanded="true" />
-                    <marker date="1468473828560" expanded="true" signature="349:420" placeholder="SELECT qas.t..qas..." />
+                    <marker date="1468601311956" expanded="true" signature="349:420" placeholder="SELECT qas.t..qas..." />
                   </folding>
                 </state>
               </provider>
@@ -138,6 +128,28 @@
               </provider>
               <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
                 <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="correlation.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/code/correlation.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1425">
+                  <caret line="81" column="19" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#1#51#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="function_base.py" pinned="false" current-in-tab="false">
+            <entry file="file:///usr/lib/python2.7/dist-packages/numpy/lib/function_base.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="25198" max-vertical-offset="53415">
+                  <caret line="1733" column="29" selection-start-line="1733" selection-start-column="29" selection-end-line="1733" selection-end-column="29" />
+                  <folding />
+                </state>
               </provider>
             </entry>
           </file>
@@ -172,14 +184,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="utilities.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="utilities.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/code/utilities.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.75159913" vertical-offset="855" max-vertical-offset="2085">
+                <state vertical-scroll-proportion="0.0" vertical-offset="754" max-vertical-offset="2085">
                   <caret line="104" column="57" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="57" />
                   <folding>
                     <element signature="e#1#15#0" expanded="true" />
-                    <marker date="1468473828564" expanded="true" signature="2749:3099" placeholder="SELECT qas.t..qas..." />
+                    <marker date="1468601311956" expanded="true" signature="2749:3099" placeholder="SELECT qas.t..qas..." />
                   </folding>
                 </state>
               </provider>
@@ -188,7 +200,7 @@
           <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docs/notes.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+                <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
                   <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                   <folding />
                 </state>
@@ -198,11 +210,35 @@
           <file leaf-file-name="ngrams.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/code/ngrams.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
-                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="24" selection-end-column="46" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
+                  <caret line="16" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="24" selection-end-column="46" />
                   <folding>
                     <element signature="e#0#59#0" expanded="true" />
-                    <marker date="1468473828560" expanded="true" signature="349:420" placeholder="SELECT qas.t..qas..." />
+                    <marker date="1468601311956" expanded="true" signature="349:420" placeholder="SELECT qas.t..qas..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="linear_regression.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/code/linear_regression.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1350">
+                  <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#2#41#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tutorial.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/code/tutorial.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.74860334" vertical-offset="215" max-vertical-offset="1125">
+                  <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#57#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -211,7 +247,7 @@
           <file leaf-file-name="le_hhlk0191.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docs/txt/le_hhlk0191.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="29104" max-vertical-offset="122805">
+                <state vertical-scroll-proportion="0.0" vertical-offset="29670" max-vertical-offset="122805">
                   <caret line="1978" column="28" selection-start-line="1978" selection-start-column="28" selection-end-line="1978" selection-end-column="28" />
                   <folding />
                 </state>
@@ -221,7 +257,7 @@
           <file leaf-file-name="sp_21072011.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docs/txt/sp_21072011.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.612904" vertical-offset="106149" max-vertical-offset="187485">
+                <state vertical-scroll-proportion="0.0" vertical-offset="106695" max-vertical-offset="187485">
                   <caret line="7113" column="22" selection-start-line="7113" selection-start-column="0" selection-end-line="7113" selection-end-column="22" />
                   <folding />
                 </state>
@@ -247,10 +283,12 @@
         <option value="$PROJECT_DIR$/code/configuration.py" />
         <option value="$PROJECT_DIR$/docs/notes.txt" />
         <option value="$PROJECT_DIR$/code/extract_qa.py" />
-        <option value="$PROJECT_DIR$/code/text_passages.py" />
         <option value="$PROJECT_DIR$/code/ngrams.py" />
-        <option value="$PROJECT_DIR$/code/utilities.py" />
         <option value="$PROJECT_DIR$/code/lasso.py" />
+        <option value="$PROJECT_DIR$/code/utilities.py" />
+        <option value="$PROJECT_DIR$/code/correlation.py" />
+        <option value="$PROJECT_DIR$/code/tutorial.py" />
+        <option value="$PROJECT_DIR$/code/text_passages.py" />
       </list>
     </option>
   </component>
@@ -258,10 +296,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1051" />
-    <option name="y" value="437" />
+    <option name="x" value="196" />
+    <option name="y" value="548" />
     <option name="width" value="2696" />
-    <option name="height" value="1460" />
+    <option name="height" value="1565" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -345,6 +383,16 @@
               <option name="myItemId" value="ramses" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -357,7 +405,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../medline_wrapper" />
+    <property name="last_opened_file_path" value="$USER_HOME$/finance" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
@@ -371,7 +419,7 @@
       <recent name="$PROJECT_DIR$/code/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lasso">
+  <component name="RunManager" selected="Python.tutorial">
     <configuration default="false" name="extract_qa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,26 +434,6 @@
       <module name="ramses" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/extract_qa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ngrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ramses" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ngrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -432,26 +460,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="utilities" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ramses" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/utilities.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="lasso" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -466,6 +474,46 @@
       <module name="ramses" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/lasso.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="correlation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ramses" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/correlation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ramses" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/tutorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -661,18 +709,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.extract_qa" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ngrams" />
-      <item index="2" class="java.lang.String" itemvalue="Python.text_passages" />
-      <item index="3" class="java.lang.String" itemvalue="Python.utilities" />
-      <item index="4" class="java.lang.String" itemvalue="Python.lasso" />
+      <item index="1" class="java.lang.String" itemvalue="Python.text_passages" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lasso" />
+      <item index="3" class="java.lang.String" itemvalue="Python.correlation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tutorial" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.lasso" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tutorial" />
         <item index="1" class="java.lang.String" itemvalue="Python.text_passages" />
-        <item index="2" class="java.lang.String" itemvalue="Python.extract_qa" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ngrams" />
-        <item index="4" class="java.lang.String" itemvalue="Python.utilities" />
+        <item index="2" class="java.lang.String" itemvalue="Python.correlation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lasso" />
+        <item index="4" class="java.lang.String" itemvalue="Python.extract_qa" />
       </list>
     </recent_temporary>
   </component>
@@ -690,18 +738,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1051" y="437" width="2696" height="1460" extended-state="0" />
-    <editor active="true" />
+    <frame x="196" y="548" width="2696" height="1565" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2670157" sideWeight="0.50037736" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35020804" sideWeight="0.50037736" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2670157" sideWeight="0.49962264" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35020804" sideWeight="0.49962264" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21207547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2135849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496749" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -758,34 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code/extract_qa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="2655">
-          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-            <marker date="1468472934888" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
-            <marker date="1468472934888" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/wl_parsing">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
-          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/test/qa_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1695">
@@ -821,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,8 +864,8 @@
           <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
           <folding>
             <element signature="e#25#34#0" expanded="true" />
-            <marker date="1468472934888" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
-            <marker date="1468472934888" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
+            <marker date="1468601311956" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
+            <marker date="1468601311956" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
           </folding>
         </state>
       </provider>
@@ -902,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,8 +944,8 @@
           <caret line="149" column="72" selection-start-line="149" selection-start-column="72" selection-end-line="149" selection-end-column="72" />
           <folding>
             <element signature="e#25#34#0" expanded="true" />
-            <marker date="1468472934888" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
-            <marker date="1468472934888" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
+            <marker date="1468601311956" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
+            <marker date="1468601311956" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
           </folding>
         </state>
       </provider>
@@ -960,7 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-35.762955" vertical-offset="32437" max-vertical-offset="73065">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
@@ -1108,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45415777" vertical-offset="39" max-vertical-offset="24015">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="51" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1124,7 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38037485" vertical-offset="1485" max-vertical-offset="71925">
           <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
@@ -1141,33 +1154,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/txt/sp_21072011.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.612904" vertical-offset="106149" max-vertical-offset="187485">
+        <state vertical-scroll-proportion="0.0" vertical-offset="106695" max-vertical-offset="187485">
           <caret line="7113" column="22" selection-start-line="7113" selection-start-column="0" selection-end-line="7113" selection-end-column="22" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/test/qa_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1695">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/extract_qa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4492" max-vertical-offset="5640">
-          <caret line="312" column="0" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-            <marker date="1468472934888" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
-            <marker date="1468472934888" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/test/query.py">
@@ -1185,45 +1178,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/text_passages.py">
+    <entry file="file://$PROJECT_DIR$/code/utilities.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="754" max-vertical-offset="2085">
+          <caret line="104" column="57" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="57" />
           <folding>
-            <element signature="e#0#67#0" expanded="true" />
-            <marker date="1468473302672" expanded="true" signature="983:1100" placeholder="SELECT qas.t..qas..." />
+            <element signature="e#1#15#0" expanded="true" />
+            <marker date="1468601311956" expanded="true" signature="2749:3099" placeholder="SELECT qas.t..qas..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/test/qa_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1695">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/ngrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="2085">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
-            <marker date="1468473828560" expanded="true" signature="349:420" placeholder="SELECT qas.t..qas..." />
+            <marker date="1468601311956" expanded="true" signature="349:420" placeholder="SELECT qas.t..qas..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/utilities.py">
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/lib/function_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75159913" vertical-offset="855" max-vertical-offset="2085">
-          <caret line="104" column="57" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="25198" max-vertical-offset="53415">
+          <caret line="1733" column="29" selection-start-line="1733" selection-start-column="29" selection-end-line="1733" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/extract_qa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4507" max-vertical-offset="5640">
+          <caret line="313" column="0" selection-start-line="313" selection-start-column="0" selection-end-line="313" selection-end-column="0" />
           <folding>
-            <element signature="e#1#15#0" expanded="true" />
-            <marker date="1468473828564" expanded="true" signature="2749:3099" placeholder="SELECT qas.t..qas..." />
+            <element signature="e#25#34#0" expanded="true" />
+            <marker date="1468601311956" expanded="true" signature="9066:9453" placeholder="CREATE TABLE..IF..." />
+            <marker date="1468601311956" expanded="true" signature="9785:9954" placeholder="INSERT OR IG..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/lasso.py">
+    <entry file="file://$PROJECT_DIR$/code/correlation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89905363" vertical-offset="135" max-vertical-offset="1140">
-          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1425">
+          <caret line="81" column="19" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+          <folding>
+            <element signature="e#1#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1350">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
             <element signature="e#2#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74860334" vertical-offset="215" max-vertical-offset="1125">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/text_passages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329609" vertical-offset="452" max-vertical-offset="2640">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1468650026837" expanded="true" signature="1386:1503" placeholder="SELECT qas.t..qas..." />
           </folding>
         </state>
       </provider>

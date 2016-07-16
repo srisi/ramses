@@ -1,6 +1,12 @@
 from utilities import document_iterator, get_sides, print_highlight
 from configuration import DB_PATH
 
+from collections import Counter, OrderedDict
+
+import csv
+import codecs
+import cStringIO
+
 import sqlite3
 import re
 
@@ -17,17 +23,21 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
     docs = document_iterator(year_start=year_start, year_end=year_end, side_question=side_question, type=type,
                              search_term=search_term, format='text_passages', historian_name_last=historian_name_last)
 
-#    dates={year:0 for }
-    # test
+    doc_list = []
+    years = {i:0 for i in range(year_start,year_end+1)}
+    witnesses = Counter()
     count = 0
     for doc in docs:
         count += 1
         date, text, doc_id, qas_id, last_name, first_name, historian_side = doc
 
+        witnesses[u'{},{}'.format(last_name, first_name)] += 1
+        years[int(date[:4])] += 1
 
         heading = u"Witness: {}, {} ({}). Date: {}. Document ID: {}".format(last_name, first_name, historian_side,
                                                                             date, doc_id)
         print_highlight(heading, heading, 'bold')
+
 
         cur.execute('''SELECT qas.text, qas.type FROM qas
                        WHERE qas.document = "{}" AND qas.id >= {} AND qas.id <= {};'''.format(doc_id, qas_id-scope,
@@ -35,11 +45,107 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
         rows = cur.fetchall()
         qas = u''
         for row in rows:
-             qas += u"Type: {}.\t{}".format(row[1], row[0])
+            qas += u"Type: {}.\t{}".format(row[1], row[0])
+
+            doc_list.append({
+                'witness': u'{}, {}'.format(last_name, first_name),
+                'doc_id': doc_id,
+                'date': date,
+                'year': int(date[:4]),
+                'type': row[1],
+                'text': row[0]
+            })
+
 
         print_highlight(qas, search_term)
 
+
+
+
     print "{} Documents".format(count)
+
+    return doc_list, years, witnesses
+
+def store_as_csv(doc_list, years, witnesses, search_term, type, side_answer):
+
+    if not type:
+        type = "None"
+
+    if not side_answer:
+        side_answer = 'None'
+
+    year_dates =  [i[0] for i in sorted(years.items())]
+    year_values = [i[1] for i in sorted(years.items())]
+
+    witness_names = [i[0] for i in sorted(witnesses.items())]
+    witness_values = [i[1] for i in sorted(witnesses.items())]
+
+    csvfile = open('../csv/{}_{}.csv'.format(search_term, type), 'w')
+
+    csv_writer = UnicodeWriter(csvfile, delimiter=',', quoting=csv.QUOTE_ALL)
+
+    csv_writer.writerow(["Term", "Q or A", "Side Witness"])
+    print [search_term, type, side_answer]
+    csv_writer.writerow([search_term, type, side_answer])
+
+    csv_writer.writerow([''])
+    csv_writer.writerow(['Years'])
+
+    for i in range(len(year_dates)):
+        csv_writer.writerow([str(year_dates[i]), str(year_values[i])])
+
+    csv_writer.writerow([''])
+
+    csv_writer.writerow(["Witnesses"])
+    for i in range(len(witness_names)):
+        csv_writer.writerow([witness_names[i], str(witness_values[i])])
+
+    csv_writer.writerow([''])
+
+    csv_writer.writerow(["Documents"])
+    csv_writer.writerow(['Year', 'Date', 'Witness', 'Doc ID', 'Type', 'Text'])
+
+    print doc_list
+    for i in doc_list:
+        csv_writer.writerow([str(i['year']), i['date'], i['witness'], i['doc_id'], i['type'], i['text']])
+
+    csvfile.close()
+
+
+class UnicodeWriter:
+    """
+    A CSV writer which will write rows to CSV file "f",
+    which is encoded in the given encoding.
+    """
+
+    def __init__(self, f, dialect=csv.excel, encoding="utf-8", **kwds):
+        # Redirect output to a queue
+        self.queue = cStringIO.StringIO()
+        self.writer = csv.writer(self.queue, dialect=dialect, **kwds)
+        self.stream = f
+        self.encoder = codecs.getincrementalencoder(encoding)()
+
+    def writerow(self, row):
+        self.writer.writerow([s.encode("utf-8") for s in row])
+        # Fetch UTF-8 output from the queue ...
+        data = self.queue.getvalue()
+        data = data.decode("utf-8")
+        # ... and reencode it into the target encoding
+        data = self.encoder.encode(data)
+        # write to the target stream
+        self.stream.write(data)
+        # empty queue
+        self.queue.truncate(0)
+
+    def writerows(self, rows):
+        for row in rows:
+            self.writerow(row)
+
+
+
+
+
+
 
 
 
@@ -53,5 +159,12 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
 
 if __name__ == "__main__":
 #    get_text_passages(search_term='various', scope=0, side_answer='Plaintiff', type='A')
-    get_text_passages(search_term='Proctor', scope=0, side_answer='Defendant',
-                      year_start=2000, year_end=2017)
+
+    search_term = 'selikoff'
+    type='A'
+
+    doc_list, years, witnesses = get_text_passages(search_term=search_term, scope=0, side_answer='Plaintiff', type=type,
+                      year_start=1987, year_end=2017)
+
+    store_as_csv(doc_list, years, witnesses, search_term, type, side_answer='Plaintiff')
+

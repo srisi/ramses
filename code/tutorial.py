@@ -1,12 +1,17 @@
-from text_passages import get_text_passages
+from text_passages import get_text_passages, store_as_csv
+
+from utilities import get_sides
+
 from ngrams import ngrams, visualize_ngrams
 from linear_regression import lasso
 
 
 def passages(search_term, historian_last_name=None, side_question=None, side_answer=None, year_start=1987,
-             year_end=2017, scope=0, type=type):
+             year_end=2017, scope=0, type=None):
     '''
     Passages lets you find text passages with a lot of different configuration options.
+    All passages get stored as csv files, found in the csv folder
+
     The parameters you can pass are:
 
     search_term             (required) search term or expression to look for
@@ -43,8 +48,14 @@ def passages(search_term, historian_last_name=None, side_question=None, side_ans
     :return:
     '''
 
-    get_text_passages(search_term, historian_name_last=historian_last_name, side_question=side_question,
-                      side_answer=side_answer, year_start=year_start, year_end=year_end, scope=scope)
+    if side_question or side_answer:
+        side_question, side_answer = get_sides(side_question, side_answer)
+
+    doc_list, years, witnesses = get_text_passages(search_term, historian_name_last=historian_last_name,
+                                                    side_question=side_question, side_answer=side_answer,
+                                                    year_start=year_start, year_end=year_end, scope=scope)
+
+    store_as_csv(doc_list, years, witnesses, search_term, type, side_answer)
 
 
 # modify: export as csv
@@ -56,4 +67,4 @@ def passages(search_term, historian_last_name=None, side_question=None, side_ans
 
 
 if __name__ == "__main__":
-    passages('Proctor', historian_last_name="Kyriakoudes")
+    passages('cancer', side_question='Defendant')
