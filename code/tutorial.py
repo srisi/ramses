@@ -67,4 +67,4 @@ def passages(search_term, historian_last_name=None, side_question=None, side_ans
 
 
 if __name__ == "__main__":
-    passages('cancer', side_question='Defendant')
+    passages('testing', side_question='Defendant')
