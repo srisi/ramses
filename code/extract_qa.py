@@ -97,8 +97,8 @@ def preprocess(path, file):
 
 def extract_questions_answers(text):
 
-
     # Split up questions and answers
+    # Because of the positive lookahead, the last question or answer might be ignored
     qas_raw = [m for m in re.finditer(r'^ ?(Q|A)(\.|:)?( |\t)(.+?)(?=^Q|^A|^MS.|^MR.|^BY )',
                          text, re.MULTILINE | re.DOTALL)]
 
@@ -114,14 +114,14 @@ def extract_questions_answers(text):
     # If 2 questions or 2 answers follow one another, merge the text in-between
     merged_qas = []
     i = 0
-    while i < len(qas) - 2:
+    while i < len(qas) - 1:
         # if answer follows question or vice versa (normal case)
         if qas[i]['type'] != qas[i+1]['type']:
             merged_qas.append(qas[i])
             i += 1
 
         # if 2 answers or questions follow one another
-        if qas[i]['type'] == qas[i+1]['type']:
+        else:
 
             qa_text_start = qas[i]['position'][0]
             qa_text_end = qas[i]['position'][1]
@@ -146,6 +146,10 @@ def extract_questions_answers(text):
 
 
             i += skipped + 1
+
+    # add the final question or answer if not already added
+    if i < len(qas):
+        merged_qas.append(qas[i])
 
     # counts for number of questions and answers as well as longest qa.
     qu = 0
