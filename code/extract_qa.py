@@ -34,7 +34,11 @@ def preprocess(path, file):
             first_line_pos = text.find(u'\n', copyright_pos)
             second_line_pos = text.find(u'\n', first_line_pos+1)
 
-            text = text[:copyright_pos - 1] + text[second_line_pos:]
+            # copyright at the end of a file
+            if first_line_pos == -1 or second_line_pos == -1:
+                text = text[:copyright_pos - 1]
+            else:
+                text = text[:copyright_pos - 1] + text[second_line_pos:]
 
         # not sure anymore what this was about...
         text = text.replace(u"ject to form. ", u"ject to form.\n")
