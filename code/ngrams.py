@@ -12,7 +12,8 @@ from utilities import flexible_htm, mth, get_sides, document_iterator
 
 
 
-def ngrams(year_start=1990, year_end=2016, type = 'Q', side_question=None, side_answer=None, term=None):
+def ngrams(year_start=1990, year_end=2016, type = 'Q', side_question=None, side_answer=None, term=None,
+           historian_name_last=None, document_type=None):
 
 
     side_question, side_answer = get_sides(side_question, side_answer)
@@ -27,7 +28,7 @@ def ngrams(year_start=1990, year_end=2016, type = 'Q', side_question=None, side_
 
     word_counts = np.zeros(shape= (year_end - year_start + 1, len(vocabulary)), dtype=np.int)
 
-    docs = document_iterator(type=type, side_question=side_question)
+    docs = document_iterator(type=type, side_question=side_question, historian_name_last=historian_name_last, document_type=document_type)
     tokenizer = vectorizer.build_tokenizer()
     for doc in docs:
         year = int(doc[0][:4])
@@ -62,7 +63,8 @@ def ngrams(year_start=1990, year_end=2016, type = 'Q', side_question=None, side_
         'viz_format': viz_format,
         'side_question': side_question,
         'side_answer': side_answer,
-        'type': type
+        'type': type,
+        'historian_name_last': historian_name_last
     }
 
 def visualize_ngrams(ngram_results, year_start, year_end, term, viz_type='relative'):
@@ -85,6 +87,10 @@ def visualize_ngrams(ngram_results, year_start, year_end, term, viz_type='relati
     #     label = '{} for {} in Questions Posed by {} Lawyers.'.format(label_dict[viz_type], term, side_question)
 
     label = "Ngrams for {}".format(term)
+    if historian_name_last:
+        label += " ({})".format(historian_name_last)
+    if document_type:
+        label += " ({})".format(document_type)
 
     years = range(year_start, year_end +1)
 
@@ -120,11 +126,13 @@ if __name__ == "__main__":
     year_start = 1990
     year_end = 2016
     term = 'awareness'
+    historian_name_last = 'Cobbs-Hoffman'
+    document_type = 'TEC'
 
-    ad = ngrams(side_answer='Defendant', type = 'A', term=term, year_start = year_start, year_end=year_end)
-    ap = ngrams(side_answer='Plaintiff', type = 'A', term=term, year_start = year_start, year_end=year_end)
-    qd = ngrams(side_question='Defendant', type = 'Q', term=term, year_start = year_start, year_end=year_end)
-    qp = ngrams(side_question='Plaintiff', type = 'Q', term=term, year_start = year_start, year_end=year_end)
+    ad = ngrams(side_answer='Defendant', type = 'A', term=term, year_start = year_start, year_end=year_end, historian_name_last=historian_name_last, document_type=document_type)
+    ap = ngrams(side_answer='Plaintiff', type = 'A', term=term, year_start = year_start, year_end=year_end, historian_name_last=historian_name_last, document_type=document_type)
+    qd = ngrams(side_question='Defendant', type = 'Q', term=term, year_start = year_start, year_end=year_end, historian_name_last=historian_name_last, document_type=document_type)
+    qp = ngrams(side_question='Plaintiff', type = 'Q', term=term, year_start = year_start, year_end=year_end, historian_name_last=historian_name_last, document_type=document_type)
 
     visualize_ngrams([ad, ap, qd, qp], year_start, year_end, term, viz_type='absolute')
 

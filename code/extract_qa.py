@@ -10,136 +10,20 @@ import time
 from configuration import TXT_PATH, DB_PATH
 
 
-EXCLUDED = {'le_qzxb0089.txt',
-               'le_lylk0191.txt',   # incorrect spaces
-               'le_jtnl0001.txt',   # bad OCR
-               'le_shlj0015.txt',   # bad OCR
-        }
+EXCLUDED = {
+    'le_qzxb0089.txt',   # ends with the line (Deposition concluded.)
+    'le_lylk0191.txt',   # incorrect spaces
+    'le_jtnl0001.txt',   # bad OCR
+    'le_shlj0015.txt',   # bad OCR
+    'le_qrdm0008.txt',   # no questions and answers
+    'le_qtgl0001B.txt',  # no questions and answers
+    'le_rsvx0225C.txt',  # no questions and answers
+    'le_nsvx0225.txt',   # two columns
+    'le_psvx0225.txt',   # two columns
+    'le_xhnk0191C.txt',  # no questions and answers
+    'le_xzkw0221A.txt',  # only numbers
+}
 
-WORKING = {
-    'le_ejs07a00.txt',
-    'le_fmlk0191.txt',
-    'le_fpkl0190.txt',
-    'le_frxd0001.txt',
-    'le_gllk0191.txt',
-    'le_gmlk0191.txt',
-    'le_grxd0001.txt',
-    'le_hgdy0019.txt',
-    'le_hhlk0191.txt',
-    'le_hknc0093.txt',
-    'le_hllk0191.txt',
-    'le_hmlk0191.txt',
-    'le_hplj0015.txt',
-    'le_hsvj0223.txt',
-    'le_hylk0191.txt',
-    'le_hzfj0223.txt',
-    'le_jhtl0001.txt',
-    'le_jllk0191.txt',
-    'le_jmgf0028.txt',
-    'le_jqlc0093.txt',
-    'le_kfll0190.txt',
-    'le_kllk0191.txt',
-    'le_kqkl0190.txt',
-    'le_kqlc0093.txt',
-    'le_kylk0191.txt',
-    'le_ljml0190.txt',
-    'le_lkml0191.txt',
-    'le_lkml0190.txt',
-    'le_lpkl0190.txt',
-    'le_lqlc0093.txt',
-    'le_mhlk0191.txt',
-    'le_mllk0191.txt',
-    'le_mmlk0191.txt',
-    'le_mqlc0093.txt',
-    'le_mtvj0223.txt',
-    'le_mykk0191.txt',
-    'le_nflk0191.txt',
-    'le_npvj0223.txt',
-    'le_nylk0191.txt',
-    'le_pflk0191.txt',
-    'le_phlk0191.txt',
-    'le_pllk0191.txt',
-    'le_pmlk0191.txt',
-    'le_pzxb0089.txt',
-    'le_pylk0191.txt',
-    'le_qflw0221.txt',
-    'le_qllk0191.txt',
-    'le_qtkk0191.txt',
-    'le_rhlj0015.txt',
-    'le_rlkp0018.txt',
-    'le_rpfd0086.txt',
-    'le_smlk0191.txt',
-    'le_sznl0083.txt',
-    'le_tllk0191.txt',
-    'le_tndy0019.txt',
-    'le_xllk0191.txt',
-    'le_xmlk0191.txt',
-    'le_xplw0221.txt',
-    'le_xqgf0028.txt',
-    'le_xxhl0190.txt',
-    'le_yflk0191.txt',
-    'le_ykml0190.txt',
-    'le_zfxd0001.txt',
-    'le_zllk0191.txt',
-    'le_zmlk0191.txt',
-    'le_zndy0019.txt',
-
-    'wl_1371239.txt',
-    'wl_3000717.txt',
-    'wl_3450318.txt',
-    'wl_4062242.txt',
-    'wl_4062274.txt',
-    'wl_5061522.txt',
-    'wl_5133569.txt',
-    'wl_5438004.txt',
-    'wl_5487028.txt',
-    'wl_5580439.txt',
-    'wl_5882553.txt',
-    'wl_6320166.txt',
-    'wl_6511228.txt',
-    'wl_6512412.txt',
-    'wl_6537151.txt',
-    'wl_6537162.txt',
-    'wl_6666232.txt',
-    'wl_6768206.txt',
-    'wl_7237080.txt',
-    'wl_7757499.txt',
-    'wl_8042643.txt',
-    'wl_11685904.txt',
-    'wl_11685905.txt',
-    'wl_25967718.txt',
-    'wl_34425546.txt',
-    'wl_34428170.txt',
-    'wl_34428171.txt',
-    'wl_34667222.txt',
-    'wl_34662921.txt',
-    'wl_34663497.txt',
-    'wl_34665268.txt',
-    'wl_34672161.txt',
-    'wl_34673167.txt',
-    'wl_34872139.txt',
-    'wl_34935827.txt',
-    'wl_35271772.txt',
-    'wl_35271782.txt',
-    'wl_35273084.txt',
-    'wl_35642155.txt',
-    'wl_35639702.txt',
-    'wl_35639703.txt',
-    'wl_35717504.txt',
-
-    'sp_01092010.txt',
-    'sp_02102008.txt',
-    'sp_02062010.txt',
-    'sp_02082011.txt',
-    'sp_06102010.txt',
-    'sp_18122012.txt',
-    'sp_19082009.txt',
-    'sp_27022013.txt',
-
-
-            }
-
-#qzxb0089 ends with the line (Deposition concluded.)
 
 def preprocess(path, file):
 
@@ -157,7 +41,11 @@ def preprocess(path, file):
             first_line_pos = text.find(u'\n', copyright_pos)
             second_line_pos = text.find(u'\n', first_line_pos+1)
 
-            text = text[:copyright_pos - 1] + text[second_line_pos:]
+            # copyright at the end of a file
+            if first_line_pos == -1 or second_line_pos == -1:
+                text = text[:copyright_pos - 1]
+            else:
+                text = text[:copyright_pos - 1] + text[second_line_pos:]
 
         # not sure anymore what this was about...
         text = text.replace(u"ject to form. ", u"ject to form.\n")
@@ -220,10 +108,8 @@ def preprocess(path, file):
 
 def extract_questions_answers(text):
 
-
     # Split up questions and answers
-    qas_raw = [m for m in re.finditer(r'^ ?(Q|A)(\.|:)? (.+?)(?=^Q|^A|^MS.|^MR.|^BY )',
-                         text, re.MULTILINE | re.DOTALL)]
+    # Because of the positive lookahead, the last question or answer might be ignored
     qas_raw = [m for m in re.finditer(r'^ ?(Q|A)(\.|:)?( |\t)(.+?)(?=^Q|^A|^MS.|^MR.|^BY )',
                          text, re.MULTILINE | re.DOTALL)]
 
@@ -239,14 +125,14 @@ def extract_questions_answers(text):
     # If 2 questions or 2 answers follow one another, merge the text in-between
     merged_qas = []
     i = 0
-    while i < len(qas) - 2:
+    while i < len(qas) - 1:
         # if answer follows question or vice versa (normal case)
         if qas[i]['type'] != qas[i+1]['type']:
             merged_qas.append(qas[i])
             i += 1
 
         # if 2 answers or questions follow one another
-        if qas[i]['type'] == qas[i+1]['type']:
+        else:
 
             qa_text_start = qas[i]['position'][0]
             qa_text_end = qas[i]['position'][1]
@@ -272,6 +158,10 @@ def extract_questions_answers(text):
 
             i += skipped + 1
 
+    # add the final question or answer if not already added
+    if i < len(qas):
+        merged_qas.append(qas[i])
+
     # counts for number of questions and answers as well as longest qa.
     qu = 0
     an = 0
@@ -287,8 +177,6 @@ def extract_questions_answers(text):
 
     print qu, an
     print merged_qas[longest_qa_i]['text']
-
-   # print repr(merged_qas[longest_qa_i]['text'])
 
 
     return merged_qas
@@ -342,29 +230,22 @@ def add_all_documents_to_db():
 
     for file in os.listdir(path):
 
+        # skip excluded files
         if file in EXCLUDED: continue
-        #if file in WORKING: continue
-        if not file.endswith('.txt'): continue
 
-        if file.startswith('sp'): continue
+        # skip files not ending in .txt
+        if not file.endswith('.txt'): continue
 
         print file
         text = preprocess(path, file)
 
         qas = extract_questions_answers(text)
-       # add_to_database(file, qas)
+
+        add_to_database(file, qas)
 
 
 
 
 if __name__ == "__main__":
-
-    # path = '/home/stephan/Dropbox/Risi/txt/'
-    # file = 'wl_5061522.txt'
-    #
-    # text = preprocess(path, file)
-    # qas = extract_questions_answers(text)
-    #
-    # add_to_database(file, qas)
 
     add_all_documents_to_db()

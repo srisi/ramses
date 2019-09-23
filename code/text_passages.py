@@ -13,7 +13,7 @@ import re
 RED = '\033[91m'
 
 def get_text_passages(search_term, historian_name_last=None, scope=1, side_question=None, side_answer=None, type=None,
-                      year_start=1990, year_end=2017):
+                      year_start=1990, year_end=2017, document_type=None):
 
     con = sqlite3.connect(DB_PATH)
     cur = con.cursor()
@@ -21,7 +21,8 @@ def get_text_passages(search_term, historian_name_last=None, scope=1, side_quest
     side_question, side_answer = get_sides(side_question, side_answer)
 
     docs = document_iterator(year_start=year_start, year_end=year_end, side_question=side_question, type=type,
-                             search_term=search_term, format='text_passages', historian_name_last=historian_name_last)
+                             search_term=search_term, format='text_passages', historian_name_last=historian_name_last,
+                             document_type=document_type)
 
     doc_list = []
     years = {i:0 for i in range(year_start,year_end+1)}
@@ -163,8 +164,7 @@ if __name__ == "__main__":
     search_term = 'selikoff'
     type='A'
 
-    doc_list, years, witnesses = get_text_passages(search_term=search_term, scope=0, side_answer='Plaintiff', type=type,
-                      year_start=1987, year_end=2017)
+    doc_list, years, witnesses = get_text_passages(search_term=search_term, scope=0, side_question='Defendant', type=type,
+                      year_start=1987, year_end=2017, historian_name_last='Cobbs-Hoffman', document_type='TEC')
 
     store_as_csv(doc_list, years, witnesses, search_term, type, side_answer='Plaintiff')
-

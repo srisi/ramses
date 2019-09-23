@@ -70,6 +70,7 @@ def get_sides(side_question, side_answer):
 def document_iterator(year_start=1940, year_end=2020,
                       side_question=None, side_answer=None, type=None,
                       search_term=None, historian_name_last=None, historian_name_first=None,
+                      document_type=None,
                       format=None):
     '''
 
@@ -113,6 +114,9 @@ def document_iterator(year_start=1940, year_end=2020,
         query += ' AND historian.name_last = "{}" '.format(historian_name_last)
     if historian_name_first:
         query += ' AND historian.name_first = "{}"'.format(historian_name_first)
+
+    if document_type:
+        query += ' AND legal_document.type = "{}" '.format(document_type)
 
     query += ' ORDER BY legal_document.date_doc ASC;'
 
