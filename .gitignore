@@ -1,0 +1,6 @@
+# IntelliJ files
+.idea
+# Backup files
+*~
+# Compiled files
+*.pyc
