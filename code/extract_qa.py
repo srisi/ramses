@@ -224,8 +224,9 @@ def add_all_documents_to_db():
         print file
         text = preprocess(path, file)
 
-        # add_to_database(file, qas)
         qas = extract_questions_answers(text)
+
+        add_to_database(file, qas)
 
 
 
