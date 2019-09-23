@@ -15,6 +15,13 @@ EXCLUDED = {
     'le_lylk0191.txt',   # incorrect spaces
     'le_jtnl0001.txt',   # bad OCR
     'le_shlj0015.txt',   # bad OCR
+    'le_qrdm0008.txt',   # no questions and answers
+    'le_qtgl0001B.txt',  # no questions and answers
+    'le_rsvx0225C.txt',  # no questions and answers
+    'le_nsvx0225.txt',   # two columns
+    'le_psvx0225.txt',   # two columns
+    'le_xhnk0191C.txt',  # no questions and answers
+    'le_xzkw0221A.txt',  # only numbers
 }
 
 
