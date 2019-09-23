@@ -221,9 +221,6 @@ def add_all_documents_to_db():
         # skip files not ending in .txt
         if not file.endswith('.txt'): continue
 
-        # skip files starting with .sp
-        if file.startswith('sp'): continue
-
         print file
         text = preprocess(path, file)
 
